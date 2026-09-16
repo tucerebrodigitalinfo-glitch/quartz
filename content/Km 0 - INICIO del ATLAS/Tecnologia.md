@@ -1,0 +1,3 @@
+#Tecnología 
+### [[Tecnología IA]]
+

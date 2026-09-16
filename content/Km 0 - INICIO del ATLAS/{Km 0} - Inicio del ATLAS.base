@@ -1,0 +1,5 @@
+views:
+  - type: list
+    name: Tabla
+  - type: list
+    name: Vista

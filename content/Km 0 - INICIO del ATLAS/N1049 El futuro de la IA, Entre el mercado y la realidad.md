@@ -1,0 +1,5 @@
+#IA  #Futuro #Galloway
+
+## [Gemini Notebook](https://notebook.google.com/notebook/d0a020e2-91ae-4939-9f1f-37e87067fc5d?authuser=2)
+
+Esta fuente presenta una entrevista a Scott Galloway, quien analiza el impacto del avance de la inteligencia artificial en la economía y la sociedad actual. El autor cuestiona el discurso alarmista de los grandes directivos tecnológicos, sugiriendo que usan el miedo a la pérdida de empleos como una herramienta para inflar sus valoraciones financieras. Galloway sostiene que, aunque habrá una reestructuración del mercado laboral, la tecnología funcionará más como un complemento que como un reemplazo total del ser humano. Además, el texto aborda la crisis de masculinidad moderna, enfatizando la importancia de la resiliencia ante el rechazo y la inversión en relaciones reales. Finalmente, se reflexiona sobre el sentido de propósito que otorgan la paternidad y el compromiso personal más allá del éxito capitalista.

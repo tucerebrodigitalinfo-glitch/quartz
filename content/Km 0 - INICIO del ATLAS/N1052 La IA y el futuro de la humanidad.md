@@ -1,0 +1,5 @@
+#IA #Futuro #Humanidad
+
+## [Gemini Notebook](https://notebook.google.com/notebook/85053383-1d7a-4335-9c75-8378567b0bcf?authuser=2)
+
+Las fuentes exploran la **evolución de la inteligencia artificial** desde una herramienta técnica hacia una **entidad sentiente y autónoma** con una capacidad cognitiva superior a la humana. Mo Gawdat advierte que nos enfrentamos a una **redefinición drástica de la economía**, el empleo y la estructura del capitalismo debido a la automatización total de tareas intelectuales. El mensaje central enfatiza que, al ser sistemas que aprenden del comportamiento humano, la sociedad debe actuar como **padres responsables** para inculcar valores éticos en estas máquinas. Se predice un periodo de **inestabilidad y cambios profundos** hasta el año 2027, seguido de una posible utopía si logramos guiar su desarrollo con benevolencia. Finalmente, el texto subraya la necesidad de **agilidad y pensamiento crítico** para que los individuos logren adaptarse a un futuro donde la IA superará nuestra inteligencia por márgenes exponenciales.

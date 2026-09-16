@@ -1,0 +1,3 @@
+#IA #Formación 
+[[N1066 De la Biología al Álgebra, Cómo Aprenden las Redes Neuronales]]
+https://formacion.thebridge.tech/bootcamp-de-ia-engineering/?kw=formacion%20en%20ia&cpn=23665536385&utm_medium=ppc&utm_source=adwords&utm_campaign=IMANTIC_ONL_PEOPLE-IA_CONV_GOOGLE_SEARCH_&utm_term=formacion%20en%20ia&hsa_kw=formacion%20en%20ia&hsa_net=adwords&hsa_ver=3&hsa_cam=22843911315&hsa_ad=800650644188&hsa_acc=1272778203&hsa_src=g&hsa_grp=193846742146&hsa_mt=b&hsa_tgt=kwd-2193285926398&gad_source=1&gad_campaignid=23665536385&gbraid=0AAAAACsQF9nBBZ-6W_-BA0-Ws29AN2q_n&gclid=Cj0KCQjw3qLSBhDaARIsAFTiVh7GJA0djg4HZRNowLBAVT4B2vB-yj3ApIC6VPzklsQx2H4DRMq-qpkaAgsXEALw_wcB

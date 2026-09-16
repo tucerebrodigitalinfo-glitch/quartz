@@ -1,0 +1,5 @@
+#IA 
+
+## [Gemini Notebook](https://notebook.google.com/notebook/fe087df9-42f8-477b-818a-f17d9fbc19ad?authuser=2)
+
+Las fuentes analizan críticamente la industria de la inteligencia artificial, a la que Karen Hao denomina **"imperios de la IA"** por su similitud con las estructuras coloniales de poder. Estos textos denuncian una **explotación laboral inhumana**, donde trabajadores de diversos perfiles son contratados en condiciones precarias para realizar **anotación de datos**, entrenando a los modelos que eventualmente los desplazarán. Se cuestiona la ética de líderes como **Sam Altman**, señalando que utilizan una **retórica mesiánica o alarmista** para justificar la falta de regulación y el control absoluto de los recursos. Además, se exponen graves consecuencias en la **salud pública y el medio ambiente** debido al consumo masivo de agua y energía de los centros de datos. En última instancia, las fuentes proponen romper este monopolio para desarrollar una **tecnología más democrática y sostenible** que beneficie a la humanidad en lugar de despojarla de su dignidad.

@@ -1,0 +1,5 @@
+[ChatGPT](app://obsidian.md/ChatGPT)  
+[Claude](app://obsidian.md/Claude)  
+[Notebook](app://obsidian.md/NotebookLM)  
+[Perplexity](app://obsidian.md/Perplexity)  
+[TheBrain](app://obsidian.md/TheBrain)  

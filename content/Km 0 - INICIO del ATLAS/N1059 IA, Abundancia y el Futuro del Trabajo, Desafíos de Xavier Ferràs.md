@@ -1,0 +1,4 @@
+#IA #Xavier_Ferrás
+## [Gemini Notebook](https://notebook.google.com/notebook/1a55bb49-f6b8-4500-a526-7922d9215da3?authuser=2)
+
+Las fuentes analizan cómo la **inteligencia artificial** podría conducir a un **colapso económico** si no se transforma el sistema laboral tradicional. El experto Xavier Ferràs advierte que la automatización extrema generará una **paradoja de productividad**, donde la abundancia de bienes carecerá de compradores sin ingresos. Ante este escenario, se propone la **renta básica universal** como una herramienta esencial para mantener el consumo y la dignidad social en un futuro sin empleos convencionales. El debate sugiere que esta medida no es una cuestión de ideología política, sino una **necesidad sistémica** para evitar transiciones traumáticas y crisis sociales. Finalmente, se destaca la importancia de que Europa recupere el **liderazgo tecnológico** para no convertirse en un simple consumidor dependiente de potencias extranjeras.

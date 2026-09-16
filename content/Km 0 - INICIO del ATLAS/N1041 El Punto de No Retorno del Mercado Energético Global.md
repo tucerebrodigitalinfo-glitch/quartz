@@ -1,0 +1,5 @@
+#Energía 
+
+## [Gemini Notebook](https://notebook.google.com/notebook/ec270b3e-b687-49c5-99de-c83c90817316?authuser=2)
+
+Este reporte de la Agencia Internacional de Energía analiza el impacto crítico de la guerra en el Medio Oriente sobre el mercado petrolero global durante el año 2026. El cierre del Estrecho de Ormuz ha provocado una caída drástica en el suministro, forzando un uso masivo de las reservas de emergencia y disparando los precios internacionales. Aunque se observa una contracción en la demanda mundial, especialmente en sectores como la petroquímica y la aviación, el mercado se mantiene en un déficit severo. Los datos detallan cómo los países de la OCDE y las economías emergentes enfrentan una inflación acelerada y aplican medidas de ahorro energético ante la escasez. Finalmente, el documento anticipa una volatilidad persistente y una recuperación lenta de los inventarios que extenderá las tensiones financieras más allá del presente año.

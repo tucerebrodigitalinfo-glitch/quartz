@@ -1,0 +1,6 @@
+#IA #Evolución 
+
+## [Gemini Notebook](https://notebook.google.com/notebook/cd275fb6-fcfe-4f9f-bfb3-e94ee1470645?authuser=6)
+
+Las fuentes describen los **algoritmos evolutivos**, técnicas de optimización inspiradas en la **selección natural** para resolver problemas complejos en áreas como la robótica, medicina y diseño industrial. Estos sistemas operan mediante un ciclo iterativo de **reproducción, mutación y selección**, permitiendo que las soluciones más aptas sobrevivan y mejoren a lo largo de diversas generaciones. Existen diversas variantes, como los **algoritmos genéticos** y la **programación evolutiva**, que son especialmente útiles cuando los métodos tradicionales fallan debido a la falta de diferenciabilidad o la presencia de datos ruidosos. Herramientas modernas como **EvoJAX**, **DEAP** y **pycma** facilitan la implementación de estos procesos aprovechando el poder de la computación acelerada por hardware. No obstante, los investigadores advierten sobre la necesidad de mantener un **control humano estricto**, ya que la evolución autónoma en entornos digitales abiertos podría generar comportamientos impredecibles o evasivos. En definitiva, estos artículos presentan a la evolución digital como un pilar fundamental de la **inteligencia artificial** contemporánea, capaz de optimizar desde plantas eólicas hasta diagnósticos médicos.
+

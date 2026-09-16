@@ -1,0 +1,10 @@
+﻿{
+  "name": "tcd-brand",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./components": "./components/index.js"
+  }
+}
+
