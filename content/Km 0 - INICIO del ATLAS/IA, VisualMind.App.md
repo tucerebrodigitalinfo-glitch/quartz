@@ -1,14 +1,17 @@
-#IA #VirtualMind #Fundamentos #Conceptos #Bases #Formación 
+---
+publish: true
+created: 2026-07-12T14:38:40.395Z
+modified: 2026-09-17T10:13:50.691Z
+---
 
-![[Pasted image 20260907185919.png]]
+#IA #VirtualMind #Fundamentos #Conceptos #Bases #FormaciÃ³n
+
+![[Biblioteca/Pasted image 20260907185919.png]]
+
 # [VisualMind](https://VISUALMIND.APP)
 
-# [[AI, Aprendizaje Automático]]
+# [[AI, Aprendizaje AutomÃ¡tico]]
 
-![[N1007 Bases_de_la_ia (visualmind).pdf]]
+![[Biblioteca/N1007 Bases_de_la_ia (visualmind).pdf]]
 
-
-![[N1010 Compendio Integral de la IA.png]]
-
-
-
+![[Biblioteca/N1010 Compendio Integral de la IA.png]]

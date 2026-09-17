@@ -1,3 +1,9 @@
+---
+publish: true
+created: 2026-07-27T17:04:37.848Z
+modified: 2026-09-17T10:13:58.274Z
+---
+
 #Obsidian #Explorer #Explorar #Biblioteca
 
 INDICES: [[Obsidian (i)]]

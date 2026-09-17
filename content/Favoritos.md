@@ -1,3 +1,9 @@
+---
+publish: true
+created: 2026-08-07T12:35:36.115Z
+modified: 2026-09-17T12:07:50.488Z
+---
+
 #Favoritos #Km0
 
 [[Documental IA, RTVE Play]]
@@ -87,7 +93,7 @@
 [[Tableau]]
 [[Techiepedia]]
 [[TED Talks (Youtube)]]
-[[The Thinking Game _ Full documentary _ Tribeca Film 
+\[\[The Thinking Game \_ Full documentary \_ Tribeca Film
 [[TuCerebroDigital.Info]]
 [[UNESCO (i)]]
 [[WEF - World Economic Forum (i)]]
@@ -95,9 +101,3 @@
 [[Wired]]
 [[AI, You Learn AI]]
 [[Youtube]]
-
-
-
-
-
-

@@ -1,4 +1,11 @@
+---
+publish: true
+created: 2026-07-12T14:35:51.044Z
+modified: 2026-09-17T10:13:54.236Z
+---
+
 #IA #Eventos #Historia
+
 # Eventos relacionados con la Historia de la IA
 
 [[Conferencia de Dartmouth (1956)]]

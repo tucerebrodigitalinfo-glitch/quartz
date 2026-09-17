@@ -1,4 +1,11 @@
-#Canal #Youtube #Política 
+---
+publish: true
+created: 2026-08-17T15:56:10.614Z
+modified: 2026-09-17T10:14:31.388Z
+---
 
-![[Pasted image 20260817175756.png]]
+#Canal #Youtube #PolÃ­tica
+
+![[Biblioteca/Pasted image 20260817175756.png]]
+
 ## [Youtube]()

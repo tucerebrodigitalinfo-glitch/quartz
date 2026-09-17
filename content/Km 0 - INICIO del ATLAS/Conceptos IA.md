@@ -1,4 +1,11 @@
-#IA #Conceptos #Clave 
+---
+publish: true
+created: 2026-07-12T14:34:56.078Z
+modified: 2026-09-17T10:13:55.615Z
+---
+
+#IA #Conceptos #Clave
+
 # Conceptos relacionados con la IA
 
 [[Inteligencia Artificial (IA)]]
@@ -11,4 +18,4 @@
 [[LLMs (i)]]
 [[IA, Agentes IA]]
 [[Embeddings]]
-[[AI, Aprendizaje Automático]]
+[[AI, Aprendizaje AutomÃ¡tico]]

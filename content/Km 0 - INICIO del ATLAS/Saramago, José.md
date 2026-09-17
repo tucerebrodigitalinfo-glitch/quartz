@@ -1,137 +1,138 @@
+---
+publish: true
+created: 2026-08-27T18:25:55.585Z
+modified: 2026-09-17T10:14:38.981Z
+---
+
 #Escritor #Pensador #Comunista
+
 # [Wikipedia](https://es.wikipedia.org/wiki/Jos%C3%A9_Saramago?wprov=sfla1)
 
 ![Image](https://images.openai.com/static-rsc-4/0ML3JadFWWLBSyKhgfsrMfP_jLZFuJ6Te0RQhxQr6w88TwAJ4_zdS_Rh2-GxVoKBSNDp4s8Dcr7J5JNQJ9miDSnL66eUIbgGR6F8OjBM7rRAPDTF01BgqXi_Hgbf4rYLWFbDA4UkFhxfwhNj29kFyI00TfE9xHYzg4ZUy1UdLxWQlPDSnWJtFtXNPRmnPANs?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/j8rwD_0VaN_HH94hGjQ5UW-H86eAsmkir_AQeGyQgNy4hJ-3azyt-Z3f-NEe3SngZuA6TtPyRyG2dZwAlTqaiXt0-S3QmhIKNLNsZNqrDtzwHzHtkpS5Dtw917LeErlyqw_9hKfRffC_0U_3wpBeUw16dxem4O2huzufJbCc64sttf9NNDi_eZbLhUCqzsLL?purpose=fullsize)
 
-# JOSÉ SARAMAGO
+# JOSÃ‰ SARAMAGO
 
-✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+âœ… Enlaces verificados y operativos en la fecha de elaboraciÃ³n del informe. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
 
 #WEB
 
-- [Fundação José Saramago](https://www.josesaramago.org/es/?utm_source=chatgpt.com) – Institución creada por el propio escritor en 2007. Es el principal centro documental para estudiar su biografía, obra, legado, actividades culturales, bibliografía y pensamiento. Mantiene su sede en la Casa dos Bicos de Lisboa. ([Fundação José Saramago](https://www.josesaramago.org/es/preguntas-frecuentes/?utm_source=chatgpt.com "Preguntas frecuentes - Fundación José Saramago"))
-    
-- [Biografía — Fundação José Saramago](https://www.josesaramago.org/es/biografia/?utm_source=chatgpt.com) – Biografía institucional que incorpora una extensa autobiografía del escritor y una cronología esencial de su trayectoria personal, profesional y literaria. Fuente primaria fundamental para investigación biográfica. ([Fundação José Saramago](https://www.josesaramago.org/es/biografia/?utm_source=chatgpt.com "Biografía - Fundación José Saramago"))
-    
-- [Bibliografía activa — Fundação José Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com) – Catálogo de la producción de Saramago organizado por novela, poesía, crónica, cuento, literatura de viajes, diarios, memorias, teatro, correspondencia, ensayo y literatura infantil. ([Fundação José Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com "Bibliografía activa - Fundación José Saramago"))
-    
-- [Tesis y monografías — Fundação José Saramago](https://www.josesaramago.org/es/tesis-y-monografias/?utm_source=chatgpt.com) – Base bibliográfica especializada que recopila investigaciones académicas sobre obras concretas y aspectos transversales de la producción saramaguiana. ([Fundação José Saramago](https://www.josesaramago.org/es/tesis-y-monografias/?utm_source=chatgpt.com "Tesis y monografías - Fundación José Saramago"))
-    
-- [José Saramago — Nobel Prize](https://www.nobelprize.org/laureate/675?utm_source=chatgpt.com) – Ficha oficial de la Nobel Foundation correspondiente al Premio Nobel de Literatura de 1998. Incluye datos biográficos, motivación del premio y presentación sintética de su obra. ([Premio Nobel](https://www.nobelprize.org/laureate/675?utm_source=chatgpt.com "José Saramago – Facts - NobelPrize.org"))
-    
-- [A Casa José Saramago](https://acasajosesaramago.com/?utm_source=chatgpt.com) – Sitio oficial de la casa-museo de Tías, Lanzarote, residencia del escritor durante sus últimos dieciocho años. Documenta la vivienda, biblioteca, jardín y espacios de trabajo conservados. ([A Casa Jose Saramago](https://acasajosesaramago.com/la-casa/?utm_source=chatgpt.com "La casa - A Casa Jose Saramago"))
-    
-- [Casa dos Bicos — Fundação José Saramago](https://www.josesaramago.org/contactos-e-informacoes/?utm_source=chatgpt.com) – Información institucional sobre la sede lisboeta de la Fundación, abierta al público desde 2012 y dotada de exposición permanente, biblioteca y espacios culturales. ([Fundação José Saramago](https://www.josesaramago.org/contactos-e-informacoes/?utm_source=chatgpt.com "Contactos e Informações - Fundação José Saramago"))
-    
-- [Cátedra Internacional José Saramago — Universidade de Vigo](https://catedrasaramago.webs.uvigo.es/?utm_source=chatgpt.com) – Centro universitario especializado en el estudio, investigación y difusión de la literatura y pensamiento de Saramago. Mantiene publicaciones, bibliografía y proyectos internacionales.
-    
-- [Rede JANGADA](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com) – Red internacional que articula cátedras, centros de investigación y asociaciones dedicados a los estudios lusófonos; incluye varias cátedras José Saramago de Europa y América. ([Jangada](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com "Membros – Rede JANGADA"))
-    
-- [Cátedra José Saramago — Universitat Autònoma de Barcelona](https://webs.uab.cat/catedrajosesaramago/es/?utm_source=chatgpt.com) – Cátedra académica multidisciplinaria dedicada a lengua, traducción, literatura, historia y cultura portuguesas, con especial atención al espacio ibérico y lusófono. ([Webs UAB](https://webs.uab.cat/catedrajosesaramago/?utm_source=chatgpt.com "Cátedra José Saramago"))
-    
-- [Colección Instituto Camões / Cátedra José Saramago — UAB](https://www.uab.cat/es/bibliotecas/coleccion-catedra-jose-saramago?utm_source=chatgpt.com) – Fondo bibliográfico de la Biblioteca de Humanidades de la UAB con cerca de 200 obras entre ediciones originales y traducciones del Nobel portugués. ([UAB Barcelona](https://www.uab.cat/es/bibliotecas/coleccion-catedra-jose-saramago?utm_source=chatgpt.com "Colección Instituto Camões / Cátedra José Saramago - UAB Barcelona"))
-    
-- [Cátedra José Saramago — Universidad de Granada](https://www.ugr.es/catedras/jose-saramago?utm_source=chatgpt.com) – Creada en 2007 para fomentar el estudio de la literatura y cultura portuguesas y abordar asimismo cuestiones sociales, medioambientales y de derechos humanos relacionadas con el pensamiento del escritor. ([Universidad de Granada](https://www.ugr.es/catedras/jose-saramago?utm_source=chatgpt.com "Cátedra José Saramago | Universidad de Granada"))
-    
-- [Cátedra Extraordinaria José Saramago — Universidad Nacional Autónoma de México](https://ced.enallt.unam.mx/camoes/interiores/catedra/catedra_extraordinaria_jose_saramago.pdf?utm_source=chatgpt.com) – Cátedra constituida por la UNAM, Instituto Camões y Embajada de Portugal para promover investigación, docencia, conferencias y publicaciones sobre cultura y lengua portuguesas. ([ENALLT](https://ced.enallt.unam.mx/camoes/interiores/catedra/catedra_extraordinaria_jose_saramago.pdf?utm_source=chatgpt.com "Cátedra Extraordinaria José Saramago"))
-    
-- [Associação Internacional de Lusitanistas](https://lusitanistasail.org/?utm_source=chatgpt.com) – Asociación científica internacional dedicada al estudio de las lenguas, literaturas y culturas de expresión portuguesa. Su producción resulta especialmente pertinente para contextualizar a Saramago dentro de los estudios lusófonos. ([AIL](https://lusitanistasail.org/ail/estatutos.html?utm_source=chatgpt.com "AIL - Associação Internacional de Lusitanistas - Estatutos"))
-    
-- [Associação Portuguesa de Escritores](https://www.apescritores.pt/?utm_source=chatgpt.com) – Institución profesional portuguesa estrechamente relacionada con la trayectoria de Saramago; el escritor recibió su Prémio de Vida Literária en 1993 y el Grande Prémio de Romance e Novela por _O Evangelho Segundo Jesus Cristo_. ([Apescritores](https://www.apescritores.pt/Premios/vida_literaria.php?utm_source=chatgpt.com "APE - Associação Portuguesa de Escritores"))
-    
-- [José Saramago — Penguin Libros / Alfaguara](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Página editorial que reúne actualmente numerosas ediciones en español de su obra y permite localizar fichas bibliográficas y fragmentos de lectura. ([PenguinLibros](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com "José Saramago | Penguin Libros"))
-    
-- [Centenário José Saramago — RTP Ensina](https://ensina.rtp.pt/podcast/centenario-jose-saramago/?utm_source=chatgpt.com) – Archivo educativo de la radiotelevisión pública portuguesa creado en colaboración con la Fundação José Saramago, especialmente útil para lecturas y materiales audiovisuales. ([RTP Ensina](https://ensina.rtp.pt/podcast/centenario-jose-saramago/?utm_source=chatgpt.com "Centenário José Saramago - RTP Ensina"))
-    
-- [José Saramago — Diário de Notícias](https://www.dn.pt/topic/jos%C3%A9-saramago?utm_source=chatgpt.com) – Archivo temático del periódico en el que Saramago fue director adjunto en 1975; reúne biografía, noticias, evocaciones y documentación periodística histórica. ([Diário de Notícias](https://www.dn.pt/cultura/fundado-na-monarquia-o-dn-viu-nascer-a-repblica-viveu-o-estado-novo-e-noticiou-o-25-de-abril?utm_source=chatgpt.com "História do DN: 161 Anos de Jornalismo e Momentos Marcantes"))
-    
-- [José Saramago — The Guardian](https://www.theguardian.com/books/jose-saramago?utm_source=chatgpt.com) – Archivo internacional de artículos, críticas, obituarios y reseñas sobre Saramago y las adaptaciones de sus obras.
-    
-- [Le Monde des livres](https://www.lemonde.fr/livres/?utm_source=chatgpt.com) – Suplemento literario francés con documentación crítica sobre Saramago; continúa publicando referencias y críticas de nuevas traducciones y reediciones de su obra. ([Le Monde.fr](https://www.lemonde.fr/livres/article/2026/08/20/notre-selection-de-livres-cette-semaine-la-lettre-une-femme-disparait-la-veuve_6750369_3260.html?utm_source=chatgpt.com "Notre sélection de livres cette semaine : « La Lettre », « Une femme disparaît », « La Veuve »…"))
-    
+- [FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/?utm_source=chatgpt.com) â€“ InstituciÃ³n creada por el propio escritor en 2007. Es el principal centro documental para estudiar su biografÃ­a, obra, legado, actividades culturales, bibliografÃ­a y pensamiento. Mantiene su sede en la Casa dos Bicos de Lisboa. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/preguntas-frecuentes/?utm_source=chatgpt.com "Preguntas frecuentes - FundaciÃ³n JosÃ© Saramago"))
+
+- [BiografÃ­a â€” FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/biografia/?utm_source=chatgpt.com) â€“ BiografÃ­a institucional que incorpora una extensa autobiografÃ­a del escritor y una cronologÃ­a esencial de su trayectoria personal, profesional y literaria. Fuente primaria fundamental para investigaciÃ³n biogrÃ¡fica. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/biografia/?utm_source=chatgpt.com "BiografÃ­a - FundaciÃ³n JosÃ© Saramago"))
+
+- [BibliografÃ­a activa â€” FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com) â€“ CatÃ¡logo de la producciÃ³n de Saramago organizado por novela, poesÃ­a, crÃ³nica, cuento, literatura de viajes, diarios, memorias, teatro, correspondencia, ensayo y literatura infantil. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com "BibliografÃ­a activa - FundaciÃ³n JosÃ© Saramago"))
+
+- [Tesis y monografÃ­as â€” FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/tesis-y-monografias/?utm_source=chatgpt.com) â€“ Base bibliogrÃ¡fica especializada que recopila investigaciones acadÃ©micas sobre obras concretas y aspectos transversales de la producciÃ³n saramaguiana. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/tesis-y-monografias/?utm_source=chatgpt.com "Tesis y monografÃ­as - FundaciÃ³n JosÃ© Saramago"))
+
+- [JosÃ© Saramago â€” Nobel Prize](https://www.nobelprize.org/laureate/675?utm_source=chatgpt.com) â€“ Ficha oficial de la Nobel Foundation correspondiente al Premio Nobel de Literatura de 1998. Incluye datos biogrÃ¡ficos, motivaciÃ³n del premio y presentaciÃ³n sintÃ©tica de su obra. ([Premio Nobel](https://www.nobelprize.org/laureate/675?utm_source=chatgpt.com "JosÃ© Saramago â€“ Facts - NobelPrize.org"))
+
+- [A Casa JosÃ© Saramago](https://acasajosesaramago.com/?utm_source=chatgpt.com) â€“ Sitio oficial de la casa-museo de TÃ­as, Lanzarote, residencia del escritor durante sus Ãºltimos dieciocho aÃ±os. Documenta la vivienda, biblioteca, jardÃ­n y espacios de trabajo conservados. ([A Casa Jose Saramago](https://acasajosesaramago.com/la-casa/?utm_source=chatgpt.com "La casa - A Casa Jose Saramago"))
+
+- [Casa dos Bicos â€” FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/contactos-e-informacoes/?utm_source=chatgpt.com) â€“ InformaciÃ³n institucional sobre la sede lisboeta de la FundaciÃ³n, abierta al pÃºblico desde 2012 y dotada de exposiciÃ³n permanente, biblioteca y espacios culturales. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/contactos-e-informacoes/?utm_source=chatgpt.com "Contactos e InformaÃ§Ãµes - FundaÃ§Ã£o JosÃ© Saramago"))
+
+- [CÃ¡tedra Internacional JosÃ© Saramago â€” Universidade de Vigo](https://catedrasaramago.webs.uvigo.es/?utm_source=chatgpt.com) â€“ Centro universitario especializado en el estudio, investigaciÃ³n y difusiÃ³n de la literatura y pensamiento de Saramago. Mantiene publicaciones, bibliografÃ­a y proyectos internacionales.
+
+- [Rede JANGADA](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com) â€“ Red internacional que articula cÃ¡tedras, centros de investigaciÃ³n y asociaciones dedicados a los estudios lusÃ³fonos; incluye varias cÃ¡tedras JosÃ© Saramago de Europa y AmÃ©rica. ([Jangada](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com "Membros â€“ Rede JANGADA"))
+
+- [CÃ¡tedra JosÃ© Saramago â€” Universitat AutÃ²noma de Barcelona](https://webs.uab.cat/catedrajosesaramago/es/?utm_source=chatgpt.com) â€“ CÃ¡tedra acadÃ©mica multidisciplinaria dedicada a lengua, traducciÃ³n, literatura, historia y cultura portuguesas, con especial atenciÃ³n al espacio ibÃ©rico y lusÃ³fono. ([Webs UAB](https://webs.uab.cat/catedrajosesaramago/?utm_source=chatgpt.com "CÃ¡tedra JosÃ© Saramago"))
+
+- [ColecciÃ³n Instituto CamÃµes / CÃ¡tedra JosÃ© Saramago â€” UAB](https://www.uab.cat/es/bibliotecas/coleccion-catedra-jose-saramago?utm_source=chatgpt.com) â€“ Fondo bibliogrÃ¡fico de la Biblioteca de Humanidades de la UAB con cerca de 200 obras entre ediciones originales y traducciones del Nobel portuguÃ©s. ([UAB Barcelona](https://www.uab.cat/es/bibliotecas/coleccion-catedra-jose-saramago?utm_source=chatgpt.com "ColecciÃ³n Instituto CamÃµes / CÃ¡tedra JosÃ© Saramago - UAB Barcelona"))
+
+- [CÃ¡tedra JosÃ© Saramago â€” Universidad de Granada](https://www.ugr.es/catedras/jose-saramago?utm_source=chatgpt.com) â€“ Creada en 2007 para fomentar el estudio de la literatura y cultura portuguesas y abordar asimismo cuestiones sociales, medioambientales y de derechos humanos relacionadas con el pensamiento del escritor. ([Universidad de Granada](https://www.ugr.es/catedras/jose-saramago?utm_source=chatgpt.com "CÃ¡tedra JosÃ© Saramago | Universidad de Granada"))
+
+- [CÃ¡tedra Extraordinaria JosÃ© Saramago â€” Universidad Nacional AutÃ³noma de MÃ©xico](https://ced.enallt.unam.mx/camoes/interiores/catedra/catedra_extraordinaria_jose_saramago.pdf?utm_source=chatgpt.com) â€“ CÃ¡tedra constituida por la UNAM, Instituto CamÃµes y Embajada de Portugal para promover investigaciÃ³n, docencia, conferencias y publicaciones sobre cultura y lengua portuguesas. ([ENALLT](https://ced.enallt.unam.mx/camoes/interiores/catedra/catedra_extraordinaria_jose_saramago.pdf?utm_source=chatgpt.com "CÃ¡tedra Extraordinaria JosÃ© Saramago"))
+
+- [AssociaÃ§Ã£o Internacional de Lusitanistas](https://lusitanistasail.org/?utm_source=chatgpt.com) â€“ AsociaciÃ³n cientÃ­fica internacional dedicada al estudio de las lenguas, literaturas y culturas de expresiÃ³n portuguesa. Su producciÃ³n resulta especialmente pertinente para contextualizar a Saramago dentro de los estudios lusÃ³fonos. ([AIL](https://lusitanistasail.org/ail/estatutos.html?utm_source=chatgpt.com "AIL - AssociaÃ§Ã£o Internacional de Lusitanistas - Estatutos"))
+
+- [AssociaÃ§Ã£o Portuguesa de Escritores](https://www.apescritores.pt/?utm_source=chatgpt.com) â€“ InstituciÃ³n profesional portuguesa estrechamente relacionada con la trayectoria de Saramago; el escritor recibiÃ³ su PrÃ©mio de Vida LiterÃ¡ria en 1993 y el Grande PrÃ©mio de Romance e Novela por _O Evangelho Segundo Jesus Cristo_. ([Apescritores](https://www.apescritores.pt/Premios/vida_literaria.php?utm_source=chatgpt.com "APE - AssociaÃ§Ã£o Portuguesa de Escritores"))
+
+- [JosÃ© Saramago â€” Penguin Libros / Alfaguara](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ PÃ¡gina editorial que reÃºne actualmente numerosas ediciones en espaÃ±ol de su obra y permite localizar fichas bibliogrÃ¡ficas y fragmentos de lectura. ([PenguinLibros](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com "JosÃ© Saramago | Penguin Libros"))
+
+- [CentenÃ¡rio JosÃ© Saramago â€” RTP Ensina](https://ensina.rtp.pt/podcast/centenario-jose-saramago/?utm_source=chatgpt.com) â€“ Archivo educativo de la radiotelevisiÃ³n pÃºblica portuguesa creado en colaboraciÃ³n con la FundaÃ§Ã£o JosÃ© Saramago, especialmente Ãºtil para lecturas y materiales audiovisuales. ([RTP Ensina](https://ensina.rtp.pt/podcast/centenario-jose-saramago/?utm_source=chatgpt.com "CentenÃ¡rio JosÃ© Saramago - RTP Ensina"))
+
+- [JosÃ© Saramago â€” DiÃ¡rio de NotÃ­cias](https://www.dn.pt/topic/jos%C3%A9-saramago?utm_source=chatgpt.com) â€“ Archivo temÃ¡tico del periÃ³dico en el que Saramago fue director adjunto en 1975; reÃºne biografÃ­a, noticias, evocaciones y documentaciÃ³n periodÃ­stica histÃ³rica. ([DiÃ¡rio de NotÃ­cias](https://www.dn.pt/cultura/fundado-na-monarquia-o-dn-viu-nascer-a-repblica-viveu-o-estado-novo-e-noticiou-o-25-de-abril?utm_source=chatgpt.com "HistÃ³ria do DN: 161 Anos de Jornalismo e Momentos Marcantes"))
+
+- [JosÃ© Saramago â€” The Guardian](https://www.theguardian.com/books/jose-saramago?utm_source=chatgpt.com) â€“ Archivo internacional de artÃ­culos, crÃ­ticas, obituarios y reseÃ±as sobre Saramago y las adaptaciones de sus obras.
+
+- [Le Monde des livres](https://www.lemonde.fr/livres/?utm_source=chatgpt.com) â€“ Suplemento literario francÃ©s con documentaciÃ³n crÃ­tica sobre Saramago; continÃºa publicando referencias y crÃ­ticas de nuevas traducciones y reediciones de su obra. ([Le Monde.fr](https://www.lemonde.fr/livres/article/2026/08/20/notre-selection-de-livres-cette-semaine-la-lettre-une-femme-disparait-la-veuve_6750369_3260.html?utm_source=chatgpt.com "Notre sÃ©lection de livres cette semaineÂ : Â«Â La LettreÂ Â», Â«Â Une femme disparaÃ®tÂ Â», Â«Â La VeuveÂ Â»â€¦"))
 
 # YOUTUBE
 
-- [Fundação José Saramago — YouTube](https://www.youtube.com/channel/UCRTqu8f5iBY1x0peLpuI-aw?utm_source=chatgpt.com) – Canal oficial de la Fundación. Conserva entrevistas, materiales sobre el Nobel, conferencias, actos institucionales y documentos audiovisuales relacionados con la vida y obra del escritor.
-    
-- [Nobel Prize](https://www.youtube.com/@NobelPrize?utm_source=chatgpt.com) – Canal oficial de los Premios Nobel. Recurso complementario para contextualizar el Nobel de Literatura de 1998 y consultar documentación audiovisual de los laureados.
-    
-- [RTP](https://www.youtube.com/@rtp?utm_source=chatgpt.com) – Canal oficial de Rádio e Televisão de Portugal, institución que conserva uno de los archivos audiovisuales más importantes para estudiar las intervenciones públicas, entrevistas y recepción portuguesa de Saramago.
-    
+- [FundaÃ§Ã£o JosÃ© Saramago â€” YouTube](https://www.youtube.com/channel/UCRTqu8f5iBY1x0peLpuI-aw?utm_source=chatgpt.com) â€“ Canal oficial de la FundaciÃ³n. Conserva entrevistas, materiales sobre el Nobel, conferencias, actos institucionales y documentos audiovisuales relacionados con la vida y obra del escritor.
 
+- [Nobel Prize](https://www.youtube.com/@NobelPrize?utm_source=chatgpt.com) â€“ Canal oficial de los Premios Nobel. Recurso complementario para contextualizar el Nobel de Literatura de 1998 y consultar documentaciÃ³n audiovisual de los laureados.
+
+- [RTP](https://www.youtube.com/@rtp?utm_source=chatgpt.com) â€“ Canal oficial de RÃ¡dio e TelevisÃ£o de Portugal, instituciÃ³n que conserva uno de los archivos audiovisuales mÃ¡s importantes para estudiar las intervenciones pÃºblicas, entrevistas y recepciÃ³n portuguesa de Saramago.
 
 # PODCAST
 
-- [Centenário José Saramago — RTP Play / Antena 2](https://www.rtp.pt/play/p9799/centenario-jose-saramago?utm_source=chatgpt.com) – Serie de 51 episodios vinculada al centenario, con numerosas lecturas de fragmentos de Saramago realizadas por escritores, académicos, familiares y personalidades culturales. ([RTP Ensina](https://ensina.rtp.pt/podcast/centenario-jose-saramago/?utm_source=chatgpt.com "Centenário José Saramago - RTP Ensina"))
-    
-- [Viagens com Livros — RTP Ensina](https://ensina.rtp.pt/podcast/viagens-com-livros/?utm_source=chatgpt.com) – Programa dedicado a literatura de viajes que incluye una entrega sustancial sobre _Viagem a Portugal_ y la dimensión espiritual y literaria de Saramago. ([RTP Ensina](https://ensina.rtp.pt/podcast/viagens-com-livros/?utm_source=chatgpt.com "Viagens com Livros - RTP Ensina"))
-    
-- [Serviço Público — Bloco de Notas](https://www.rtp.pt/play/p7328/e921533/bloco-de-notas?utm_source=chatgpt.com) – Podcast educativo de Antena 1 que ha dedicado programas al estudio de _Memorial do Convento_ y _O Ano da Morte de Ricardo Reis_, con participación académica especializada. ([RTP](https://www.rtp.pt/play/p7328/e921533/bloco-de-notas?utm_source=chatgpt.com "Serviço Público - Bloco de Notas de 07 abr 2026 - RTP Play"))
-    
-- [Vencidos — Violante Saramago Matos](https://www.rtp.pt/play/p15298/e929219/vencidos?utm_source=chatgpt.com) – Entrevista de 2026 con la hija del escritor, Violante Saramago Matos, centrada en la dimensión familiar y biográfica de José Saramago. ([RTP](https://www.rtp.pt/play/p15298/e929219/vencidos?utm_source=chatgpt.com "Vencidos Episódio 20 - de 17 mai 2026 - RTP Play"))
-    
+- [CentenÃ¡rio JosÃ© Saramago â€” RTP Play / Antena 2](https://www.rtp.pt/play/p9799/centenario-jose-saramago?utm_source=chatgpt.com) â€“ Serie de 51 episodios vinculada al centenario, con numerosas lecturas de fragmentos de Saramago realizadas por escritores, acadÃ©micos, familiares y personalidades culturales. ([RTP Ensina](https://ensina.rtp.pt/podcast/centenario-jose-saramago/?utm_source=chatgpt.com "CentenÃ¡rio JosÃ© Saramago - RTP Ensina"))
+
+- [Viagens com Livros â€” RTP Ensina](https://ensina.rtp.pt/podcast/viagens-com-livros/?utm_source=chatgpt.com) â€“ Programa dedicado a literatura de viajes que incluye una entrega sustancial sobre _Viagem a Portugal_ y la dimensiÃ³n espiritual y literaria de Saramago. ([RTP Ensina](https://ensina.rtp.pt/podcast/viagens-com-livros/?utm_source=chatgpt.com "Viagens com Livros - RTP Ensina"))
+
+- [ServiÃ§o PÃºblico â€” Bloco de Notas](https://www.rtp.pt/play/p7328/e921533/bloco-de-notas?utm_source=chatgpt.com) â€“ Podcast educativo de Antena 1 que ha dedicado programas al estudio de _Memorial do Convento_ y _O Ano da Morte de Ricardo Reis_, con participaciÃ³n acadÃ©mica especializada. ([RTP](https://www.rtp.pt/play/p7328/e921533/bloco-de-notas?utm_source=chatgpt.com "ServiÃ§o PÃºblico - Bloco de Notas de 07 abr 2026 - RTP Play"))
+
+- [Vencidos â€” Violante Saramago Matos](https://www.rtp.pt/play/p15298/e929219/vencidos?utm_source=chatgpt.com) â€“ Entrevista de 2026 con la hija del escritor, Violante Saramago Matos, centrada en la dimensiÃ³n familiar y biogrÃ¡fica de JosÃ© Saramago. ([RTP](https://www.rtp.pt/play/p15298/e929219/vencidos?utm_source=chatgpt.com "Vencidos EpisÃ³dio 20 - de 17 mai 2026 - RTP Play"))
 
 # LIBROS
 
-- [Ensayo sobre la ceguera](https://www.penguinlibros.com/es/literatura-contemporanea/273897-libro-ensayo-sobre-la-ceguera-9788420460673?utm_source=chatgpt.com) – Novela de 1995 y uno de los textos centrales de Saramago. Una epidemia de ceguera blanca funciona como dispositivo narrativo para examinar civilización, poder, violencia, solidaridad y responsabilidad. ([PenguinLibros](https://www.penguinlibros.com/es/literatura-contemporanea/273897-libro-ensayo-sobre-la-ceguera-9788420460673?utm_source=chatgpt.com "Ensayo sobre la ceguera | Penguin Libros"))
-    
-- [Memorial del convento](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Publicada originalmente como _Memorial do Convento_ en 1982, fue decisiva para su proyección internacional y combina historia portuguesa, imaginación, crítica social y elementos fantásticos. ([Fundação José Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com "Bibliografía activa - Fundación José Saramago"))
-    
-- [El año de la muerte de Ricardo Reis](https://www.penguinlibros.com/es/novela-historica/34959-libro-el-ano-de-la-muerte-de-ricardo-reis-9788490628683?utm_source=chatgpt.com) – Novela de 1984 que incorpora como personaje al heterónimo de Fernando Pessoa y reconstruye la Lisboa de 1935-1936, relacionando literatura, historia europea, identidad y compromiso político. ([PenguinLibros](https://www.penguinlibros.com/es/novela-historica/34959-libro-el-ano-de-la-muerte-de-ricardo-reis-9788490628683?utm_source=chatgpt.com "El año de la muerte de Ricardo Reis | Penguin Libros"))
-    
-- [El Evangelio según Jesucristo](https://www.penguinlibros.com/es/literatura-contemporanea/34962-libro-el-evangelio-segun-jesucristo-9788490628713?utm_source=chatgpt.com) – Reescritura literaria de la vida de Jesús publicada en 1991. Su exclusión de una candidatura a un premio europeo por decisión gubernamental tuvo consecuencias decisivas en la trayectoria vital de Saramago y precedió su traslado a Lanzarote. ([Fundação José Saramago](https://www.josesaramago.org/en/biography/?utm_source=chatgpt.com "Biography - José Saramago Foundation"))
-    
-- [Historia del cerco de Lisboa](https://www.penguinlibros.com/es/literatura-contemporanea/34961-libro-historia-del-cerco-de-lisboa-9788490628706?utm_source=chatgpt.com) – Novela de 1989 construida alrededor de la alteración deliberada de una palabra por un corrector editorial, recurso mediante el cual Saramago investiga las relaciones entre historia, ficción y escritura.
-    
-- [Todos los nombres](https://www.penguinlibros.com/es/literatura-contemporanea/34964-libro-todos-los-nombres-9788490628737?utm_source=chatgpt.com) – Novela de 1997 centrada en un funcionario del Registro Civil y su búsqueda de una mujer desconocida. Desarrolla temas esenciales como identidad, burocracia, memoria, anonimato y muerte.
-    
-- [La balsa de piedra](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Ficción de 1986 en la que la península ibérica se separa físicamente de Europa. Constituye una referencia central para estudiar el iberismo y la reflexión geopolítica de Saramago. ([Fundação José Saramago](https://www.josesaramago.org/es/tesis-y-monografias/?utm_source=chatgpt.com "Tesis y monografías - Fundación José Saramago"))
-    
-- [La caverna](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Novela de 2000 que reelabora el mito platónico de la caverna dentro de una sociedad dominada por un gigantesco centro comercial, con especial atención al trabajo, consumo y transformación económica.
-    
-- [El hombre duplicado](https://www.penguinlibros.com/es/literatura-contemporanea/273899-libro-el-hombre-duplicado-9788420461717?utm_source=chatgpt.com) – Novela de 2002 sobre un hombre que descubre la existencia de otra persona físicamente idéntica. Examina identidad, duplicación, individualidad y azar.
-    
-- [Ensayo sobre la lucidez](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Novela política de 2004 que recupera parcialmente el universo de _Ensayo sobre la ceguera_ y plantea una crisis institucional provocada por el voto masivo en blanco.
-    
-- [Las intermitencias de la muerte](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Fábula narrativa de 2005 construida sobre la hipótesis de que, en un país sin nombre, las personas dejan súbitamente de morir.
-    
-- [El viaje del elefante](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Novela publicada en 2008 e inspirada en el viaje histórico del elefante Salomón desde Portugal hasta Viena durante el siglo XVI.
-    
-- [Caín](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Última novela publicada en vida de Saramago, en 2009. Reescribe episodios del Antiguo Testamento desde una perspectiva crítica y satírica.
-    
-- [Claraboya](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Novela terminada en 1953 pero publicada póstumamente en 2011. Su historia editorial permite estudiar la prolongada etapa de formación del escritor antes de su consolidación literaria. ([The Guardian](https://www.theguardian.com/books/2012/mar/05/jose-saramago-novel-published?utm_source=chatgpt.com "José Saramago novel finally published after 59 years | José Saramago | The Guardian"))
-    
-- [La viuda](https://www.penguinlibros.com/es/literatura-contemporanea/316010-libro-la-viuda-9788466359863?utm_source=chatgpt.com) – Primera novela de Saramago, publicada originalmente en 1947 como _Terra do Pecado_. Las ediciones recientes han recuperado el título que originalmente quería el autor. ([Le Monde.fr](https://www.lemonde.fr/livres/article/2026/08/20/notre-selection-de-livres-cette-semaine-la-lettre-une-femme-disparait-la-veuve_6750369_3260.html?utm_source=chatgpt.com "Notre sélection de livres cette semaine : « La Lettre », « Une femme disparaît », « La Veuve »…"))
-    
-- [Casi un objeto](https://www.penguinlibros.com/es/literatura-contemporanea/282286-libro-casi-un-objeto-9788420460703?utm_source=chatgpt.com) – Colección de relatos publicada originalmente en 1978, importante para observar la transición hacia el universo alegórico y narrativo característico de su obra madura.
-    
-- [Viaje a Portugal](https://www.josesaramago.org/categoria-produto/livros/page/4/?utm_source=chatgpt.com) – Libro de viajes de 1981 en el que el desplazamiento geográfico funciona también como indagación histórica, cultural y personal sobre Portugal. ([RTP Ensina](https://ensina.rtp.pt/podcast/viagens-com-livros/?utm_source=chatgpt.com "Viagens com Livros - RTP Ensina"))
-    
-- [Cuadernos de Lanzarote](https://www.josesaramago.org/categoria-produto/livros/page/4/?utm_source=chatgpt.com) – Diarios escritos durante su residencia canaria. Constituyen documentación primaria para estudiar sus lecturas, viajes, posiciones públicas, proceso creativo y vida intelectual durante los años noventa.
-    
-- [Las pequeñas memorias](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) – Libro autobiográfico de 2006 dedicado fundamentalmente a infancia, familia y formación de la sensibilidad del escritor. Es una fuente primaria imprescindible para investigación biográfica.
-    
-- [Qué haréis con este libro. Teatro completo](https://www.penguinlibros.com/es/literatura-contemporanea/294921-libro-que-hareis-con-este-libro-9788420461755?utm_source=chatgpt.com) – Edición que permite estudiar una dimensión menos atendida de su producción: la dramaturgia, donde reaparecen problemas históricos, políticos, religiosos y literarios presentes en las novelas.
-    
-- [Bibliografía activa completa — Fundação José Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com) – Referencia institucional para localizar la totalidad de novelas, poesía, cuentos, crónicas, diarios, memorias, teatro, correspondencia, ensayos y libros infantiles de Saramago. ([Fundação José Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com "Bibliografía activa - Fundación José Saramago"))
-    
+- [Ensayo sobre la ceguera](https://www.penguinlibros.com/es/literatura-contemporanea/273897-libro-ensayo-sobre-la-ceguera-9788420460673?utm_source=chatgpt.com) â€“ Novela de 1995 y uno de los textos centrales de Saramago. Una epidemia de ceguera blanca funciona como dispositivo narrativo para examinar civilizaciÃ³n, poder, violencia, solidaridad y responsabilidad. ([PenguinLibros](https://www.penguinlibros.com/es/literatura-contemporanea/273897-libro-ensayo-sobre-la-ceguera-9788420460673?utm_source=chatgpt.com "Ensayo sobre la ceguera | Penguin Libros"))
+
+- [Memorial del convento](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ Publicada originalmente como _Memorial do Convento_ en 1982, fue decisiva para su proyecciÃ³n internacional y combina historia portuguesa, imaginaciÃ³n, crÃ­tica social y elementos fantÃ¡sticos. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com "BibliografÃ­a activa - FundaciÃ³n JosÃ© Saramago"))
+
+- [El aÃ±o de la muerte de Ricardo Reis](https://www.penguinlibros.com/es/novela-historica/34959-libro-el-ano-de-la-muerte-de-ricardo-reis-9788490628683?utm_source=chatgpt.com) â€“ Novela de 1984 que incorpora como personaje al heterÃ³nimo de Fernando Pessoa y reconstruye la Lisboa de 1935-1936, relacionando literatura, historia europea, identidad y compromiso polÃ­tico. ([PenguinLibros](https://www.penguinlibros.com/es/novela-historica/34959-libro-el-ano-de-la-muerte-de-ricardo-reis-9788490628683?utm_source=chatgpt.com "El aÃ±o de la muerte de Ricardo Reis | Penguin Libros"))
+
+- [El Evangelio segÃºn Jesucristo](https://www.penguinlibros.com/es/literatura-contemporanea/34962-libro-el-evangelio-segun-jesucristo-9788490628713?utm_source=chatgpt.com) â€“ Reescritura literaria de la vida de JesÃºs publicada en 1991. Su exclusiÃ³n de una candidatura a un premio europeo por decisiÃ³n gubernamental tuvo consecuencias decisivas en la trayectoria vital de Saramago y precediÃ³ su traslado a Lanzarote. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/en/biography/?utm_source=chatgpt.com "Biography - JosÃ© Saramago Foundation"))
+
+- [Historia del cerco de Lisboa](https://www.penguinlibros.com/es/literatura-contemporanea/34961-libro-historia-del-cerco-de-lisboa-9788490628706?utm_source=chatgpt.com) â€“ Novela de 1989 construida alrededor de la alteraciÃ³n deliberada de una palabra por un corrector editorial, recurso mediante el cual Saramago investiga las relaciones entre historia, ficciÃ³n y escritura.
+
+- [Todos los nombres](https://www.penguinlibros.com/es/literatura-contemporanea/34964-libro-todos-los-nombres-9788490628737?utm_source=chatgpt.com) â€“ Novela de 1997 centrada en un funcionario del Registro Civil y su bÃºsqueda de una mujer desconocida. Desarrolla temas esenciales como identidad, burocracia, memoria, anonimato y muerte.
+
+- [La balsa de piedra](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ FicciÃ³n de 1986 en la que la penÃ­nsula ibÃ©rica se separa fÃ­sicamente de Europa. Constituye una referencia central para estudiar el iberismo y la reflexiÃ³n geopolÃ­tica de Saramago. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/tesis-y-monografias/?utm_source=chatgpt.com "Tesis y monografÃ­as - FundaciÃ³n JosÃ© Saramago"))
+
+- [La caverna](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ Novela de 2000 que reelabora el mito platÃ³nico de la caverna dentro de una sociedad dominada por un gigantesco centro comercial, con especial atenciÃ³n al trabajo, consumo y transformaciÃ³n econÃ³mica.
+
+- [El hombre duplicado](https://www.penguinlibros.com/es/literatura-contemporanea/273899-libro-el-hombre-duplicado-9788420461717?utm_source=chatgpt.com) â€“ Novela de 2002 sobre un hombre que descubre la existencia de otra persona fÃ­sicamente idÃ©ntica. Examina identidad, duplicaciÃ³n, individualidad y azar.
+
+- [Ensayo sobre la lucidez](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ Novela polÃ­tica de 2004 que recupera parcialmente el universo de _Ensayo sobre la ceguera_ y plantea una crisis institucional provocada por el voto masivo en blanco.
+
+- [Las intermitencias de la muerte](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ FÃ¡bula narrativa de 2005 construida sobre la hipÃ³tesis de que, en un paÃ­s sin nombre, las personas dejan sÃºbitamente de morir.
+
+- [El viaje del elefante](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ Novela publicada en 2008 e inspirada en el viaje histÃ³rico del elefante SalomÃ³n desde Portugal hasta Viena durante el siglo XVI.
+
+- [CaÃ­n](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ Ãšltima novela publicada en vida de Saramago, en 2009. Reescribe episodios del Antiguo Testamento desde una perspectiva crÃ­tica y satÃ­rica.
+
+- [Claraboya](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ Novela terminada en 1953 pero publicada pÃ³stumamente en 2011. Su historia editorial permite estudiar la prolongada etapa de formaciÃ³n del escritor antes de su consolidaciÃ³n literaria. ([The Guardian](https://www.theguardian.com/books/2012/mar/05/jose-saramago-novel-published?utm_source=chatgpt.com "JosÃ© Saramago novel finally published after 59 years | JosÃ© Saramago | The Guardian"))
+
+- [La viuda](https://www.penguinlibros.com/es/literatura-contemporanea/316010-libro-la-viuda-9788466359863?utm_source=chatgpt.com) â€“ Primera novela de Saramago, publicada originalmente en 1947 como _Terra do Pecado_. Las ediciones recientes han recuperado el tÃ­tulo que originalmente querÃ­a el autor. ([Le Monde.fr](https://www.lemonde.fr/livres/article/2026/08/20/notre-selection-de-livres-cette-semaine-la-lettre-une-femme-disparait-la-veuve_6750369_3260.html?utm_source=chatgpt.com "Notre sÃ©lection de livres cette semaineÂ : Â«Â La LettreÂ Â», Â«Â Une femme disparaÃ®tÂ Â», Â«Â La VeuveÂ Â»â€¦"))
+
+- [Casi un objeto](https://www.penguinlibros.com/es/literatura-contemporanea/282286-libro-casi-un-objeto-9788420460703?utm_source=chatgpt.com) â€“ ColecciÃ³n de relatos publicada originalmente en 1978, importante para observar la transiciÃ³n hacia el universo alegÃ³rico y narrativo caracterÃ­stico de su obra madura.
+
+- [Viaje a Portugal](https://www.josesaramago.org/categoria-produto/livros/page/4/?utm_source=chatgpt.com) â€“ Libro de viajes de 1981 en el que el desplazamiento geogrÃ¡fico funciona tambiÃ©n como indagaciÃ³n histÃ³rica, cultural y personal sobre Portugal. ([RTP Ensina](https://ensina.rtp.pt/podcast/viagens-com-livros/?utm_source=chatgpt.com "Viagens com Livros - RTP Ensina"))
+
+- [Cuadernos de Lanzarote](https://www.josesaramago.org/categoria-produto/livros/page/4/?utm_source=chatgpt.com) â€“ Diarios escritos durante su residencia canaria. Constituyen documentaciÃ³n primaria para estudiar sus lecturas, viajes, posiciones pÃºblicas, proceso creativo y vida intelectual durante los aÃ±os noventa.
+
+- [Las pequeÃ±as memorias](https://www.penguinlibros.com/es/6185-jose-saramago?utm_source=chatgpt.com) â€“ Libro autobiogrÃ¡fico de 2006 dedicado fundamentalmente a infancia, familia y formaciÃ³n de la sensibilidad del escritor. Es una fuente primaria imprescindible para investigaciÃ³n biogrÃ¡fica.
+
+- [QuÃ© harÃ©is con este libro. Teatro completo](https://www.penguinlibros.com/es/literatura-contemporanea/294921-libro-que-hareis-con-este-libro-9788420461755?utm_source=chatgpt.com) â€“ EdiciÃ³n que permite estudiar una dimensiÃ³n menos atendida de su producciÃ³n: la dramaturgia, donde reaparecen problemas histÃ³ricos, polÃ­ticos, religiosos y literarios presentes en las novelas.
+
+- [BibliografÃ­a activa completa â€” FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com) â€“ Referencia institucional para localizar la totalidad de novelas, poesÃ­a, cuentos, crÃ³nicas, diarios, memorias, teatro, correspondencia, ensayos y libros infantiles de Saramago. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/bibliografia-activa/?utm_source=chatgpt.com "BibliografÃ­a activa - FundaciÃ³n JosÃ© Saramago"))
 
 # REVISTAS
 
-- [Blimunda](https://www.josesaramago.org/?utm_source=chatgpt.com) – Revista digital mensual y gratuita editada por la Fundação José Saramago. Mantiene actividad regular y constituye una de las publicaciones contemporáneas más importantes vinculadas institucionalmente al legado del escritor. ([Fundação José Saramago](https://www.josesaramago.org/?utm_source=chatgpt.com "Fundação José Saramago"))
-    
-- [Veredas — Revista da Associação Internacional de Lusitanistas](https://lusitanistasail.org/?utm_source=chatgpt.com) – Revista académica especializada en estudios lusófonos. Ha publicado investigaciones específicamente dedicadas a la memoria, escritura y obra de Saramago. ([Revista Veredas](https://revistaveredas.org/index.php/ver/article/download/495/413/729?utm_source=chatgpt.com "Berttoni Licarião | A formação afetiva e literária de José Saramago em As pequenas memórias"))
-    
-- [PMLA — Publications of the Modern Language Association of America](https://www.cambridge.org/core/journals/pmla/article/abs/portuguese-translation-of-oyonos-une-vie-de-boy-jose-saramagos-invisible-postcolonial-intervention/34C9EE38F4FE090941E4D1407DC20AA6?utm_source=chatgpt.com) – Revista internacional de estudios literarios que ha abordado, entre otros aspectos, el trabajo de Saramago como traductor y sus implicaciones poscoloniales. ([Cambridge University Press](https://www.cambridge.org/core/journals/pmla/article/abs/portuguese-translation-of-oyonos-une-vie-de-boy-jose-saramagos-invisible-postcolonial-intervention/34C9EE38F4FE090941E4D1407DC20AA6?utm_source=chatgpt.com "The Portuguese Translation of Oyono's Une vie de boy: José Saramago's Invisible Postcolonial Intervention | PMLA | Cambridge Core"))
-    
-- [Theatre Survey](https://www.cambridge.org/core/journals/theatre-survey/article/blindness-excrement-and-abjection-in-the-theatre-astr-presidential-address-30-october-2021/A9EEFB7FACA0C27137BB9DF6BFCF0CD6?utm_source=chatgpt.com) – Revista académica de estudios teatrales con investigación sobre _Blindness_ y sus adaptaciones escénicas, especialmente relevante para recepción y estudios de discapacidad. ([Cambridge University Press](https://www.cambridge.org/core/journals/theatre-survey/article/blindness-excrement-and-abjection-in-the-theatre-astr-presidential-address-30-october-2021/A9EEFB7FACA0C27137BB9DF6BFCF0CD6?utm_source=chatgpt.com "Blindness, Excrement, and Abjection in the Theatre: ASTR Presidential Address, 30 October 2021 | Theatre Survey | Cambridge Core"))
-    
-- [European Psychiatry](https://www.cambridge.org/core/journals/european-psychiatry/article/jose-saramagos-blindness-and-a-vision-for-mental-healthcare-perspectives-in-the-fields-of-literature-architecture-philosophy-politics-and-economics/FC8D18E0CE8A7C7F62FE44A56CD0C5AF?utm_source=chatgpt.com) – Publicación científica que ha utilizado _Blindness_ como punto de partida interdisciplinario para estudiar espacio, salud mental, filosofía, política y organización social. ([Cambridge University Press](https://www.cambridge.org/core/journals/european-psychiatry/article/jose-saramagos-blindness-and-a-vision-for-mental-healthcare-perspectives-in-the-fields-of-literature-architecture-philosophy-politics-and-economics/FC8D18E0CE8A7C7F62FE44A56CD0C5AF?utm_source=chatgpt.com "José Saramago’s “Blindness” and a Vision for Mental Healthcare: perspectives in the fields of Literature, Architecture, Philosophy, Politics and Economics | European Psychiatry | Cambridge Core"))
-    
-- [O Escritor — Associação Portuguesa de Escritores](https://apescritores.pt/Arquivo/arquivo_2022.php?utm_source=chatgpt.com) – Revista de la APE. En 2022 publicó un volumen monográfico de aproximadamente 430 páginas dedicado a José Saramago, con contribuciones de decenas de escritores e investigadores. ([Apescritores](https://apescritores.pt/Arquivo/arquivo_2022.php?utm_source=chatgpt.com "APE - Associação Portuguesa de Escritores"))
-    
+- [Blimunda](https://www.josesaramago.org/?utm_source=chatgpt.com) â€“ Revista digital mensual y gratuita editada por la FundaÃ§Ã£o JosÃ© Saramago. Mantiene actividad regular y constituye una de las publicaciones contemporÃ¡neas mÃ¡s importantes vinculadas institucionalmente al legado del escritor. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/?utm_source=chatgpt.com "FundaÃ§Ã£o JosÃ© Saramago"))
+
+- [Veredas â€” Revista da AssociaÃ§Ã£o Internacional de Lusitanistas](https://lusitanistasail.org/?utm_source=chatgpt.com) â€“ Revista acadÃ©mica especializada en estudios lusÃ³fonos. Ha publicado investigaciones especÃ­ficamente dedicadas a la memoria, escritura y obra de Saramago. ([Revista Veredas](https://revistaveredas.org/index.php/ver/article/download/495/413/729?utm_source=chatgpt.com "Berttoni LicariÃ£o | A formaÃ§Ã£o afetiva e literÃ¡ria de JosÃ© Saramago em As pequenas memÃ³rias"))
+
+- [PMLA â€” Publications of the Modern Language Association of America](https://www.cambridge.org/core/journals/pmla/article/abs/portuguese-translation-of-oyonos-une-vie-de-boy-jose-saramagos-invisible-postcolonial-intervention/34C9EE38F4FE090941E4D1407DC20AA6?utm_source=chatgpt.com) â€“ Revista internacional de estudios literarios que ha abordado, entre otros aspectos, el trabajo de Saramago como traductor y sus implicaciones poscoloniales. ([Cambridge University Press](https://www.cambridge.org/core/journals/pmla/article/abs/portuguese-translation-of-oyonos-une-vie-de-boy-jose-saramagos-invisible-postcolonial-intervention/34C9EE38F4FE090941E4D1407DC20AA6?utm_source=chatgpt.com "The Portuguese Translation of Oyono's Une vie de boy: JosÃ© Saramago's Invisible Postcolonial Intervention | PMLA | Cambridge Core"))
+
+- [Theatre Survey](https://www.cambridge.org/core/journals/theatre-survey/article/blindness-excrement-and-abjection-in-the-theatre-astr-presidential-address-30-october-2021/A9EEFB7FACA0C27137BB9DF6BFCF0CD6?utm_source=chatgpt.com) â€“ Revista acadÃ©mica de estudios teatrales con investigaciÃ³n sobre _Blindness_ y sus adaptaciones escÃ©nicas, especialmente relevante para recepciÃ³n y estudios de discapacidad. ([Cambridge University Press](https://www.cambridge.org/core/journals/theatre-survey/article/blindness-excrement-and-abjection-in-the-theatre-astr-presidential-address-30-october-2021/A9EEFB7FACA0C27137BB9DF6BFCF0CD6?utm_source=chatgpt.com "Blindness, Excrement, and Abjection in the Theatre: ASTR Presidential Address, 30 October 2021 | Theatre Survey | Cambridge Core"))
+
+- [European Psychiatry](https://www.cambridge.org/core/journals/european-psychiatry/article/jose-saramagos-blindness-and-a-vision-for-mental-healthcare-perspectives-in-the-fields-of-literature-architecture-philosophy-politics-and-economics/FC8D18E0CE8A7C7F62FE44A56CD0C5AF?utm_source=chatgpt.com) â€“ PublicaciÃ³n cientÃ­fica que ha utilizado _Blindness_ como punto de partida interdisciplinario para estudiar espacio, salud mental, filosofÃ­a, polÃ­tica y organizaciÃ³n social. ([Cambridge University Press](https://www.cambridge.org/core/journals/european-psychiatry/article/jose-saramagos-blindness-and-a-vision-for-mental-healthcare-perspectives-in-the-fields-of-literature-architecture-philosophy-politics-and-economics/FC8D18E0CE8A7C7F62FE44A56CD0C5AF?utm_source=chatgpt.com "JosÃ© Saramagoâ€™s â€œBlindnessâ€ and a Vision for Mental Healthcare: perspectives in the fields of Literature, Architecture, Philosophy, Politics and Economics | European Psychiatry | Cambridge Core"))
+
+- [O Escritor â€” AssociaÃ§Ã£o Portuguesa de Escritores](https://apescritores.pt/Arquivo/arquivo_2022.php?utm_source=chatgpt.com) â€“ Revista de la APE. En 2022 publicÃ³ un volumen monogrÃ¡fico de aproximadamente 430 pÃ¡ginas dedicado a JosÃ© Saramago, con contribuciones de decenas de escritores e investigadores. ([Apescritores](https://apescritores.pt/Arquivo/arquivo_2022.php?utm_source=chatgpt.com "APE - AssociaÃ§Ã£o Portuguesa de Escritores"))
 
 # MUSEOS
 
@@ -145,93 +146,86 @@
 
 ![Image](https://images.openai.com/static-rsc-4/dJ3MM30SEFgE-CAHB3_OW_xr4oGNV5kKO7PyXNdwMW8TGrSJRk4bsI7o4uA4p9ZaMIsyZ_rKHsaFjFvOPR3dccqOjU8Io5L-Dw0Ync1sn093WUPF4IjSmEAkbE9Pejyx_K8weTqothav2APIIKTqbA1ZTZDgTXXcS8Nq9bak7bppVSB0S6ufs1_7aqb98BBR?purpose=fullsize)
 
-- [A Casa José Saramago — Tías, Lanzarote](https://acasajosesaramago.com/?utm_source=chatgpt.com) – Casa-museo instalada en la residencia del escritor. Conserva espacios domésticos, biblioteca, jardín y entorno de trabajo, proporcionando una aproximación documental a sus últimos dieciocho años. ([A Casa Jose Saramago](https://acasajosesaramago.com/la-casa/?utm_source=chatgpt.com "La casa - A Casa Jose Saramago"))
-    
-- [Casa dos Bicos — Fundação José Saramago](https://www.josesaramago.org/contactos-e-informacoes/?utm_source=chatgpt.com) – Sede de la Fundación en Lisboa y principal espacio expositivo dedicado a Saramago. Alberga la exposición permanente sobre su vida y obra y documentación relacionada con su proceso creativo. ([Fundação José Saramago](https://www.josesaramago.org/contactos-e-informacoes/?utm_source=chatgpt.com "Contactos e Informações - Fundação José Saramago"))
-    
-- [Delegação da Azinhaga — Fundação José Saramago](https://www.josesaramago.org/?utm_source=chatgpt.com) – Espacio institucional en la localidad natal del escritor, reabierto en 2026 y vinculado a la preservación y difusión de su memoria en el territorio de origen. ([Fundação José Saramago](https://www.josesaramago.org/?utm_source=chatgpt.com "Fundação José Saramago"))
-    
+- [A Casa JosÃ© Saramago â€” TÃ­as, Lanzarote](https://acasajosesaramago.com/?utm_source=chatgpt.com) â€“ Casa-museo instalada en la residencia del escritor. Conserva espacios domÃ©sticos, biblioteca, jardÃ­n y entorno de trabajo, proporcionando una aproximaciÃ³n documental a sus Ãºltimos dieciocho aÃ±os. ([A Casa Jose Saramago](https://acasajosesaramago.com/la-casa/?utm_source=chatgpt.com "La casa - A Casa Jose Saramago"))
+
+- [Casa dos Bicos â€” FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/contactos-e-informacoes/?utm_source=chatgpt.com) â€“ Sede de la FundaciÃ³n en Lisboa y principal espacio expositivo dedicado a Saramago. Alberga la exposiciÃ³n permanente sobre su vida y obra y documentaciÃ³n relacionada con su proceso creativo. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/contactos-e-informacoes/?utm_source=chatgpt.com "Contactos e InformaÃ§Ãµes - FundaÃ§Ã£o JosÃ© Saramago"))
+
+- [DelegaÃ§Ã£o da Azinhaga â€” FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/?utm_source=chatgpt.com) â€“ Espacio institucional en la localidad natal del escritor, reabierto en 2026 y vinculado a la preservaciÃ³n y difusiÃ³n de su memoria en el territorio de origen. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/?utm_source=chatgpt.com "FundaÃ§Ã£o JosÃ© Saramago"))
 
 # UNIVERSIDADES
 
-- [I Cátedra Internacional José Saramago — Universidade de Vigo](https://catedrasaramago.webs.uvigo.es/?utm_source=chatgpt.com) – Uno de los principales polos académicos específicamente dedicados al estudio sistemático de la obra y pensamiento saramaguianos; mantiene congresos, publicaciones y proyectos bibliográficos.
-    
-- [Cátedra José Saramago — Universitat Autònoma de Barcelona](https://webs.uab.cat/catedrajosesaramago/?utm_source=chatgpt.com) – Cátedra multidisciplinar dedicada a literatura, traducción, lengua, historia y documentación, con proyectos sobre relaciones culturales ibéricas y mundo lusófono. ([Webs UAB](https://webs.uab.cat/catedrajosesaramago/?utm_source=chatgpt.com "Cátedra José Saramago"))
-    
-- [Biblioteca de Humanidades — Colección José Saramago, Universitat Autònoma de Barcelona](https://www.uab.cat/es/bibliotecas/coleccion-catedra-jose-saramago?utm_source=chatgpt.com) – Fondo especializado con cerca de doscientas obras, incluidas ediciones originales y traducciones, particularmente valioso para estudios bibliográficos y de recepción. ([UAB Barcelona](https://www.uab.cat/es/bibliotecas/coleccion-catedra-jose-saramago?utm_source=chatgpt.com "Colección Instituto Camões / Cátedra José Saramago - UAB Barcelona"))
-    
-- [Cátedra José Saramago — Universidad de Granada](https://www.ugr.es/catedras/jose-saramago?utm_source=chatgpt.com) – Centro creado en 2007 para investigación y difusión de literatura portuguesa y cuestiones relacionadas con derechos humanos, medio ambiente, migraciones y desigualdad. ([Universidad de Granada](https://www.ugr.es/catedras/jose-saramago?utm_source=chatgpt.com "Cátedra José Saramago | Universidad de Granada"))
-    
-- [Cátedra Extraordinaria José Saramago — Universidad Nacional Autónoma de México](https://ced.enallt.unam.mx/camoes/interiores/catedra/catedra_extraordinaria_jose_saramago.pdf?utm_source=chatgpt.com) – Espacio académico para proyectos conjuntos de investigación, cursos, coloquios, conferencias y publicaciones relacionados con lengua y cultura portuguesas. ([ENALLT](https://ced.enallt.unam.mx/camoes/interiores/catedra/catedra_extraordinaria_jose_saramago.pdf?utm_source=chatgpt.com "Cátedra Extraordinaria José Saramago"))
-    
-- [Cátedra Libre José Saramago — Universidad Nacional de Córdoba](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com) – Integrada en la red internacional JANGADA; surgió de un equipo dedicado inicialmente al estudio de las estrategias narrativas de Saramago. ([Jangada](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com "Membros – Rede JANGADA"))
-    
-- [Cátedra José Saramago — Università degli Studi Roma Tre](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com) – Cátedra italiana fundada en 2003 mediante protocolo con Instituto Camões e integrada actualmente en la red internacional de centros relacionados con Saramago. ([Jangada](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com "Membros – Rede JANGADA"))
-    
-- [Universidade de Coimbra — Associação Internacional de Lusitanistas](https://lusitanistasail.org/ail/estatutos.html?utm_source=chatgpt.com) – La Facultad de Letras alberga la sede de la AIL, una de las principales organizaciones científicas internacionales para el estudio de literatura y cultura lusófonas. ([AIL](https://lusitanistasail.org/ail/estatutos.html?utm_source=chatgpt.com "AIL - Associação Internacional de Lusitanistas - Estatutos"))
-    
+- [I CÃ¡tedra Internacional JosÃ© Saramago â€” Universidade de Vigo](https://catedrasaramago.webs.uvigo.es/?utm_source=chatgpt.com) â€“ Uno de los principales polos acadÃ©micos especÃ­ficamente dedicados al estudio sistemÃ¡tico de la obra y pensamiento saramaguianos; mantiene congresos, publicaciones y proyectos bibliogrÃ¡ficos.
+
+- [CÃ¡tedra JosÃ© Saramago â€” Universitat AutÃ²noma de Barcelona](https://webs.uab.cat/catedrajosesaramago/?utm_source=chatgpt.com) â€“ CÃ¡tedra multidisciplinar dedicada a literatura, traducciÃ³n, lengua, historia y documentaciÃ³n, con proyectos sobre relaciones culturales ibÃ©ricas y mundo lusÃ³fono. ([Webs UAB](https://webs.uab.cat/catedrajosesaramago/?utm_source=chatgpt.com "CÃ¡tedra JosÃ© Saramago"))
+
+- [Biblioteca de Humanidades â€” ColecciÃ³n JosÃ© Saramago, Universitat AutÃ²noma de Barcelona](https://www.uab.cat/es/bibliotecas/coleccion-catedra-jose-saramago?utm_source=chatgpt.com) â€“ Fondo especializado con cerca de doscientas obras, incluidas ediciones originales y traducciones, particularmente valioso para estudios bibliogrÃ¡ficos y de recepciÃ³n. ([UAB Barcelona](https://www.uab.cat/es/bibliotecas/coleccion-catedra-jose-saramago?utm_source=chatgpt.com "ColecciÃ³n Instituto CamÃµes / CÃ¡tedra JosÃ© Saramago - UAB Barcelona"))
+
+- [CÃ¡tedra JosÃ© Saramago â€” Universidad de Granada](https://www.ugr.es/catedras/jose-saramago?utm_source=chatgpt.com) â€“ Centro creado en 2007 para investigaciÃ³n y difusiÃ³n de literatura portuguesa y cuestiones relacionadas con derechos humanos, medio ambiente, migraciones y desigualdad. ([Universidad de Granada](https://www.ugr.es/catedras/jose-saramago?utm_source=chatgpt.com "CÃ¡tedra JosÃ© Saramago | Universidad de Granada"))
+
+- [CÃ¡tedra Extraordinaria JosÃ© Saramago â€” Universidad Nacional AutÃ³noma de MÃ©xico](https://ced.enallt.unam.mx/camoes/interiores/catedra/catedra_extraordinaria_jose_saramago.pdf?utm_source=chatgpt.com) â€“ Espacio acadÃ©mico para proyectos conjuntos de investigaciÃ³n, cursos, coloquios, conferencias y publicaciones relacionados con lengua y cultura portuguesas. ([ENALLT](https://ced.enallt.unam.mx/camoes/interiores/catedra/catedra_extraordinaria_jose_saramago.pdf?utm_source=chatgpt.com "CÃ¡tedra Extraordinaria JosÃ© Saramago"))
+
+- [CÃ¡tedra Libre JosÃ© Saramago â€” Universidad Nacional de CÃ³rdoba](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com) â€“ Integrada en la red internacional JANGADA; surgiÃ³ de un equipo dedicado inicialmente al estudio de las estrategias narrativas de Saramago. ([Jangada](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com "Membros â€“ Rede JANGADA"))
+
+- [CÃ¡tedra JosÃ© Saramago â€” UniversitÃ  degli Studi Roma Tre](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com) â€“ CÃ¡tedra italiana fundada en 2003 mediante protocolo con Instituto CamÃµes e integrada actualmente en la red internacional de centros relacionados con Saramago. ([Jangada](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com "Membros â€“ Rede JANGADA"))
+
+- [Universidade de Coimbra â€” AssociaÃ§Ã£o Internacional de Lusitanistas](https://lusitanistasail.org/ail/estatutos.html?utm_source=chatgpt.com) â€“ La Facultad de Letras alberga la sede de la AIL, una de las principales organizaciones cientÃ­ficas internacionales para el estudio de literatura y cultura lusÃ³fonas. ([AIL](https://lusitanistasail.org/ail/estatutos.html?utm_source=chatgpt.com "AIL - AssociaÃ§Ã£o Internacional de Lusitanistas - Estatutos"))
 
 # ASOCIACIONES
 
-- [Fundação José Saramago](https://www.josesaramago.org/es/?utm_source=chatgpt.com) – Institución de referencia para preservar, investigar y difundir la obra y el legado intelectual del escritor. Promueve asimismo literatura en lengua portuguesa, derechos humanos y defensa del medio ambiente. ([Fundação José Saramago](https://www.josesaramago.org/es/preguntas-frecuentes/?utm_source=chatgpt.com "Preguntas frecuentes - Fundación José Saramago"))
-    
-- [Associação Portuguesa de Escritores](https://www.apescritores.pt/?utm_source=chatgpt.com) – Organización profesional portuguesa de escritores. Saramago estuvo ligado a su primera dirección y recibió importantes reconocimientos de la institución. ([Diário de Notícias](https://www.dn.pt/arquivo/diario-de-noticias/biografia---jose-de-sousa-saramago.html?utm_source=chatgpt.com "Biografia - José de Sousa Saramago"))
-    
-- [Associação Internacional de Lusitanistas](https://www.lusitanistasail.org/pt/sobre-a-ail?utm_source=chatgpt.com) – Asociación científica internacional con miembros de numerosos países dedicada a lengua, literatura y culturas lusófonas; publica _Veredas_ y organiza congresos especializados. ([AIL](https://www.lusitanistasail.org/ail/apresentacao.html?utm_source=chatgpt.com "AIL - Associação Internacional de Lusitanistas - Apresentação"))
-    
-- [Rede JANGADA](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com) – Red internacional que conecta cátedras y centros de investigación de Europa y América, incluidos varios espacios específicamente dedicados a José Saramago.
-    
-- [Amigas e Amigos de José Saramago](https://www.josesaramago.org/amigos-da-fundacao-jose-saramago/?utm_source=chatgpt.com) – Comunidad vinculada institucionalmente a la Fundação José Saramago y a sus programas culturales, patrimoniales y de divulgación. ([Fundação José Saramago](https://www.josesaramago.org/amigos-da-fundacao-jose-saramago/?utm_source=chatgpt.com "Amigos da Fundação José Saramago - Fundação José Saramago"))
-    
+- [FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/?utm_source=chatgpt.com) â€“ InstituciÃ³n de referencia para preservar, investigar y difundir la obra y el legado intelectual del escritor. Promueve asimismo literatura en lengua portuguesa, derechos humanos y defensa del medio ambiente. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/preguntas-frecuentes/?utm_source=chatgpt.com "Preguntas frecuentes - FundaciÃ³n JosÃ© Saramago"))
+
+- [AssociaÃ§Ã£o Portuguesa de Escritores](https://www.apescritores.pt/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n profesional portuguesa de escritores. Saramago estuvo ligado a su primera direcciÃ³n y recibiÃ³ importantes reconocimientos de la instituciÃ³n. ([DiÃ¡rio de NotÃ­cias](https://www.dn.pt/arquivo/diario-de-noticias/biografia---jose-de-sousa-saramago.html?utm_source=chatgpt.com "Biografia - JosÃ© de Sousa Saramago"))
+
+- [AssociaÃ§Ã£o Internacional de Lusitanistas](https://www.lusitanistasail.org/pt/sobre-a-ail?utm_source=chatgpt.com) â€“ AsociaciÃ³n cientÃ­fica internacional con miembros de numerosos paÃ­ses dedicada a lengua, literatura y culturas lusÃ³fonas; publica _Veredas_ y organiza congresos especializados. ([AIL](https://www.lusitanistasail.org/ail/apresentacao.html?utm_source=chatgpt.com "AIL - AssociaÃ§Ã£o Internacional de Lusitanistas - ApresentaÃ§Ã£o"))
+
+- [Rede JANGADA](https://jangada.webs.uvigo.gal/portfolio_group/membros/?utm_source=chatgpt.com) â€“ Red internacional que conecta cÃ¡tedras y centros de investigaciÃ³n de Europa y AmÃ©rica, incluidos varios espacios especÃ­ficamente dedicados a JosÃ© Saramago.
+
+- [Amigas e Amigos de JosÃ© Saramago](https://www.josesaramago.org/amigos-da-fundacao-jose-saramago/?utm_source=chatgpt.com) â€“ Comunidad vinculada institucionalmente a la FundaÃ§Ã£o JosÃ© Saramago y a sus programas culturales, patrimoniales y de divulgaciÃ³n. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/amigos-da-fundacao-jose-saramago/?utm_source=chatgpt.com "Amigos da FundaÃ§Ã£o JosÃ© Saramago - FundaÃ§Ã£o JosÃ© Saramago"))
 
 # NEWSLETTER
 
-- [Newsletter — Fundação José Saramago](https://www.josesaramago.org/?utm_source=chatgpt.com) – Boletín oficial de la Fundación para recibir información sobre programación, publicaciones, actividades, exposiciones, iniciativas educativas y novedades relacionadas con el legado de Saramago.
-    
-- [Blimunda](https://www.josesaramago.org/es/?utm_source=chatgpt.com) – Aunque formalmente es una revista digital mensual y no una newsletter convencional, constituye el recurso periódico institucional más importante para seguir la actividad literaria y cultural de la Fundação José Saramago. ([Fundação José Saramago](https://www.josesaramago.org/es/?utm_source=chatgpt.com "Fundación José Saramago"))
-    
+- [Newsletter â€” FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/?utm_source=chatgpt.com) â€“ BoletÃ­n oficial de la FundaciÃ³n para recibir informaciÃ³n sobre programaciÃ³n, publicaciones, actividades, exposiciones, iniciativas educativas y novedades relacionadas con el legado de Saramago.
+
+- [Blimunda](https://www.josesaramago.org/es/?utm_source=chatgpt.com) â€“ Aunque formalmente es una revista digital mensual y no una newsletter convencional, constituye el recurso periÃ³dico institucional mÃ¡s importante para seguir la actividad literaria y cultural de la FundaÃ§Ã£o JosÃ© Saramago. ([FundaÃ§Ã£o JosÃ© Saramago](https://www.josesaramago.org/es/?utm_source=chatgpt.com "FundaciÃ³n JosÃ© Saramago"))
 
 # TV
 
-- [RTP Play — José Saramago / archivo audiovisual](https://www.rtp.pt/programa/tv/p31980/e2?utm_source=chatgpt.com) – Archivo de la radiotelevisión pública portuguesa con documentales, entrevistas, programas culturales y piezas históricas relacionadas con Saramago.
-    
-- [Herdeiros de Saramago — RTP](https://www.rtp.pt/play/p7972/herdeiros-de-saramago?utm_source=chatgpt.com) – Serie documental de once episodios sobre escritores distinguidos con el Prémio Literário José Saramago, útil para estudiar la continuidad e influencia de su legado en la literatura lusófona. ([RTP](https://www.rtp.pt/play/p7972/herdeiros-de-saramago?utm_source=chatgpt.com "Herdeiros de Saramago - RTP Play"))
-    
-- [RTP Sempre — José Saramago](https://www.rtp.pt/programa/tv/p31980/e2?utm_source=chatgpt.com) – Documental que examina la controversia política provocada por _O Evangelho Segundo Jesus Cristo_ y su exclusión de la candidatura portuguesa a un premio literario europeo. ([RTP](https://www.rtp.pt/programa/tv/p31980/e2?utm_source=chatgpt.com "José Saramago (Episódio Sousa Lara) - RTP Sempre - Documentários - RTP"))
-    
+- [RTP Play â€” JosÃ© Saramago / archivo audiovisual](https://www.rtp.pt/programa/tv/p31980/e2?utm_source=chatgpt.com) â€“ Archivo de la radiotelevisiÃ³n pÃºblica portuguesa con documentales, entrevistas, programas culturales y piezas histÃ³ricas relacionadas con Saramago.
+
+- [Herdeiros de Saramago â€” RTP](https://www.rtp.pt/play/p7972/herdeiros-de-saramago?utm_source=chatgpt.com) â€“ Serie documental de once episodios sobre escritores distinguidos con el PrÃ©mio LiterÃ¡rio JosÃ© Saramago, Ãºtil para estudiar la continuidad e influencia de su legado en la literatura lusÃ³fona. ([RTP](https://www.rtp.pt/play/p7972/herdeiros-de-saramago?utm_source=chatgpt.com "Herdeiros de Saramago - RTP Play"))
+
+- [RTP Sempre â€” JosÃ© Saramago](https://www.rtp.pt/programa/tv/p31980/e2?utm_source=chatgpt.com) â€“ Documental que examina la controversia polÃ­tica provocada por _O Evangelho Segundo Jesus Cristo_ y su exclusiÃ³n de la candidatura portuguesa a un premio literario europeo. ([RTP](https://www.rtp.pt/programa/tv/p31980/e2?utm_source=chatgpt.com "JosÃ© Saramago (EpisÃ³dio Sousa Lara) - RTP Sempre - DocumentÃ¡rios - RTP"))
 
 # RADIO
 
-- [RTP Antena 2 — Centenário José Saramago](https://antena2.rtp.pt/programa/centenario-jose-saramago/?utm_source=chatgpt.com) – La emisora cultural pública portuguesa produjo, junto con la Fundação José Saramago, un amplio ciclo de lecturas de la obra durante el centenario. ([RTP Antena 2](https://antena2.rtp.pt/programa/centenario-jose-saramago/?utm_source=chatgpt.com "Centenário José Saramago | RTP Antena 2"))
-    
-- [RTP Antena 1](https://antena1.rtp.pt/cultura/vamos-falar-sobre-livros/?utm_source=chatgpt.com) – Emisora pública con entrevistas, programas culturales y educativos sobre literatura portuguesa y abundante documentación sonora relacionada con Saramago.
-    
-- [RTP Rádio Zig Zag — Histórias Para Inspirar](https://www.rtp.pt/play/zigzag/p16360/e939387/historias-para-inspirar?utm_source=chatgpt.com) – Emisora y plataforma infantil de RTP que en 2026 incorporó _Jerónimo e Josefa_, texto de Saramago relacionado con sus recuerdos de infancia. ([RTP](https://www.rtp.pt/play/zigzag/p16360/e939387/historias-para-inspirar?utm_source=chatgpt.com "Histórias Para Inspirar de 29 jun 2026 - RTP Zig Zag"))
-    
+- [RTP Antena 2 â€” CentenÃ¡rio JosÃ© Saramago](https://antena2.rtp.pt/programa/centenario-jose-saramago/?utm_source=chatgpt.com) â€“ La emisora cultural pÃºblica portuguesa produjo, junto con la FundaÃ§Ã£o JosÃ© Saramago, un amplio ciclo de lecturas de la obra durante el centenario. ([RTP Antena 2](https://antena2.rtp.pt/programa/centenario-jose-saramago/?utm_source=chatgpt.com "CentenÃ¡rio JosÃ© Saramago | RTP Antena 2"))
+
+- [RTP Antena 1](https://antena1.rtp.pt/cultura/vamos-falar-sobre-livros/?utm_source=chatgpt.com) â€“ Emisora pÃºblica con entrevistas, programas culturales y educativos sobre literatura portuguesa y abundante documentaciÃ³n sonora relacionada con Saramago.
+
+- [RTP RÃ¡dio Zig Zag â€” HistÃ³rias Para Inspirar](https://www.rtp.pt/play/zigzag/p16360/e939387/historias-para-inspirar?utm_source=chatgpt.com) â€“ Emisora y plataforma infantil de RTP que en 2026 incorporÃ³ _JerÃ³nimo e Josefa_, texto de Saramago relacionado con sus recuerdos de infancia. ([RTP](https://www.rtp.pt/play/zigzag/p16360/e939387/historias-para-inspirar?utm_source=chatgpt.com "HistÃ³rias Para Inspirar de 29 jun 2026 - RTP Zig Zag"))
 
 # PRENSA ONLINE
 
-- [Diário de Notícias — José Saramago](https://www.dn.pt/topic/jos%C3%A9-saramago?utm_source=chatgpt.com) – Archivo temático especialmente relevante porque Saramago fue director adjunto del periódico en 1975. Reúne noticias, biografías, documentos históricos y seguimiento de su legado. ([Diário de Notícias](https://www.dn.pt/cultura/fundado-na-monarquia-o-dn-viu-nascer-a-repblica-viveu-o-estado-novo-e-noticiou-o-25-de-abril?utm_source=chatgpt.com "História do DN: 161 Anos de Jornalismo e Momentos Marcantes"))
-    
-- [The Guardian — José Saramago](https://www.theguardian.com/books/jose-saramago?utm_source=chatgpt.com) – Archivo especializado del periódico británico con críticas de libros, obituarios, estudios de recepción y noticias sobre publicaciones póstumas y adaptaciones.
-    
-- [Le Monde des livres](https://www.lemonde.fr/livres/?utm_source=chatgpt.com) – Suplemento literario francés que mantiene cobertura de la obra de Saramago; en agosto de 2026 publicó una crítica de la traducción francesa de _La Veuve_. ([Le Monde.fr](https://www.lemonde.fr/livres/article/2026/08/20/notre-selection-de-livres-cette-semaine-la-lettre-une-femme-disparait-la-veuve_6750369_3260.html?utm_source=chatgpt.com "Notre sélection de livres cette semaine : « La Lettre », « Une femme disparaît », « La Veuve »…"))
-    
-- [Folha de S.Paulo — archivo José Saramago](https://search.folha.uol.com.br/search?q=%2522jose+saramago%2522&site=online&utm_source=chatgpt.com) – Amplio archivo brasileño con centenares de referencias al escritor, su obra, adaptaciones, Premio José Saramago y recepción en el espacio lusófono. ([Folha Search](https://search.folha.uol.com.br/search?q=%2522jose+saramago%2522&site=online&utm_source=chatgpt.com "Busca: \"jose saramago\" - Folha de S.Paulo"))
-    
-- [EL PAÍS](https://elpais.com/?utm_source=chatgpt.com) – Periódico español con un extenso archivo cultural sobre Saramago, incluidas entrevistas, artículos, recepción de su obra, materiales inéditos y seguimiento de su presencia en la cultura contemporánea.
-    
+- [DiÃ¡rio de NotÃ­cias â€” JosÃ© Saramago](https://www.dn.pt/topic/jos%C3%A9-saramago?utm_source=chatgpt.com) â€“ Archivo temÃ¡tico especialmente relevante porque Saramago fue director adjunto del periÃ³dico en 1975. ReÃºne noticias, biografÃ­as, documentos histÃ³ricos y seguimiento de su legado. ([DiÃ¡rio de NotÃ­cias](https://www.dn.pt/cultura/fundado-na-monarquia-o-dn-viu-nascer-a-repblica-viveu-o-estado-novo-e-noticiou-o-25-de-abril?utm_source=chatgpt.com "HistÃ³ria do DN: 161 Anos de Jornalismo e Momentos Marcantes"))
+
+- [The Guardian â€” JosÃ© Saramago](https://www.theguardian.com/books/jose-saramago?utm_source=chatgpt.com) â€“ Archivo especializado del periÃ³dico britÃ¡nico con crÃ­ticas de libros, obituarios, estudios de recepciÃ³n y noticias sobre publicaciones pÃ³stumas y adaptaciones.
+
+- [Le Monde des livres](https://www.lemonde.fr/livres/?utm_source=chatgpt.com) â€“ Suplemento literario francÃ©s que mantiene cobertura de la obra de Saramago; en agosto de 2026 publicÃ³ una crÃ­tica de la traducciÃ³n francesa de _La Veuve_. ([Le Monde.fr](https://www.lemonde.fr/livres/article/2026/08/20/notre-selection-de-livres-cette-semaine-la-lettre-une-femme-disparait-la-veuve_6750369_3260.html?utm_source=chatgpt.com "Notre sÃ©lection de livres cette semaineÂ : Â«Â La LettreÂ Â», Â«Â Une femme disparaÃ®tÂ Â», Â«Â La VeuveÂ Â»â€¦"))
+
+- [Folha de S.Paulo â€” archivo JosÃ© Saramago](https://search.folha.uol.com.br/search?q=%2522jose+saramago%2522\&site=online\&utm_source=chatgpt.com) â€“ Amplio archivo brasileÃ±o con centenares de referencias al escritor, su obra, adaptaciones, Premio JosÃ© Saramago y recepciÃ³n en el espacio lusÃ³fono. ([Folha Search](https://search.folha.uol.com.br/search?q=%2522jose+saramago%2522\&site=online\&utm_source=chatgpt.com "Busca: \"jose saramago\" - Folha de S.Paulo"))
+
+- [EL PAÃS](https://elpais.com/?utm_source=chatgpt.com) â€“ PeriÃ³dico espaÃ±ol con un extenso archivo cultural sobre Saramago, incluidas entrevistas, artÃ­culos, recepciÃ³n de su obra, materiales inÃ©ditos y seguimiento de su presencia en la cultura contemporÃ¡nea.
 
 # PRENSA ESCRITA
 
-- [Diário de Notícias](https://www.dn.pt/cultura/fundado-na-monarquia-o-dn-viu-nascer-a-repblica-viveu-o-estado-novo-e-noticiou-o-25-de-abril?utm_source=chatgpt.com) – Periódico histórico portugués indispensable para estudiar la dimensión periodística y política de Saramago. Fue director adjunto entre abril y noviembre de 1975. ([Diário de Notícias](https://www.dn.pt/arquivo/diario-de-noticias/biografia---jose-de-sousa-saramago.html?utm_source=chatgpt.com "Biografia - José de Sousa Saramago"))
-    
-- [EL PAÍS](https://elpais.com/?utm_source=chatgpt.com) – Diario español con una prolongada relación documental con Saramago como entrevistado, colaborador y objeto de crítica literaria y cultural.
-    
-- [Le Monde — Le Monde des livres](https://www.lemonde.fr/livres/?utm_source=chatgpt.com) – Referencia de la recepción francesa de Saramago. Su archivo permite seguir tanto la crítica de sus libros como la construcción de su figura literaria internacional. ([Le Monde.fr](https://www.lemonde.fr/disparitions/article/2010/06/18/la-virgule-de-jose-saramago_1375262_3382.html?utm_source=chatgpt.com "La virgule de José Saramago"))
-    
-- [The Guardian — Books](https://www.theguardian.com/books/jose-saramago?utm_source=chatgpt.com) – Suplemento cultural británico con un archivo significativo de reseñas de las traducciones inglesas, análisis de novelas, adaptaciones teatrales y obituarios.
-    
-- [Folha de S.Paulo](https://search.folha.uol.com.br/search?q=%2522jose+saramago%2522&site=online&utm_source=chatgpt.com) – Diario brasileño fundamental para estudiar la recepción de Saramago en Brasil y su inserción en el sistema literario de lengua portuguesa.
-    
-- [O Escritor — Associação Portuguesa de Escritores](https://apescritores.pt/Arquivo/arquivo_2022.php?utm_source=chatgpt.com) – Publicación de la APE que dedicó en 2022 un extenso número monográfico a Saramago con 43 colaboradores, constituyendo una fuente colectiva especialmente relevante para investigación crítica. ([Apescritores](https://apescritores.pt/Arquivo/arquivo_2022.php?utm_source=chatgpt.com "APE - Associação Portuguesa de Escritores"))
+- [DiÃ¡rio de NotÃ­cias](https://www.dn.pt/cultura/fundado-na-monarquia-o-dn-viu-nascer-a-repblica-viveu-o-estado-novo-e-noticiou-o-25-de-abril?utm_source=chatgpt.com) â€“ PeriÃ³dico histÃ³rico portuguÃ©s indispensable para estudiar la dimensiÃ³n periodÃ­stica y polÃ­tica de Saramago. Fue director adjunto entre abril y noviembre de 1975. ([DiÃ¡rio de NotÃ­cias](https://www.dn.pt/arquivo/diario-de-noticias/biografia---jose-de-sousa-saramago.html?utm_source=chatgpt.com "Biografia - JosÃ© de Sousa Saramago"))
+
+- [EL PAÃS](https://elpais.com/?utm_source=chatgpt.com) â€“ Diario espaÃ±ol con una prolongada relaciÃ³n documental con Saramago como entrevistado, colaborador y objeto de crÃ­tica literaria y cultural.
+
+- [Le Monde â€” Le Monde des livres](https://www.lemonde.fr/livres/?utm_source=chatgpt.com) â€“ Referencia de la recepciÃ³n francesa de Saramago. Su archivo permite seguir tanto la crÃ­tica de sus libros como la construcciÃ³n de su figura literaria internacional. ([Le Monde.fr](https://www.lemonde.fr/disparitions/article/2010/06/18/la-virgule-de-jose-saramago_1375262_3382.html?utm_source=chatgpt.com "La virgule de JosÃ© Saramago"))
+
+- [The Guardian â€” Books](https://www.theguardian.com/books/jose-saramago?utm_source=chatgpt.com) â€“ Suplemento cultural britÃ¡nico con un archivo significativo de reseÃ±as de las traducciones inglesas, anÃ¡lisis de novelas, adaptaciones teatrales y obituarios.
+
+- [Folha de S.Paulo](https://search.folha.uol.com.br/search?q=%2522jose+saramago%2522\&site=online\&utm_source=chatgpt.com) â€“ Diario brasileÃ±o fundamental para estudiar la recepciÃ³n de Saramago en Brasil y su inserciÃ³n en el sistema literario de lengua portuguesa.
+
+- [O Escritor â€” AssociaÃ§Ã£o Portuguesa de Escritores](https://apescritores.pt/Arquivo/arquivo_2022.php?utm_source=chatgpt.com) â€“ PublicaciÃ³n de la APE que dedicÃ³ en 2022 un extenso nÃºmero monogrÃ¡fico a Saramago con 43 colaboradores, constituyendo una fuente colectiva especialmente relevante para investigaciÃ³n crÃ­tica. ([Apescritores](https://apescritores.pt/Arquivo/arquivo_2022.php?utm_source=chatgpt.com "APE - AssociaÃ§Ã£o Portuguesa de Escritores"))

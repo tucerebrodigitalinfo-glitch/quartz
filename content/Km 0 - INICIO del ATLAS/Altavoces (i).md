@@ -1,900 +1,926 @@
-#Índices #Electrónica #Audio
+---
+publish: true
+created: 2026-08-06T05:18:54.317Z
+modified: 2026-09-17T10:14:22.607Z
+---
 
-![[altavoces.jpg]]
-✅ **Enlaces comprobados y operativos el 21 de julio de 2026.** Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+#Ãndices #ElectrÃ³nica #Audio
+
+![[Biblioteca/altavoces.jpg]]
+âœ… **Enlaces comprobados y operativos el 21 de julio de 2026.** Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
 
 ## [WIKIPEDIA: Altavoces](https://es.wikipedia.org/wiki/Altavoz?wprov=sfla1)
 
 # WEB
 
-- **Audio Science Review** — [https://www.audiosciencereview.com/](https://www.audiosciencereview.com/)  
-    Referencia mundial en mediciones objetivas de altavoces, amplificadores y DAC.
-    
-- **Erin's Audio Corner** — [https://www.erinsaudiocorner.com/](https://www.erinsaudiocorner.com/)  
-    Mediciones independientes de altavoces con metodología científica.
-    
-- **Spinorama.org** — [https://www.spinorama.org/](https://www.spinorama.org/)  
-    Base de datos internacional de mediciones Spinorama (CEA-2034).
-    
-- **RTINGS – Speakers** — [https://www.rtings.com/speaker](https://www.rtings.com/speaker)  
-    Comparativas y análisis de altavoces domésticos, inteligentes y Bluetooth.
-    
-- **Stereophile** — [https://www.stereophile.com/](https://www.stereophile.com/)  
-    Revista histórica con pruebas de laboratorio y análisis de cajas acústicas.
-    
-- **The Absolute Sound** — [https://www.theabsolutesound.com/](https://www.theabsolutesound.com/)  
-    Referencia internacional en alta fidelidad y altavoces High-End.
-    
-- **What Hi-Fi?** — [https://www.whathifi.com/](https://www.whathifi.com/)  
-    Análisis, comparativas y premios de altavoces Hi-Fi.
-    
-- **Audioholics** — [https://www.audioholics.com/](https://www.audioholics.com/)  
-    Ingeniería acústica, cine en casa y mediciones.
-    
-- **StereoNET** — [https://www.stereonet.com/](https://www.stereonet.com/)  
-    Comunidad internacional especializada en alta fidelidad.
-    
-- **SoundStage! Network** — [https://www.soundstageglobal.com/](https://www.soundstageglobal.com/)  
-    Revisiones técnicas y pruebas de laboratorio.
-    
-- **Hi-Fi News** — [https://www.hifinews.com/](https://www.hifinews.com/)  
-    Publicación de referencia en audio de alta fidelidad.
-    
-- **Headfonics** — [https://headfonics.com/](https://headfonics.com/)  
-    También analiza altavoces activos y sistemas de escritorio.
-    
-- **AudioXpress** — [https://audioxpress.com/](https://audioxpress.com/)  
-    Ingeniería de altavoces, electrónica y DIY.
-    
-- **DIY Audio** — [https://www.diyaudio.com/](https://www.diyaudio.com/)  
-    La mayor comunidad mundial sobre diseño y construcción de altavoces.
-    
-- **Parts Express Tech Center** — [https://www.parts-express.com/tech-center](https://www.parts-express.com/tech-center)  
-    Recursos técnicos sobre diseño de cajas acústicas y filtros.
-    
-- **Klippel** — [https://www.klippel.de/](https://www.klippel.de/)  
-    Empresa líder en sistemas de medición electroacústica.
-    
-- **Harman Audio Research** — [https://research.harman.com/](https://research.harman.com/)  
-    Investigación científica sobre percepción auditiva y diseño de altavoces.
-    
-- **Genelec** — [https://www.genelec.com/](https://www.genelec.com/)  
-    Fabricante finlandés líder en monitores profesionales.
-    
-- **Neumann Studio Monitors** — [https://www.neumann.com/](https://www.neumann.com/)  
-    Monitores de referencia para estudios de grabación.
-    
-- **JBL Professional** — [https://jblpro.com/](https://jblpro.com/)  
-    Sonido profesional y sistemas PA.
-    
-- **KEF** — [https://us.kef.com/](https://us.kef.com/)  
-    Innovación en altavoces de alta fidelidad.
-    
-- **Bowers & Wilkins** — [https://www.bowerswilkins.com/](https://www.bowerswilkins.com/)  
-    Referencia británica en Hi-Fi.
-    
-- **Focal** — [https://www.focal.com/](https://www.focal.com/)  
-    Fabricante francés de altavoces High-End.
-    
-- **Dynaudio** — [https://dynaudio.com/](https://dynaudio.com/)  
-    Altavoces domésticos y profesionales.
-    
-- **ATC Loudspeakers** — [https://atcloudspeakers.co.uk/](https://atcloudspeakers.co.uk/)  
-    Monitores profesionales de estudio.
-    
-- **Klipsch** — [https://www.klipsch.com/](https://www.klipsch.com/)  
-    Histórica marca estadounidense.
-    
-- **PMC Speakers** — [https://pmc-speakers.com/](https://pmc-speakers.com/)  
-    Monitores de referencia para estudios y mastering.
-    
-- **MartinLogan** — [https://www.martinlogan.com/](https://www.martinlogan.com/)  
-    Especialistas en altavoces electrostáticos.
-    
-- **Electro-Voice** — [https://products.electrovoice.com/](https://products.electrovoice.com/)  
-    Sistemas de sonido profesional.
-    
-- **Bluetooth SIG** — [https://www.bluetooth.com/](https://www.bluetooth.com/)  
-    Estándares oficiales para altavoces inalámbricos.
-    
+- **Audio Science Review** â€” <https://www.audiosciencereview.com/>\
+  Referencia mundial en mediciones objetivas de altavoces, amplificadores y DAC.
+
+- **Erin's Audio Corner** â€” <https://www.erinsaudiocorner.com/>\
+  Mediciones independientes de altavoces con metodologÃ­a cientÃ­fica.
+
+- **Spinorama.org** â€” <https://www.spinorama.org/>\
+  Base de datos internacional de mediciones Spinorama (CEA-2034).
+
+- **RTINGS â€“ Speakers** â€” <https://www.rtings.com/speaker>\
+  Comparativas y anÃ¡lisis de altavoces domÃ©sticos, inteligentes y Bluetooth.
+
+- **Stereophile** â€” <https://www.stereophile.com/>\
+  Revista histÃ³rica con pruebas de laboratorio y anÃ¡lisis de cajas acÃºsticas.
+
+- **The Absolute Sound** â€” <https://www.theabsolutesound.com/>\
+  Referencia internacional en alta fidelidad y altavoces High-End.
+
+- **What Hi-Fi?** â€” <https://www.whathifi.com/>\
+  AnÃ¡lisis, comparativas y premios de altavoces Hi-Fi.
+
+- **Audioholics** â€” <https://www.audioholics.com/>\
+  IngenierÃ­a acÃºstica, cine en casa y mediciones.
+
+- **StereoNET** â€” <https://www.stereonet.com/>\
+  Comunidad internacional especializada en alta fidelidad.
+
+- **SoundStage! Network** â€” <https://www.soundstageglobal.com/>\
+  Revisiones tÃ©cnicas y pruebas de laboratorio.
+
+- **Hi-Fi News** â€” <https://www.hifinews.com/>\
+  PublicaciÃ³n de referencia en audio de alta fidelidad.
+
+- **Headfonics** â€” <https://headfonics.com/>\
+  TambiÃ©n analiza altavoces activos y sistemas de escritorio.
+
+- **AudioXpress** â€” <https://audioxpress.com/>\
+  IngenierÃ­a de altavoces, electrÃ³nica y DIY.
+
+- **DIY Audio** â€” <https://www.diyaudio.com/>\
+  La mayor comunidad mundial sobre diseÃ±o y construcciÃ³n de altavoces.
+
+- **Parts Express Tech Center** â€” <https://www.parts-express.com/tech-center>\
+  Recursos tÃ©cnicos sobre diseÃ±o de cajas acÃºsticas y filtros.
+
+- **Klippel** â€” <https://www.klippel.de/>\
+  Empresa lÃ­der en sistemas de mediciÃ³n electroacÃºstica.
+
+- **Harman Audio Research** â€” <https://research.harman.com/>\
+  InvestigaciÃ³n cientÃ­fica sobre percepciÃ³n auditiva y diseÃ±o de altavoces.
+
+- **Genelec** â€” <https://www.genelec.com/>\
+  Fabricante finlandÃ©s lÃ­der en monitores profesionales.
+
+- **Neumann Studio Monitors** â€” <https://www.neumann.com/>\
+  Monitores de referencia para estudios de grabaciÃ³n.
+
+- **JBL Professional** â€” <https://jblpro.com/>\
+  Sonido profesional y sistemas PA.
+
+- **KEF** â€” <https://us.kef.com/>\
+  InnovaciÃ³n en altavoces de alta fidelidad.
+
+- **Bowers & Wilkins** â€” <https://www.bowerswilkins.com/>\
+  Referencia britÃ¡nica en Hi-Fi.
+
+- **Focal** â€” <https://www.focal.com/>\
+  Fabricante francÃ©s de altavoces High-End.
+
+- **Dynaudio** â€” <https://dynaudio.com/>\
+  Altavoces domÃ©sticos y profesionales.
+
+- **ATC Loudspeakers** â€” <https://atcloudspeakers.co.uk/>\
+  Monitores profesionales de estudio.
+
+- **Klipsch** â€” <https://www.klipsch.com/>\
+  HistÃ³rica marca estadounidense.
+
+- **PMC Speakers** â€” <https://pmc-speakers.com/>\
+  Monitores de referencia para estudios y mastering.
+
+- **MartinLogan** â€” <https://www.martinlogan.com/>\
+  Especialistas en altavoces electrostÃ¡ticos.
+
+- **Electro-Voice** â€” <https://products.electrovoice.com/>\
+  Sistemas de sonido profesional.
+
+- **Bluetooth SIG** â€” <https://www.bluetooth.com/>\
+  EstÃ¡ndares oficiales para altavoces inalÃ¡mbricos.
 
 ---
 
 # YOUTUBE
 
-- **Erin's Audio Corner**  
-    [https://www.youtube.com/@ErinsAudioCorner](https://www.youtube.com/@ErinsAudioCorner)  
-    Probablemente el mejor canal del mundo sobre mediciones objetivas de altavoces.
-    
-- **Audio Science Review**  
-    [https://www.youtube.com/@AudioScienceReview](https://www.youtube.com/@AudioScienceReview)  
-    Ingeniería, mediciones y análisis técnicos.
-    
-- **Audioholics**  
-    [https://www.youtube.com/@AudioholicsLive](https://www.youtube.com/@AudioholicsLive)  
-    Cine en casa, acústica y alta fidelidad.
-    
-- **Darko Audio**  
-    [https://www.youtube.com/@DarkoAudio](https://www.youtube.com/@DarkoAudio)  
-    Altavoces, streaming y Hi-Fi contemporáneo.
-    
-- **Andrew Robinson**  
-    [https://www.youtube.com/@andrewrobinsonreviews](https://www.youtube.com/@andrewrobinsonreviews)  
-    Revisiones de sistemas estéreo y cine en casa.
-    
-- **Zero Fidelity**  
-    [https://www.youtube.com/@ZeroFidelity](https://www.youtube.com/@ZeroFidelity)  
-    Altavoces Hi-Fi y componentes audiófilos.
-    
-- **Steve Guttenberg Audiophiliac**  
-    [https://www.youtube.com/@SteveGuttenbergAudiophiliac](https://www.youtube.com/@SteveGuttenbergAudiophiliac)  
-    Uno de los divulgadores más reconocidos del audio de alta fidelidad.
-    
-- **The Listening Chair**  
-    [https://www.youtube.com/@TheListeningChair](https://www.youtube.com/@TheListeningChair)  
-    Comparativas y pruebas de escucha de altavoces.
-    
-- **Genelec**  
-    [https://www.youtube.com/@GenelecTV](https://www.youtube.com/@GenelecTV)  
-    Acústica, monitorización profesional y tecnología de estudio.
-    
-- **JBL Professional**  
-    [https://www.youtube.com/@JBLProfessional](https://www.youtube.com/@JBLProfessional)  
-    Sistemas de sonido profesional, instalación y eventos.
-    
+- **Erin's Audio Corner**\
+  <https://www.youtube.com/@ErinsAudioCorner>\
+  Probablemente el mejor canal del mundo sobre mediciones objetivas de altavoces.
+
+- **Audio Science Review**\
+  <https://www.youtube.com/@AudioScienceReview>\
+  IngenierÃ­a, mediciones y anÃ¡lisis tÃ©cnicos.
+
+- **Audioholics**\
+  <https://www.youtube.com/@AudioholicsLive>\
+  Cine en casa, acÃºstica y alta fidelidad.
+
+- **Darko Audio**\
+  <https://www.youtube.com/@DarkoAudio>\
+  Altavoces, streaming y Hi-Fi contemporÃ¡neo.
+
+- **Andrew Robinson**\
+  <https://www.youtube.com/@andrewrobinsonreviews>\
+  Revisiones de sistemas estÃ©reo y cine en casa.
+
+- **Zero Fidelity**\
+  <https://www.youtube.com/@ZeroFidelity>\
+  Altavoces Hi-Fi y componentes audiÃ³filos.
+
+- **Steve Guttenberg Audiophiliac**\
+  <https://www.youtube.com/@SteveGuttenbergAudiophiliac>\
+  Uno de los divulgadores mÃ¡s reconocidos del audio de alta fidelidad.
+
+- **The Listening Chair**\
+  <https://www.youtube.com/@TheListeningChair>\
+  Comparativas y pruebas de escucha de altavoces.
+
+- **Genelec**\
+  <https://www.youtube.com/@GenelecTV>\
+  AcÃºstica, monitorizaciÃ³n profesional y tecnologÃ­a de estudio.
+
+- **JBL Professional**\
+  <https://www.youtube.com/@JBLProfessional>\
+  Sistemas de sonido profesional, instalaciÃ³n y eventos.
+
 # PODCAST
 
-- **The HiFi Podcast**  
-    [https://thehifipodcast.net/](https://thehifipodcast.net/)  
-    Noticias, entrevistas y debates sobre alta fidelidad, altavoces y sistemas estéreo.
-    
-- **Darko.Audio Podcast**  
-    [https://darko.audio/category/podcast/](https://darko.audio/category/podcast/)  
-    Conversaciones sobre Hi-Fi, streaming y evaluación de altavoces.
-    
-- **The Occasional Podcast (Schiit Audio)**  
-    [https://www.schiit.com/](https://www.schiit.com/)  
-    Ingeniería de audio, diseño de productos y reproducción sonora.
-    
-- **AVForums Podcast**  
-    [https://www.avforums.com/podcasts/](https://www.avforums.com/podcasts/)  
-    Alta fidelidad, cine en casa y tecnología audiovisual.
-    
-- **Sound On Sound Podcast**  
-    [https://www.soundonsound.com/podcasts](https://www.soundonsound.com/podcasts)  
-    Producción musical, monitores de estudio y acústica.
-    
-- **Working Class Audio**  
-    [https://www.workingclassaudio.com/](https://www.workingclassaudio.com/)  
-    Ingeniería de sonido y monitorización profesional.
-    
-- **Recording Studio Rockstars**  
-    [https://recordingstudiorockstars.com/](https://recordingstudiorockstars.com/)  
-    Técnicas de mezcla y uso de monitores de referencia.
-    
-- **The Mastering Show**  
-    [https://themasteringshow.com/](https://themasteringshow.com/)  
-    Masterización, escucha crítica y precisión en la reproducción.
-    
-- **Audio Talks (AES)**  
-    [https://aes2.org/](https://aes2.org/)  
-    Conferencias y entrevistas de la Audio Engineering Society.
-    
-- **Home Theater Geeks**  
-    [https://twit.tv/shows/home-theater-geeks](https://twit.tv/shows/home-theater-geeks)  
-    Sistemas de altavoces multicanal, acústica y cine en casa.
-    
+- **The HiFi Podcast**\
+  <https://thehifipodcast.net/>\
+  Noticias, entrevistas y debates sobre alta fidelidad, altavoces y sistemas estÃ©reo.
+
+- **Darko.Audio Podcast**\
+  <https://darko.audio/category/podcast/>\
+  Conversaciones sobre Hi-Fi, streaming y evaluaciÃ³n de altavoces.
+
+- **The Occasional Podcast (Schiit Audio)**\
+  <https://www.schiit.com/>\
+  IngenierÃ­a de audio, diseÃ±o de productos y reproducciÃ³n sonora.
+
+- **AVForums Podcast**\
+  <https://www.avforums.com/podcasts/>\
+  Alta fidelidad, cine en casa y tecnologÃ­a audiovisual.
+
+- **Sound On Sound Podcast**\
+  <https://www.soundonsound.com/podcasts>\
+  ProducciÃ³n musical, monitores de estudio y acÃºstica.
+
+- **Working Class Audio**\
+  <https://www.workingclassaudio.com/>\
+  IngenierÃ­a de sonido y monitorizaciÃ³n profesional.
+
+- **Recording Studio Rockstars**\
+  <https://recordingstudiorockstars.com/>\
+  TÃ©cnicas de mezcla y uso de monitores de referencia.
+
+- **The Mastering Show**\
+  <https://themasteringshow.com/>\
+  MasterizaciÃ³n, escucha crÃ­tica y precisiÃ³n en la reproducciÃ³n.
+
+- **Audio Talks (AES)**\
+  <https://aes2.org/>\
+  Conferencias y entrevistas de la Audio Engineering Society.
+
+- **Home Theater Geeks**\
+  <https://twit.tv/shows/home-theater-geeks>\
+  Sistemas de altavoces multicanal, acÃºstica y cine en casa.
+
 # LIBROS
 
-- **Sound Reproduction — Floyd E. Toole**  
-    Considerado el libro más importante del mundo sobre diseño y evaluación de altavoces.
-    
-- **Testing Loudspeakers — Joseph D'Appolito**  
-    Referencia clásica sobre medición electroacústica.
-    
-- **Loudspeaker Design Cookbook — Vance Dickason**  
-    La obra más utilizada para diseñar cajas acústicas.
-    
-- **Master Handbook of Acoustics — F. Alton Everest y Ken C. Pohlmann**  
-    Manual imprescindible sobre acústica aplicada.
-    
-- **The Loudspeaker Design Manual — John Eargle**  
-    Ingeniería avanzada de sistemas de altavoces.
-    
-- **High Performance Loudspeakers — Martin Colloms**  
-    Diseño y evaluación de altavoces de alta fidelidad.
-    
-- **Introduction to Loudspeaker Design — John Murphy**  
-    Excelente introducción para ingenieros y aficionados.
-    
-- **Audio Engineering Explained — Douglas Self**  
-    Ingeniería electrónica aplicada al audio.
-    
-- **Small Signal Audio Design — Douglas Self**  
-    Diseño de circuitos para audio de alta calidad.
-    
-- **The Complete Guide to High-End Audio — Robert Harley**  
-    Guía de referencia para sistemas Hi-Fi.
-    
-- **The Audio Expert — Ethan Winer**  
-    Acústica, tratamiento de salas y reproducción sonora.
-    
-- **Critical Listening Skills for Audio Professionals — F. Alton Everest**  
-    Entrenamiento para la escucha crítica.
-    
-- **Handbook for Sound Engineers — Glen Ballou**  
-    Enciclopedia profesional del sonido.
-    
-- **Sound System Engineering — Don Davis, Eugene Patronis y Pat Brown**  
-    Diseño de sistemas profesionales de refuerzo sonoro.
-    
-- **Psychoacoustics — Fastl & Zwicker**  
-    Obra científica sobre percepción auditiva.
-    
-- **The Science of Sound — Thomas Rossing**  
-    Física del sonido y aplicaciones.
-    
-- **Musimathics — Gareth Loy**  
-    Ciencia y tecnología de la música y el audio.
-    
-- **Electroacoustics — Mendel Kleiner**  
-    Ingeniería electroacústica y reproducción sonora.
-    
-- **Acoustics and Psychoacoustics — David Howard y Jamie Angus**  
-    Manual universitario sobre acústica y percepción.
-    
-- **Principles of Digital Audio — Ken C. Pohlmann**  
-    Referencia sobre audio digital y reproducción.
-    
+- **Sound Reproduction â€” Floyd E. Toole**\
+  Considerado el libro mÃ¡s importante del mundo sobre diseÃ±o y evaluaciÃ³n de altavoces.
+
+- **Testing Loudspeakers â€” Joseph D'Appolito**\
+  Referencia clÃ¡sica sobre mediciÃ³n electroacÃºstica.
+
+- **Loudspeaker Design Cookbook â€” Vance Dickason**\
+  La obra mÃ¡s utilizada para diseÃ±ar cajas acÃºsticas.
+
+- **Master Handbook of Acoustics â€” F. Alton Everest y Ken C. Pohlmann**\
+  Manual imprescindible sobre acÃºstica aplicada.
+
+- **The Loudspeaker Design Manual â€” John Eargle**\
+  IngenierÃ­a avanzada de sistemas de altavoces.
+
+- **High Performance Loudspeakers â€” Martin Colloms**\
+  DiseÃ±o y evaluaciÃ³n de altavoces de alta fidelidad.
+
+- **Introduction to Loudspeaker Design â€” John Murphy**\
+  Excelente introducciÃ³n para ingenieros y aficionados.
+
+- **Audio Engineering Explained â€” Douglas Self**\
+  IngenierÃ­a electrÃ³nica aplicada al audio.
+
+- **Small Signal Audio Design â€” Douglas Self**\
+  DiseÃ±o de circuitos para audio de alta calidad.
+
+- **The Complete Guide to High-End Audio â€” Robert Harley**\
+  GuÃ­a de referencia para sistemas Hi-Fi.
+
+- **The Audio Expert â€” Ethan Winer**\
+  AcÃºstica, tratamiento de salas y reproducciÃ³n sonora.
+
+- **Critical Listening Skills for Audio Professionals â€” F. Alton Everest**\
+  Entrenamiento para la escucha crÃ­tica.
+
+- **Handbook for Sound Engineers â€” Glen Ballou**\
+  Enciclopedia profesional del sonido.
+
+- **Sound System Engineering â€” Don Davis, Eugene Patronis y Pat Brown**\
+  DiseÃ±o de sistemas profesionales de refuerzo sonoro.
+
+- **Psychoacoustics â€” Fastl & Zwicker**\
+  Obra cientÃ­fica sobre percepciÃ³n auditiva.
+
+- **The Science of Sound â€” Thomas Rossing**\
+  FÃ­sica del sonido y aplicaciones.
+
+- **Musimathics â€” Gareth Loy**\
+  Ciencia y tecnologÃ­a de la mÃºsica y el audio.
+
+- **Electroacoustics â€” Mendel Kleiner**\
+  IngenierÃ­a electroacÃºstica y reproducciÃ³n sonora.
+
+- **Acoustics and Psychoacoustics â€” David Howard y Jamie Angus**\
+  Manual universitario sobre acÃºstica y percepciÃ³n.
+
+- **Principles of Digital Audio â€” Ken C. Pohlmann**\
+  Referencia sobre audio digital y reproducciÃ³n.
+
 # REVISTAS
 
-- **Journal of the Audio Engineering Society (JAES)**  
-    [https://aes2.org/publications/elibrary/](https://aes2.org/publications/elibrary/)  
-    La publicación científica más importante sobre ingeniería de audio.
-    
-- **Stereophile**  
-    [https://www.stereophile.com/](https://www.stereophile.com/)  
-    Referencia histórica en alta fidelidad.
-    
-- **The Absolute Sound**  
-    [https://www.theabsolutesound.com/](https://www.theabsolutesound.com/)  
-    Revista especializada en equipos High-End.
-    
-- **Hi-Fi News**  
-    [https://www.hifinews.com/](https://www.hifinews.com/)  
-    Análisis con pruebas de laboratorio.
-    
-- **Hi-Fi Choice**  
-    [https://www.hifichoice.com/](https://www.hifichoice.com/)  
-    Comparativas y recomendaciones de altavoces.
-    
-- **Sound On Sound**  
-    [https://www.soundonsound.com/](https://www.soundonsound.com/)  
-    Producción musical y monitorización.
-    
-- **AudioXpress**  
-    [https://audioxpress.com/](https://audioxpress.com/)  
-    Ingeniería, electrónica y diseño de altavoces.
-    
-- **Mix Magazine**  
-    [https://www.mixonline.com/](https://www.mixonline.com/)  
-    Sonido profesional y estudios de grabación.
-    
-- **Resolution Magazine**  
-    [https://resolutionmag.com/](https://resolutionmag.com/)  
-    Audio profesional y monitorización.
-    
-- **ProSoundWeb**  
-    [https://www.prosoundweb.com/](https://www.prosoundweb.com/)  
-    Sonido profesional, instalaciones y refuerzo sonoro.
-    
+- **Journal of the Audio Engineering Society (JAES)**\
+  <https://aes2.org/publications/elibrary/>\
+  La publicaciÃ³n cientÃ­fica mÃ¡s importante sobre ingenierÃ­a de audio.
+
+- **Stereophile**\
+  <https://www.stereophile.com/>\
+  Referencia histÃ³rica en alta fidelidad.
+
+- **The Absolute Sound**\
+  <https://www.theabsolutesound.com/>\
+  Revista especializada en equipos High-End.
+
+- **Hi-Fi News**\
+  <https://www.hifinews.com/>\
+  AnÃ¡lisis con pruebas de laboratorio.
+
+- **Hi-Fi Choice**\
+  <https://www.hifichoice.com/>\
+  Comparativas y recomendaciones de altavoces.
+
+- **Sound On Sound**\
+  <https://www.soundonsound.com/>\
+  ProducciÃ³n musical y monitorizaciÃ³n.
+
+- **AudioXpress**\
+  <https://audioxpress.com/>\
+  IngenierÃ­a, electrÃ³nica y diseÃ±o de altavoces.
+
+- **Mix Magazine**\
+  <https://www.mixonline.com/>\
+  Sonido profesional y estudios de grabaciÃ³n.
+
+- **Resolution Magazine**\
+  <https://resolutionmag.com/>\
+  Audio profesional y monitorizaciÃ³n.
+
+- **ProSoundWeb**\
+  <https://www.prosoundweb.com/>\
+  Sonido profesional, instalaciones y refuerzo sonoro.
+
 # MUSEOS
 
-- **Grammy Museum (Estados Unidos)**  
-    [https://grammymuseum.org/](https://grammymuseum.org/)  
-    La evolución de la grabación y reproducción del sonido, incluyendo sistemas de altavoces y monitorización.
-    
-- **Museum of Making Music (Estados Unidos)**  
-    [https://www.museumofmakingmusic.org/](https://www.museumofmakingmusic.org/)  
-    Instrumentos, tecnología de audio y reproducción musical.
-    
-- **Deutsches Museum (Alemania)**  
-    [https://www.deutsches-museum.de/](https://www.deutsches-museum.de/)  
-    Uno de los mayores museos de ciencia y tecnología del mundo, con colecciones de electroacústica.
-    
-- **Science Museum London (Reino Unido)**  
-    [https://www.sciencemuseum.org.uk/](https://www.sciencemuseum.org.uk/)  
-    Historia de la electricidad, telecomunicaciones y reproducción sonora.
-    
-- **Musée des Arts et Métiers (Francia)**  
-    [https://www.arts-et-metiers.net/](https://www.arts-et-metiers.net/)  
-    Importante colección sobre ingeniería y tecnologías del sonido.
-    
-- **Smithsonian National Museum of American History (Estados Unidos)**  
-    [https://americanhistory.si.edu/](https://americanhistory.si.edu/)  
-    Equipos históricos de reproducción musical y electrónica.
-    
-- **Museum für Kommunikation (Suiza)**  
-    [https://www.mfk.ch/](https://www.mfk.ch/)  
-    Historia de la comunicación, radio, telefonía y dispositivos de audio.
-    
-- **National Museum of Nature and Science (Japón)**  
-    [https://www.kahaku.go.jp/english/](https://www.kahaku.go.jp/english/)  
-    Tecnología, electrónica y ciencia aplicada.
-    
-- **Cité de la Musique – Philharmonie de Paris (Francia)**  
-    [https://philharmoniedeparis.fr/](https://philharmoniedeparis.fr/)  
-    Acústica, instrumentos y reproducción musical.
-    
-- **Musikinstrumenten-Museum Berlin (Alemania)**  
-    [https://www.simpk.de/en/museums/museum-fuer-musikinstrumente/](https://www.simpk.de/en/museums/museum-fuer-musikinstrumente/)  
-    Historia de la música y de la evolución tecnológica del sonido.
-    
+- **Grammy Museum (Estados Unidos)**\
+  <https://grammymuseum.org/>\
+  La evoluciÃ³n de la grabaciÃ³n y reproducciÃ³n del sonido, incluyendo sistemas de altavoces y monitorizaciÃ³n.
+
+- **Museum of Making Music (Estados Unidos)**\
+  <https://www.museumofmakingmusic.org/>\
+  Instrumentos, tecnologÃ­a de audio y reproducciÃ³n musical.
+
+- **Deutsches Museum (Alemania)**\
+  <https://www.deutsches-museum.de/>\
+  Uno de los mayores museos de ciencia y tecnologÃ­a del mundo, con colecciones de electroacÃºstica.
+
+- **Science Museum London (Reino Unido)**\
+  <https://www.sciencemuseum.org.uk/>\
+  Historia de la electricidad, telecomunicaciones y reproducciÃ³n sonora.
+
+- **MusÃ©e des Arts et MÃ©tiers (Francia)**\
+  <https://www.arts-et-metiers.net/>\
+  Importante colecciÃ³n sobre ingenierÃ­a y tecnologÃ­as del sonido.
+
+- **Smithsonian National Museum of American History (Estados Unidos)**\
+  <https://americanhistory.si.edu/>\
+  Equipos histÃ³ricos de reproducciÃ³n musical y electrÃ³nica.
+
+- **Museum fÃ¼r Kommunikation (Suiza)**\
+  <https://www.mfk.ch/>\
+  Historia de la comunicaciÃ³n, radio, telefonÃ­a y dispositivos de audio.
+
+- **National Museum of Nature and Science (JapÃ³n)**\
+  <https://www.kahaku.go.jp/english/>\
+  TecnologÃ­a, electrÃ³nica y ciencia aplicada.
+
+- **CitÃ© de la Musique â€“ Philharmonie de Paris (Francia)**\
+  <https://philharmoniedeparis.fr/>\
+  AcÃºstica, instrumentos y reproducciÃ³n musical.
+
+- **Musikinstrumenten-Museum Berlin (Alemania)**\
+  <https://www.simpk.de/en/museums/museum-fuer-musikinstrumente/>\
+  Historia de la mÃºsica y de la evoluciÃ³n tecnolÃ³gica del sonido.
+
 # UNIVERSIDADES
 
-- **Stanford University – CCRMA**  
-    [https://ccrma.stanford.edu/](https://ccrma.stanford.edu/)  
-    Centro líder mundial en investigación de audio, acústica y procesamiento digital de señales.
-    
-- **Massachusetts Institute of Technology (MIT)**  
-    [https://www.mit.edu/](https://www.mit.edu/)  
-    Investigación en acústica, ingeniería eléctrica y sistemas de audio.
-    
-- **University of Southampton – Institute of Sound and Vibration Research (ISVR)**  
-    [https://www.southampton.ac.uk/isvr](https://www.southampton.ac.uk/isvr)  
-    Uno de los centros de investigación acústica más prestigiosos del mundo.
-    
-- **University of Salford (Reino Unido)**  
-    [https://www.salford.ac.uk/](https://www.salford.ac.uk/)  
-    Referencia internacional en acústica arquitectónica y electroacústica.
-    
-- **Aalto University (Finlandia)**  
-    [https://www.aalto.fi/en](https://www.aalto.fi/en)  
-    Investigación sobre altavoces, acústica y percepción auditiva.
-    
-- **McGill University**  
-    [https://www.mcgill.ca/](https://www.mcgill.ca/)  
-    Destacada por sus estudios de psicoacústica y tecnología musical.
-    
-- **Pennsylvania State University**  
-    [https://www.psu.edu/](https://www.psu.edu/)  
-    Ingeniería acústica y vibraciones.
-    
-- **Technical University of Denmark (DTU)**  
-    [https://www.dtu.dk/english](https://www.dtu.dk/english)  
-    Investigación en procesamiento digital del sonido.
-    
-- **University of Surrey – Institute of Sound Recording**  
-    [https://www.surrey.ac.uk/](https://www.surrey.ac.uk/)  
-    Producción musical, monitorización y tecnología del audio.
-    
-- **Tokyo University of the Arts**  
-    [https://www.geidai.ac.jp/english/](https://www.geidai.ac.jp/english/)  
-    Música, acústica y tecnologías de reproducción sonora.
-    
+- **Stanford University â€“ CCRMA**\
+  <https://ccrma.stanford.edu/>\
+  Centro lÃ­der mundial en investigaciÃ³n de audio, acÃºstica y procesamiento digital de seÃ±ales.
+
+- **Massachusetts Institute of Technology (MIT)**\
+  <https://www.mit.edu/>\
+  InvestigaciÃ³n en acÃºstica, ingenierÃ­a elÃ©ctrica y sistemas de audio.
+
+- **University of Southampton â€“ Institute of Sound and Vibration Research (ISVR)**\
+  <https://www.southampton.ac.uk/isvr>\
+  Uno de los centros de investigaciÃ³n acÃºstica mÃ¡s prestigiosos del mundo.
+
+- **University of Salford (Reino Unido)**\
+  <https://www.salford.ac.uk/>\
+  Referencia internacional en acÃºstica arquitectÃ³nica y electroacÃºstica.
+
+- **Aalto University (Finlandia)**\
+  <https://www.aalto.fi/en>\
+  InvestigaciÃ³n sobre altavoces, acÃºstica y percepciÃ³n auditiva.
+
+- **McGill University**\
+  <https://www.mcgill.ca/>\
+  Destacada por sus estudios de psicoacÃºstica y tecnologÃ­a musical.
+
+- **Pennsylvania State University**\
+  <https://www.psu.edu/>\
+  IngenierÃ­a acÃºstica y vibraciones.
+
+- **Technical University of Denmark (DTU)**\
+  <https://www.dtu.dk/english>\
+  InvestigaciÃ³n en procesamiento digital del sonido.
+
+- **University of Surrey â€“ Institute of Sound Recording**\
+  <https://www.surrey.ac.uk/>\
+  ProducciÃ³n musical, monitorizaciÃ³n y tecnologÃ­a del audio.
+
+- **Tokyo University of the Arts**\
+  <https://www.geidai.ac.jp/english/>\
+  MÃºsica, acÃºstica y tecnologÃ­as de reproducciÃ³n sonora.
+
 # ASOCIACIONES
 
-- **Audio Engineering Society (AES)**  
-    [https://aes2.org/](https://aes2.org/)  
-    La principal organización internacional dedicada a la ingeniería de audio.
-    
-- **Acoustical Society of America (ASA)**  
-    [https://acousticalsociety.org/](https://acousticalsociety.org/)  
-    Investigación en acústica física y percepción del sonido.
-    
-- **Institute of Electrical and Electronics Engineers (IEEE)**  
-    [https://www.ieee.org/](https://www.ieee.org/)  
-    Desarrollo de tecnologías de audio y electrónica.
-    
-- **Institute of Acoustics (IOA)**  
-    [https://www.ioa.org.uk/](https://www.ioa.org.uk/)  
-    Organización profesional británica especializada en acústica.
-    
-- **European Acoustics Association (EAA)**  
-    [https://euracoustics.org/](https://euracoustics.org/)  
-    Red europea de investigación acústica.
-    
-- **Consumer Technology Association (CTA)**  
-    [https://www.cta.tech/](https://www.cta.tech/)  
-    Asociación internacional de fabricantes de electrónica de consumo.
-    
-- **Bluetooth Special Interest Group (Bluetooth SIG)**  
-    [https://www.bluetooth.com/](https://www.bluetooth.com/)  
-    Organismo responsable del estándar Bluetooth para altavoces inalámbricos.
-    
-- **International Telecommunication Union (ITU)**  
-    [https://www.itu.int/](https://www.itu.int/)  
-    Normas internacionales para transmisión y codificación de audio.
-    
-- **International Audio Laboratories Erlangen**  
-    [https://www.audiolabs-erlangen.de/](https://www.audiolabs-erlangen.de/)  
-    Investigación en tecnologías avanzadas de audio.
-    
-- **Klippel Research**  
-    [https://www.klippel.de/](https://www.klippel.de/)  
-    Referencia mundial en medición y análisis electroacústico.
-    
+- **Audio Engineering Society (AES)**\
+  <https://aes2.org/>\
+  La principal organizaciÃ³n internacional dedicada a la ingenierÃ­a de audio.
+
+- **Acoustical Society of America (ASA)**\
+  <https://acousticalsociety.org/>\
+  InvestigaciÃ³n en acÃºstica fÃ­sica y percepciÃ³n del sonido.
+
+- **Institute of Electrical and Electronics Engineers (IEEE)**\
+  <https://www.ieee.org/>\
+  Desarrollo de tecnologÃ­as de audio y electrÃ³nica.
+
+- **Institute of Acoustics (IOA)**\
+  <https://www.ioa.org.uk/>\
+  OrganizaciÃ³n profesional britÃ¡nica especializada en acÃºstica.
+
+- **European Acoustics Association (EAA)**\
+  <https://euracoustics.org/>\
+  Red europea de investigaciÃ³n acÃºstica.
+
+- **Consumer Technology Association (CTA)**\
+  <https://www.cta.tech/>\
+  AsociaciÃ³n internacional de fabricantes de electrÃ³nica de consumo.
+
+- **Bluetooth Special Interest Group (Bluetooth SIG)**\
+  <https://www.bluetooth.com/>\
+  Organismo responsable del estÃ¡ndar Bluetooth para altavoces inalÃ¡mbricos.
+
+- **International Telecommunication Union (ITU)**\
+  <https://www.itu.int/>\
+  Normas internacionales para transmisiÃ³n y codificaciÃ³n de audio.
+
+- **International Audio Laboratories Erlangen**\
+  <https://www.audiolabs-erlangen.de/>\
+  InvestigaciÃ³n en tecnologÃ­as avanzadas de audio.
+
+- **Klippel Research**\
+  <https://www.klippel.de/>\
+  Referencia mundial en mediciÃ³n y anÃ¡lisis electroacÃºstico.
+
 # NEWSLETTER
 
-- **Audio Science Review Newsletter**  
-    [https://www.audiosciencereview.com/](https://www.audiosciencereview.com/)  
-    Mediciones objetivas y nuevos análisis.
-    
-- **Stereophile Newsletter**  
-    [https://www.stereophile.com/](https://www.stereophile.com/)  
-    Alta fidelidad y nuevos lanzamientos.
-    
-- **The Absolute Sound Newsletter**  
-    [https://www.theabsolutesound.com/](https://www.theabsolutesound.com/)  
-    Equipos High-End y reseñas.
-    
-- **AudioXpress Newsletter**  
-    [https://audioxpress.com/](https://audioxpress.com/)  
-    Ingeniería y diseño de altavoces.
-    
-- **What Hi-Fi? Newsletter**  
-    [https://www.whathifi.com/](https://www.whathifi.com/)  
-    Noticias y comparativas.
-    
-- **Darko.Audio Newsletter**  
-    [https://darko.audio/](https://darko.audio/)  
-    Alta fidelidad contemporánea.
-    
-- **AES Newsletter**  
-    [https://aes2.org/](https://aes2.org/)  
-    Investigación y congresos internacionales.
-    
-- **Mix Magazine Newsletter**  
-    [https://www.mixonline.com/](https://www.mixonline.com/)  
-    Tecnología profesional de audio.
-    
-- **Sound On Sound Newsletter**  
-    [https://www.soundonsound.com/](https://www.soundonsound.com/)  
-    Producción musical y monitorización.
-    
-- **ProSoundWeb Newsletter**  
-    [https://www.prosoundweb.com/](https://www.prosoundweb.com/)  
-    Sonido profesional, instalaciones y refuerzo sonoro.
-    
+- **Audio Science Review Newsletter**\
+  <https://www.audiosciencereview.com/>\
+  Mediciones objetivas y nuevos anÃ¡lisis.
+
+- **Stereophile Newsletter**\
+  <https://www.stereophile.com/>\
+  Alta fidelidad y nuevos lanzamientos.
+
+- **The Absolute Sound Newsletter**\
+  <https://www.theabsolutesound.com/>\
+  Equipos High-End y reseÃ±as.
+
+- **AudioXpress Newsletter**\
+  <https://audioxpress.com/>\
+  IngenierÃ­a y diseÃ±o de altavoces.
+
+- **What Hi-Fi? Newsletter**\
+  <https://www.whathifi.com/>\
+  Noticias y comparativas.
+
+- **Darko.Audio Newsletter**\
+  <https://darko.audio/>\
+  Alta fidelidad contemporÃ¡nea.
+
+- **AES Newsletter**\
+  <https://aes2.org/>\
+  InvestigaciÃ³n y congresos internacionales.
+
+- **Mix Magazine Newsletter**\
+  <https://www.mixonline.com/>\
+  TecnologÃ­a profesional de audio.
+
+- **Sound On Sound Newsletter**\
+  <https://www.soundonsound.com/>\
+  ProducciÃ³n musical y monitorizaciÃ³n.
+
+- **ProSoundWeb Newsletter**\
+  <https://www.prosoundweb.com/>\
+  Sonido profesional, instalaciones y refuerzo sonoro.
 
 # TV
 
-- **Audioholics**  
-    [https://www.audioholics.com/](https://www.audioholics.com/)  
-    Vídeos sobre altavoces, acústica de salas, cine en casa y mediciones.
-    
-- **Darko.Audio**  
-    [https://darko.audio/](https://darko.audio/)  
-    Reportajes y análisis sobre sistemas Hi-Fi y altavoces de alta gama.
-    
-- **What Hi-Fi?**  
-    [https://www.whathifi.com/](https://www.whathifi.com/)  
-    Comparativas audiovisuales y novedades del mercado.
-    
-- **RTINGS**  
-    [https://www.youtube.com/@RTINGScom](https://www.youtube.com/@RTINGScom)  
-    Demostraciones de metodologías de prueba para altavoces y equipos de audio.
-    
-- **Genelec**  
-    [https://www.youtube.com/@GenelecTV](https://www.youtube.com/@GenelecTV)  
-    Acústica, monitorización profesional y diseño de monitores.
-    
-- **JBL Professional**  
-    [https://www.youtube.com/@JBLProfessional](https://www.youtube.com/@JBLProfessional)  
-    Sistemas de sonido profesional, conciertos e instalaciones.
-    
-- **KEF Audio**  
-    [https://www.youtube.com/@KEFAudio](https://www.youtube.com/@KEFAudio)  
-    Tecnología Uni-Q, diseño acústico y demostraciones de productos.
-    
-- **Focal**  
-    [https://www.youtube.com/@FocalOfficial](https://www.youtube.com/@FocalOfficial)  
-    Alta fidelidad, fabricación y presentaciones de altavoces.
-    
-- **Bowers & Wilkins**  
-    [https://www.youtube.com/@BowersWilkinsOfficial](https://www.youtube.com/@BowersWilkinsOfficial)  
-    Ingeniería acústica y lanzamientos de nuevos modelos.
-    
-- **Andrew Robinson**  
-    [https://www.youtube.com/@andrewrobinsonreviews](https://www.youtube.com/@andrewrobinsonreviews)  
-    Análisis detallados de sistemas estéreo y cine en casa.
-    
+- **Audioholics**\
+  <https://www.audioholics.com/>\
+  VÃ­deos sobre altavoces, acÃºstica de salas, cine en casa y mediciones.
+
+- **Darko.Audio**\
+  <https://darko.audio/>\
+  Reportajes y anÃ¡lisis sobre sistemas Hi-Fi y altavoces de alta gama.
+
+- **What Hi-Fi?**\
+  <https://www.whathifi.com/>\
+  Comparativas audiovisuales y novedades del mercado.
+
+- **RTINGS**\
+  <https://www.youtube.com/@RTINGScom>\
+  Demostraciones de metodologÃ­as de prueba para altavoces y equipos de audio.
+
+- **Genelec**\
+  <https://www.youtube.com/@GenelecTV>\
+  AcÃºstica, monitorizaciÃ³n profesional y diseÃ±o de monitores.
+
+- **JBL Professional**\
+  <https://www.youtube.com/@JBLProfessional>\
+  Sistemas de sonido profesional, conciertos e instalaciones.
+
+- **KEF Audio**\
+  <https://www.youtube.com/@KEFAudio>\
+  TecnologÃ­a Uni-Q, diseÃ±o acÃºstico y demostraciones de productos.
+
+- **Focal**\
+  <https://www.youtube.com/@FocalOfficial>\
+  Alta fidelidad, fabricaciÃ³n y presentaciones de altavoces.
+
+- **Bowers & Wilkins**\
+  <https://www.youtube.com/@BowersWilkinsOfficial>\
+  IngenierÃ­a acÃºstica y lanzamientos de nuevos modelos.
+
+- **Andrew Robinson**\
+  <https://www.youtube.com/@andrewrobinsonreviews>\
+  AnÃ¡lisis detallados de sistemas estÃ©reo y cine en casa.
+
 # RADIO
 
-> Estas emisoras destacan por la calidad de su programación musical y son muy utilizadas para evaluar sistemas de altavoces de alta fidelidad.
+> Estas emisoras destacan por la calidad de su programaciÃ³n musical y son muy utilizadas para evaluar sistemas de altavoces de alta fidelidad.
 
-- **BBC Radio 3**  
-    [https://www.bbc.co.uk/radio3](https://www.bbc.co.uk/radio3)  
-    Música clásica y retransmisiones con excelente calidad sonora.
-    
-- **BBC Radio 6 Music**  
-    [https://www.bbc.co.uk/6music](https://www.bbc.co.uk/6music)  
-    Producción musical contemporánea de alta calidad.
-    
-- **NPR Music**  
-    [https://www.npr.org/music/](https://www.npr.org/music/)  
-    Conciertos Tiny Desk y grabaciones de referencia.
-    
-- **KEXP Seattle**  
-    [https://www.kexp.org/](https://www.kexp.org/)  
-    Actuaciones en directo ampliamente utilizadas para pruebas de escucha.
-    
-- **FIP (Radio France)**  
-    [https://www.radiofrance.fr/fip](https://www.radiofrance.fr/fip)  
-    Programación musical cuidadosamente seleccionada.
-    
-- **Radio Swiss Jazz**  
-    [https://www.radioswissjazz.ch/](https://www.radioswissjazz.ch/)  
-    Emisión continua en alta calidad, ideal para pruebas Hi-Fi.
-    
-- **SomaFM**  
-    [https://somafm.com/](https://somafm.com/)  
-    Radio por Internet con numerosos canales temáticos.
-    
-- **Radio Paradise**  
-    [https://radioparadise.com/](https://radioparadise.com/)  
-    Streaming disponible en FLAC sin pérdidas.
-    
-- **Deutschlandfunk Kultur**  
-    [https://www.deutschlandfunkkultur.de/](https://www.deutschlandfunkkultur.de/)  
-    Música y contenidos culturales con excelente calidad de audio.
-    
-- **NTS Radio**  
-    [https://www.nts.live/](https://www.nts.live/)  
-    Amplia variedad musical para evaluar distintos géneros.
-    
+- **BBC Radio 3**\
+  <https://www.bbc.co.uk/radio3>\
+  MÃºsica clÃ¡sica y retransmisiones con excelente calidad sonora.
+
+- **BBC Radio 6 Music**\
+  <https://www.bbc.co.uk/6music>\
+  ProducciÃ³n musical contemporÃ¡nea de alta calidad.
+
+- **NPR Music**\
+  <https://www.npr.org/music/>\
+  Conciertos Tiny Desk y grabaciones de referencia.
+
+- **KEXP Seattle**\
+  <https://www.kexp.org/>\
+  Actuaciones en directo ampliamente utilizadas para pruebas de escucha.
+
+- **FIP (Radio France)**\
+  <https://www.radiofrance.fr/fip>\
+  ProgramaciÃ³n musical cuidadosamente seleccionada.
+
+- **Radio Swiss Jazz**\
+  <https://www.radioswissjazz.ch/>\
+  EmisiÃ³n continua en alta calidad, ideal para pruebas Hi-Fi.
+
+- **SomaFM**\
+  <https://somafm.com/>\
+  Radio por Internet con numerosos canales temÃ¡ticos.
+
+- **Radio Paradise**\
+  <https://radioparadise.com/>\
+  Streaming disponible en FLAC sin pÃ©rdidas.
+
+- **Deutschlandfunk Kultur**\
+  <https://www.deutschlandfunkkultur.de/>\
+  MÃºsica y contenidos culturales con excelente calidad de audio.
+
+- **NTS Radio**\
+  <https://www.nts.live/>\
+  Amplia variedad musical para evaluar distintos gÃ©neros.
+
 # PRENSA ONLINE
 
-- **Audio Science Review**  
-    [https://www.audiosciencereview.com/](https://www.audiosciencereview.com/)  
-    La referencia internacional en mediciones objetivas de altavoces.
-    
-- **Erin's Audio Corner**  
-    [https://www.erinsaudiocorner.com/](https://www.erinsaudiocorner.com/)  
-    Pruebas científicas de cajas acústicas y monitores.
-    
-- **Spinorama.org**  
-    [https://www.spinorama.org/](https://www.spinorama.org/)  
-    Base de datos de mediciones normalizadas de cientos de altavoces.
-    
-- **Audioholics**  
-    [https://www.audioholics.com/](https://www.audioholics.com/)  
-    Ingeniería acústica, comparativas y análisis técnicos.
-    
-- **StereoNET**  
-    [https://www.stereonet.com/](https://www.stereonet.com/)  
-    Noticias, pruebas y foros especializados.
-    
-- **SoundStage! Global**  
-    [https://www.soundstageglobal.com/](https://www.soundstageglobal.com/)  
-    Reseñas de laboratorio y evaluaciones de alta fidelidad.
-    
-- **The Absolute Sound**  
-    [https://www.theabsolutesound.com/](https://www.theabsolutesound.com/)  
-    Cobertura del mercado High-End internacional.
-    
-- **Stereophile**  
-    [https://www.stereophile.com/](https://www.stereophile.com/)  
-    Revisiones históricas y nuevas pruebas de altavoces.
-    
-- **What Hi-Fi?**  
-    [https://www.whathifi.com/](https://www.whathifi.com/)  
-    Guías de compra y comparativas.
-    
-- **AudioXpress**  
-    [https://audioxpress.com/](https://audioxpress.com/)  
-    Artículos de ingeniería y diseño electroacústico.
-    
+- **Audio Science Review**\
+  <https://www.audiosciencereview.com/>\
+  La referencia internacional en mediciones objetivas de altavoces.
+
+- **Erin's Audio Corner**\
+  <https://www.erinsaudiocorner.com/>\
+  Pruebas cientÃ­ficas de cajas acÃºsticas y monitores.
+
+- **Spinorama.org**\
+  <https://www.spinorama.org/>\
+  Base de datos de mediciones normalizadas de cientos de altavoces.
+
+- **Audioholics**\
+  <https://www.audioholics.com/>\
+  IngenierÃ­a acÃºstica, comparativas y anÃ¡lisis tÃ©cnicos.
+
+- **StereoNET**\
+  <https://www.stereonet.com/>\
+  Noticias, pruebas y foros especializados.
+
+- **SoundStage! Global**\
+  <https://www.soundstageglobal.com/>\
+  ReseÃ±as de laboratorio y evaluaciones de alta fidelidad.
+
+- **The Absolute Sound**\
+  <https://www.theabsolutesound.com/>\
+  Cobertura del mercado High-End internacional.
+
+- **Stereophile**\
+  <https://www.stereophile.com/>\
+  Revisiones histÃ³ricas y nuevas pruebas de altavoces.
+
+- **What Hi-Fi?**\
+  <https://www.whathifi.com/>\
+  GuÃ­as de compra y comparativas.
+
+- **AudioXpress**\
+  <https://audioxpress.com/>\
+  ArtÃ­culos de ingenierÃ­a y diseÃ±o electroacÃºstico.
+
 # PRENSA ESCRITA
 
-- **Stereophile**  
-    [https://www.stereophile.com/](https://www.stereophile.com/)  
-    Considerada una de las publicaciones impresas más influyentes del mundo del Hi-Fi.
-    
-- **The Absolute Sound**  
-    [https://www.theabsolutesound.com/](https://www.theabsolutesound.com/)  
-    Referencia internacional para equipos High-End.
-    
-- **Hi-Fi News**  
-    [https://www.hifinews.com/](https://www.hifinews.com/)  
-    Revista británica con exhaustivas pruebas de laboratorio.
-    
-- **Hi-Fi Choice**  
-    [https://www.hifichoice.com/](https://www.hifichoice.com/)  
-    Comparativas de altavoces y sistemas estéreo.
-    
-- **Sound On Sound**  
-    [https://www.soundonsound.com/](https://www.soundonsound.com/)  
-    Producción musical y monitorización profesional.
-    
-- **AudioXpress**  
-    [https://audioxpress.com/](https://audioxpress.com/)  
-    Ingeniería de audio y diseño de altavoces.
-    
-- **Mix Magazine**  
-    [https://www.mixonline.com/](https://www.mixonline.com/)  
-    Sonido profesional, grabación y estudios.
-    
-- **Resolution Magazine**  
-    [https://resolutionmag.com/](https://resolutionmag.com/)  
-    Tecnología de audio profesional.
-    
-- **Professional Audio Magazin**  
-    [https://www.professional-audio.de/](https://www.professional-audio.de/)  
-    Revista europea especializada en electroacústica y monitorización.
-    
-- **Voice Coil**  
-    [https://voicecoilonline.com/](https://voicecoilonline.com/)  
-    Publicación técnica dedicada exclusivamente al diseño y fabricación de altavoces, transductores y componentes electroacústicos.
-    
+- **Stereophile**\
+  <https://www.stereophile.com/>\
+  Considerada una de las publicaciones impresas mÃ¡s influyentes del mundo del Hi-Fi.
+
+- **The Absolute Sound**\
+  <https://www.theabsolutesound.com/>\
+  Referencia internacional para equipos High-End.
+
+- **Hi-Fi News**\
+  <https://www.hifinews.com/>\
+  Revista britÃ¡nica con exhaustivas pruebas de laboratorio.
+
+- **Hi-Fi Choice**\
+  <https://www.hifichoice.com/>\
+  Comparativas de altavoces y sistemas estÃ©reo.
+
+- **Sound On Sound**\
+  <https://www.soundonsound.com/>\
+  ProducciÃ³n musical y monitorizaciÃ³n profesional.
+
+- **AudioXpress**\
+  <https://audioxpress.com/>\
+  IngenierÃ­a de audio y diseÃ±o de altavoces.
+
+- **Mix Magazine**\
+  <https://www.mixonline.com/>\
+  Sonido profesional, grabaciÃ³n y estudios.
+
+- **Resolution Magazine**\
+  <https://resolutionmag.com/>\
+  TecnologÃ­a de audio profesional.
+
+- **Professional Audio Magazin**\
+  <https://www.professional-audio.de/>\
+  Revista europea especializada en electroacÃºstica y monitorizaciÃ³n.
+
+- **Voice Coil**\
+  <https://voicecoilonline.com/>\
+  PublicaciÃ³n tÃ©cnica dedicada exclusivamente al diseÃ±o y fabricaciÃ³n de altavoces, transductores y componentes electroacÃºsticos.
+
 # RSS
 
-He verificado **nueve feeds públicos y activos** sobre altavoces de consumo, sonido profesional, electroacústica, medición e investigación.
+He verificado **nueve feeds pÃºblicos y activos** sobre altavoces de consumo, sonido profesional, electroacÃºstica, mediciÃ³n e investigaciÃ³n.
 
-**Fecha de verificación:** 29 de julio de 2026
-**Ámbito:** altavoces domésticos, Hi-Fi, monitores, sonido profesional, altavoces inteligentes, transductores, electroacústica, medición y procesamiento de audio.
+**Fecha de verificaciÃ³n:** 29 de julio de 2026
+**Ãmbito:** altavoces domÃ©sticos, Hi-Fi, monitores, sonido profesional, altavoces inteligentes, transductores, electroacÃºstica, mediciÃ³n y procesamiento de audio.
 
 ## Tabla resumen
 
-| Categoría         | Nombre                       | Organización                  | Idioma  | Tipo                               | Estado     |
+| CategorÃ­a         | Nombre                       | OrganizaciÃ³n                  | Idioma  | Tipo                               | Estado     |
 | ----------------- | ---------------------------- | ----------------------------- | ------- | ---------------------------------- | ---------- |
-| 🟢 Oficial        | Sonos Newsroom               | Sonos                         | Inglés  | Productos y empresa                | **Activo** |
-| 🟢 Institucional  | Acoustics.org                | Acoustical Society of America | Inglés  | Investigación y divulgación        | **Activo** |
-| 🟢 Institucional  | Acoustics Today              | Acoustical Society of America | Inglés  | Revista de acústica                | **Activo** |
-| 🔵 Científico     | Audio and Speech Processing  | arXiv                         | Inglés  | Investigación en audio             | **Activo** |
-| 🔵 Científico     | Sound                        | arXiv                         | Inglés  | Ciencia y procesamiento del sonido | **Activo** |
-| 🟠 Especializado  | Sound On Sound — Latest News | Sound On Sound                | Inglés  | Audio profesional                  | **Activo** |
-| 🟠 Especializado  | Audioholics                  | Audioholics                   | Inglés  | Pruebas y mediciones               | **Activo** |
-| 🟠 Especializado  | AVPasión                     | AVPasión                      | Español | Hi-Fi y electrónica de consumo     | **Activo** |
-| 🟠 Complementario | Signal To Noise Podcast      | ProSoundWeb                   | Inglés  | Sonido profesional                 | **Activo** |
+| ðŸŸ¢ Oficial        | Sonos Newsroom               | Sonos                         | InglÃ©s  | Productos y empresa                | **Activo** |
+| ðŸŸ¢ Institucional  | Acoustics.org                | Acoustical Society of America | InglÃ©s  | InvestigaciÃ³n y divulgaciÃ³n        | **Activo** |
+| ðŸŸ¢ Institucional  | Acoustics Today              | Acoustical Society of America | InglÃ©s  | Revista de acÃºstica                | **Activo** |
+| ðŸ”µ CientÃ­fico     | Audio and Speech Processing  | arXiv                         | InglÃ©s  | InvestigaciÃ³n en audio             | **Activo** |
+| ðŸ”µ CientÃ­fico     | Sound                        | arXiv                         | InglÃ©s  | Ciencia y procesamiento del sonido | **Activo** |
+| ðŸŸ  Especializado  | Sound On Sound â€” Latest News | Sound On Sound                | InglÃ©s  | Audio profesional                  | **Activo** |
+| ðŸŸ  Especializado  | Audioholics                  | Audioholics                   | InglÃ©s  | Pruebas y mediciones               | **Activo** |
+| ðŸŸ  Especializado  | AVPasiÃ³n                     | AVPasiÃ³n                      | EspaÃ±ol | Hi-Fi y electrÃ³nica de consumo     | **Activo** |
+| ðŸŸ  Complementario | Signal To Noise Podcast      | ProSoundWeb                   | InglÃ©s  | Sonido profesional                 | **Activo** |
 
 ---
-## 🟢 RSS oficiales e institucionales
+
+## ðŸŸ¢ RSS oficiales e institucionales
 
 ## 1. Sonos Newsroom
 
-**Organización:** Sonos
-**Categoría:** Fabricante de altavoces y sistemas de audio
-**URL Atom:** [https://newsroom.sonos.com/press_releases.atom](https://newsroom.sonos.com/press_releases.atom)
+**OrganizaciÃ³n:** Sonos
+**CategorÃ­a:** Fabricante de altavoces y sistemas de audio
+**URL Atom:** <https://newsroom.sonos.com/press_releases.atom>
 **Formato:** Atom
-**Idioma:** Inglés
+**Idioma:** InglÃ©s
 **Cobertura:** Mundial
-**Tipo de contenido:** Lanzamientos, altavoces, software, alianzas, sonido doméstico y noticias corporativas
+**Tipo de contenido:** Lanzamientos, altavoces, software, alianzas, sonido domÃ©stico y noticias corporativas
 **Frecuencia aproximada:** Varias publicaciones al trimestre; irregular
 **Estado:** **Activo**
 
-**Descripción:** canal oficial de la sala de prensa de Sonos. Es el feed empresarial más directamente relacionado con altavoces domésticos, sistemas multiroom y audio conectado.
+**DescripciÃ³n:** canal oficial de la sala de prensa de Sonos. Es el feed empresarial mÃ¡s directamente relacionado con altavoces domÃ©sticos, sistemas multiroom y audio conectado.
 
-**Observaciones:** la sala de prensa ofrece expresamente la suscripción mediante RSS. El endpoint responde como `application/atom+xml` y contenía actividad corporativa y lanzamientos de altavoces durante 2026, incluidos Sonos Play y Era 100 SL. ([Sonos Newsroom][1])
+**Observaciones:** la sala de prensa ofrece expresamente la suscripciÃ³n mediante RSS. El endpoint responde como `application/atom+xml` y contenÃ­a actividad corporativa y lanzamientos de altavoces durante 2026, incluidos Sonos Play y Era 100 SL. ([Sonos Newsroom][1])
 
-**Página oficial:** [https://newsroom.sonos.com/](https://newsroom.sonos.com/)
+**PÃ¡gina oficial:** <https://newsroom.sonos.com/>
 
 ---
+
 ## 2. Acoustics.org
 
-**Organización:** Acoustical Society of America
-**Categoría:** Asociación científica
-**URL RSS:** [https://acoustics.org/feed/](https://acoustics.org/feed/)
+**OrganizaciÃ³n:** Acoustical Society of America
+**CategorÃ­a:** AsociaciÃ³n cientÃ­fica
+**URL RSS:** <https://acoustics.org/feed/>
 **Formato:** RSS/XML
-**Idioma:** Inglés
+**Idioma:** InglÃ©s
 **Cobertura:** Mundial
-**Tipo de contenido:** Investigación, comunicados, artículos divulgativos, electroacústica y percepción sonora
-**Frecuencia aproximada:** Irregular; aumenta durante congresos científicos
+**Tipo de contenido:** InvestigaciÃ³n, comunicados, artÃ­culos divulgativos, electroacÃºstica y percepciÃ³n sonora
+**Frecuencia aproximada:** Irregular; aumenta durante congresos cientÃ­ficos
 **Estado:** **Activo**
 
-**Descripción:** sala de prensa científica de la Acoustical Society of America. Publica explicaciones accesibles sobre investigaciones relacionadas con sonido, altavoces, espacios de escucha, reproducción y percepción acústica.
+**DescripciÃ³n:** sala de prensa cientÃ­fica de la Acoustical Society of America. Publica explicaciones accesibles sobre investigaciones relacionadas con sonido, altavoces, espacios de escucha, reproducciÃ³n y percepciÃ³n acÃºstica.
 
-**Observaciones:** no está dedicado exclusivamente a altavoces. Conviene filtrar términos como `loudspeaker`, `speaker`, `electroacoustics`, `sound reproduction`, `spatial audio` y `room acoustics`. El feed respondió durante la verificación y el portal publicó nuevos contenidos en mayo de 2026. 
+**Observaciones:** no estÃ¡ dedicado exclusivamente a altavoces. Conviene filtrar tÃ©rminos como `loudspeaker`, `speaker`, `electroacoustics`, `sound reproduction`, `spatial audio` y `room acoustics`. El feed respondiÃ³ durante la verificaciÃ³n y el portal publicÃ³ nuevos contenidos en mayo de 2026.
 
-**Página oficial:** [https://acoustics.org/](https://acoustics.org/)
+**PÃ¡gina oficial:** <https://acoustics.org/>
 
 ---
+
 ## 3. Acoustics Today
 
-**Organización:** Acoustical Society of America
-**Categoría:** Revista institucional
-**URL RSS:** [https://acousticstoday.org/feed/](https://acousticstoday.org/feed/)
+**OrganizaciÃ³n:** Acoustical Society of America
+**CategorÃ­a:** Revista institucional
+**URL RSS:** <https://acousticstoday.org/feed/>
 **Formato:** RSS/XML
-**Idioma:** Inglés
+**Idioma:** InglÃ©s
 **Cobertura:** Mundial
-**Tipo de contenido:** Acústica, percepción, procesamiento de señales, espacios, sonido y tecnología
+**Tipo de contenido:** AcÃºstica, percepciÃ³n, procesamiento de seÃ±ales, espacios, sonido y tecnologÃ­a
 **Frecuencia aproximada:** Trimestral, con publicaciones web adicionales
 **Estado:** **Activo**
 
-**Descripción:** revista de divulgación técnica de la Acoustical Society of America. Aporta contexto científico sobre cómo se genera, transmite, reproduce y percibe el sonido.
+**DescripciÃ³n:** revista de divulgaciÃ³n tÃ©cnica de la Acoustical Society of America. Aporta contexto cientÃ­fico sobre cÃ³mo se genera, transmite, reproduce y percibe el sonido.
 
-**Observaciones:** es una fuente indirecta, pero de elevada calidad para comprender diseño electroacústico, evaluación subjetiva, acústica de salas y reproducción espacial. El feed respondió durante la comprobación y la revista publicó su edición de primavera de 2026 junto con nuevos artículos web en abril. 
+**Observaciones:** es una fuente indirecta, pero de elevada calidad para comprender diseÃ±o electroacÃºstico, evaluaciÃ³n subjetiva, acÃºstica de salas y reproducciÃ³n espacial. El feed respondiÃ³ durante la comprobaciÃ³n y la revista publicÃ³ su ediciÃ³n de primavera de 2026 junto con nuevos artÃ­culos web en abril.
 
-**Página oficial:** [https://acousticstoday.org/](https://acousticstoday.org/)
+**PÃ¡gina oficial:** <https://acousticstoday.org/>
 
 ---
-## 🔵 RSS científicos y técnicos
 
-## 4. arXiv — Audio and Speech Processing
+## ðŸ”µ RSS cientÃ­ficos y tÃ©cnicos
 
-**Organización:** arXiv
-**Categoría:** Repositorio científico
-**URL RSS:** [https://rss.arxiv.org/rss/eess.AS](https://rss.arxiv.org/rss/eess.AS)
+## 4. arXiv â€” Audio and Speech Processing
+
+**OrganizaciÃ³n:** arXiv
+**CategorÃ­a:** Repositorio cientÃ­fico
+**URL RSS:** <https://rss.arxiv.org/rss/eess.AS>
 **Formato:** RSS 2.0
-**Idioma:** Inglés
+**Idioma:** InglÃ©s
 **Cobertura:** Mundial
-**Tipo de contenido:** Procesamiento de audio, reproducción espacial, cancelación, ecualización, localización y señales acústicas
-**Frecuencia aproximada:** Diaria durante días hábiles
+**Tipo de contenido:** Procesamiento de audio, reproducciÃ³n espacial, cancelaciÃ³n, ecualizaciÃ³n, localizaciÃ³n y seÃ±ales acÃºsticas
+**Frecuencia aproximada:** Diaria durante dÃ­as hÃ¡biles
 **Estado:** **Activo**
 
-**Descripción:** feed de nuevas investigaciones en procesamiento de audio y voz. Puede contener trabajos sobre matrices de altavoces, reproducción binaural, separación de fuentes, control acústico y calibración.
+**DescripciÃ³n:** feed de nuevas investigaciones en procesamiento de audio y voz. Puede contener trabajos sobre matrices de altavoces, reproducciÃ³n binaural, separaciÃ³n de fuentes, control acÃºstico y calibraciÃ³n.
 
-**Observaciones:** genera muchas publicaciones no relacionadas directamente con altavoces. Se recomienda filtrar `loudspeaker`, `speaker array`, `sound field reproduction`, `room correction`, `equalization`, `beamforming` y `spatial audio`. La categoría incorporaba nuevas investigaciones los días 28 y 29 de julio de 2026. ([arXiv][2])
+**Observaciones:** genera muchas publicaciones no relacionadas directamente con altavoces. Se recomienda filtrar `loudspeaker`, `speaker array`, `sound field reproduction`, `room correction`, `equalization`, `beamforming` y `spatial audio`. La categorÃ­a incorporaba nuevas investigaciones los dÃ­as 28 y 29 de julio de 2026. ([arXiv][2])
 
-**Página de la categoría:** [https://arxiv.org/list/eess.AS/recent](https://arxiv.org/list/eess.AS/recent)
+**PÃ¡gina de la categorÃ­a:** <https://arxiv.org/list/eess.AS/recent>
 
 ---
-## 5. arXiv — Sound
 
-**Organización:** arXiv
-**Categoría:** Repositorio científico
-**URL RSS:** [https://rss.arxiv.org/rss/cs.SD](https://rss.arxiv.org/rss/cs.SD)
+## 5. arXiv â€” Sound
+
+**OrganizaciÃ³n:** arXiv
+**CategorÃ­a:** Repositorio cientÃ­fico
+**URL RSS:** <https://rss.arxiv.org/rss/cs.SD>
 **Formato:** RSS 2.0
-**Idioma:** Inglés
+**Idioma:** InglÃ©s
 **Cobertura:** Mundial
-**Tipo de contenido:** Ciencia del sonido, aprendizaje automático para audio, síntesis, análisis y reproducción
-**Frecuencia aproximada:** Diaria durante días hábiles
+**Tipo de contenido:** Ciencia del sonido, aprendizaje automÃ¡tico para audio, sÃ­ntesis, anÃ¡lisis y reproducciÃ³n
+**Frecuencia aproximada:** Diaria durante dÃ­as hÃ¡biles
 **Estado:** **Activo**
 
-**Descripción:** canal científico sobre tecnologías computacionales relacionadas con el sonido. Complementa la categoría de procesamiento de audio con investigaciones sobre análisis, generación y evaluación acústica.
+**DescripciÃ³n:** canal cientÃ­fico sobre tecnologÃ­as computacionales relacionadas con el sonido. Complementa la categorÃ­a de procesamiento de audio con investigaciones sobre anÃ¡lisis, generaciÃ³n y evaluaciÃ³n acÃºstica.
 
-**Observaciones:** tampoco es exclusivo de altavoces. Los filtros más útiles son `loudspeaker`, `room impulse response`, `sound reproduction`, `acoustic field`, `spatial sound` y `speaker recognition`, distinguiendo este último concepto del altavoz físico. La categoría registraba 63 incorporaciones recientes y publicaciones fechadas hasta el 29 de julio de 2026. ([arXiv][3])
+**Observaciones:** tampoco es exclusivo de altavoces. Los filtros mÃ¡s Ãºtiles son `loudspeaker`, `room impulse response`, `sound reproduction`, `acoustic field`, `spatial sound` y `speaker recognition`, distinguiendo este Ãºltimo concepto del altavoz fÃ­sico. La categorÃ­a registraba 63 incorporaciones recientes y publicaciones fechadas hasta el 29 de julio de 2026. ([arXiv][3])
 
-**Página de la categoría:** [https://arxiv.org/list/cs.SD/recent](https://arxiv.org/list/cs.SD/recent)
+**PÃ¡gina de la categorÃ­a:** <https://arxiv.org/list/cs.SD/recent>
 
 ---
-## 🟠 RSS especializados
 
-## 6. Sound On Sound — Latest News
+## ðŸŸ  RSS especializados
 
-**Organización:** Sound On Sound
-**Categoría:** Medio técnico de audio profesional
-**URL RSS:** [https://www.soundonsound.com/news/sosrssfeed.php](https://www.soundonsound.com/news/sosrssfeed.php)
+## 6. Sound On Sound â€” Latest News
+
+**OrganizaciÃ³n:** Sound On Sound
+**CategorÃ­a:** Medio tÃ©cnico de audio profesional
+**URL RSS:** <https://www.soundonsound.com/news/sosrssfeed.php>
 **Formato:** RSS/XML
-**Idioma:** Inglés
+**Idioma:** InglÃ©s
 **Cobertura:** Mundial
-**Tipo de contenido:** Monitores de estudio, altavoces profesionales, interfaces, grabación, producción y nuevos productos
+**Tipo de contenido:** Monitores de estudio, altavoces profesionales, interfaces, grabaciÃ³n, producciÃ³n y nuevos productos
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**Descripción:** canal de noticias de una de las publicaciones técnicas más reconocidas en grabación y producción musical. Es especialmente útil para monitores activos, sistemas de estudio y equipamiento profesional.
+**DescripciÃ³n:** canal de noticias de una de las publicaciones tÃ©cnicas mÃ¡s reconocidas en grabaciÃ³n y producciÃ³n musical. Es especialmente Ãºtil para monitores activos, sistemas de estudio y equipamiento profesional.
 
-**Observaciones:** no se limita a altavoces, por lo que conviene aplicar filtros por `monitor`, `loudspeaker`, `speaker`, `subwoofer`, `studio monitoring` y `PA system`. El endpoint aparece como feed de noticias de la publicación y su sitio mantiene una actualización continua. ([Sound on Sound][4])
+**Observaciones:** no se limita a altavoces, por lo que conviene aplicar filtros por `monitor`, `loudspeaker`, `speaker`, `subwoofer`, `studio monitoring` y `PA system`. El endpoint aparece como feed de noticias de la publicaciÃ³n y su sitio mantiene una actualizaciÃ³n continua. ([Sound on Sound][4])
 
-**Página oficial:** [https://www.soundonsound.com/](https://www.soundonsound.com/)
+**PÃ¡gina oficial:** <https://www.soundonsound.com/>
 
 ---
+
 ## 7. Audioholics
 
-**Organización:** Audioholics
-**Categoría:** Medio especializado en audio doméstico
-**URL RSS:** [https://www.audioholics.com/rss.xml](https://www.audioholics.com/rss.xml)
+**OrganizaciÃ³n:** Audioholics
+**CategorÃ­a:** Medio especializado en audio domÃ©stico
+**URL RSS:** <https://www.audioholics.com/rss.xml>
 **Formato:** RSS/XML
-**Idioma:** Inglés
+**Idioma:** InglÃ©s
 **Cobertura:** Principalmente Estados Unidos, con productos internacionales
-**Tipo de contenido:** Mediciones, análisis, altavoces de estantería, columnas, subwoofers y cine en casa
+**Tipo de contenido:** Mediciones, anÃ¡lisis, altavoces de estanterÃ­a, columnas, subwoofers y cine en casa
 **Frecuencia aproximada:** Varias publicaciones semanales
 **Estado:** **Activo**
 
-**Descripción:** publicación orientada a evaluaciones técnicas de equipos audiovisuales. Destaca por sus mediciones y análisis de rendimiento de altavoces y subwoofers.
+**DescripciÃ³n:** publicaciÃ³n orientada a evaluaciones tÃ©cnicas de equipos audiovisuales. Destaca por sus mediciones y anÃ¡lisis de rendimiento de altavoces y subwoofers.
 
-**Observaciones:** el feed respondió durante la comprobación, aunque el visor web no pudo representarlo como página convencional. El sitio publicó en julio de 2026 nuevas pruebas de altavoces, incluida una evaluación de los DALI Kupid, y mantiene categorías diferenciadas para altavoces de estantería y de suelo. 
+**Observaciones:** el feed respondiÃ³ durante la comprobaciÃ³n, aunque el visor web no pudo representarlo como pÃ¡gina convencional. El sitio publicÃ³ en julio de 2026 nuevas pruebas de altavoces, incluida una evaluaciÃ³n de los DALI Kupid, y mantiene categorÃ­as diferenciadas para altavoces de estanterÃ­a y de suelo.
 
-**Sección de altavoces:** [https://www.audioholics.com/product-reviews](https://www.audioholics.com/product-reviews)
+**SecciÃ³n de altavoces:** <https://www.audioholics.com/product-reviews>
 
 ---
 
-## 8. AVPasión
+## 8. AVPasiÃ³n
 
-**Organización:** AVPasión
-**Categoría:** Medio especializado en español
-**URL RSS:** [https://www.avpasion.com/feed/](https://www.avpasion.com/feed/)
+**OrganizaciÃ³n:** AVPasiÃ³n
+**CategorÃ­a:** Medio especializado en espaÃ±ol
+**URL RSS:** <https://www.avpasion.com/feed/>
 **Formato:** RSS/XML
-**Idioma:** Español
-**Cobertura:** España y mercado internacional
-**Tipo de contenido:** Altavoces, Hi-Fi, barras de sonido, cine en casa, análisis y ofertas
+**Idioma:** EspaÃ±ol
+**Cobertura:** EspaÃ±a y mercado internacional
+**Tipo de contenido:** Altavoces, Hi-Fi, barras de sonido, cine en casa, anÃ¡lisis y ofertas
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**Descripción:** medio español sobre audio y vídeo con noticias, análisis y comparativas de altavoces domésticos, portátiles e integrados en sistemas de cine en casa.
+**DescripciÃ³n:** medio espaÃ±ol sobre audio y vÃ­deo con noticias, anÃ¡lisis y comparativas de altavoces domÃ©sticos, portÃ¡tiles e integrados en sistemas de cine en casa.
 
-**Observaciones:** el endpoint respondió como `application/rss+xml`. El sitio mantenía publicaciones recientes en 2026 sobre Sonos, JBL, Wharfedale, Xiaomi, Bang & Olufsen y otros fabricantes. El feed también incluye televisores y plataformas audiovisuales, por lo que se recomienda filtrar por `altavoz`, `altavoces`, `Hi-Fi`, `sonido` y `subwoofer`. 
+**Observaciones:** el endpoint respondiÃ³ como `application/rss+xml`. El sitio mantenÃ­a publicaciones recientes en 2026 sobre Sonos, JBL, Wharfedale, Xiaomi, Bang & Olufsen y otros fabricantes. El feed tambiÃ©n incluye televisores y plataformas audiovisuales, por lo que se recomienda filtrar por `altavoz`, `altavoces`, `Hi-Fi`, `sonido` y `subwoofer`.
 
-**Sección temática:** [https://www.avpasion.com/temas/altavoces/](https://www.avpasion.com/temas/altavoces/)
+**SecciÃ³n temÃ¡tica:** <https://www.avpasion.com/temas/altavoces/>
 
 ---
-## 🟠 RSS complementarios
+
+## ðŸŸ  RSS complementarios
 
 ## 9. Signal To Noise Podcast
 
-**Organización:** ProSoundWeb
-**Categoría:** Pódcast de sonido profesional
-**URL RSS:** [https://rss.buzzsprout.com/748181.rss](https://rss.buzzsprout.com/748181.rss)
-**Formato:** RSS de pódcast
-**Idioma:** Inglés
-**Cobertura:** Mundial, con especial atención a Estados Unidos
-**Tipo de contenido:** Sistemas PA, refuerzo sonoro, giras, instalaciones, mezclas y operación técnica
+**OrganizaciÃ³n:** ProSoundWeb
+**CategorÃ­a:** PÃ³dcast de sonido profesional
+**URL RSS:** <https://rss.buzzsprout.com/748181.rss>
+**Formato:** RSS de pÃ³dcast
+**Idioma:** InglÃ©s
+**Cobertura:** Mundial, con especial atenciÃ³n a Estados Unidos
+**Tipo de contenido:** Sistemas PA, refuerzo sonoro, giras, instalaciones, mezclas y operaciÃ³n tÃ©cnica
 **Frecuencia aproximada:** Dos o tres episodios mensuales
 **Estado:** **Activo**
 
-**Descripción:** entrevistas y conversaciones con profesionales del sonido en directo. Aporta información sobre sistemas de altavoces profesionales, arrays, cobertura, amplificación y diseño de instalaciones.
+**DescripciÃ³n:** entrevistas y conversaciones con profesionales del sonido en directo. Aporta informaciÃ³n sobre sistemas de altavoces profesionales, arrays, cobertura, amplificaciÃ³n y diseÃ±o de instalaciones.
 
-**Observaciones:** el feed está publicado como canal oficial del pódcast. ProSoundWeb mantenía episodios recientes el 22 de julio, 6 de julio y 15 de junio de 2026. No es una fuente de noticias escritas, sino un canal técnico de audio. ([Podstatus][5])
+**Observaciones:** el feed estÃ¡ publicado como canal oficial del pÃ³dcast. ProSoundWeb mantenÃ­a episodios recientes el 22 de julio, 6 de julio y 15 de junio de 2026. No es una fuente de noticias escritas, sino un canal tÃ©cnico de audio. ([Podstatus][5])
 
-**Página oficial:** [https://www.prosoundweb.com/podcasts/signal-to-noise-podcast/](https://www.prosoundweb.com/podcasts/signal-to-noise-podcast/)
+**PÃ¡gina oficial:** <https://www.prosoundweb.com/podcasts/signal-to-noise-podcast/>
 
 ---
+
 ## Organizaciones relevantes sin RSS general verificado
 
 ## Audio Engineering Society
 
-La Audio Engineering Society es una de las organizaciones profesionales más importantes para tecnología de audio y electroacústica. Su portal publicaba noticias y actividades recientes en julio de 2026, pero no se localizó un RSS general público claramente enlazado.
+La Audio Engineering Society es una de las organizaciones profesionales mÃ¡s importantes para tecnologÃ­a de audio y electroacÃºstica. Su portal publicaba noticias y actividades recientes en julio de 2026, pero no se localizÃ³ un RSS general pÃºblico claramente enlazado.
 
-**Alternativa oficial:** [https://aes.org/](https://aes.org/) ([AES][6])
+**Alternativa oficial:** <https://aes.org/> ([AES][6])
 
 ---
 
 ## JBL / HARMAN
 
-La sala de prensa de HARMAN continúa publicando lanzamientos de altavoces JBL, incluidos productos domésticos, portátiles y sistemas de alta gama. Sin embargo, el antiguo endpoint RSS corporativo devolvió un error **502 Bad Gateway**, por lo que no se incluye como feed operativo.
+La sala de prensa de HARMAN continÃºa publicando lanzamientos de altavoces JBL, incluidos productos domÃ©sticos, portÃ¡tiles y sistemas de alta gama. Sin embargo, el antiguo endpoint RSS corporativo devolviÃ³ un error **502 Bad Gateway**, por lo que no se incluye como feed operativo.
 
-**Alternativa oficial:** [https://news.harman.com/releases](https://news.harman.com/releases) ([HARMAN Newsroom][7])
+**Alternativa oficial:** <https://news.harman.com/releases> ([HARMAN Newsroom][7])
 
 ---
+
 ## KEF
 
-El blog europeo oficial de KEF sigue activo y publicó durante 2026 guías, presentaciones y contenidos relacionados con altavoces. No obstante, no se pudo validar directamente un endpoint RSS o Atom público con garantías suficientes.
+El blog europeo oficial de KEF sigue activo y publicÃ³ durante 2026 guÃ­as, presentaciones y contenidos relacionados con altavoces. No obstante, no se pudo validar directamente un endpoint RSS o Atom pÃºblico con garantÃ­as suficientes.
 
-**Alternativa oficial:** [https://eu.kef.com/blogs/news](https://eu.kef.com/blogs/news) ([KEF Europe][8])
+**Alternativa oficial:** <https://eu.kef.com/blogs/news> ([KEF Europe][8])
 
 ---
+
 ## audioXpress / Voice Coil
 
-Es una publicación de gran valor para ingeniería de transductores y fabricación de altavoces. En julio de 2026 publicaba mediciones de woofers, tweeters, materiales, adhesivos y herramientas de análisis. El posible endpoint RSS no pudo validarse directamente con el mismo nivel de certeza que los feeds principales.
+Es una publicaciÃ³n de gran valor para ingenierÃ­a de transductores y fabricaciÃ³n de altavoces. En julio de 2026 publicaba mediciones de woofers, tweeters, materiales, adhesivos y herramientas de anÃ¡lisis. El posible endpoint RSS no pudo validarse directamente con el mismo nivel de certeza que los feeds principales.
 
-**Alternativa oficial:** [https://audioxpress.com/](https://audioxpress.com/)
-**Voice Coil:** [https://audioxpress.com/page/Voice-Coil-Magazine.html](https://audioxpress.com/page/Voice-Coil-Magazine.html) ([audioXpress][9])
+**Alternativa oficial:** <https://audioxpress.com/>
+**Voice Coil:** <https://audioxpress.com/page/Voice-Coil-Magazine.html> ([audioXpress][9])
 
 ---
+
 ## Stereophile
 
-La publicación mantiene actividad diaria sobre altavoces y audio de alta fidelidad, pero no se confirmó un feed RSS público y actual.
+La publicaciÃ³n mantiene actividad diaria sobre altavoces y audio de alta fidelidad, pero no se confirmÃ³ un feed RSS pÃºblico y actual.
 
-**Alternativa oficial:** [https://www.stereophile.com/](https://www.stereophile.com/) ([Stereophile][10])
+**Alternativa oficial:** <https://www.stereophile.com/> ([Stereophile][10])
 
 ---
-## Selección prioritaria
+
+## SelecciÃ³n prioritaria
 
 Para un seguimiento equilibrado sobre altavoces:
 
-1. [Sonos Newsroom](https://newsroom.sonos.com/press_releases.atom) — lanzamientos oficiales.
-2. [Acoustics.org](https://acoustics.org/feed/) — investigación y electroacústica.
-3. [arXiv Audio and Speech Processing](https://rss.arxiv.org/rss/eess.AS) — investigación técnica.
-4. [Sound On Sound](https://www.soundonsound.com/news/sosrssfeed.php) — monitores y audio profesional.
-5. [Audioholics](https://www.audioholics.com/rss.xml) — pruebas y mediciones.
-6. [AVPasión](https://www.avpasion.com/feed/) — actualidad en español.
-7. [Signal To Noise](https://rss.buzzsprout.com/748181.rss) — sistemas profesionales y sonido en directo.
+1. [Sonos Newsroom](https://newsroom.sonos.com/press_releases.atom) â€” lanzamientos oficiales.
+2. [Acoustics.org](https://acoustics.org/feed/) â€” investigaciÃ³n y electroacÃºstica.
+3. [arXiv Audio and Speech Processing](https://rss.arxiv.org/rss/eess.AS) â€” investigaciÃ³n tÃ©cnica.
+4. [Sound On Sound](https://www.soundonsound.com/news/sosrssfeed.php) â€” monitores y audio profesional.
+5. [Audioholics](https://www.audioholics.com/rss.xml) â€” pruebas y mediciones.
+6. [AVPasiÃ³n](https://www.avpasion.com/feed/) â€” actualidad en espaÃ±ol.
+7. [Signal To Noise](https://rss.buzzsprout.com/748181.rss) â€” sistemas profesionales y sonido en directo.
 
 ## Palabras clave recomendadas
 
 Para reducir contenido no relacionado dentro de los feeds generales:
 
-`altavoz` · `altavoces` · `loudspeaker` · `speaker` · `speaker system` · `studio monitor` · `subwoofer` · `woofer` · `tweeter` · `transducer` · `electroacoustics` · `sound reproduction` · `speaker array` · `room correction`
+`altavoz` Â· `altavoces` Â· `loudspeaker` Â· `speaker` Â· `speaker system` Â· `studio monitor` Â· `subwoofer` Â· `woofer` Â· `tweeter` Â· `transducer` Â· `electroacoustics` Â· `sound reproduction` Â· `speaker array` Â· `room correction`
 
-La selección prioriza fuentes oficiales y técnicas, y excluye los feeds corporativos antiguos, bloqueados o no verificables.
+La selecciÃ³n prioriza fuentes oficiales y tÃ©cnicas, y excluye los feeds corporativos antiguos, bloqueados o no verificables.
 
 [1]: https://newsroom.sonos.com/254703-explore-solarsystym-with-lorde-and-sonos-radio/ "Explore SOLARSYSTYM with Lorde and Sonos Radio | Sonos Newsroom"
+
 [2]: https://arxiv.org/list/eess.AS/recent?utm_source=chatgpt.com "Audio and Speech Processing"
+
 [3]: https://arxiv.org/list/cs.SD/current?utm_source=chatgpt.com "Sound Jul 2026"
+
 [4]: https://www.soundonsound.com/news/sosrssfeed.php?utm_source=chatgpt.com "Latest News"
+
 [5]: https://podstatus.com/podcasts/signal-to-noise-podcast-483635?utm_source=chatgpt.com "Signal To Noise Podcast Podcast - Rankings, Reviews - Podstatus"
+
 [6]: https://aes.org/?utm_source=chatgpt.com "Audio Engineering Society - AES"
+
 [7]: https://news.harman.com/releases?utm_source=chatgpt.com "Press Releases - HARMAN Newsroom"
+
 [8]: https://eu.kef.com/blogs/news?srsltid=AfmBOorgxBxxwQ6jK6KnHmAxIxSJA7cbl5X3yPC0YCIoqxO6c-2e0Xag&utm_source=chatgpt.com "Blog"
+
 [9]: https://audioxpress.com/news/glue-it-coat-it-seal-it-and-more-in-voice-coil-july-2026?utm_source=chatgpt.com "Glue It, Coat It, Seal It, and More in Voice Coil July 2026 | audioXpress"
+
 [10]: https://www.stereophile.com/content/does-stereophile-have-rss?utm_source=chatgpt.com "Does Stereophile Have RSS?"

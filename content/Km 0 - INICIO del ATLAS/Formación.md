@@ -1,8 +1,14 @@
-#Formación #Educación #Aprendizaje #IA
+---
+publish: true
+created: 2026-07-12T14:36:04.860Z
+modified: 2026-09-17T10:13:53.959Z
+---
 
-[[Educación y Aprendizaje]]
+#FormaciÃ³n #EducaciÃ³n #Aprendizaje #IA
 
-[[BYTEBYTEGO
+[[EducaciÃ³n y Aprendizaje]]
+
+\[\[BYTEBYTEGO
 [[Desde golum hasta deeplearning.jpeg]]]]
 
-[[IA Generativa, Introducción]]
+[[IA Generativa, IntroducciÃ³n]]

@@ -1,285 +1,281 @@
-#IA #Nvidia 
+---
+publish: true
+created: 2026-09-05T08:19:56.712Z
+modified: 2026-09-17T10:14:43.163Z
+---
 
-![[Pasted image 20260905105301.png]]
+#IA #Nvidia
+
+![[Biblioteca/Pasted image 20260905105301.png]]
 
 ## NVIDIA
 
-✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+âœ… Enlaces verificados y operativos en la fecha de elaboraciÃ³n del informe. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+
 ## [Wikipedia](https://es.wikipedia.org/wiki/NVIDIA?wprov=sfla1)
+
 ## WEB
 
-[NVIDIA](https://www.nvidia.com/?utm_source=chatgpt.com) – Sitio corporativo principal de NVIDIA Corporation. Centraliza información sobre plataformas de computación acelerada, inteligencia artificial, centros de datos, gráficos, robótica, automoción y productos profesionales.
+[NVIDIA](https://www.nvidia.com/?utm_source=chatgpt.com) â€“ Sitio corporativo principal de NVIDIA Corporation. Centraliza informaciÃ³n sobre plataformas de computaciÃ³n acelerada, inteligencia artificial, centros de datos, grÃ¡ficos, robÃ³tica, automociÃ³n y productos profesionales.
 
-[NVIDIA Developer](https://developer.nvidia.com/?utm_source=chatgpt.com) – Portal técnico para desarrolladores que reúne SDK, bibliotecas, herramientas, documentación, ejemplos, programas de formación y recursos para las plataformas de NVIDIA.
+[NVIDIA Developer](https://developer.nvidia.com/?utm_source=chatgpt.com) â€“ Portal tÃ©cnico para desarrolladores que reÃºne SDK, bibliotecas, herramientas, documentaciÃ³n, ejemplos, programas de formaciÃ³n y recursos para las plataformas de NVIDIA.
 
-[CUDA](https://developer.nvidia.com/cuda?utm_source=chatgpt.com) – Página oficial de la plataforma de programación y computación acelerada CUDA, una referencia fundamental para estudiar el ecosistema de software de NVIDIA y la programación general sobre GPU. 
+[CUDA](https://developer.nvidia.com/cuda?utm_source=chatgpt.com) â€“ PÃ¡gina oficial de la plataforma de programaciÃ³n y computaciÃ³n acelerada CUDA, una referencia fundamental para estudiar el ecosistema de software de NVIDIA y la programaciÃ³n general sobre GPU.
 
-[CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit?utm_source=chatgpt.com) – Distribución oficial del entorno de desarrollo CUDA, con compiladores, bibliotecas, herramientas de depuración, análisis de rendimiento y materiales técnicos. 
+[CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit?utm_source=chatgpt.com) â€“ DistribuciÃ³n oficial del entorno de desarrollo CUDA, con compiladores, bibliotecas, herramientas de depuraciÃ³n, anÃ¡lisis de rendimiento y materiales tÃ©cnicos.
 
-[NVIDIA Documentation Hub](https://docs.nvidia.com/?utm_source=chatgpt.com) – Centro documental oficial que reúne manuales y documentación de CUDA, cuDNN, TensorRT, networking, DGX, NGC, Omniverse y otras tecnologías de NVIDIA. 
+[NVIDIA Documentation Hub](https://docs.nvidia.com/?utm_source=chatgpt.com) â€“ Centro documental oficial que reÃºne manuales y documentaciÃ³n de CUDA, cuDNN, TensorRT, networking, DGX, NGC, Omniverse y otras tecnologÃ­as de NVIDIA.
 
-[NVIDIA Research](https://www.nvidia.com/en-us/research/?utm_source=chatgpt.com) – Portal de investigación de la compañía, con publicaciones científicas, laboratorios, áreas de investigación, demostraciones, código y colaboraciones académicas. 
+[NVIDIA Research](https://www.nvidia.com/en-us/research/?utm_source=chatgpt.com) â€“ Portal de investigaciÃ³n de la compaÃ±Ã­a, con publicaciones cientÃ­ficas, laboratorios, Ã¡reas de investigaciÃ³n, demostraciones, cÃ³digo y colaboraciones acadÃ©micas.
 
-[NVIDIA Research Publications](https://research.nvidia.com/publications?utm_source=chatgpt.com) – Índice de trabajos científicos producidos por investigadores de NVIDIA en inteligencia artificial, gráficos, visión artificial, robótica, sistemas y otras áreas.
+[NVIDIA Research Publications](https://research.nvidia.com/publications?utm_source=chatgpt.com) â€“ Ãndice de trabajos cientÃ­ficos producidos por investigadores de NVIDIA en inteligencia artificial, grÃ¡ficos, visiÃ³n artificial, robÃ³tica, sistemas y otras Ã¡reas.
 
-[NVIDIA Academic Collaborations](https://www.nvidia.com/en-us/research/academic/?utm_source=chatgpt.com) – Información sobre colaboraciones con universidades, Faculty Fellows y centros académicos asociados a NVIDIA Research. 
+[NVIDIA Academic Collaborations](https://www.nvidia.com/en-us/research/academic/?utm_source=chatgpt.com) â€“ InformaciÃ³n sobre colaboraciones con universidades, Faculty Fellows y centros acadÃ©micos asociados a NVIDIA Research.
 
-[NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/?utm_source=chatgpt.com) – Plataforma de formación técnica con cursos, talleres, rutas de aprendizaje y certificaciones sobre IA, CUDA, ciencia de datos, infraestructura y gráficos. 
+[NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/?utm_source=chatgpt.com) â€“ Plataforma de formaciÃ³n tÃ©cnica con cursos, talleres, rutas de aprendizaje y certificaciones sobre IA, CUDA, ciencia de datos, infraestructura y grÃ¡ficos.
 
-[NVIDIA Learn](https://learn.nvidia.com/?utm_source=chatgpt.com) – Entorno educativo en línea de NVIDIA para cursos autónomos, laboratorios y formación práctica especializada.
+[NVIDIA Learn](https://learn.nvidia.com/?utm_source=chatgpt.com) â€“ Entorno educativo en lÃ­nea de NVIDIA para cursos autÃ³nomos, laboratorios y formaciÃ³n prÃ¡ctica especializada.
 
-[NVIDIA NGC Catalog](https://catalog.ngc.nvidia.com/?utm_source=chatgpt.com) – Catálogo de contenedores, modelos, SDK, recursos y paquetes de software optimizados para GPU destinados a IA, HPC, visualización y computación científica. 
+[NVIDIA NGC Catalog](https://catalog.ngc.nvidia.com/?utm_source=chatgpt.com) â€“ CatÃ¡logo de contenedores, modelos, SDK, recursos y paquetes de software optimizados para GPU destinados a IA, HPC, visualizaciÃ³n y computaciÃ³n cientÃ­fica.
 
-[NVIDIA API Catalog](https://build.nvidia.com/?utm_source=chatgpt.com) – Portal para explorar modelos, microservicios y API del ecosistema de inteligencia artificial de NVIDIA.
+[NVIDIA API Catalog](https://build.nvidia.com/?utm_source=chatgpt.com) â€“ Portal para explorar modelos, microservicios y API del ecosistema de inteligencia artificial de NVIDIA.
 
-[NVIDIA Technical Blog](https://developer.nvidia.com/blog/?utm_source=chatgpt.com) – Publicación técnica mantenida por ingenieros y especialistas de NVIDIA con artículos sobre CUDA, IA generativa, HPC, gráficos, robótica, optimización y desarrollo de software.
+[NVIDIA Technical Blog](https://developer.nvidia.com/blog/?utm_source=chatgpt.com) â€“ PublicaciÃ³n tÃ©cnica mantenida por ingenieros y especialistas de NVIDIA con artÃ­culos sobre CUDA, IA generativa, HPC, grÃ¡ficos, robÃ³tica, optimizaciÃ³n y desarrollo de software.
 
-[NVIDIA Blog](https://blogs.nvidia.com/?utm_source=chatgpt.com) – Blog corporativo dedicado a anuncios, aplicaciones de tecnología NVIDIA, IA, investigación, gaming, creatividad y computación acelerada.
+[NVIDIA Blog](https://blogs.nvidia.com/?utm_source=chatgpt.com) â€“ Blog corporativo dedicado a anuncios, aplicaciones de tecnologÃ­a NVIDIA, IA, investigaciÃ³n, gaming, creatividad y computaciÃ³n acelerada.
 
-[NVIDIA Newsroom](https://nvidianews.nvidia.com/?utm_source=chatgpt.com) – Sala de prensa oficial que concentra comunicados corporativos, lanzamientos, acuerdos tecnológicos y anuncios institucionales.
+[NVIDIA Newsroom](https://nvidianews.nvidia.com/?utm_source=chatgpt.com) â€“ Sala de prensa oficial que concentra comunicados corporativos, lanzamientos, acuerdos tecnolÃ³gicos y anuncios institucionales.
 
-[NVIDIA Investor Relations](https://investor.nvidia.com/?utm_source=chatgpt.com) – Fuente primaria para información financiera, resultados trimestrales, documentos regulatorios, presentaciones y comunicaciones a inversores.
+[NVIDIA Investor Relations](https://investor.nvidia.com/?utm_source=chatgpt.com) â€“ Fuente primaria para informaciÃ³n financiera, resultados trimestrales, documentos regulatorios, presentaciones y comunicaciones a inversores.
 
-[NVIDIA Annual Reports and Proxies](https://investor.nvidia.com/financial-info/annual-reports-and-proxies/default.aspx?utm_source=chatgpt.com) – Archivo oficial de informes anuales y documentación societaria, particularmente útil para estudiar resultados financieros, riesgos, mercados y estrategia corporativa. 
+[NVIDIA Annual Reports and Proxies](https://investor.nvidia.com/financial-info/annual-reports-and-proxies/default.aspx?utm_source=chatgpt.com) â€“ Archivo oficial de informes anuales y documentaciÃ³n societaria, particularmente Ãºtil para estudiar resultados financieros, riesgos, mercados y estrategia corporativa.
 
-[NVIDIA SEC Filings](https://investor.nvidia.com/financial-info/sec-filings/default.aspx?utm_source=chatgpt.com) – Acceso corporativo a formularios y documentación presentada ante la U.S. Securities and Exchange Commission.
+[NVIDIA SEC Filings](https://investor.nvidia.com/financial-info/sec-filings/default.aspx?utm_source=chatgpt.com) â€“ Acceso corporativo a formularios y documentaciÃ³n presentada ante la U.S. Securities and Exchange Commission.
 
-[NVIDIA GTC](https://www.nvidia.com/gtc/?utm_source=chatgpt.com) – Portal de la conferencia tecnológica global de NVIDIA, con sesiones, conferencias magistrales y materiales sobre IA, sistemas, CUDA, robótica e infraestructura. 
+[NVIDIA GTC](https://www.nvidia.com/gtc/?utm_source=chatgpt.com) â€“ Portal de la conferencia tecnolÃ³gica global de NVIDIA, con sesiones, conferencias magistrales y materiales sobre IA, sistemas, CUDA, robÃ³tica e infraestructura.
 
-[NVIDIA Developer Forums](https://forums.developer.nvidia.com/?utm_source=chatgpt.com) – Foro técnico oficial para desarrolladores, con debates y soporte comunitario sobre CUDA, Jetson, TensorRT, Omniverse, DRIVE, networking y otros productos.
+[NVIDIA Developer Forums](https://forums.developer.nvidia.com/?utm_source=chatgpt.com) â€“ Foro tÃ©cnico oficial para desarrolladores, con debates y soporte comunitario sobre CUDA, Jetson, TensorRT, Omniverse, DRIVE, networking y otros productos.
 
-[NVIDIA Forums](https://www.nvidia.com/en-us/forums/?utm_source=chatgpt.com) – Portal general de comunidades oficiales para GeForce, Studio, SHIELD, GeForce NOW, Omniverse y otras líneas de producto. 
+[NVIDIA Forums](https://www.nvidia.com/en-us/forums/?utm_source=chatgpt.com) â€“ Portal general de comunidades oficiales para GeForce, Studio, SHIELD, GeForce NOW, Omniverse y otras lÃ­neas de producto.
 
-[NVIDIA Developer Community](https://developer.nvidia.com/community?utm_source=chatgpt.com) – Centro de comunidad profesional para desarrolladores, encuentros, programas de expertos y actividades relacionadas con las plataformas NVIDIA. 
+[NVIDIA Developer Community](https://developer.nvidia.com/community?utm_source=chatgpt.com) â€“ Centro de comunidad profesional para desarrolladores, encuentros, programas de expertos y actividades relacionadas con las plataformas NVIDIA.
 
-[NVIDIA GitHub](https://github.com/NVIDIA?utm_source=chatgpt.com) – Organización oficial de código abierto donde NVIDIA publica bibliotecas, herramientas, ejemplos, frameworks y proyectos técnicos.
+[NVIDIA GitHub](https://github.com/NVIDIA?utm_source=chatgpt.com) â€“ OrganizaciÃ³n oficial de cÃ³digo abierto donde NVIDIA publica bibliotecas, herramientas, ejemplos, frameworks y proyectos tÃ©cnicos.
 
-[NVIDIA AI Enterprise](https://www.nvidia.com/en-us/data-center/products/ai-enterprise/?utm_source=chatgpt.com) – Portal de la plataforma empresarial de software de inteligencia artificial de NVIDIA.
+[NVIDIA AI Enterprise](https://www.nvidia.com/en-us/data-center/products/ai-enterprise/?utm_source=chatgpt.com) â€“ Portal de la plataforma empresarial de software de inteligencia artificial de NVIDIA.
 
-[NVIDIA DGX](https://www.nvidia.com/en-us/data-center/dgx-platform/?utm_source=chatgpt.com) – Documentación comercial y técnica sobre la familia de sistemas de computación para entrenamiento, inferencia e investigación de IA.
+[NVIDIA DGX](https://www.nvidia.com/en-us/data-center/dgx-platform/?utm_source=chatgpt.com) â€“ DocumentaciÃ³n comercial y tÃ©cnica sobre la familia de sistemas de computaciÃ³n para entrenamiento, inferencia e investigaciÃ³n de IA.
 
-[NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/?utm_source=chatgpt.com) – Plataforma de NVIDIA destinada a simulación, desarrollo 3D, digital twins y flujos industriales basados en OpenUSD.
+[NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/?utm_source=chatgpt.com) â€“ Plataforma de NVIDIA destinada a simulaciÃ³n, desarrollo 3D, digital twins y flujos industriales basados en OpenUSD.
 
-[NVIDIA Jetson](https://developer.nvidia.com/embedded-computing?utm_source=chatgpt.com) – Portal oficial de sistemas y herramientas de computación embebida para robótica, visión artificial y aplicaciones de IA en el edge.
+[NVIDIA Jetson](https://developer.nvidia.com/embedded-computing?utm_source=chatgpt.com) â€“ Portal oficial de sistemas y herramientas de computaciÃ³n embebida para robÃ³tica, visiÃ³n artificial y aplicaciones de IA en el edge.
 
-[NVIDIA DRIVE](https://www.nvidia.com/en-us/self-driving-cars/?utm_source=chatgpt.com) – Recursos institucionales sobre la plataforma de hardware y software de NVIDIA para automoción y sistemas de conducción automatizada.
+[NVIDIA DRIVE](https://www.nvidia.com/en-us/self-driving-cars/?utm_source=chatgpt.com) â€“ Recursos institucionales sobre la plataforma de hardware y software de NVIDIA para automociÃ³n y sistemas de conducciÃ³n automatizada.
 
-[NVIDIA Higher Education and Research](https://www.nvidia.com/en-us/industries/higher-education-research/?utm_source=chatgpt.com) – Portal dedicado a infraestructura, software, formación y programas NVIDIA para universidades y centros científicos. 
+[NVIDIA Higher Education and Research](https://www.nvidia.com/en-us/industries/higher-education-research/?utm_source=chatgpt.com) â€“ Portal dedicado a infraestructura, software, formaciÃ³n y programas NVIDIA para universidades y centros cientÃ­ficos.
 
-[NVIDIA Quantum Computing](https://www.nvidia.com/en-us/solutions/quantum-computing/?utm_source=chatgpt.com) – Fuente oficial sobre CUDA-Q y la estrategia de NVIDIA en computación híbrida cuántico-clásica, incluidos programas académicos. 
-
+[NVIDIA Quantum Computing](https://www.nvidia.com/en-us/solutions/quantum-computing/?utm_source=chatgpt.com) â€“ Fuente oficial sobre CUDA-Q y la estrategia de NVIDIA en computaciÃ³n hÃ­brida cuÃ¡ntico-clÃ¡sica, incluidos programas acadÃ©micos.
 
 ## YOUTUBE
 
-[NVIDIA](https://www.youtube.com/@NVIDIA?utm_source=chatgpt.com) – Canal corporativo principal con conferencias GTC, demostraciones tecnológicas, entrevistas, anuncios de arquitectura e infraestructura de IA.
+[NVIDIA](https://www.youtube.com/@NVIDIA?utm_source=chatgpt.com) â€“ Canal corporativo principal con conferencias GTC, demostraciones tecnolÃ³gicas, entrevistas, anuncios de arquitectura e infraestructura de IA.
 
-[NVIDIA Developer](https://www.youtube.com/@NVIDIADeveloper?utm_source=chatgpt.com) – Canal orientado a desarrolladores con sesiones sobre CUDA, IA, robótica, HPC, herramientas de desarrollo y programación acelerada.
+[NVIDIA Developer](https://www.youtube.com/@NVIDIADeveloper?utm_source=chatgpt.com) â€“ Canal orientado a desarrolladores con sesiones sobre CUDA, IA, robÃ³tica, HPC, herramientas de desarrollo y programaciÃ³n acelerada.
 
-[NVIDIA GeForce](https://www.youtube.com/@NVIDIAGeForce?utm_source=chatgpt.com) – Canal oficial de la división GeForce, centrado en GPU de consumo, RTX, tecnologías gráficas, controladores y videojuegos. 
+[NVIDIA GeForce](https://www.youtube.com/@NVIDIAGeForce?utm_source=chatgpt.com) â€“ Canal oficial de la divisiÃ³n GeForce, centrado en GPU de consumo, RTX, tecnologÃ­as grÃ¡ficas, controladores y videojuegos.
 
-[NVIDIA Studio](https://www.youtube.com/@NVIDIAStudio?utm_source=chatgpt.com) – Canal dedicado a creación digital, vídeo, 3D, renderizado, aplicaciones creativas e integración de RTX e IA en flujos profesionales. 
+[NVIDIA Studio](https://www.youtube.com/@NVIDIAStudio?utm_source=chatgpt.com) â€“ Canal dedicado a creaciÃ³n digital, vÃ­deo, 3D, renderizado, aplicaciones creativas e integraciÃ³n de RTX e IA en flujos profesionales.
 
-[NVIDIA Omniverse](https://www.youtube.com/@NVIDIAOmniverse?utm_source=chatgpt.com) – Contenido sobre OpenUSD, simulación, digital twins, desarrollo 3D y herramientas de la plataforma Omniverse.
-
+[NVIDIA Omniverse](https://www.youtube.com/@NVIDIAOmniverse?utm_source=chatgpt.com) â€“ Contenido sobre OpenUSD, simulaciÃ³n, digital twins, desarrollo 3D y herramientas de la plataforma Omniverse.
 
 ## PODCAST
 
-[NVIDIA AI Podcast](https://ai-podcast.nvidia.com/?utm_source=chatgpt.com) – Podcast oficial de NVIDIA dedicado a inteligencia artificial y sus aplicaciones en ciencia, industria, medicina, creatividad, sostenibilidad y otros ámbitos. 
+[NVIDIA AI Podcast](https://ai-podcast.nvidia.com/?utm_source=chatgpt.com) â€“ Podcast oficial de NVIDIA dedicado a inteligencia artificial y sus aplicaciones en ciencia, industria, medicina, creatividad, sostenibilidad y otros Ã¡mbitos.
 
-[Acquired](https://www.acquired.fm/?utm_source=chatgpt.com) – Podcast de análisis empresarial y tecnológico que ha dedicado investigación extensa a NVIDIA, su evolución corporativa, CUDA, GPU y estrategia de plataformas.
+[Acquired](https://www.acquired.fm/?utm_source=chatgpt.com) â€“ Podcast de anÃ¡lisis empresarial y tecnolÃ³gico que ha dedicado investigaciÃ³n extensa a NVIDIA, su evoluciÃ³n corporativa, CUDA, GPU y estrategia de plataformas.
 
-[Dwarkesh Podcast](https://www.dwarkesh.com/podcast?utm_source=chatgpt.com) – Programa de entrevistas de larga duración sobre IA y computación que incluye conversaciones con investigadores y responsables vinculados al ecosistema de hardware de IA.
+[Dwarkesh Podcast](https://www.dwarkesh.com/podcast?utm_source=chatgpt.com) â€“ Programa de entrevistas de larga duraciÃ³n sobre IA y computaciÃ³n que incluye conversaciones con investigadores y responsables vinculados al ecosistema de hardware de IA.
 
-[The Next Platform Podcast](https://www.nextplatform.com/podcasts/?utm_source=chatgpt.com) – Podcast asociado a The Next Platform, especializado en HPC, centros de datos, aceleradores y arquitecturas de computación donde NVIDIA ocupa un lugar recurrente.
-
+[The Next Platform Podcast](https://www.nextplatform.com/podcasts/?utm_source=chatgpt.com) â€“ Podcast asociado a The Next Platform, especializado en HPC, centros de datos, aceleradores y arquitecturas de computaciÃ³n donde NVIDIA ocupa un lugar recurrente.
 
 ## LIBROS
 
-[Programming Massively Parallel Processors: A Hands-on Approach](https://www.sciencedirect.com/book/9780443439001/programming-massively-parallel-processors?utm_source=chatgpt.com) – Wen-mei W. Hwu, David B. Kirk e Izzat El Hajj. Obra académica de referencia sobre programación paralela y CUDA; su edición más reciente incorpora optimización, LLM, NCCL, NVSHMEM y programación multi-GPU. 
+[Programming Massively Parallel Processors: A Hands-on Approach](https://www.sciencedirect.com/book/9780443439001/programming-massively-parallel-processors?utm_source=chatgpt.com) â€“ Wen-mei W. Hwu, David B. Kirk e Izzat El Hajj. Obra acadÃ©mica de referencia sobre programaciÃ³n paralela y CUDA; su ediciÃ³n mÃ¡s reciente incorpora optimizaciÃ³n, LLM, NCCL, NVSHMEM y programaciÃ³n multi-GPU.
 
-[CUDA by Example: An Introduction to General-Purpose GPU Programming](https://developer.nvidia.com/cuda-example?utm_source=chatgpt.com) – Jason Sanders y Edward Kandrot. Introducción práctica a CUDA escrita por ingenieros vinculados al desarrollo temprano de la plataforma. 
+[CUDA by Example: An Introduction to General-Purpose GPU Programming](https://developer.nvidia.com/cuda-example?utm_source=chatgpt.com) â€“ Jason Sanders y Edward Kandrot. IntroducciÃ³n prÃ¡ctica a CUDA escrita por ingenieros vinculados al desarrollo temprano de la plataforma.
 
-[Programming in Parallel with CUDA: A Practical Guide](https://www.cambridge.org/core/books/programming-in-parallel-with-cuda/C43652A69033C25AD6933368CDBE084C?utm_source=chatgpt.com) – Richard Ansorge. Cambridge University Press; tratamiento sistemático de kernels, warps, memoria, streams, tensor cores, profiling y escalado en GPU. 
+[Programming in Parallel with CUDA: A Practical Guide](https://www.cambridge.org/core/books/programming-in-parallel-with-cuda/C43652A69033C25AD6933368CDBE084C?utm_source=chatgpt.com) â€“ Richard Ansorge. Cambridge University Press; tratamiento sistemÃ¡tico de kernels, warps, memoria, streams, tensor cores, profiling y escalado en GPU.
 
-[CUDA Fortran for Scientists and Engineers](https://www.sciencedirect.com/book/monograph/9780443219771/cuda-fortran-for-scientists-and-engineers?utm_source=chatgpt.com) – Gregory Ruetsch y Massimiliano Fatica. Referencia para programación científica y HPC con CUDA Fortran; la segunda edición incorpora hardware moderno, tensor cores y técnicas multi-GPU. 
+[CUDA Fortran for Scientists and Engineers](https://www.sciencedirect.com/book/monograph/9780443219771/cuda-fortran-for-scientists-and-engineers?utm_source=chatgpt.com) â€“ Gregory Ruetsch y Massimiliano Fatica. Referencia para programaciÃ³n cientÃ­fica y HPC con CUDA Fortran; la segunda ediciÃ³n incorpora hardware moderno, tensor cores y tÃ©cnicas multi-GPU.
 
-[Learning Deep Learning](https://www.pearson.com/en-us/subject-catalog/p/learning-deep-learning-theory-and-practice-of-neural-networks-computer-vision-natural-language-processing-and-transformers-using-tensorflow/P200000009457?utm_source=chatgpt.com) – Magnus Ekman, investigador y arquitecto de deep learning en NVIDIA. Texto general sobre redes neuronales, visión, NLP y transformers con orientación técnica. 
+[Learning Deep Learning](https://www.pearson.com/en-us/subject-catalog/p/learning-deep-learning-theory-and-practice-of-neural-networks-computer-vision-natural-language-processing-and-transformers-using-tensorflow/P200000009457?utm_source=chatgpt.com) â€“ Magnus Ekman, investigador y arquitecto de deep learning en NVIDIA. Texto general sobre redes neuronales, visiÃ³n, NLP y transformers con orientaciÃ³n tÃ©cnica.
 
-[Deep Learning](https://mitpress.mit.edu/9780262035613/deep-learning/?utm_source=chatgpt.com) – Ian Goodfellow, Yoshua Bengio y Aaron Courville. Obra académica fundamental para comprender el campo que impulsó buena parte de la adopción científica y comercial de GPU NVIDIA.
+[Deep Learning](https://mitpress.mit.edu/9780262035613/deep-learning/?utm_source=chatgpt.com) â€“ Ian Goodfellow, Yoshua Bengio y Aaron Courville. Obra acadÃ©mica fundamental para comprender el campo que impulsÃ³ buena parte de la adopciÃ³n cientÃ­fica y comercial de GPU NVIDIA.
 
-[Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/?utm_source=chatgpt.com) – Stuart Russell y Peter Norvig. Manual universitario de referencia para contextualizar las áreas de IA sobre las que se apoya gran parte del mercado de computación acelerada.
+[Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/?utm_source=chatgpt.com) â€“ Stuart Russell y Peter Norvig. Manual universitario de referencia para contextualizar las Ã¡reas de IA sobre las que se apoya gran parte del mercado de computaciÃ³n acelerada.
 
-[Computer Architecture: A Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1?utm_source=chatgpt.com) – John L. Hennessy y David A. Patterson. Referencia central para estudiar arquitecturas de computadores, paralelismo y aceleradores en el contexto del desarrollo de GPU y sistemas de alto rendimiento.
-
+[Computer Architecture: A Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1?utm_source=chatgpt.com) â€“ John L. Hennessy y David A. Patterson. Referencia central para estudiar arquitecturas de computadores, paralelismo y aceleradores en el contexto del desarrollo de GPU y sistemas de alto rendimiento.
 
 ## REVISTAS
 
-[IEEE Computer](https://www.computer.org/csdl/magazine/co?utm_source=chatgpt.com) – Revista de IEEE Computer Society dedicada a arquitectura, software, IA, sistemas y tendencias de computación; publica trabajos útiles para situar las tecnologías GPU y de aceleración.
+[IEEE Computer](https://www.computer.org/csdl/magazine/co?utm_source=chatgpt.com) â€“ Revista de IEEE Computer Society dedicada a arquitectura, software, IA, sistemas y tendencias de computaciÃ³n; publica trabajos Ãºtiles para situar las tecnologÃ­as GPU y de aceleraciÃ³n.
 
-[IEEE Micro](https://www.computer.org/csdl/magazine/mi?utm_source=chatgpt.com) – Publicación especializada en microarquitectura y diseño de procesadores, relevante para el análisis técnico de GPU, aceleradores y sistemas heterogéneos.
+[IEEE Micro](https://www.computer.org/csdl/magazine/mi?utm_source=chatgpt.com) â€“ PublicaciÃ³n especializada en microarquitectura y diseÃ±o de procesadores, relevante para el anÃ¡lisis tÃ©cnico de GPU, aceleradores y sistemas heterogÃ©neos.
 
-[Communications of the ACM](https://cacm.acm.org/?utm_source=chatgpt.com) – Revista de Association for Computing Machinery con artículos científicos y profesionales sobre IA, arquitectura, programación y sistemas.
+[Communications of the ACM](https://cacm.acm.org/?utm_source=chatgpt.com) â€“ Revista de Association for Computing Machinery con artÃ­culos cientÃ­ficos y profesionales sobre IA, arquitectura, programaciÃ³n y sistemas.
 
-[ACM Transactions on Graphics](https://dl.acm.org/journal/tog?utm_source=chatgpt.com) – Revista científica de referencia en gráficos por computador, ámbito históricamente central en la evolución tecnológica de NVIDIA.
+[ACM Transactions on Graphics](https://dl.acm.org/journal/tog?utm_source=chatgpt.com) â€“ Revista cientÃ­fica de referencia en grÃ¡ficos por computador, Ã¡mbito histÃ³ricamente central en la evoluciÃ³n tecnolÃ³gica de NVIDIA.
 
-[Journal of Parallel and Distributed Computing](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing?utm_source=chatgpt.com) – Publicación académica sobre computación paralela y distribuida, incluyendo trabajos sobre GPU y arquitecturas aceleradas.
+[Journal of Parallel and Distributed Computing](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing?utm_source=chatgpt.com) â€“ PublicaciÃ³n acadÃ©mica sobre computaciÃ³n paralela y distribuida, incluyendo trabajos sobre GPU y arquitecturas aceleradas.
 
-[The International Journal of High Performance Computing Applications](https://journals.sagepub.com/home/hpc?utm_source=chatgpt.com) – Revista académica especializada en HPC, supercomputación y aplicaciones científicas de aceleradores.
+[The International Journal of High Performance Computing Applications](https://journals.sagepub.com/home/hpc?utm_source=chatgpt.com) â€“ Revista acadÃ©mica especializada en HPC, supercomputaciÃ³n y aplicaciones cientÃ­ficas de aceleradores.
 
-[Nature Machine Intelligence](https://www.nature.com/natmachintell/?utm_source=chatgpt.com) – Revista científica sobre aprendizaje automático, robótica e inteligencia artificial, ámbitos que generan una parte sustancial de la demanda de infraestructura NVIDIA.
+[Nature Machine Intelligence](https://www.nature.com/natmachintell/?utm_source=chatgpt.com) â€“ Revista cientÃ­fica sobre aprendizaje automÃ¡tico, robÃ³tica e inteligencia artificial, Ã¡mbitos que generan una parte sustancial de la demanda de infraestructura NVIDIA.
 
-[AI Magazine](https://onlinelibrary.wiley.com/journal/23719621?utm_source=chatgpt.com) – Publicación de Association for the Advancement of Artificial Intelligence orientada al desarrollo y evolución de la inteligencia artificial.
-
+[AI Magazine](https://onlinelibrary.wiley.com/journal/23719621?utm_source=chatgpt.com) â€“ PublicaciÃ³n de Association for the Advancement of Artificial Intelligence orientada al desarrollo y evoluciÃ³n de la inteligencia artificial.
 
 ## MUSEOS
 
-[Computer History Museum](https://computerhistory.org/?utm_source=chatgpt.com) – Institución de referencia en Silicon Valley para la historia de la informática, semiconductores, gráficos por computador y empresas tecnológicas; proporciona contexto histórico para estudiar NVIDIA y la industria GPU.
+[Computer History Museum](https://computerhistory.org/?utm_source=chatgpt.com) â€“ InstituciÃ³n de referencia en Silicon Valley para la historia de la informÃ¡tica, semiconductores, grÃ¡ficos por computador y empresas tecnolÃ³gicas; proporciona contexto histÃ³rico para estudiar NVIDIA y la industria GPU.
 
-[The Tech Interactive](https://www.thetech.org/?utm_source=chatgpt.com) – Museo y centro educativo de San José dedicado a ciencia y tecnología, situado en el mismo ecosistema regional donde se desarrolló NVIDIA.
+[The Tech Interactive](https://www.thetech.org/?utm_source=chatgpt.com) â€“ Museo y centro educativo de San JosÃ© dedicado a ciencia y tecnologÃ­a, situado en el mismo ecosistema regional donde se desarrollÃ³ NVIDIA.
 
-[Science Museum – Computing and Information Age](https://www.sciencemuseum.org.uk/objects-and-stories/computing?utm_source=chatgpt.com) – Colecciones del Science Museum de Londres sobre historia de la computación, componentes electrónicos y transformación digital.
+[Science Museum â€“ Computing and Information Age](https://www.sciencemuseum.org.uk/objects-and-stories/computing?utm_source=chatgpt.com) â€“ Colecciones del Science Museum de Londres sobre historia de la computaciÃ³n, componentes electrÃ³nicos y transformaciÃ³n digital.
 
-[Deutsches Museum – Informatik](https://www.deutsches-museum.de/museumsinsel/ausstellung/bild-schrift-codes/informatik?utm_source=chatgpt.com) – Colecciones históricas dedicadas a informática y sistemas de computación dentro de uno de los principales museos científicos europeos.
+[Deutsches Museum â€“ Informatik](https://www.deutsches-museum.de/museumsinsel/ausstellung/bild-schrift-codes/informatik?utm_source=chatgpt.com) â€“ Colecciones histÃ³ricas dedicadas a informÃ¡tica y sistemas de computaciÃ³n dentro de uno de los principales museos cientÃ­ficos europeos.
 
-[National Museum of Computing](https://www.tnmoc.org/?utm_source=chatgpt.com) – Museo británico especializado en la historia de los ordenadores y la evolución del hardware y software.
+[National Museum of Computing](https://www.tnmoc.org/?utm_source=chatgpt.com) â€“ Museo britÃ¡nico especializado en la historia de los ordenadores y la evoluciÃ³n del hardware y software.
 
-[National Museum of Emerging Science and Innovation – Miraikan](https://www.miraikan.jst.go.jp/en/?utm_source=chatgpt.com) – Museo científico japonés centrado en tecnologías emergentes, robótica, inteligencia artificial y computación.
-
+[National Museum of Emerging Science and Innovation â€“ Miraikan](https://www.miraikan.jst.go.jp/en/?utm_source=chatgpt.com) â€“ Museo cientÃ­fico japonÃ©s centrado en tecnologÃ­as emergentes, robÃ³tica, inteligencia artificial y computaciÃ³n.
 
 ## UNIVERSIDADES
 
-[Stanford University](https://www.stanford.edu/?utm_source=chatgpt.com) – Universidad con investigación de primer nivel en IA, gráficos, sistemas y arquitectura; opera infraestructura GPU avanzada y mantiene múltiples interacciones académicas con NVIDIA. 
+[Stanford University](https://www.stanford.edu/?utm_source=chatgpt.com) â€“ Universidad con investigaciÃ³n de primer nivel en IA, grÃ¡ficos, sistemas y arquitectura; opera infraestructura GPU avanzada y mantiene mÃºltiples interacciones acadÃ©micas con NVIDIA.
 
-[University of California, Berkeley – Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/?utm_source=chatgpt.com) – Laboratorio académico de IA citado por NVIDIA entre sus centros de colaboración investigadora. 
+[University of California, Berkeley â€“ Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/?utm_source=chatgpt.com) â€“ Laboratorio acadÃ©mico de IA citado por NVIDIA entre sus centros de colaboraciÃ³n investigadora.
 
-[University of Illinois Urbana-Champaign](https://illinois.edu/?utm_source=chatgpt.com) – Universidad estrechamente asociada a investigación en programación paralela y GPU; Wen-mei Hwu, figura clave en docencia CUDA, desarrolla allí su actividad académica.
+[University of Illinois Urbana-Champaign](https://illinois.edu/?utm_source=chatgpt.com) â€“ Universidad estrechamente asociada a investigaciÃ³n en programaciÃ³n paralela y GPU; Wen-mei Hwu, figura clave en docencia CUDA, desarrolla allÃ­ su actividad acadÃ©mica.
 
-[University of Florida](https://www.ufl.edu/?utm_source=chatgpt.com) – Institución que ha desarrollado con NVIDIA una iniciativa de universidad habilitada para IA y proyectos de infraestructura, formación e investigación. 
+[University of Florida](https://www.ufl.edu/?utm_source=chatgpt.com) â€“ InstituciÃ³n que ha desarrollado con NVIDIA una iniciativa de universidad habilitada para IA y proyectos de infraestructura, formaciÃ³n e investigaciÃ³n.
 
-[University of Cambridge](https://www.cam.ac.uk/?utm_source=chatgpt.com) – Universidad con infraestructura de supercomputación acelerada por NVIDIA y proyectos de investigación de datos y computación científica. 
+[University of Cambridge](https://www.cam.ac.uk/?utm_source=chatgpt.com) â€“ Universidad con infraestructura de supercomputaciÃ³n acelerada por NVIDIA y proyectos de investigaciÃ³n de datos y computaciÃ³n cientÃ­fica.
 
-[Linköping University](https://liu.se/en?utm_source=chatgpt.com) – Universidad sueca vinculada al supercomputador Berzelius, construido sobre infraestructura NVIDIA DGX para investigación avanzada en IA. 
+[LinkÃ¶ping University](https://liu.se/en?utm_source=chatgpt.com) â€“ Universidad sueca vinculada al supercomputador Berzelius, construido sobre infraestructura NVIDIA DGX para investigaciÃ³n avanzada en IA.
 
-[ETH Zürich](https://ethz.ch/en.html?utm_source=chatgpt.com) – Universidad europea con colaboración investigadora en áreas como aprendizaje automático, física computacional y computación cuántica; académicos de ETH figuran entre los NVIDIA Research Faculty Fellows. 
+[ETH ZÃ¼rich](https://ethz.ch/en.html?utm_source=chatgpt.com) â€“ Universidad europea con colaboraciÃ³n investigadora en Ã¡reas como aprendizaje automÃ¡tico, fÃ­sica computacional y computaciÃ³n cuÃ¡ntica; acadÃ©micos de ETH figuran entre los NVIDIA Research Faculty Fellows.
 
-[Purdue University](https://www.purdue.edu/?utm_source=chatgpt.com) – Universidad estadounidense con investigación significativa sobre arquitecturas de computadores, GPU y aceleradores; mantiene colaboraciones académicas documentadas con NVIDIA. 
+[Purdue University](https://www.purdue.edu/?utm_source=chatgpt.com) â€“ Universidad estadounidense con investigaciÃ³n significativa sobre arquitecturas de computadores, GPU y aceleradores; mantiene colaboraciones acadÃ©micas documentadas con NVIDIA.
 
-[Indian Institute of Technology Madras](https://www.iitm.ac.in/?utm_source=chatgpt.com) – Institución india participante en iniciativas académicas relacionadas con CUDA-Q y formación en computación cuántica acelerada. 
+[Indian Institute of Technology Madras](https://www.iitm.ac.in/?utm_source=chatgpt.com) â€“ InstituciÃ³n india participante en iniciativas acadÃ©micas relacionadas con CUDA-Q y formaciÃ³n en computaciÃ³n cuÃ¡ntica acelerada.
 
-[King Abdullah University of Science and Technology](https://www.kaust.edu.sa/?utm_source=chatgpt.com) – Universidad de investigación de Arabia Saudí incluida entre las instituciones asociadas al programa académico CUDA-Q. 
-
+[King Abdullah University of Science and Technology](https://www.kaust.edu.sa/?utm_source=chatgpt.com) â€“ Universidad de investigaciÃ³n de Arabia SaudÃ­ incluida entre las instituciones asociadas al programa acadÃ©mico CUDA-Q.
 
 ## ASOCIACIONES
 
-[Semiconductor Industry Association](https://www.semiconductors.org/?utm_source=chatgpt.com) – Asociación de referencia de la industria estadounidense de semiconductores; proporciona estadísticas, política industrial y documentación sectorial relevante para analizar el entorno de NVIDIA.
+[Semiconductor Industry Association](https://www.semiconductors.org/?utm_source=chatgpt.com) â€“ AsociaciÃ³n de referencia de la industria estadounidense de semiconductores; proporciona estadÃ­sticas, polÃ­tica industrial y documentaciÃ³n sectorial relevante para analizar el entorno de NVIDIA.
 
-[Global Semiconductor Alliance](https://www.gsaglobal.org/?utm_source=chatgpt.com) – Organización internacional que reúne empresas del ecosistema de semiconductores y publica análisis sobre diseño, fabricación, mercados y cadenas de suministro.
+[Global Semiconductor Alliance](https://www.gsaglobal.org/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n internacional que reÃºne empresas del ecosistema de semiconductores y publica anÃ¡lisis sobre diseÃ±o, fabricaciÃ³n, mercados y cadenas de suministro.
 
-[IEEE Computer Society](https://www.computer.org/?utm_source=chatgpt.com) – Asociación profesional internacional de ingeniería informática, arquitectura, gráficos, IA y HPC.
+[IEEE Computer Society](https://www.computer.org/?utm_source=chatgpt.com) â€“ AsociaciÃ³n profesional internacional de ingenierÃ­a informÃ¡tica, arquitectura, grÃ¡ficos, IA y HPC.
 
-[Association for Computing Machinery](https://www.acm.org/?utm_source=chatgpt.com) – Principal organización académica internacional de informática, responsable de revistas y conferencias centrales para gráficos, IA, sistemas y programación paralela.
+[Association for Computing Machinery](https://www.acm.org/?utm_source=chatgpt.com) â€“ Principal organizaciÃ³n acadÃ©mica internacional de informÃ¡tica, responsable de revistas y conferencias centrales para grÃ¡ficos, IA, sistemas y programaciÃ³n paralela.
 
-[SIGGRAPH](https://www.siggraph.org/?utm_source=chatgpt.com) – Comunidad de ACM especializada en gráficos por computador y técnicas interactivas, históricamente relevante para NVIDIA por su papel en renderizado y GPU.
+[SIGGRAPH](https://www.siggraph.org/?utm_source=chatgpt.com) â€“ Comunidad de ACM especializada en grÃ¡ficos por computador y tÃ©cnicas interactivas, histÃ³ricamente relevante para NVIDIA por su papel en renderizado y GPU.
 
-[Association for the Advancement of Artificial Intelligence](https://aaai.org/?utm_source=chatgpt.com) – Organización científica internacional dedicada a promover la investigación y difusión académica en inteligencia artificial.
+[Association for the Advancement of Artificial Intelligence](https://aaai.org/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n cientÃ­fica internacional dedicada a promover la investigaciÃ³n y difusiÃ³n acadÃ©mica en inteligencia artificial.
 
-[MLCommons](https://mlcommons.org/?utm_source=chatgpt.com) – Consorcio internacional que desarrolla benchmarks de aprendizaje automático, incluido MLPerf, ampliamente utilizado para comparar sistemas de entrenamiento e inferencia acelerados por GPU.
+[MLCommons](https://mlcommons.org/?utm_source=chatgpt.com) â€“ Consorcio internacional que desarrolla benchmarks de aprendizaje automÃ¡tico, incluido MLPerf, ampliamente utilizado para comparar sistemas de entrenamiento e inferencia acelerados por GPU.
 
-[Open Compute Project Foundation](https://www.opencompute.org/?utm_source=chatgpt.com) – Organización dedicada al diseño abierto de infraestructura de centros de datos, relevante para estudiar servidores, networking, refrigeración y despliegues de aceleradores.
+[Open Compute Project Foundation](https://www.opencompute.org/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n dedicada al diseÃ±o abierto de infraestructura de centros de datos, relevante para estudiar servidores, networking, refrigeraciÃ³n y despliegues de aceleradores.
 
-[CXL Consortium](https://www.computeexpresslink.org/?utm_source=chatgpt.com) – Consorcio industrial responsable de Compute Express Link, estándar de interconexión relevante para arquitecturas de memoria y aceleradores de centros de datos.
-
+[CXL Consortium](https://www.computeexpresslink.org/?utm_source=chatgpt.com) â€“ Consorcio industrial responsable de Compute Express Link, estÃ¡ndar de interconexiÃ³n relevante para arquitecturas de memoria y aceleradores de centros de datos.
 
 ## NEWSLETTER
 
-[NVIDIA News](https://www.nvidia.com/en-us/preferences/email-preferences/?utm_source=chatgpt.com) – Sistema oficial de suscripción a comunicaciones de NVIDIA, con opciones relativas a novedades corporativas, productos, tecnologías y eventos.
+[NVIDIA News](https://www.nvidia.com/en-us/preferences/email-preferences/?utm_source=chatgpt.com) â€“ Sistema oficial de suscripciÃ³n a comunicaciones de NVIDIA, con opciones relativas a novedades corporativas, productos, tecnologÃ­as y eventos.
 
-[NVIDIA Developer Newsletter](https://developer.nvidia.com/newsletter?utm_source=chatgpt.com) – Boletín para desarrolladores sobre nuevas versiones, SDK, formación, eventos y recursos de programación acelerada.
+[NVIDIA Developer Newsletter](https://developer.nvidia.com/newsletter?utm_source=chatgpt.com) â€“ BoletÃ­n para desarrolladores sobre nuevas versiones, SDK, formaciÃ³n, eventos y recursos de programaciÃ³n acelerada.
 
-[NVIDIA Research Updates](https://www.nvidia.com/en-us/research/?utm_source=chatgpt.com) – Suscripción disponible desde NVIDIA Research para recibir novedades de investigación, publicaciones y avances científicos. 
+[NVIDIA Research Updates](https://www.nvidia.com/en-us/research/?utm_source=chatgpt.com) â€“ SuscripciÃ³n disponible desde NVIDIA Research para recibir novedades de investigaciÃ³n, publicaciones y avances cientÃ­ficos.
 
-[NVIDIA Deep Learning Institute Updates](https://www.nvidia.com/en-us/training/?utm_source=chatgpt.com) – Servicio de actualización sobre cursos, talleres, certificaciones y oportunidades formativas de NVIDIA. 
+[NVIDIA Deep Learning Institute Updates](https://www.nvidia.com/en-us/training/?utm_source=chatgpt.com) â€“ Servicio de actualizaciÃ³n sobre cursos, talleres, certificaciones y oportunidades formativas de NVIDIA.
 
-[NVIDIA GTC Updates](https://www.nvidia.com/gtc/?utm_source=chatgpt.com) – Registro para recibir avisos sobre futuras ediciones, apertura de inscripciones y programación de GTC. 
+[NVIDIA GTC Updates](https://www.nvidia.com/gtc/?utm_source=chatgpt.com) â€“ Registro para recibir avisos sobre futuras ediciones, apertura de inscripciones y programaciÃ³n de GTC.
 
-[The Next Platform Newsletter](https://www.nextplatform.com/newsletter/?utm_source=chatgpt.com) – Boletín especializado en HPC, infraestructura, procesadores, GPU, networking y centros de datos.
+[The Next Platform Newsletter](https://www.nextplatform.com/newsletter/?utm_source=chatgpt.com) â€“ BoletÃ­n especializado en HPC, infraestructura, procesadores, GPU, networking y centros de datos.
 
-[SemiAnalysis](https://semianalysis.com/?utm_source=chatgpt.com) – Newsletter de análisis técnico y económico sobre semiconductores, centros de datos e infraestructura de IA con cobertura recurrente de NVIDIA y sus competidores.
+[SemiAnalysis](https://semianalysis.com/?utm_source=chatgpt.com) â€“ Newsletter de anÃ¡lisis tÃ©cnico y econÃ³mico sobre semiconductores, centros de datos e infraestructura de IA con cobertura recurrente de NVIDIA y sus competidores.
 
-[Stratechery](https://stratechery.com/?utm_source=chatgpt.com) – Publicación por suscripción centrada en estrategia tecnológica y economía de plataformas, con análisis periódicos del papel de NVIDIA en la industria de IA.
-
+[Stratechery](https://stratechery.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n por suscripciÃ³n centrada en estrategia tecnolÃ³gica y economÃ­a de plataformas, con anÃ¡lisis periÃ³dicos del papel de NVIDIA en la industria de IA.
 
 ## TV
 
-[CNBC](https://www.cnbc.com/?utm_source=chatgpt.com) – Canal financiero estadounidense con cobertura continua de resultados, cotización, lanzamientos y estrategia empresarial de NVIDIA.
+[CNBC](https://www.cnbc.com/?utm_source=chatgpt.com) â€“ Canal financiero estadounidense con cobertura continua de resultados, cotizaciÃ³n, lanzamientos y estrategia empresarial de NVIDIA.
 
-[Bloomberg Television](https://www.bloomberg.com/live?utm_source=chatgpt.com) – Canal internacional de información financiera con entrevistas, resultados empresariales y seguimiento de NVIDIA y la industria de semiconductores.
+[Bloomberg Television](https://www.bloomberg.com/live?utm_source=chatgpt.com) â€“ Canal internacional de informaciÃ³n financiera con entrevistas, resultados empresariales y seguimiento de NVIDIA y la industria de semiconductores.
 
-[BBC News](https://www.bbc.com/news?utm_source=chatgpt.com) – Servicio internacional con cobertura audiovisual de NVIDIA en el contexto de inteligencia artificial, mercados tecnológicos y regulación.
+[BBC News](https://www.bbc.com/news?utm_source=chatgpt.com) â€“ Servicio internacional con cobertura audiovisual de NVIDIA en el contexto de inteligencia artificial, mercados tecnolÃ³gicos y regulaciÃ³n.
 
-[CNN International](https://edition.cnn.com/?utm_source=chatgpt.com) – Canal internacional que cubre la evolución de NVIDIA dentro del mercado de IA, bolsa estadounidense y economía tecnológica.
+[CNN International](https://edition.cnn.com/?utm_source=chatgpt.com) â€“ Canal internacional que cubre la evoluciÃ³n de NVIDIA dentro del mercado de IA, bolsa estadounidense y economÃ­a tecnolÃ³gica.
 
-[NHK WORLD-JAPAN](https://www3.nhk.or.jp/nhkworld/?utm_source=chatgpt.com) – Servicio internacional japonés útil para seguir la dimensión asiática de la industria de chips, electrónica y cadenas de suministro.
+[NHK WORLD-JAPAN](https://www3.nhk.or.jp/nhkworld/?utm_source=chatgpt.com) â€“ Servicio internacional japonÃ©s Ãºtil para seguir la dimensiÃ³n asiÃ¡tica de la industria de chips, electrÃ³nica y cadenas de suministro.
 
-[DW](https://www.dw.com/?utm_source=chatgpt.com) – Canal internacional alemán con información sobre tecnología, economía europea, regulación de IA y semiconductores.
+[DW](https://www.dw.com/?utm_source=chatgpt.com) â€“ Canal internacional alemÃ¡n con informaciÃ³n sobre tecnologÃ­a, economÃ­a europea, regulaciÃ³n de IA y semiconductores.
 
-[France 24](https://www.france24.com/?utm_source=chatgpt.com) – Canal internacional con cobertura económica y tecnológica en perspectiva europea y global.
-
+[France 24](https://www.france24.com/?utm_source=chatgpt.com) â€“ Canal internacional con cobertura econÃ³mica y tecnolÃ³gica en perspectiva europea y global.
 
 ## RADIO
 
-[Bloomberg Radio](https://www.bloomberg.com/audio?utm_source=chatgpt.com) – Programación financiera con cobertura de mercados, tecnología, semiconductores y resultados de empresas como NVIDIA.
+[Bloomberg Radio](https://www.bloomberg.com/audio?utm_source=chatgpt.com) â€“ ProgramaciÃ³n financiera con cobertura de mercados, tecnologÃ­a, semiconductores y resultados de empresas como NVIDIA.
 
-[BBC World Service](https://www.bbc.co.uk/sounds/play/live:bbc_world_service?utm_source=chatgpt.com) – Radio internacional con análisis económico y tecnológico, incluida la evolución de la inteligencia artificial y de sus principales proveedores de infraestructura.
+[BBC World Service](https://www.bbc.co.uk/sounds/play/live:bbc_world_service?utm_source=chatgpt.com) â€“ Radio internacional con anÃ¡lisis econÃ³mico y tecnolÃ³gico, incluida la evoluciÃ³n de la inteligencia artificial y de sus principales proveedores de infraestructura.
 
-[NPR](https://www.npr.org/?utm_source=chatgpt.com) – Red pública estadounidense que aborda NVIDIA en programas sobre economía, ciencia, tecnología e inteligencia artificial.
+[NPR](https://www.npr.org/?utm_source=chatgpt.com) â€“ Red pÃºblica estadounidense que aborda NVIDIA en programas sobre economÃ­a, ciencia, tecnologÃ­a e inteligencia artificial.
 
-[Marketplace](https://www.marketplace.org/?utm_source=chatgpt.com) – Servicio radiofónico y podcast de American Public Media especializado en economía y empresas, con cobertura de la industria tecnológica y de chips.
+[Marketplace](https://www.marketplace.org/?utm_source=chatgpt.com) â€“ Servicio radiofÃ³nico y podcast de American Public Media especializado en economÃ­a y empresas, con cobertura de la industria tecnolÃ³gica y de chips.
 
-[Deutschlandfunk](https://www.deutschlandfunk.de/?utm_source=chatgpt.com) – Radio pública alemana con contenidos sobre economía digital, inteligencia artificial, regulación y tecnología.
-
+[Deutschlandfunk](https://www.deutschlandfunk.de/?utm_source=chatgpt.com) â€“ Radio pÃºblica alemana con contenidos sobre economÃ­a digital, inteligencia artificial, regulaciÃ³n y tecnologÃ­a.
 
 ## PRENSA ONLINE
 
-[Reuters Technology](https://www.reuters.com/technology/?utm_source=chatgpt.com) – Agencia internacional de referencia para noticias verificadas sobre NVIDIA, resultados, acuerdos, regulación, exportaciones y mercado de semiconductores. Su cobertura continúa siendo especialmente activa en 2026. 
+[Reuters Technology](https://www.reuters.com/technology/?utm_source=chatgpt.com) â€“ Agencia internacional de referencia para noticias verificadas sobre NVIDIA, resultados, acuerdos, regulaciÃ³n, exportaciones y mercado de semiconductores. Su cobertura continÃºa siendo especialmente activa en 2026.
 
-[Bloomberg Technology](https://www.bloomberg.com/technology?utm_source=chatgpt.com) – Información financiera y empresarial sobre NVIDIA, mercados de chips, inversiones, centros de datos y competencia en IA.
+[Bloomberg Technology](https://www.bloomberg.com/technology?utm_source=chatgpt.com) â€“ InformaciÃ³n financiera y empresarial sobre NVIDIA, mercados de chips, inversiones, centros de datos y competencia en IA.
 
-[The Register](https://www.theregister.com/?utm_source=chatgpt.com) – Medio tecnológico especializado en infraestructura, hardware empresarial, GPU, centros de datos y software, con cobertura técnica frecuente de NVIDIA.
+[The Register](https://www.theregister.com/?utm_source=chatgpt.com) â€“ Medio tecnolÃ³gico especializado en infraestructura, hardware empresarial, GPU, centros de datos y software, con cobertura tÃ©cnica frecuente de NVIDIA.
 
-[Ars Technica](https://arstechnica.com/?utm_source=chatgpt.com) – Publicación tecnológica centrada en hardware, ciencia, software y política digital; cubre arquitecturas GPU, GeForce y desarrollos de IA.
+[Ars Technica](https://arstechnica.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n tecnolÃ³gica centrada en hardware, ciencia, software y polÃ­tica digital; cubre arquitecturas GPU, GeForce y desarrollos de IA.
 
-[Tom's Hardware](https://www.tomshardware.com/?utm_source=chatgpt.com) – Medio especializado en componentes, benchmarks, GPU de consumo y profesionales, arquitectura y rendimiento.
+[Tom's Hardware](https://www.tomshardware.com/?utm_source=chatgpt.com) â€“ Medio especializado en componentes, benchmarks, GPU de consumo y profesionales, arquitectura y rendimiento.
 
-[TechCrunch](https://techcrunch.com/?utm_source=chatgpt.com) – Publicación digital de tecnología y empresas con cobertura del ecosistema de IA, inversiones y alianzas estratégicas de NVIDIA.
+[TechCrunch](https://techcrunch.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n digital de tecnologÃ­a y empresas con cobertura del ecosistema de IA, inversiones y alianzas estratÃ©gicas de NVIDIA.
 
-[The Next Platform](https://www.nextplatform.com/?utm_source=chatgpt.com) – Medio especializado en HPC, supercomputación, centros de datos y aceleradores; particularmente útil para un análisis técnico de sistemas NVIDIA.
+[The Next Platform](https://www.nextplatform.com/?utm_source=chatgpt.com) â€“ Medio especializado en HPC, supercomputaciÃ³n, centros de datos y aceleradores; particularmente Ãºtil para un anÃ¡lisis tÃ©cnico de sistemas NVIDIA.
 
-[ServeTheHome](https://www.servethehome.com/?utm_source=chatgpt.com) – Publicación técnica sobre servidores, networking y centros de datos que analiza sistemas GPU, aceleradores y plataformas empresariales.
+[ServeTheHome](https://www.servethehome.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n tÃ©cnica sobre servidores, networking y centros de datos que analiza sistemas GPU, aceleradores y plataformas empresariales.
 
-[SemiAnalysis](https://semianalysis.com/?utm_source=chatgpt.com) – Medio de análisis especializado en semiconductores, costes de infraestructura de IA, fabricación y economía de centros de datos.
+[SemiAnalysis](https://semianalysis.com/?utm_source=chatgpt.com) â€“ Medio de anÃ¡lisis especializado en semiconductores, costes de infraestructura de IA, fabricaciÃ³n y economÃ­a de centros de datos.
 
-[EE Times](https://www.eetimes.com/?utm_source=chatgpt.com) – Publicación profesional de ingeniería electrónica y semiconductores con cobertura de arquitecturas, diseño de chips y cadenas de suministro.
-
+[EE Times](https://www.eetimes.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n profesional de ingenierÃ­a electrÃ³nica y semiconductores con cobertura de arquitecturas, diseÃ±o de chips y cadenas de suministro.
 
 ## PRENSA ESCRITA
 
-[Financial Times](https://www.ft.com/?utm_source=chatgpt.com) – Diario económico internacional con análisis de NVIDIA desde la perspectiva de mercados, estrategia corporativa, competencia, regulación e inversiones. En septiembre de 2026 mantiene cobertura intensa de sus operaciones empresariales. 
+[Financial Times](https://www.ft.com/?utm_source=chatgpt.com) â€“ Diario econÃ³mico internacional con anÃ¡lisis de NVIDIA desde la perspectiva de mercados, estrategia corporativa, competencia, regulaciÃ³n e inversiones. En septiembre de 2026 mantiene cobertura intensa de sus operaciones empresariales.
 
-[The Wall Street Journal](https://www.wsj.com/?utm_source=chatgpt.com) – Diario financiero estadounidense con cobertura corporativa, bursátil y tecnológica de NVIDIA y del desarrollo del mercado global de IA.
+[The Wall Street Journal](https://www.wsj.com/?utm_source=chatgpt.com) â€“ Diario financiero estadounidense con cobertura corporativa, bursÃ¡til y tecnolÃ³gica de NVIDIA y del desarrollo del mercado global de IA.
 
-[The New York Times](https://www.nytimes.com/?utm_source=chatgpt.com) – Diario estadounidense que analiza NVIDIA dentro de la transformación de la industria tecnológica, las políticas de exportación y el desarrollo de inteligencia artificial.
+[The New York Times](https://www.nytimes.com/?utm_source=chatgpt.com) â€“ Diario estadounidense que analiza NVIDIA dentro de la transformaciÃ³n de la industria tecnolÃ³gica, las polÃ­ticas de exportaciÃ³n y el desarrollo de inteligencia artificial.
 
-[The Economist](https://www.economist.com/?utm_source=chatgpt.com) – Semanario internacional con análisis del mercado de chips, geopolítica tecnológica, economía de la IA y posición competitiva de NVIDIA.
+[The Economist](https://www.economist.com/?utm_source=chatgpt.com) â€“ Semanario internacional con anÃ¡lisis del mercado de chips, geopolÃ­tica tecnolÃ³gica, economÃ­a de la IA y posiciÃ³n competitiva de NVIDIA.
 
-[Nikkei Asia](https://asia.nikkei.com/?utm_source=chatgpt.com) – Publicación económica particularmente relevante para seguir la cadena asiática de semiconductores, fabricantes, foundries, memoria y socios de NVIDIA.
+[Nikkei Asia](https://asia.nikkei.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n econÃ³mica particularmente relevante para seguir la cadena asiÃ¡tica de semiconductores, fabricantes, foundries, memoria y socios de NVIDIA.
 
-[Handelsblatt](https://www.handelsblatt.com/?utm_source=chatgpt.com) – Diario económico alemán con cobertura de tecnología, inversión europea en IA, infraestructura y compañías internacionales de semiconductores.
+[Handelsblatt](https://www.handelsblatt.com/?utm_source=chatgpt.com) â€“ Diario econÃ³mico alemÃ¡n con cobertura de tecnologÃ­a, inversiÃ³n europea en IA, infraestructura y compaÃ±Ã­as internacionales de semiconductores.
 
-[Le Monde](https://www.lemonde.fr/?utm_source=chatgpt.com) – Diario francés con información y análisis sobre inteligencia artificial, grandes tecnológicas, regulación europea y economía digital.
+[Le Monde](https://www.lemonde.fr/?utm_source=chatgpt.com) â€“ Diario francÃ©s con informaciÃ³n y anÃ¡lisis sobre inteligencia artificial, grandes tecnolÃ³gicas, regulaciÃ³n europea y economÃ­a digital.
 
-[El País](https://elpais.com/?utm_source=chatgpt.com) – Diario español con cobertura general y económica sobre NVIDIA, inteligencia artificial, semiconductores y mercados tecnológicos.
+[El PaÃ­s](https://elpais.com/?utm_source=chatgpt.com) â€“ Diario espaÃ±ol con cobertura general y econÃ³mica sobre NVIDIA, inteligencia artificial, semiconductores y mercados tecnolÃ³gicos.
 
-[The Guardian](https://www.theguardian.com/?utm_source=chatgpt.com) – Diario británico con análisis de tecnología, economía, regulación y consecuencias sociales del auge de la inteligencia artificial y de empresas como NVIDIA.
+[The Guardian](https://www.theguardian.com/?utm_source=chatgpt.com) â€“ Diario britÃ¡nico con anÃ¡lisis de tecnologÃ­a, economÃ­a, regulaciÃ³n y consecuencias sociales del auge de la inteligencia artificial y de empresas como NVIDIA.
 
-[The Australian Financial Review](https://www.afr.com/?utm_source=chatgpt.com) – Diario económico australiano útil para seguir NVIDIA desde la perspectiva de mercados de Asia-Pacífico, inversión y adopción empresarial de IA.
+[The Australian Financial Review](https://www.afr.com/?utm_source=chatgpt.com) â€“ Diario econÃ³mico australiano Ãºtil para seguir NVIDIA desde la perspectiva de mercados de Asia-PacÃ­fico, inversiÃ³n y adopciÃ³n empresarial de IA.

@@ -1,27 +1,41 @@
-La Inteligencia Artificial es una de las transformaciones intelectuales y tecnológicas más importantes de la historia humana. Este MOC reúne las personas, conceptos, eventos, herramientas y preguntas que permiten comprender su evolución y su posible futuro.
+---
+publish: true
+created: 2026-07-12T14:37:00.711Z
+modified: 2026-09-17T10:13:52.568Z
+---
+
+La Inteligencia Artificial es una de las transformaciones intelectuales y tecnolÃ³gicas mÃ¡s importantes de la historia humana. Este MOC reÃºne las personas, conceptos, eventos, herramientas y preguntas que permiten comprender su evoluciÃ³n y su posible futuro.
 
 ### Enlaces a LLMs
+
 [[LLMs, Enrutador]]
-### Funcionamiento 
+
+### Funcionamiento
+
 [[Funcionamiento  IA]]
 
 ### 10 Momentos Clave
+
 [[IA, Diez Momentos Claves]]
 
-
 [[WIKIPEDIA 1]]
-https://es.wikipedia.org/wiki/Inteligencia_artificial?wprov=sfla1
+https://es.wikipedia.org/wiki/Inteligencia\_artificial?wprov=sfla1
 
 [[Strategic Intelligence - WEF (World Economic Forrum)]]
 https://intelligence.weforum.org/topics/a1Gb0000000pTDREA2
 
-## 📚 [[IA Fundamentos]]
-[[Qué es la IA]]
+## ðŸ“š [[IA Fundamentos]]
+
+[[QuÃ© es la IA]]
 [[Grandes preguntas]]
-## 🌍 [[IA, Visión General]]
+
+## ðŸŒ [[IA, VisiÃ³n General]]
+
 [[Historia de la Inteligencia Artificial]]
 [[IA, Diez Momentos Claves]]
-## 👥 [[Personajes IA]]
+
+## ðŸ‘¥ [[Personajes IA]]
+
 [[Turing, Alan]]
 [[John McCarthy]]
 [[Marvin Minsky]]
@@ -31,7 +45,9 @@ https://intelligence.weforum.org/topics/a1Gb0000000pTDREA2
 [[Hassabis, Demis]]
 [[Altman, Sam]]
 [[David Luan]]
-## 📅 [[Eventos]]
+
+## ðŸ“… [[Eventos]]
+
 [[Segunda Guerra Mundial]]
 [[Conferencia de Dartmouth (1956)]]
 [[Deep Blue]]
@@ -39,8 +55,10 @@ https://intelligence.weforum.org/topics/a1Gb0000000pTDREA2
 [[Lanzamiento de ChatGPT]]
 [[GPT-5]]
 [[Nacimiento de los Agentes]]
-## 🧠 [[Conceptos IA]]
-[[Computación]]
+
+## ðŸ§  [[Conceptos IA]]
+
+[[ComputaciÃ³n]]
 [[Redes Neuronales]]
 [[Machine Learning]]
 [[Deep Learning]]
@@ -52,7 +70,9 @@ https://intelligence.weforum.org/topics/a1Gb0000000pTDREA2
 [[Inferencia]]
 [[Multimodalidad]]
 [[Prompts]]
-## 🏢 [[Empresas]]
+
+## ðŸ¢ [[Empresas]]
+
 [[OpenAI 1]]
 [[Google DeepMind]]
 [[Anthropic]]
@@ -60,33 +80,42 @@ https://intelligence.weforum.org/topics/a1Gb0000000pTDREA2
 [[Meta]]
 [[xAI]]
 [[Nvidia]]
-## 🛠 [[Herramientas]]
+
+## ðŸ›  [[Herramientas]]
+
 [[ChatGPT]]
 [[Claude]]
 [[Gemini Notebook]]
 [[Perplexity 1]]
 [[TheBrain]]
 
-## 🌍 [[Impacto]]
-[[Economía de la IA]]
-[[Trabajo, Sociología]]
-[[Educación]]
+## ðŸŒ [[Impacto]]
+
+[[EconomÃ­a de la IA]]
+[[Trabajo, SociologÃ­a]]
+[[EducaciÃ³n]]
 [[Riesgos]]
-[[Ética]]
-## 📚 [[Recursos]]
+[[Ã‰tica]]
+
+## ðŸ“š [[Recursos]]
+
 [[Papers]]
 [[Libros (i)]]
 [[Cursos]]
-[[Vídeos de YouTube]]
+[[VÃ­deos de YouTube]]
 [[Informes]]
-## 🔮 [[Futuro]]
+
+## ðŸ”® [[Futuro]]
+
 [[AGI (i)]]
 [[ASI]]
-[[Economía de la IA]]
-[[Trabajo, Sociología]]
+[[EconomÃ­a de la IA]]
+[[Trabajo, SociologÃ­a]]
 [[Conciencia Artificial]]
-## ❓ [[Preguntas]]
-[[Qué es la inteligencia]]
+
+## â“ [[Preguntas]]
+
+[[QuÃ© es la inteligencia]]
 [[Puede la IA razonar]]
 [[Puede existir conciencia artificial]]
-[[Qué habilidades seguirán siendo humanas]]
+[[QuÃ© habilidades seguirÃ¡n siendo humanas]]

@@ -1,11 +1,17 @@
-#Agenda #WEF #WeForum  
+---
+publish: true
+created: 2026-07-31T13:49:59.794Z
+modified: 2026-09-17T10:13:59.596Z
+---
 
-Dubái
+#Agenda #WEF #WeForum
 
-# Reunión Anual de Futuros Líderes Mundiales
+DubÃ¡i
 
-13-15 de octubre de 2026
+# ReuniÃ³n Anual de Futuros LÃ­deres Mundiales
 
-#### Acerca de la reunión
+13-15Â deÂ octubre de 2026
 
-El Foro Económico Mundial convocará la primera Reunión Anual de Líderes Mundiales del Futuro del 13 al 15 de octubre de 2026 en Dubái, en colaboración con el Gobierno de los Emiratos Árabes Unidos.
+#### Acerca de la reuniÃ³n
+
+El Foro EconÃ³mico Mundial convocarÃ¡ la primera ReuniÃ³n Anual de LÃ­deres Mundiales del Futuro del 13 al 15 de octubre de 2026 en DubÃ¡i, en colaboraciÃ³n con el Gobierno de los Emiratos Ãrabes Unidos.
