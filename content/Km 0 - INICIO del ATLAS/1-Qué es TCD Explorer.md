@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-11T16:55:29.332Z
-modified: 2026-09-18T09:36:18.574Z
+modified: 2026-09-18T15:53:22.514Z
 ---
 
 #TCD  #Explorer #Explorar #Formación #Índices #Aprender #Km0
@@ -38,7 +38,7 @@ Cada página actúa como un punto de partida y te propone caminos hacia otras fu
 
 El Km0 INICIO del ATLAS es el índice de todos los temas de nuestro Atlas. Podemos empezar a explorar desde cualquier tema.
 
-Siempre puedes volver al **INICIO** (esta misma página) del Atlas: 1) pulsando en el logo de TCD Explorer  (ángulo superior izquierdo de la pantalla) [[Biblioteca/LOGO TCD.png]] 2) navegando por la lista del borde izquierdo (Índice de Temas) , 3) haciendo una búsqueda en la parte superior de esa lista con las palabras o números del título de lo que buscamos (00, índice, etc.), 4) a través del grafo o 5) volviendo a acceder a la dirección tcdexplorer.es de tu navegador.
+Siempre puedes volver al **INICIO** (esta misma página) del Atlas: 1) pulsando en el logo de TCD Explorer  (ángulo superior izquierdo de la pantalla) 2) navegando por la lista del borde izquierdo (Índice de Temas) , 3) haciendo una búsqueda en la parte superior de esa lista con las palabras o números del título de lo que buscamos (00, índice, etc.), 4) a través del grafo o 5) volviendo a acceder a la dirección tcdexplorer.es de tu navegador.
 
 Cada día actualizamos algo en nuestro TCD Explorer y su ATLAS.
 
