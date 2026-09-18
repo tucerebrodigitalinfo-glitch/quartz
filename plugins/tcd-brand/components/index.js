@@ -23,10 +23,16 @@ const TcdBrandComponent = ({ fileData, displayClass }) => {
     { class: `${displayClass ?? ""} tcd-brand` },
     h(
       "a",
-      { href: baseDir, class: "tcd-brand-link" },
-      h("div", { class: "tcd-brand-name" }, "TCD"),
-      h("div", { class: "tcd-brand-subtitle" }, "TU CEREBRO DIGITAL"),
-      h("div", { class: "tcd-brand-explorer" }, "TCD EXPLORER")
+      {
+        href: baseDir,
+        class: "tcd-brand-link",
+        "aria-label": "TCD Explorer",
+      },
+      h("img", {
+        src: `${baseDir}/static/tcd-logo.png`,
+        alt: "TCD Explorer - Tu Cerebro Digital",
+        class: "tcd-brand-logo",
+      })
     )
   )
 }
@@ -41,24 +47,11 @@ TcdBrandComponent.css = `
   text-decoration: none;
 }
 
-.tcd-brand-name {
-  font-family: var(--titleFont);
-  font-size: 2rem;
-  font-weight: 700;
-  line-height: 1;
-}
-
-.tcd-brand-subtitle {
-  margin-top: 0.35rem;
-  font-size: 0.72rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-}
-
-.tcd-brand-explorer {
-  margin-top: 0.2rem;
-  font-size: 0.9rem;
-  font-weight: 600;
+.tcd-brand-logo {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: auto;
 }
 `
 
