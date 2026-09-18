@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-09-18T09:36:55.164Z
+modified: 2026-09-18T14:42:12.712Z
 ---
 
 #Km0
@@ -388,7 +388,7 @@ modified: 2026-09-18T09:36:55.164Z
 [[N1004 La Gran Enciclopedia (GROWTH HACKING COURSE)]]
 [[N1005 Trucos IA para educadores]]
 [[N1006 Cómo funciona una IA por dentro]]
-[[IA, VisualMind.App]]
+[[IA, VisualMind]]
 [[N1008 El Mecanismo Invisible (LLM)]]
 [[N1009 El Horizonte Cuántico]]
 [[N1010 Visión y Estrategia de Microsoft en la Inteligencia Artificial]]
