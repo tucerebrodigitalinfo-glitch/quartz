@@ -1,43 +1,43 @@
 ---
 publish: true
 created: 2026-08-06T05:20:45.942Z
-modified: 2026-09-17T10:14:03.605Z
+modified: 2026-09-18T09:36:24.319Z
 ---
 
 #ArXiv
 
-**Volumen II**, ya no serÃ­a una historia cronolÃ³gica, sino un estudio sistemÃ¡tico y enciclopÃ©dico de arXiv, por ejemplo:
+**Volumen II**, ya no sería una historia cronológica, sino un estudio sistemático y enciclopédico de arXiv, por ejemplo:
 
-1. Arquitectura tÃ©cnica.
-2. OrganizaciÃ³n documental.
+1. Arquitectura técnica.
+2. Organización documental.
 3. Metadatos.
 4. Identificadores.
 5. API.
 6. OAI-PMH.
-7. ModeraciÃ³n.
-8. TaxonomÃ­a y categorÃ­as.
-9. EstadÃ­sticas.
-10. Ecosistema tecnolÃ³gico.
+7. Moderación.
+8. Taxonomía y categorías.
+9. Estadísticas.
+10. Ecosistema tecnológico.
 11. Integraciones.
-12. BibliometrÃ­a avanzada.
+12. Bibliometría avanzada.
 13. Casos de uso.
 14. Futuro del repositorio.
 
 # RSS
 
-RSS â€” arXiv
+RSS — arXiv
 
-VerificaciÃ³n: 6 de agosto de 2026
-Resultado: arXiv mantiene feeds oficiales pÃºblicos para todas sus Ã¡reas y subÃ¡reas activas. El servicio declara estado GOOD y ofrece cada canal en RSS 2.0 y Atom. Los feeds se regeneran diariamente a medianoche, hora del Este de Estados Unidos; los sÃ¡bados, domingos y determinados festivos pueden aparecer vacÃ­os. ï¿½
+Verificación: 6 de agosto de 2026
+Resultado: arXiv mantiene feeds oficiales públicos para todas sus áreas y subáreas activas. El servicio declara estado GOOD y ofrece cada canal en RSS 2.0 y Atom. Los feeds se regeneran diariamente a medianoche, hora del Este de Estados Unidos; los sábados, domingos y determinados festivos pueden aparecer vacíos. �
 arXiv +2
 
 \[!important] Dominio oficial actual: rss.arxiv.org.
 Conviene sustituir referencias antiguas a export.arxiv.org/rss/ por las URLs oficiales actuales.
 
 Tabla resumen
-CategorÃ­a
+Categoría
 Nombre
-OrganizaciÃ³n
+Organización
 Idioma
 Tipo
 Frecuencia
@@ -45,493 +45,493 @@ Estado
 General
 Computer Science
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## General Mathematics
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## General Physics
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## General Astrophysics
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## General Quantum Physics
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## General Electrical Engineering and Systems Science
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## General Statistics
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## GeneralQuantitative Biology
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## General Quantitative Finance
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
 ## General Economics
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## InformÃ¡tica Artificial Intelligence
+## Informática Artificial Intelligence
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## InformÃ¡tica Machine Learning
+## Informática Machine Learning
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## InformÃ¡tica Computation and Language
+## Informática Computation and Language
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## InformÃ¡tica Computer Vision
+## Informática Computer Vision
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## InformÃ¡tica Robotics
+## Informática Robotics
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## InformÃ¡tica Cryptography and Security
+## Informática Cryptography and Security
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## InformÃ¡tica Information Retrieval
+## Informática Information Retrieval
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## TÃ©cnica Machine Learning â€” Statistics
+## Técnica Machine Learning — Statistics
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## TÃ©cnica High Energy Physics â€” Theory
+## Técnica High Energy Physics — Theory
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## TÃ©cnica Condensed Matter
+## Técnica Condensed Matter
 
 arXiv
-InglÃ©s
+Inglés
 Preprints
 Diaria laborable
-ðŸŸ¢ Activo
+🟢 Activo
 
-## ðŸŸ¢ RSS oficiales generales
+## 🟢 RSS oficiales generales
 
 ## 1. Computer Science
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: Archivo completo de informÃ¡tica
-URL RSS: https://rss.arxiv.org/rss/csâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/csâ ï¿½
+Organización: arXiv
+Categoría: Archivo completo de informática
+URL RSS: https://rss.arxiv.org/rss/cs⁠�
+URL Atom: https://rss.arxiv.org/atom/cs⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
 Tipo de contenido: Nuevos preprints, versiones revisadas y clasificaciones cruzadas
-Frecuencia: Diaria en dÃ­as de publicaciÃ³n
-Estado: ðŸŸ¢ Activo
+Frecuencia: Diaria en días de publicación
+Estado: 🟢 Activo
 
-DescripciÃ³n: Canal global de todas las Ã¡reas de informÃ¡tica de arXiv.
-Observaciones: Volumen muy elevado. Es preferible usar subcategorÃ­as para lectores sin filtros automÃ¡ticos.
+Descripción: Canal global de todas las áreas de informática de arXiv.
+Observaciones: Volumen muy elevado. Es preferible usar subcategorías para lectores sin filtros automáticos.
 
 ## 2. Mathematics
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: MatemÃ¡ticas
-URL RSS: https://rss.arxiv.org/rss/mathâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/mathâ ï¿½
+Organización: arXiv
+Categoría: Matemáticas
+URL RSS: https://rss.arxiv.org/rss/math⁠�
+URL Atom: https://rss.arxiv.org/atom/math⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints matemÃ¡ticos
+Tipo de contenido: Preprints matemáticos
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Publicaciones de todas las clasificaciones matemÃ¡ticas activas.
-Observaciones: Canal muy amplio; admite sustituciÃ³n por una clase concreta, como math.AP, math.OC o math.QA.
+Descripción: Publicaciones de todas las clasificaciones matemáticas activas.
+Observaciones: Canal muy amplio; admite sustitución por una clase concreta, como math.AP, math.OC o math.QA.
 
 ## 3. Physics
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: FÃ­sica general
-URL RSS: https://rss.arxiv.org/rss/physicsâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/physicsâ ï¿½
+Organización: arXiv
+Categoría: Física general
+URL RSS: https://rss.arxiv.org/rss/physics⁠�
+URL Atom: https://rss.arxiv.org/atom/physics⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
 Tipo de contenido: Preprints e investigaciones
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Canal transversal del archivo de fÃ­sica.
-Observaciones: No incluye necesariamente todas las Ã¡reas histÃ³ricas independientes de fÃ­sica; para alta energÃ­a, astrofÃ­sica o fÃ­sica cuÃ¡ntica conviene seguir sus feeds especÃ­ficos.
+Descripción: Canal transversal del archivo de física.
+Observaciones: No incluye necesariamente todas las áreas históricas independientes de física; para alta energía, astrofísica o física cuántica conviene seguir sus feeds específicos.
 
 ## 4. Astrophysics
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: AstrofÃ­sica
-URL RSS: https://rss.arxiv.org/rss/astro-phâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/astro-phâ ï¿½
+Organización: arXiv
+Categoría: Astrofísica
+URL RSS: https://rss.arxiv.org/rss/astro-ph⁠�
+URL Atom: https://rss.arxiv.org/atom/astro-ph⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints de astronomÃ­a y astrofÃ­sica
+Tipo de contenido: Preprints de astronomía y astrofísica
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Agrupa las subÃ¡reas de astrofÃ­sica, cosmologÃ­a, astronomÃ­a galÃ¡ctica, instrumentaciÃ³n y ciencias planetarias.
+Descripción: Agrupa las subáreas de astrofísica, cosmología, astronomía galáctica, instrumentación y ciencias planetarias.
 
 ## 5. Quantum Physics
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: FÃ­sica cuÃ¡ntica
-URL RSS: https://rss.arxiv.org/rss/quant-phâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/quant-phâ ï¿½
+Organización: arXiv
+Categoría: Física cuántica
+URL RSS: https://rss.arxiv.org/rss/quant-ph⁠�
+URL Atom: https://rss.arxiv.org/atom/quant-ph⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: InvestigaciÃ³n y preprints
+Tipo de contenido: Investigación y preprints
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: ComputaciÃ³n cuÃ¡ntica, informaciÃ³n cuÃ¡ntica, fundamentos y tecnologÃ­as relacionadas.
+Descripción: Computación cuántica, información cuántica, fundamentos y tecnologías relacionadas.
 
 ## 6. Electrical Engineering and Systems Science
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: IngenierÃ­a elÃ©ctrica y sistemas
-URL RSS: https://rss.arxiv.org/rss/eessâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/eessâ ï¿½
+Organización: arXiv
+Categoría: Ingeniería eléctrica y sistemas
+URL RSS: https://rss.arxiv.org/rss/eess⁠�
+URL Atom: https://rss.arxiv.org/atom/eess⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints tÃ©cnicos
+Tipo de contenido: Preprints técnicos
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: SeÃ±ales, procesamiento de imÃ¡genes, sistemas, audio y tecnologÃ­as emergentes de ingenierÃ­a elÃ©ctrica.
+Descripción: Señales, procesamiento de imágenes, sistemas, audio y tecnologías emergentes de ingeniería eléctrica.
 
 ## 7. Statistics
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: EstadÃ­stica
-URL RSS: https://rss.arxiv.org/rss/statâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/statâ ï¿½
+Organización: arXiv
+Categoría: Estadística
+URL RSS: https://rss.arxiv.org/rss/stat⁠�
+URL Atom: https://rss.arxiv.org/atom/stat⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints estadÃ­sticos
+Tipo de contenido: Preprints estadísticos
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Canal general de teorÃ­a estadÃ­stica, metodologÃ­a, computaciÃ³n, aplicaciones y aprendizaje automÃ¡tico.
+Descripción: Canal general de teoría estadística, metodología, computación, aplicaciones y aprendizaje automático.
 
 ## 8. Quantitative Biology
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: BiologÃ­a cuantitativa
-URL RSS: https://rss.arxiv.org/rss/q-bioâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/q-bioâ ï¿½
+Organización: arXiv
+Categoría: Biología cuantitativa
+URL RSS: https://rss.arxiv.org/rss/q-bio⁠�
+URL Atom: https://rss.arxiv.org/atom/q-bio⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints cientÃ­ficos
+Tipo de contenido: Preprints científicos
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: BiomolÃ©culas, genÃ³mica, neurociencia, poblaciones, tejidos y otras Ã¡reas biolÃ³gicas cuantitativas.
+Descripción: Biomoléculas, genómica, neurociencia, poblaciones, tejidos y otras áreas biológicas cuantitativas.
 
 ## 9. Quantitative Finance
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: Finanzas cuantitativas
-URL RSS: https://rss.arxiv.org/rss/q-finâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/q-finâ ï¿½
+Organización: arXiv
+Categoría: Finanzas cuantitativas
+URL RSS: https://rss.arxiv.org/rss/q-fin⁠�
+URL Atom: https://rss.arxiv.org/atom/q-fin⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints e investigaciÃ³n financiera
+Tipo de contenido: Preprints e investigación financiera
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: ModelizaciÃ³n matemÃ¡tica de mercados, riesgo, derivados, gestiÃ³n de carteras y econometrÃ­a financiera.
+Descripción: Modelización matemática de mercados, riesgo, derivados, gestión de carteras y econometría financiera.
 
 ## 10. Economics
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: EconomÃ­a
-URL RSS: https://rss.arxiv.org/rss/econâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/econâ ï¿½
+Organización: arXiv
+Categoría: Economía
+URL RSS: https://rss.arxiv.org/rss/econ⁠�
+URL Atom: https://rss.arxiv.org/atom/econ⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Investigaciones econÃ³micas
+Tipo de contenido: Investigaciones económicas
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: EconomÃ­a general, econometrÃ­a y economÃ­a teÃ³rica.
+Descripción: Economía general, econometría y economía teórica.
 
-## ðŸ”µ RSS cientÃ­ficos y tÃ©cnicos seleccionados
+## 🔵 RSS científicos y técnicos seleccionados
 
 ## 11. Artificial Intelligence
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: cs.AI
-URL RSS: https://rss.arxiv.org/rss/cs.AIâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/cs.AIâ ï¿½
+Organización: arXiv
+Categoría: cs.AI
+URL RSS: https://rss.arxiv.org/rss/cs.AI⁠�
+URL Atom: https://rss.arxiv.org/atom/cs.AI⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
 Tipo de contenido: Preprints de inteligencia artificial
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Razonamiento, agentes, planificaciÃ³n, representaciÃ³n del conocimiento y mÃ©todos generales de IA.
+Descripción: Razonamiento, agentes, planificación, representación del conocimiento y métodos generales de IA.
 
-Observaciones: No cubre por sÃ­ solo toda la investigaciÃ³n en IA; debe combinarse con aprendizaje automÃ¡tico, lenguaje y visiÃ³n.
+Observaciones: No cubre por sí solo toda la investigación en IA; debe combinarse con aprendizaje automático, lenguaje y visión.
 
 ## 12. Machine Learning
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: cs.LG
-URL RSS: https://rss.arxiv.org/rss/cs.LGâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/cs.LGâ ï¿½
+Organización: arXiv
+Categoría: cs.LG
+URL RSS: https://rss.arxiv.org/rss/cs.LG⁠�
+URL Atom: https://rss.arxiv.org/atom/cs.LG⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints de aprendizaje automÃ¡tico
+Tipo de contenido: Preprints de aprendizaje automático
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Algoritmos, aprendizaje profundo, aprendizaje por refuerzo, modelos generativos y fundamentos computacionales.
+Descripción: Algoritmos, aprendizaje profundo, aprendizaje por refuerzo, modelos generativos y fundamentos computacionales.
 
 Observaciones: Feed de volumen muy alto. Recomendable aplicar filtros por palabras clave o autores.
 
 ## 13. Computation and Language
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: cs.CL
-URL RSS: https://rss.arxiv.org/rss/cs.CLâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/cs.CLâ ï¿½
+Organización: arXiv
+Categoría: cs.CL
+URL RSS: https://rss.arxiv.org/rss/cs.CL⁠�
+URL Atom: https://rss.arxiv.org/atom/cs.CL⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints de lingÃ¼Ã­stica computacional y PLN
+Tipo de contenido: Preprints de lingüística computacional y PLN
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Procesamiento del lenguaje natural, modelos lingÃ¼Ã­sticos, traducciÃ³n, diÃ¡logo y grandes modelos de lenguaje.
+Descripción: Procesamiento del lenguaje natural, modelos lingüísticos, traducción, diálogo y grandes modelos de lenguaje.
 
 ## 14. Computer Vision and Pattern Recognition
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: cs.CV
-URL RSS: https://rss.arxiv.org/rss/cs.CVâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/cs.CVâ ï¿½
+Organización: arXiv
+Categoría: cs.CV
+URL RSS: https://rss.arxiv.org/rss/cs.CV⁠�
+URL Atom: https://rss.arxiv.org/atom/cs.CV⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints de visiÃ³n artificial
+Tipo de contenido: Preprints de visión artificial
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Reconocimiento visual, generaciÃ³n de imÃ¡genes y vÃ­deo, percepciÃ³n tridimensional y anÃ¡lisis multimodal.
+Descripción: Reconocimiento visual, generación de imágenes y vídeo, percepción tridimensional y análisis multimodal.
 
 ## 15. Robotics
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: cs.RO
-URL RSS: https://rss.arxiv.org/rss/cs.ROâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/cs.ROâ ï¿½
+Organización: arXiv
+Categoría: cs.RO
+URL RSS: https://rss.arxiv.org/rss/cs.RO⁠�
+URL Atom: https://rss.arxiv.org/atom/cs.RO⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints tÃ©cnicos
+Tipo de contenido: Preprints técnicos
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: RobÃ³tica, manipulaciÃ³n, navegaciÃ³n, percepciÃ³n robÃ³tica, control y sistemas autÃ³nomos.
+Descripción: Robótica, manipulación, navegación, percepción robótica, control y sistemas autónomos.
 
 ## 16. Cryptography and Security
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: cs.CR
-URL RSS: https://rss.arxiv.org/rss/cs.CRâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/cs.CRâ ï¿½
+Organización: arXiv
+Categoría: cs.CR
+URL RSS: https://rss.arxiv.org/rss/cs.CR⁠�
+URL Atom: https://rss.arxiv.org/atom/cs.CR⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Investigaciones de criptografÃ­a y ciberseguridad
+Tipo de contenido: Investigaciones de criptografía y ciberseguridad
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: CriptografÃ­a, protocolos, privacidad, seguridad de sistemas y anÃ¡lisis de vulnerabilidades.
+Descripción: Criptografía, protocolos, privacidad, seguridad de sistemas y análisis de vulnerabilidades.
 
 ## 17. Information Retrieval
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: cs.IR
-URL RSS: https://rss.arxiv.org/rss/cs.IRâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/cs.IRâ ï¿½
+Organización: arXiv
+Categoría: cs.IR
+URL RSS: https://rss.arxiv.org/rss/cs.IR⁠�
+URL Atom: https://rss.arxiv.org/atom/cs.IR⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints cientÃ­ficos
+Tipo de contenido: Preprints científicos
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Motores de bÃºsqueda, recuperaciÃ³n semÃ¡ntica, recomendaciÃ³n, ranking y sistemas de recuperaciÃ³n aumentada.
+Descripción: Motores de búsqueda, recuperación semántica, recomendación, ranking y sistemas de recuperación aumentada.
 
-## 18. Machine Learning â€” Statistics
+## 18. Machine Learning — Statistics
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: stat.ML
-URL RSS: https://rss.arxiv.org/rss/stat.MLâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/stat.MLâ ï¿½
+Organización: arXiv
+Categoría: stat.ML
+URL RSS: https://rss.arxiv.org/rss/stat.ML⁠�
+URL Atom: https://rss.arxiv.org/atom/stat.ML⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: InvestigaciÃ³n estadÃ­stica y aprendizaje automÃ¡tico
+Tipo de contenido: Investigación estadística y aprendizaje automático
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Perspectiva estadÃ­stica del aprendizaje automÃ¡tico, inferencia, teorÃ­a y mÃ©todos probabilÃ­sticos.
+Descripción: Perspectiva estadística del aprendizaje automático, inferencia, teoría y métodos probabilísticos.
 
-Observaciones: Se solapa parcialmente con cs.LG, pero no es un duplicado: los artÃ­culos dependen de su clasificaciÃ³n primaria y de sus clasificaciones cruzadas.
+Observaciones: Se solapa parcialmente con cs.LG, pero no es un duplicado: los artículos dependen de su clasificación primaria y de sus clasificaciones cruzadas.
 
-## 19. High Energy Physics â€” Theory
+## 19. High Energy Physics — Theory
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: hep-th
-URL RSS: https://rss.arxiv.org/rss/hep-thâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/hep-thâ ï¿½
+Organización: arXiv
+Categoría: hep-th
+URL RSS: https://rss.arxiv.org/rss/hep-th⁠�
+URL Atom: https://rss.arxiv.org/atom/hep-th⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
-Tipo de contenido: Preprints de fÃ­sica teÃ³rica
+Tipo de contenido: Preprints de física teórica
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: TeorÃ­a cuÃ¡ntica de campos, gravedad, teorÃ­a de cuerdas y fÃ­sica matemÃ¡tica relacionada.
+Descripción: Teoría cuántica de campos, gravedad, teoría de cuerdas y física matemática relacionada.
 
 ## 20. Condensed Matter
 
-OrganizaciÃ³n: arXiv
-CategorÃ­a: cond-mat
-URL RSS: https://rss.arxiv.org/rss/cond-matâ ï¿½
-URL Atom: https://rss.arxiv.org/atom/cond-matâ ï¿½
+Organización: arXiv
+Categoría: cond-mat
+URL RSS: https://rss.arxiv.org/rss/cond-mat⁠�
+URL Atom: https://rss.arxiv.org/atom/cond-mat⁠�
 Formato: RSS 2.0 / Atom
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Mundial
 Tipo de contenido: Preprints de materia condensada
 Frecuencia: Diaria laborable
-Estado: ðŸŸ¢ Activo
+Estado: 🟢 Activo
 
-DescripciÃ³n: Canal general que reÃºne las distintas ramas de fÃ­sica de la materia condensada.
+Descripción: Canal general que reúne las distintas ramas de física de la materia condensada.
 
-ConstrucciÃ³n oficial de feeds
+Construcción oficial de feeds
 arXiv utiliza una estructura estable:
 RSS:
 https://rss.arxiv.org/rss/CATEGORIA
 
 Atom:
 https://rss.arxiv.org/atom/CATEGORIA
-TambiÃ©n permite combinar varias categorÃ­as mediante +, con un lÃ­mite declarado de 2.000 resultados por solicitud. ï¿½
+También permite combinar varias categorías mediante +, con un límite declarado de 2.000 resultados por solicitud. �
 arXiv
 Feed combinado recomendado para IA
-https://rss.arxiv.org/rss/cs.AI+cs.LG+cs.CL+cs.CVâ ï¿½
-VersiÃ³n Atom:
-https://rss.arxiv.org/atom/cs.AI+cs.LG+cs.CL+cs.CVâ ï¿½
+https://rss.arxiv.org/rss/cs.AI+cs.LG+cs.CL+cs.CV⁠�
+Versión Atom:
+https://rss.arxiv.org/atom/cs.AI+cs.LG+cs.CL+cs.CV⁠�
 
-ObservaciÃ³n: puede generar cientos de entradas por jornada. Resulta mÃ¡s Ãºtil en lectores que admitan reglas, etiquetas o filtros de palabras clave.
-Contenido tÃ©cnico de los feeds
-Los elementos RSS incluyen tÃ­tulo, enlace al resumen, identificador arXiv, abstract, autores, categorÃ­as, fecha de anuncio, tipo de anuncio, licencia y, cuando existe, DOI o referencia de revista. El tipo de anuncio permite distinguir documentos nuevos, versiones reemplazadas y clasificaciones cruzadas. ï¿½
+Observación: puede generar cientos de entradas por jornada. Resulta más útil en lectores que admitan reglas, etiquetas o filtros de palabras clave.
+Contenido técnico de los feeds
+Los elementos RSS incluyen título, enlace al resumen, identificador arXiv, abstract, autores, categorías, fecha de anuncio, tipo de anuncio, licencia y, cuando existe, DOI o referencia de revista. El tipo de anuncio permite distinguir documentos nuevos, versiones reemplazadas y clasificaciones cruzadas. �
 arXiv
-ConclusiÃ³n
-arXiv dispone de uno de los ecosistemas RSS cientÃ­ficos oficiales mÃ¡s completos. Para vigilancia general son adecuados los canales de archivo; para seguimiento profesional conviene utilizar feeds de subcategorÃ­a y evitar los canales generales de cs, math o physics cuando no haya filtrado automÃ¡tico. No se necesitan agregadores externos: la fuente oficial ofrece RSS 2.0 y Atom directamente.
+Conclusión
+arXiv dispone de uno de los ecosistemas RSS científicos oficiales más completos. Para vigilancia general son adecuados los canales de archivo; para seguimiento profesional conviene utilizar feeds de subcategoría y evitar los canales generales de cs, math o physics cuando no haya filtrado automático. No se necesitan agregadores externos: la fuente oficial ofrece RSS 2.0 y Atom directamente.

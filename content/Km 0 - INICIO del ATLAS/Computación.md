@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:34:53.329Z
-modified: 2026-09-17T10:13:55.667Z
+modified: 2026-09-18T09:36:21.557Z
 ---
 
-Disciplina que estudia el procesamiento automÃ¡tico de la informaciÃ³n.
+Disciplina que estudia el procesamiento automático de la información.
 
 Relacionado con:
 

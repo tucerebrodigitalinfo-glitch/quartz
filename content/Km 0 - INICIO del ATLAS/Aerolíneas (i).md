@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-06T05:18:48.265Z
-modified: 2026-09-17T10:14:23.944Z
+modified: 2026-09-18T09:36:39.722Z
 ---
 
-#Ãndices #Viajes #Comercio #Transportes
+#Índices #Viajes #Comercio #Transportes
 
 ![[Biblioteca/aerolineas.jpg]]
-âœ… Enlaces comprobados y operativos el 15 de julio de 2026. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Enlaces comprobados y operativos el 15 de julio de 2026. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
 ## AEROLINEAS
 
@@ -19,612 +19,612 @@ modified: 2026-09-17T10:14:23.944Z
 
 ## WEB
 
-- "International Civil Aviation Organization" (https://www.icao.int/) â€” Organismo de las Naciones Unidas responsable de las normas y polÃ­ticas mundiales de aviaciÃ³n civil.
+- "International Civil Aviation Organization" (https://www.icao.int/) — Organismo de las Naciones Unidas responsable de las normas y políticas mundiales de aviación civil.
 
-- "FlightGlobal" (https://www.flightglobal.com/airlines/) â€” Noticias, datos y anÃ¡lisis profesionales sobre aerolÃ­neas, flotas y transporte aÃ©reo.
+- "FlightGlobal" (https://www.flightglobal.com/airlines/) — Noticias, datos y análisis profesionales sobre aerolíneas, flotas y transporte aéreo.
 
-- "AeroTime" (https://www.aerotime.aero/) â€” InformaciÃ³n internacional sobre compaÃ±Ã­as aÃ©reas, operaciones, seguridad y fabricantes.
+- "AeroTime" (https://www.aerotime.aero/) — Información internacional sobre compañías aéreas, operaciones, seguridad y fabricantes.
 
-- "Simple Flying" (https://simpleflying.com/) â€” Noticias y reportajes divulgativos sobre aerolÃ­neas, rutas, flotas y experiencia del pasajero.
+- "Simple Flying" (https://simpleflying.com/) — Noticias y reportajes divulgativos sobre aerolíneas, rutas, flotas y experiencia del pasajero.
 
-- "AirlineGeeks" (https://airlinegeeks.com/) â€” AnÃ¡lisis sobre redes, modelos de negocio, aviaciÃ³n regional y evoluciÃ³n de las compaÃ±Ã­as aÃ©reas.
+- "AirlineGeeks" (https://airlinegeeks.com/) — Análisis sobre redes, modelos de negocio, aviación regional y evolución de las compañías aéreas.
 
-- "The Points Guy â€” Airlines" (https://thepointsguy.com/airline/) â€” InformaciÃ³n prÃ¡ctica sobre productos a bordo, programas de fidelizaciÃ³n y experiencia de viaje.
+- "The Points Guy — Airlines" (https://thepointsguy.com/airline/) — Información práctica sobre productos a bordo, programas de fidelización y experiencia de viaje.
 
-- "Skytrax" (https://www.worldairlineawards.com/) â€” Clasificaciones y premios basados en encuestas internacionales a pasajeros.
+- "Skytrax" (https://www.worldairlineawards.com/) — Clasificaciones y premios basados en encuestas internacionales a pasajeros.
 
-- "Airline Ratings" (https://www.airlineratings.com/) â€” Evaluaciones sobre seguridad, servicio y caracterÃ­sticas operativas de compaÃ±Ã­as aÃ©reas.
+- "Airline Ratings" (https://www.airlineratings.com/) — Evaluaciones sobre seguridad, servicio y características operativas de compañías aéreas.
 
-- "Flightradar24" (https://www.flightradar24.com/) â€” Seguimiento global de vuelos y consulta de movimientos, rutas y aeronaves.
+- "Flightradar24" (https://www.flightradar24.com/) — Seguimiento global de vuelos y consulta de movimientos, rutas y aeronaves.
 
-- "FlightAware" (https://www.flightaware.com/) â€” Datos en tiempo real e histÃ³ricos sobre vuelos, aeropuertos y operaciones aÃ©reas.
+- "FlightAware" (https://www.flightaware.com/) — Datos en tiempo real e históricos sobre vuelos, aeropuertos y operaciones aéreas.
 
-- "Cirium" (https://www.cirium.com/) â€” Inteligencia especializada sobre horarios, flotas, puntualidad y mercados aeronÃ¡uticos.
+- "Cirium" (https://www.cirium.com/) — Inteligencia especializada sobre horarios, flotas, puntualidad y mercados aeronáuticos.
 
-- "OAG" (https://www.oag.com/) â€” Datos y anÃ¡lisis sobre capacidad, horarios, conectividad y rendimiento de aerolÃ­neas.
+- "OAG" (https://www.oag.com/) — Datos y análisis sobre capacidad, horarios, conectividad y rendimiento de aerolíneas.
 
-- "Planespotters.net" (https://www.planespotters.net/) â€” Base de datos internacional de flotas, matrÃ­culas e historiales de aeronaves comerciales.
+- "Planespotters.net" (https://www.planespotters.net/) — Base de datos internacional de flotas, matrículas e historiales de aeronaves comerciales.
 
-- "Airfleets" (https://www.airfleets.net/) â€” InformaciÃ³n histÃ³rica y actual sobre flotas y entregas de compaÃ±Ã­as aÃ©reas.
+- "Airfleets" (https://www.airfleets.net/) — Información histórica y actual sobre flotas y entregas de compañías aéreas.
 
-- "Bureau of Transportation Statistics â€” Airlines and Airports" (https://www.bts.gov/topics/airlines-and-airports) â€” EstadÃ­sticas oficiales estadounidenses sobre trÃ¡fico, puntualidad, tarifas y operaciones.
+- "Bureau of Transportation Statistics — Airlines and Airports" (https://www.bts.gov/topics/airlines-and-airports) — Estadísticas oficiales estadounidenses sobre tráfico, puntualidad, tarifas y operaciones.
 
-- "Eurocontrol Aviation Intelligence" (https://www.eurocontrol.int/aviation-intelligence) â€” Datos sobre trÃ¡fico, puntualidad, capacidad y evoluciÃ³n del transporte aÃ©reo europeo.
+- "Eurocontrol Aviation Intelligence" (https://www.eurocontrol.int/aviation-intelligence) — Datos sobre tráfico, puntualidad, capacidad y evolución del transporte aéreo europeo.
 
-- "European Union Aviation Safety Agency" (https://www.easa.europa.eu/) â€” Normativa, certificaciÃ³n y documentaciÃ³n tÃ©cnica sobre seguridad aÃ©rea en Europa.
+- "European Union Aviation Safety Agency" (https://www.easa.europa.eu/) — Normativa, certificación y documentación técnica sobre seguridad aérea en Europa.
 
-- "Federal Aviation Administration" (https://www.faa.gov/) â€” RegulaciÃ³n, estadÃ­sticas y recursos oficiales sobre aviaciÃ³n civil estadounidense.
+- "Federal Aviation Administration" (https://www.faa.gov/) — Regulación, estadísticas y recursos oficiales sobre aviación civil estadounidense.
 
-- "Civil Aviation Authority of Singapore" (https://www.caas.gov.sg/) â€” InformaciÃ³n regulatoria y operativa de uno de los principales centros aÃ©reos de Asia.
+- "Civil Aviation Authority of Singapore" (https://www.caas.gov.sg/) — Información regulatoria y operativa de uno de los principales centros aéreos de Asia.
 
-- "Airports Council International World" (https://aci.aero/) â€” Datos y estudios sobre aeropuertos, conectividad y relaciones con las aerolÃ­neas.
+- "Airports Council International World" (https://aci.aero/) — Datos y estudios sobre aeropuertos, conectividad y relaciones con las aerolíneas.
 
-- "Emirates" (https://www.emirates.com/) â€” InformaciÃ³n oficial sobre rutas, flota, servicios y operaciones de la aerolÃ­nea de DubÃ¡i.
+- "Emirates" (https://www.emirates.com/) — Información oficial sobre rutas, flota, servicios y operaciones de la aerolínea de Dubái.
 
-- "Singapore Airlines" (https://www.singaporeair.com/) â€” Portal de una compaÃ±Ã­a internacional reconocida por su producto y servicio a bordo.
+- "Singapore Airlines" (https://www.singaporeair.com/) — Portal de una compañía internacional reconocida por su producto y servicio a bordo.
 
-- "Qatar Airways" (https://www.qatarairways.com/) â€” Red global, flota, servicios y actividad corporativa de la aerolÃ­nea catarÃ­.
+- "Qatar Airways" (https://www.qatarairways.com/) — Red global, flota, servicios y actividad corporativa de la aerolínea catarí.
 
-- "ANA â€” All Nippon Airways" (https://www.ana.co.jp/en/us/) â€” InformaciÃ³n sobre una de las principales compaÃ±Ã­as aÃ©reas japonesas.
+- "ANA — All Nippon Airways" (https://www.ana.co.jp/en/us/) — Información sobre una de las principales compañías aéreas japonesas.
 
-- "Ethiopian Airlines" (https://www.ethiopianairlines.com/) â€” Red, flota y servicios de una de las mayores aerolÃ­neas africanas.
+- "Ethiopian Airlines" (https://www.ethiopianairlines.com/) — Red, flota y servicios de una de las mayores aerolíneas africanas.
 
-- "LATAM Airlines" (https://www.latamairlines.com/) â€” InformaciÃ³n sobre la principal red de transporte aÃ©reo de AmÃ©rica Latina.
+- "LATAM Airlines" (https://www.latamairlines.com/) — Información sobre la principal red de transporte aéreo de América Latina.
 
-- "Air New Zealand" (https://www.airnewzealand.com/) â€” Operaciones, innovaciÃ³n y servicios de la compaÃ±Ã­a de bandera neozelandesa.
+- "Air New Zealand" (https://www.airnewzealand.com/) — Operaciones, innovación y servicios de la compañía de bandera neozelandesa.
 
-- "Turkish Airlines" (https://www.turkishairlines.com/) â€” Red internacional de gran alcance y conexiones a travÃ©s de Estambul.
+- "Turkish Airlines" (https://www.turkishairlines.com/) — Red internacional de gran alcance y conexiones a través de Estambul.
 
-- "Lufthansa Group" (https://www.lufthansagroup.com/) â€” InformaciÃ³n corporativa sobre aerolÃ­neas, estrategia, sostenibilidad y resultados financieros.
+- "Lufthansa Group" (https://www.lufthansagroup.com/) — Información corporativa sobre aerolíneas, estrategia, sostenibilidad y resultados financieros.
 
-- "IndiGo" (https://www.goindigo.in/) â€” Portal oficial de una de las mayores aerolÃ­neas asiÃ¡ticas por volumen de pasajeros.
+- "IndiGo" (https://www.goindigo.in/) — Portal oficial de una de las mayores aerolíneas asiáticas por volumen de pasajeros.
 
 ## YOUTUBE
 
-- "Mentour Pilot" (https://www.youtube.com/@MentourPilot) â€” Explicaciones profesionales sobre operaciones de aerolÃ­neas, seguridad y accidentes aÃ©reos.
+- "Mentour Pilot" (https://www.youtube.com/@MentourPilot) — Explicaciones profesionales sobre operaciones de aerolíneas, seguridad y accidentes aéreos.
 
-- "Wendover Productions" (https://www.youtube.com/@Wendoverproductions) â€” Documentales sobre redes, economÃ­a, logÃ­stica y modelos de negocio de las compaÃ±Ã­as aÃ©reas.
+- "Wendover Productions" (https://www.youtube.com/@Wendoverproductions) — Documentales sobre redes, economía, logística y modelos de negocio de las compañías aéreas.
 
-- "Sam Chui" (https://www.youtube.com/@SamChui) â€” Reportajes sobre vuelos, cabinas, aerolÃ­neas y productos de transporte aÃ©reo internacional.
+- "Sam Chui" (https://www.youtube.com/@SamChui) — Reportajes sobre vuelos, cabinas, aerolíneas y productos de transporte aéreo internacional.
 
-- "Noel Philips" (https://www.youtube.com/@noelphilips) â€” Experiencias de viaje y anÃ¡lisis de compaÃ±Ã­as, rutas y servicios poco habituales.
+- "Noel Philips" (https://www.youtube.com/@noelphilips) — Experiencias de viaje y análisis de compañías, rutas y servicios poco habituales.
 
-- "Simply Aviation" (https://www.youtube.com/@simply\_aviation) â€” Informes audiovisuales detallados sobre vuelos y productos de aerolÃ­neas.
+- "Simply Aviation" (https://www.youtube.com/@simply\_aviation) — Informes audiovisuales detallados sobre vuelos y productos de aerolíneas.
 
-- "Mustard" (https://www.youtube.com/@MustardChannel) â€” Documentales animados sobre aeronaves, compaÃ±Ã­as aÃ©reas y proyectos histÃ³ricos.
+- "Mustard" (https://www.youtube.com/@MustardChannel) — Documentales animados sobre aeronaves, compañías aéreas y proyectos históricos.
 
-- "74 Gear" (https://www.youtube.com/@74gear) â€” Comentarios de un piloto de aerolÃ­nea sobre operaciones, procedimientos y situaciones reales.
+- "74 Gear" (https://www.youtube.com/@74gear) — Comentarios de un piloto de aerolínea sobre operaciones, procedimientos y situaciones reales.
 
-- "Captain Joe" (https://www.youtube.com/@flywithcaptainjoe) â€” FormaciÃ³n divulgativa sobre pilotaje comercial, aeronaves y funcionamiento de las aerolÃ­neas.
+- "Captain Joe" (https://www.youtube.com/@flywithcaptainjoe) — Formación divulgativa sobre pilotaje comercial, aeronaves y funcionamiento de las aerolíneas.
 
-- "Just Planes" (https://www.youtube.com/@justplanes) â€” Grabaciones profesionales de operaciones en cabina y actividades de compaÃ±Ã­as aÃ©reas.
+- "Just Planes" (https://www.youtube.com/@justplanes) — Grabaciones profesionales de operaciones en cabina y actividades de compañías aéreas.
 
-- "Alex Praglowski Aviation" (https://www.youtube.com/@AlexPraglowskiAviation) â€” Evaluaciones de vuelos, aeropuertos, cabinas y productos de distintas aerolÃ­neas.
+- "Alex Praglowski Aviation" (https://www.youtube.com/@AlexPraglowskiAviation) — Evaluaciones de vuelos, aeropuertos, cabinas y productos de distintas aerolíneas.
 
 ## PODCAST
 
-- "Airline Pilot Guy" (https://www.airlinepilotguy.com/) â€” Actualidad aeronÃ¡utica y experiencias profesionales desde la perspectiva de pilotos comerciales.
+- "Airline Pilot Guy" (https://www.airlinepilotguy.com/) — Actualidad aeronáutica y experiencias profesionales desde la perspectiva de pilotos comerciales.
 
-- "The Air Show" (https://theairshowpodcast.com/) â€” AnÃ¡lisis sobre estrategia, economÃ­a, redes y direcciÃ³n de compaÃ±Ã­as aÃ©reas.
+- "The Air Show" (https://theairshowpodcast.com/) — Análisis sobre estrategia, economía, redes y dirección de compañías aéreas.
 
-- "AvTalk" (https://www.flightradar24.com/blog/avtalk-podcast/) â€” Podcast de Flightradar24 sobre noticias, operaciones y acontecimientos de la aviaciÃ³n comercial.
+- "AvTalk" (https://www.flightradar24.com/blog/avtalk-podcast/) — Podcast de Flightradar24 sobre noticias, operaciones y acontecimientos de la aviación comercial.
 
-- "Window Seat" (https://aviationweek.com/podcasts/window-seat-podcast) â€” Conversaciones de Aviation Week sobre aerolÃ­neas, fabricantes, mercados y transporte aÃ©reo.
+- "Window Seat" (https://aviationweek.com/podcasts/window-seat-podcast) — Conversaciones de Aviation Week sobre aerolíneas, fabricantes, mercados y transporte aéreo.
 
-- "Airlines Confidential" (https://airlinesconfidential.com/) â€” AnÃ¡lisis profesional sobre administraciÃ³n, comercializaciÃ³n y economÃ­a de las compaÃ±Ã­as aÃ©reas.
+- "Airlines Confidential" (https://airlinesconfidential.com/) — Análisis profesional sobre administración, comercialización y economía de las compañías aéreas.
 
-- "Airplane Geeks Podcast" (https://www.airplanegeeks.com/) â€” Entrevistas y noticias sobre aerolÃ­neas, aeronaves, aeropuertos y regulaciÃ³n.
+- "Airplane Geeks Podcast" (https://www.airplanegeeks.com/) — Entrevistas y noticias sobre aerolíneas, aeronaves, aeropuertos y regulación.
 
-- "Pilot to Pilot" (https://pilottopilotpodcast.com/) â€” Conversaciones con pilotos sobre formaciÃ³n, carrera profesional y trabajo en aerolÃ­neas.
+- "Pilot to Pilot" (https://pilottopilotpodcast.com/) — Conversaciones con pilotos sobre formación, carrera profesional y trabajo en aerolíneas.
 
-- "Air Line Pilot Podcast" (https://www.alpa.org/news-and-events/air-line-pilot-podcast) â€” InformaciÃ³n sobre relaciones laborales, seguridad y condiciones profesionales de los pilotos.
+- "Air Line Pilot Podcast" (https://www.alpa.org/news-and-events/air-line-pilot-podcast) — Información sobre relaciones laborales, seguridad y condiciones profesionales de los pilotos.
 
-- "Layovers" (https://layovers.to/) â€” Conversaciones sobre experiencia del pasajero, operaciones y actualidad del transporte aÃ©reo.
+- "Layovers" (https://layovers.to/) — Conversaciones sobre experiencia del pasajero, operaciones y actualidad del transporte aéreo.
 
-- "The Next Trip" (https://www.nexttripnetwork.com/podcast) â€” Experiencias y anÃ¡lisis de profesionales del sector sobre viajes y operaciones aÃ©reas.
+- "The Next Trip" (https://www.nexttripnetwork.com/podcast) — Experiencias y análisis de profesionales del sector sobre viajes y operaciones aéreas.
 
 ## LIBROS
 
-- "Flying Off Course: Airline Economics and Marketing â€” Rigas Doganis" (https://www.routledge.com/Flying-Off-Course-Airline-Economics-and-Marketing/Doganis/p/book/9781138224247) â€” IntroducciÃ³n esencial a la economÃ­a, los costes y la comercializaciÃ³n de las aerolÃ­neas.
+- "Flying Off Course: Airline Economics and Marketing — Rigas Doganis" (https://www.routledge.com/Flying-Off-Course-Airline-Economics-and-Marketing/Doganis/p/book/9781138224247) — Introducción esencial a la economía, los costes y la comercialización de las aerolíneas.
 
-- "The Airline Business â€” Rigas Doganis" (https://www.routledge.com/The-Airline-Business/Doganis/p/book/9780415346153) â€” AnÃ¡lisis de la evoluciÃ³n econÃ³mica y estratÃ©gica del transporte aÃ©reo internacional.
+- "The Airline Business — Rigas Doganis" (https://www.routledge.com/The-Airline-Business/Doganis/p/book/9780415346153) — Análisis de la evolución económica y estratégica del transporte aéreo internacional.
 
-- "The Global Airline Industry â€” Peter Belobaba, Amedeo Odoni y Cynthia Barnhart" (https://www.wiley.com/en-us/The+Global+Airline+Industry%2C+2nd+Edition-p-9781118881170) â€” Manual multidisciplinar sobre operaciones, planificaciÃ³n, economÃ­a y gestiÃ³n.
+- "The Global Airline Industry — Peter Belobaba, Amedeo Odoni y Cynthia Barnhart" (https://www.wiley.com/en-us/The+Global+Airline+Industry%2C+2nd+Edition-p-9781118881170) — Manual multidisciplinar sobre operaciones, planificación, economía y gestión.
 
-- "The Airline Industry: A Comprehensive Overview â€” John F. Oâ€™Connell" (https://www.routledge.com/The-Airline-Industry---A-Comprehensive-Overview-Dynamic-Trends-and-Transformations/OConnell/p/book/9781032714448) â€” VisiÃ³n actualizada de los modelos empresariales y transformaciones del sector.
+- "The Airline Industry: A Comprehensive Overview — John F. O’Connell" (https://www.routledge.com/The-Airline-Industry---A-Comprehensive-Overview-Dynamic-Trends-and-Transformations/OConnell/p/book/9781032714448) — Visión actualizada de los modelos empresariales y transformaciones del sector.
 
-- "Airline Operations and Management: A Management Textbook â€” Gerald N. Cook y Bruce G. Billig" (https://www.routledge.com/Airline-Operations-and-Management-A-Management-Textbook/Cook-Billig/p/book/9780367247355) â€” IntroducciÃ³n integral a la administraciÃ³n y operaciÃ³n de compaÃ±Ã­as aÃ©reas.
+- "Airline Operations and Management: A Management Textbook — Gerald N. Cook y Bruce G. Billig" (https://www.routledge.com/Airline-Operations-and-Management-A-Management-Textbook/Cook-Billig/p/book/9780367247355) — Introducción integral a la administración y operación de compañías aéreas.
 
-- "Airline Operations and Delay Management â€” Cheng-Lung Wu" (https://www.routledge.com/Airline-Operations-and-Delay-Management-Insights-from-Airline-Economics-Networks-and-Strategic-Schedule-Planning/Wu/p/book/9780754672937) â€” Estudio de horarios, redes, retrasos y recuperaciÃ³n operativa.
+- "Airline Operations and Delay Management — Cheng-Lung Wu" (https://www.routledge.com/Airline-Operations-and-Delay-Management-Insights-from-Airline-Economics-Networks-and-Strategic-Schedule-Planning/Wu/p/book/9780754672937) — Estudio de horarios, redes, retrasos y recuperación operativa.
 
-- "Airline Network Planning and Scheduling â€” Cheng-Lung Wu" (https://www.routledge.com/Airline-Network-Planning-and-Scheduling/Wu/p/book/9780367654412) â€” MÃ©todos para diseÃ±ar redes, frecuencias, flotas y programas de vuelo.
+- "Airline Network Planning and Scheduling — Cheng-Lung Wu" (https://www.routledge.com/Airline-Network-Planning-and-Scheduling/Wu/p/book/9780367654412) — Métodos para diseñar redes, frecuencias, flotas y programas de vuelo.
 
-- "Airline Marketing and Management â€” Stephen Shaw" (https://www.routledge.com/Airline-Marketing-and-Management/Shaw/p/book/9781409401490) â€” Fundamentos de segmentaciÃ³n, distribuciÃ³n, marca y estrategia comercial.
+- "Airline Marketing and Management — Stephen Shaw" (https://www.routledge.com/Airline-Marketing-and-Management/Shaw/p/book/9781409401490) — Fundamentos de segmentación, distribución, marca y estrategia comercial.
 
-- "Airline Revenue Management â€” Robert G. Cross" (https://www.penguinrandomhouse.com/books/330730/revenue-management-by-robert-g-cross/) â€” Principios de gestiÃ³n de ingresos, inventario y precios aplicables al transporte aÃ©reo.
+- "Airline Revenue Management — Robert G. Cross" (https://www.penguinrandomhouse.com/books/330730/revenue-management-by-robert-g-cross/) — Principios de gestión de ingresos, inventario y precios aplicables al transporte aéreo.
 
-- "The Evolution of the US Airline Industry â€” Eldad Ben-Yosef" (https://link.springer.com/book/10.1007/978-0-387-72015-9) â€” Estudio de la desregulaciÃ³n y transformaciÃ³n competitiva del mercado estadounidense.
+- "The Evolution of the US Airline Industry — Eldad Ben-Yosef" (https://link.springer.com/book/10.1007/978-0-387-72015-9) — Estudio de la desregulación y transformación competitiva del mercado estadounidense.
 
-- "Airline Management Finance: The Essentials â€” Victor Hughes" (https://www.routledge.com/Airline-Management-Finance-The-Essentials/Hughes/p/book/9781138610699) â€” ExplicaciÃ³n accesible de la financiaciÃ³n y contabilidad de una compaÃ±Ã­a aÃ©rea.
+- "Airline Management Finance: The Essentials — Victor Hughes" (https://www.routledge.com/Airline-Management-Finance-The-Essentials/Hughes/p/book/9781138610699) — Explicación accesible de la financiación y contabilidad de una compañía aérea.
 
-- "Strategic Management in the Aviation Industry â€” Andreas Wald, Christoph Fay y Ronald Gleich" (https://www.routledge.com/Strategic-Management-in-the-Aviation-Industry/Wald-Fay-Gleich/p/book/9780754648130) â€” Decisiones estratÃ©gicas en aerolÃ­neas, aeropuertos y empresas aeronÃ¡uticas.
+- "Strategic Management in the Aviation Industry — Andreas Wald, Christoph Fay y Ronald Gleich" (https://www.routledge.com/Strategic-Management-in-the-Aviation-Industry/Wald-Fay-Gleich/p/book/9780754648130) — Decisiones estratégicas en aerolíneas, aeropuertos y empresas aeronáuticas.
 
-- "Human Resource Management in the Airline Industry â€” Steven C. Eaton" (https://www.routledge.com/Globalization-and-Human-Resource-Management-in-the-Airline-Industry/Eaton/p/book/9781138270510) â€” Transformaciones laborales y organizativas derivadas de la globalizaciÃ³n.
+- "Human Resource Management in the Airline Industry — Steven C. Eaton" (https://www.routledge.com/Globalization-and-Human-Resource-Management-in-the-Airline-Industry/Eaton/p/book/9781138270510) — Transformaciones laborales y organizativas derivadas de la globalización.
 
-- "Designing and Executing Strategy in Aviation Management â€” Triant Flouris y Sharon Oswald" (https://www.routledge.com/Designing-and-Executing-Strategy-in-Aviation-Management/Flouris-Oswald/p/book/9780754676188) â€” Herramientas para formular y aplicar estrategias en empresas de aviaciÃ³n.
+- "Designing and Executing Strategy in Aviation Management — Triant Flouris y Sharon Oswald" (https://www.routledge.com/Designing-and-Executing-Strategy-in-Aviation-Management/Flouris-Oswald/p/book/9780754676188) — Herramientas para formular y aplicar estrategias en empresas de aviación.
 
-- "Straight and Level: Practical Airline Economics â€” Stephen Holloway" (https://www.routledge.com/Straight-and-Level-Practical-Airline-Economics/Holloway/p/book/9780754672586) â€” AplicaciÃ³n prÃ¡ctica de conceptos econÃ³micos al negocio de las aerolÃ­neas.
+- "Straight and Level: Practical Airline Economics — Stephen Holloway" (https://www.routledge.com/Straight-and-Level-Practical-Airline-Economics/Holloway/p/book/9780754672586) — Aplicación práctica de conceptos económicos al negocio de las aerolíneas.
 
-- "Managing the Skies: Public Policy, Organization and Financing of Air Traffic Management â€” Clinton V. Oster y John S. Strong" (https://www.routledge.com/Managing-the-Skies-Public-Policy-Organization-and-Financing-of-Air-Traffic/Oster-Strong/p/book/9780754670452) â€” RelaciÃ³n entre compaÃ±Ã­as aÃ©reas, espacio aÃ©reo y gestiÃ³n del trÃ¡fico.
+- "Managing the Skies: Public Policy, Organization and Financing of Air Traffic Management — Clinton V. Oster y John S. Strong" (https://www.routledge.com/Managing-the-Skies-Public-Policy-Organization-and-Financing-of-Air-Traffic/Oster-Strong/p/book/9780754670452) — Relación entre compañías aéreas, espacio aéreo y gestión del tráfico.
 
-- "Air Transport Management: An International Perspective â€” Lucy Budd y Stephen Ison" (https://www.routledge.com/Air-Transport-Management-An-International-Perspective/Budd-Ison/p/book/9781138641372) â€” Perspectiva internacional sobre regulaciÃ³n, demanda, sostenibilidad y administraciÃ³n.
+- "Air Transport Management: An International Perspective — Lucy Budd y Stephen Ison" (https://www.routledge.com/Air-Transport-Management-An-International-Perspective/Budd-Ison/p/book/9781138641372) — Perspectiva internacional sobre regulación, demanda, sostenibilidad y administración.
 
-- "Airline Choices for the Future â€” Nawal K. Taneja" (https://www.routledge.com/Airline-Choices-for-the-Future-From-Youngs-Matrix-to-a-Triple-Bottom-Line/Taneja/p/book/9780367669829) â€” Alternativas estratÃ©gicas para responder a cambios tecnolÃ³gicos y sociales.
+- "Airline Choices for the Future — Nawal K. Taneja" (https://www.routledge.com/Airline-Choices-for-the-Future-From-Youngs-Matrix-to-a-Triple-Bottom-Line/Taneja/p/book/9780367669829) — Alternativas estratégicas para responder a cambios tecnológicos y sociales.
 
-- "Hard Landing: The Epic Contest for Power and Profits That Plunged the Airlines into Chaos â€” Thomas Petzinger Jr." (https://www.penguinrandomhouse.com/books/130077/hard-landing-by-thomas-petzinger-jr/) â€” Historia empresarial de la competencia entre grandes aerolÃ­neas estadounidenses.
+- "Hard Landing: The Epic Contest for Power and Profits That Plunged the Airlines into Chaos — Thomas Petzinger Jr." (https://www.penguinrandomhouse.com/books/130077/hard-landing-by-thomas-petzinger-jr/) — Historia empresarial de la competencia entre grandes aerolíneas estadounidenses.
 
-- "Skygods: The Fall of Pan Am â€” Robert Gandt" (https://www.harpercollins.com/products/skygods-robert-gandt) â€” Relato histÃ³rico sobre la cultura corporativa, expansiÃ³n y desapariciÃ³n de Pan American.
+- "Skygods: The Fall of Pan Am — Robert Gandt" (https://www.harpercollins.com/products/skygods-robert-gandt) — Relato histórico sobre la cultura corporativa, expansión y desaparición de Pan American.
 
 ## REVISTAS
 
-- "Airlines Magazine" (https://airlines.iata.org/) â€” PublicaciÃ³n institucional sobre estrategia, regulaciÃ³n, sostenibilidad y economÃ­a de las aerolÃ­neas.
+- "Airlines Magazine" (https://airlines.iata.org/) — Publicación institucional sobre estrategia, regulación, sostenibilidad y economía de las aerolíneas.
 
-- "Airline Weekly" (https://airlineweekly.skift.com/) â€” InformaciÃ³n especializada sobre resultados, estrategias, rutas y mercados internacionales.
+- "Airline Weekly" (https://airlineweekly.skift.com/) — Información especializada sobre resultados, estrategias, rutas y mercados internacionales.
 
-- "Aviation Week & Space Technology" (https://aviationweek.com/aviation-week-space-technology) â€” Revista profesional sobre aviaciÃ³n comercial, tecnologÃ­a, defensa y espacio.
+- "Aviation Week & Space Technology" (https://aviationweek.com/aviation-week-space-technology) — Revista profesional sobre aviación comercial, tecnología, defensa y espacio.
 
-- "Air Transport World" (https://aviationweek.com/air-transport/atw) â€” PublicaciÃ³n centrada en direcciÃ³n, operaciones y tendencias de compaÃ±Ã­as aÃ©reas.
+- "Air Transport World" (https://aviationweek.com/air-transport/atw) — Publicación centrada en dirección, operaciones y tendencias de compañías aéreas.
 
-- "Flight International" (https://www.flightglobal.com/flight-international/) â€” Revista histÃ³rica sobre aeronaves, aerolÃ­neas y evoluciÃ³n de la industria.
+- "Flight International" (https://www.flightglobal.com/flight-international/) — Revista histórica sobre aeronaves, aerolíneas y evolución de la industria.
 
-- "Journal of Air Transport Management" (https://www.sciencedirect.com/journal/journal-of-air-transport-management) â€” InvestigaciÃ³n acadÃ©mica sobre economÃ­a, operaciones y polÃ­ticas de transporte aÃ©reo.
+- "Journal of Air Transport Management" (https://www.sciencedirect.com/journal/journal-of-air-transport-management) — Investigación académica sobre economía, operaciones y políticas de transporte aéreo.
 
-- "Transportation Research Part E: Logistics and Transportation Review" (https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review) â€” Estudios sobre redes, logÃ­stica, demanda y optimizaciÃ³n del transporte.
+- "Transportation Research Part E: Logistics and Transportation Review" (https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review) — Estudios sobre redes, logística, demanda y optimización del transporte.
 
-- "Journal of Airline and Airport Management" (https://www.jairm.org/) â€” Revista acadÃ©mica abierta sobre gestiÃ³n de aerolÃ­neas y aeropuertos.
+- "Journal of Airline and Airport Management" (https://www.jairm.org/) — Revista académica abierta sobre gestión de aerolíneas y aeropuertos.
 
-- "Arabian Aerospace" (https://www.arabianaerospace.aero/) â€” InformaciÃ³n sobre aerolÃ­neas, aeropuertos y aviaciÃ³n de Oriente Medio y Ãfrica.
+- "Arabian Aerospace" (https://www.arabianaerospace.aero/) — Información sobre aerolíneas, aeropuertos y aviación de Oriente Medio y África.
 
-- "African Aerospace" (https://www.africanaerospace.aero/) â€” Cobertura especializada de compaÃ±Ã­as aÃ©reas, conectividad y desarrollo aeronÃ¡utico africano.
+- "African Aerospace" (https://www.africanaerospace.aero/) — Cobertura especializada de compañías aéreas, conectividad y desarrollo aeronáutico africano.
 
 ## MUSEOS
 
-- "Delta Flight Museum" (https://www.deltamuseum.org/) â€” Historia de Delta Air Lines, sus aeronaves y el desarrollo del transporte aÃ©reo estadounidense.
+- "Delta Flight Museum" (https://www.deltamuseum.org/) — Historia de Delta Air Lines, sus aeronaves y el desarrollo del transporte aéreo estadounidense.
 
-- "The Museum of Flight" (https://www.museumofflight.org/) â€” Amplia colecciÃ³n de aviones comerciales, militares y experimentales en Seattle.
+- "The Museum of Flight" (https://www.museumofflight.org/) — Amplia colección de aviones comerciales, militares y experimentales en Seattle.
 
-- "Smithsonian National Air and Space Museum" (https://airandspace.si.edu/) â€” ColecciÃ³n internacional sobre historia de la aviaciÃ³n, aeronaves y exploraciÃ³n espacial.
+- "Smithsonian National Air and Space Museum" (https://airandspace.si.edu/) — Colección internacional sobre historia de la aviación, aeronaves y exploración espacial.
 
-- "MusÃ©e de lâ€™Air et de lâ€™Espace" (https://www.museeairespace.fr/en/) â€” Museo francÃ©s con aviones comerciales, prototipos y patrimonio aeronÃ¡utico europeo.
+- "Musée de l’Air et de l’Espace" (https://www.museeairespace.fr/en/) — Museo francés con aviones comerciales, prototipos y patrimonio aeronáutico europeo.
 
-- "Brooklands Museum" (https://www.brooklandsmuseum.com/) â€” Patrimonio britÃ¡nico de aviaciÃ³n civil, incluido el Concorde y aviones histÃ³ricos.
+- "Brooklands Museum" (https://www.brooklandsmuseum.com/) — Patrimonio británico de aviación civil, incluido el Concorde y aviones históricos.
 
-- "Imperial War Museums Duxford" (https://www.iwm.org.uk/visits/iwm-duxford) â€” Colecciones aeronÃ¡uticas y exposiciones sobre tecnologÃ­a e historia del vuelo.
+- "Imperial War Museums Duxford" (https://www.iwm.org.uk/visits/iwm-duxford) — Colecciones aeronáuticas y exposiciones sobre tecnología e historia del vuelo.
 
-- "Qantas Founders Museum" (https://qfom.com.au/) â€” Historia de Qantas y del desarrollo de las rutas aÃ©reas australianas.
+- "Qantas Founders Museum" (https://qfom.com.au/) — Historia de Qantas y del desarrollo de las rutas aéreas australianas.
 
-- "SAS Museum" (https://www.sasmuseum.com/) â€” Archivo y colecciÃ³n dedicados a Scandinavian Airlines y la aviaciÃ³n nÃ³rdica.
+- "SAS Museum" (https://www.sasmuseum.com/) — Archivo y colección dedicados a Scandinavian Airlines y la aviación nórdica.
 
-- "South African Airways Museum Society" (https://www.saamuseum.co.za/) â€” Aeronaves y documentaciÃ³n histÃ³rica de South African Airways.
+- "South African Airways Museum Society" (https://www.saamuseum.co.za/) — Aeronaves y documentación histórica de South African Airways.
 
-- "â€œOlumuyiwa Benard Aliuâ€ ICAO Museum" (https://www.icao.int/about-icao/ICAOMuseum) â€” ExposiciÃ³n sobre la cooperaciÃ³n internacional y los hitos de la aviaciÃ³n civil.
+- "“Olumuyiwa Benard Aliu” ICAO Museum" (https://www.icao.int/about-icao/ICAOMuseum) — Exposición sobre la cooperación internacional y los hitos de la aviación civil.
 
 ## UNIVERSIDADES
 
-- "Embry-Riddle Aeronautical University" (https://erau.edu/degrees/aviation) â€” Universidad especializada en aviaciÃ³n, operaciones aÃ©reas, seguridad y gestiÃ³n empresarial.
+- "Embry-Riddle Aeronautical University" (https://erau.edu/degrees/aviation) — Universidad especializada en aviación, operaciones aéreas, seguridad y gestión empresarial.
 
-- "Purdue University â€” School of Aviation and Transportation Technology" (https://polytechnic.purdue.edu/schools/aviation-and-transportation-technology) â€” FormaciÃ³n e investigaciÃ³n sobre aerolÃ­neas, tecnologÃ­a aeronÃ¡utica y factores humanos.
+- "Purdue University — School of Aviation and Transportation Technology" (https://polytechnic.purdue.edu/schools/aviation-and-transportation-technology) — Formación e investigación sobre aerolíneas, tecnología aeronáutica y factores humanos.
 
-- "Cranfield University â€” Air Transport Management" (https://www.cranfield.ac.uk/courses/taught/air-transport-management) â€” Programa internacional de posgrado sobre estrategia y gestiÃ³n del transporte aÃ©reo.
+- "Cranfield University — Air Transport Management" (https://www.cranfield.ac.uk/courses/taught/air-transport-management) — Programa internacional de posgrado sobre estrategia y gestión del transporte aéreo.
 
-- "University of Surrey â€” International Airline and Airport Management" (https://www.surrey.ac.uk/undergraduate/international-airline-and-airport-management) â€” Estudios sobre operaciones, comercializaciÃ³n y direcciÃ³n de aerolÃ­neas y aeropuertos.
+- "University of Surrey — International Airline and Airport Management" (https://www.surrey.ac.uk/undergraduate/international-airline-and-airport-management) — Estudios sobre operaciones, comercialización y dirección de aerolíneas y aeropuertos.
 
-- "University of Westminster â€” Air Transport Planning and Management" (https://www.westminster.ac.uk/transport-and-logistics-courses/2026-27/september/full-time/air-transport-planning-and-management-msc) â€” FormaciÃ³n avanzada en planificaciÃ³n, economÃ­a y polÃ­tica de transporte aÃ©reo.
+- "University of Westminster — Air Transport Planning and Management" (https://www.westminster.ac.uk/transport-and-logistics-courses/2026-27/september/full-time/air-transport-planning-and-management-msc) — Formación avanzada en planificación, economía y política de transporte aéreo.
 
-- "Hong Kong Polytechnic University â€” Aviation Management" (https://www.polyu.edu.hk/lms/study/tpg/aviation-management/) â€” Programa asiÃ¡tico sobre administraciÃ³n aeronÃ¡utica, logÃ­stica y operaciones.
+- "Hong Kong Polytechnic University — Aviation Management" (https://www.polyu.edu.hk/lms/study/tpg/aviation-management/) — Programa asiático sobre administración aeronáutica, logística y operaciones.
 
-- "University of New South Wales â€” School of Aviation" (https://www.unsw.edu.au/science/our-schools/aviation) â€” Estudios australianos sobre gestiÃ³n, seguridad, vuelo y transporte aÃ©reo.
+- "University of New South Wales — School of Aviation" (https://www.unsw.edu.au/science/our-schools/aviation) — Estudios australianos sobre gestión, seguridad, vuelo y transporte aéreo.
 
-- "University of SÃ£o Paulo â€” Air Transport Research" (https://www.poli.usp.br/en/) â€” InvestigaciÃ³n brasileÃ±a en ingenierÃ­a, operaciones y sistemas de transporte.
+- "University of São Paulo — Air Transport Research" (https://www.poli.usp.br/en/) — Investigación brasileña en ingeniería, operaciones y sistemas de transporte.
 
-- "University of Pretoria â€” Department of Transport and Supply Chain Management" (https://www.up.ac.za/transport-and-supply-chain-management) â€” FormaciÃ³n africana sobre transporte, logÃ­stica y gestiÃ³n de redes.
+- "University of Pretoria — Department of Transport and Supply Chain Management" (https://www.up.ac.za/transport-and-supply-chain-management) — Formación africana sobre transporte, logística y gestión de redes.
 
-- "Ã‰cole Nationale de lâ€™Aviation Civile" (https://www.enac.fr/en) â€” InstituciÃ³n francesa especializada en operaciones, ingenierÃ­a y administraciÃ³n de aviaciÃ³n civil.
+- "École Nationale de l’Aviation Civile" (https://www.enac.fr/en) — Institución francesa especializada en operaciones, ingeniería y administración de aviación civil.
 
 ## ASOCIACIONES
 
-- "International Air Transport Association" (https://www.iata.org/) â€” AsociaciÃ³n mundial que representa a las compaÃ±Ã­as aÃ©reas y desarrolla estÃ¡ndares comerciales y operativos.
+- "International Air Transport Association" (https://www.iata.org/) — Asociación mundial que representa a las compañías aéreas y desarrolla estándares comerciales y operativos.
 
-- "Association of Asia Pacific Airlines" (https://www.aapairlines.org/) â€” OrganizaciÃ³n representativa de las principales aerolÃ­neas de Asia-PacÃ­fico.
+- "Association of Asia Pacific Airlines" (https://www.aapairlines.org/) — Organización representativa de las principales aerolíneas de Asia-Pacífico.
 
-- "African Airlines Association" (https://www.afraa.org/) â€” AsociaciÃ³n dedicada a la cooperaciÃ³n, conectividad y competitividad de las compaÃ±Ã­as africanas.
+- "African Airlines Association" (https://www.afraa.org/) — Asociación dedicada a la cooperación, conectividad y competitividad de las compañías africanas.
 
-- "Latin American and Caribbean Air Transport Association" (https://alta.aero/) â€” Entidad que agrupa aerolÃ­neas y socios estratÃ©gicos de AmÃ©rica Latina y el Caribe.
+- "Latin American and Caribbean Air Transport Association" (https://alta.aero/) — Entidad que agrupa aerolíneas y socios estratégicos de América Latina y el Caribe.
 
-- "Airlines for Europe" (https://a4e.eu/) â€” RepresentaciÃ³n conjunta de importantes grupos y compaÃ±Ã­as aÃ©reas europeas.
+- "Airlines for Europe" (https://a4e.eu/) — Representación conjunta de importantes grupos y compañías aéreas europeas.
 
-- "Airlines for America" (https://www.airlines.org/) â€” AsociaciÃ³n comercial de las principales compaÃ±Ã­as aÃ©reas estadounidenses.
+- "Airlines for America" (https://www.airlines.org/) — Asociación comercial de las principales compañías aéreas estadounidenses.
 
-- "Arab Air Carriersâ€™ Organization" (https://www.aaco.org/) â€” OrganizaciÃ³n regional de aerolÃ­neas de Oriente Medio y el norte de Ãfrica.
+- "Arab Air Carriers’ Organization" (https://www.aaco.org/) — Organización regional de aerolíneas de Oriente Medio y el norte de África.
 
-- "Board of Airline Representatives in Germany" (https://www.barig.aero/en/) â€” Red internacional de compaÃ±Ã­as aÃ©reas activas en el mercado alemÃ¡n.
+- "Board of Airline Representatives in Germany" (https://www.barig.aero/en/) — Red internacional de compañías aéreas activas en el mercado alemán.
 
-- "European Regions Airline Association" (https://www.eraa.org/) â€” AsociaciÃ³n centrada en la conectividad y sostenibilidad de la aviaciÃ³n regional europea.
+- "European Regions Airline Association" (https://www.eraa.org/) — Asociación centrada en la conectividad y sostenibilidad de la aviación regional europea.
 
-- "International Federation of Air Line Pilotsâ€™ Associations" (https://www.ifalpa.org/) â€” FederaciÃ³n mundial que representa a asociaciones profesionales de pilotos de aerolÃ­nea.
+- "International Federation of Air Line Pilots’ Associations" (https://www.ifalpa.org/) — Federación mundial que representa a asociaciones profesionales de pilotos de aerolínea.
 
 ## NEWSLETTER
 
-- "Cranky Flier" (https://crankyflier.com/subscribe/) â€” AnÃ¡lisis independiente sobre estrategia, rutas y decisiones empresariales de las aerolÃ­neas.
+- "Cranky Flier" (https://crankyflier.com/subscribe/) — Análisis independiente sobre estrategia, rutas y decisiones empresariales de las aerolíneas.
 
-- "One Mile at a Time" (https://onemileatatime.com/newsletter/) â€” Actualizaciones sobre compaÃ±Ã­as aÃ©reas, cabinas, fidelizaciÃ³n y experiencia del pasajero.
+- "One Mile at a Time" (https://onemileatatime.com/newsletter/) — Actualizaciones sobre compañías aéreas, cabinas, fidelización y experiencia del pasajero.
 
-- "Paddle Your Own Kanoo" (https://www.paddleyourownkanoo.com/newsletter/) â€” Noticias sobre tripulaciones, relaciones laborales y operaciones de aerolÃ­neas.
+- "Paddle Your Own Kanoo" (https://www.paddleyourownkanoo.com/newsletter/) — Noticias sobre tripulaciones, relaciones laborales y operaciones de aerolíneas.
 
-- "The Air Current" (https://theaircurrent.com/newsletter/) â€” Periodismo especializado sobre compaÃ±Ã­as aÃ©reas, fabricantes y tecnologÃ­a aeronÃ¡utica.
+- "The Air Current" (https://theaircurrent.com/newsletter/) — Periodismo especializado sobre compañías aéreas, fabricantes y tecnología aeronáutica.
 
-- "Runway Girl Network Newsletter" (https://runwaygirlnetwork.com/newsletter-signup/) â€” InformaciÃ³n sobre experiencia del pasajero, conectividad, interiores y servicios a bordo.
+- "Runway Girl Network Newsletter" (https://runwaygirlnetwork.com/newsletter-signup/) — Información sobre experiencia del pasajero, conectividad, interiores y servicios a bordo.
 
-- "Future Travel Experience Newsletter" (https://www.futuretravelexperience.com/newsletter/) â€” InnovaciÃ³n en aerolÃ­neas, aeropuertos, distribuciÃ³n y experiencia digital.
+- "Future Travel Experience Newsletter" (https://www.futuretravelexperience.com/newsletter/) — Innovación en aerolíneas, aeropuertos, distribución y experiencia digital.
 
-- "Routes Update" (https://www.routesonline.com/newsletters/) â€” Novedades sobre planificaciÃ³n de rutas, conectividad y desarrollo de redes aÃ©reas.
+- "Routes Update" (https://www.routesonline.com/newsletters/) — Novedades sobre planificación de rutas, conectividad y desarrollo de redes aéreas.
 
-- "CAPA Daily Newsletter" (https://centreforaviation.com/newsletters) â€” Resumen profesional sobre mercados, estrategia y resultados del transporte aÃ©reo.
+- "CAPA Daily Newsletter" (https://centreforaviation.com/newsletters) — Resumen profesional sobre mercados, estrategia y resultados del transporte aéreo.
 
-- "Aviation Business News Newsletter" (https://www.aviationbusinessnews.com/newsletter/) â€” Actualizaciones sobre mantenimiento, cabinas, operaciones y actividad empresarial.
+- "Aviation Business News Newsletter" (https://www.aviationbusinessnews.com/newsletter/) — Actualizaciones sobre mantenimiento, cabinas, operaciones y actividad empresarial.
 
-- "Aviation Source Newsletter" (https://aviationsourcenews.com/newsletter/) â€” SelecciÃ³n periÃ³dica de noticias sobre aerolÃ­neas, flotas, rutas y acontecimientos operativos.
+- "Aviation Source Newsletter" (https://aviationsourcenews.com/newsletter/) — Selección periódica de noticias sobre aerolíneas, flotas, rutas y acontecimientos operativos.
 
 ## TV
 
-- [Al Jazeera English](https://www.aljazeera.com/) â€” Noticias internacionales, economÃ­a y transporte aÃ©reo, con amplia cobertura de Oriente Medio, Asia y Ãfrica.
+- [Al Jazeera English](https://www.aljazeera.com/) — Noticias internacionales, economía y transporte aéreo, con amplia cobertura de Oriente Medio, Asia y África.
 
-- [CNA](https://www.channelnewsasia.com/) â€” Canal de Singapur especialmente Ãºtil para seguir aerolÃ­neas, aeropuertos y mercados de Asia-PacÃ­fico.
+- [CNA](https://www.channelnewsasia.com/) — Canal de Singapur especialmente útil para seguir aerolíneas, aeropuertos y mercados de Asia-Pacífico.
 
-- [CGTN](https://www.cgtn.com/) â€” InformaciÃ³n televisiva sobre China y su creciente mercado de aviaciÃ³n comercial internacional.
+- [CGTN](https://www.cgtn.com/) — Información televisiva sobre China y su creciente mercado de aviación comercial internacional.
 
-- [TRT World](https://www.trtworld.com/) â€” Cobertura internacional de aerolÃ­neas, turismo, conectividad y transporte entre Europa, Asia y Oriente Medio.
+- [TRT World](https://www.trtworld.com/) — Cobertura internacional de aerolíneas, turismo, conectividad y transporte entre Europa, Asia y Oriente Medio.
 
-- [ABC News Australia](https://www.abc.net.au/news/) â€” InformaciÃ³n pÃºblica australiana sobre aerolÃ­neas, seguridad, aeropuertos y derechos de los pasajeros.
+- [ABC News Australia](https://www.abc.net.au/news/) — Información pública australiana sobre aerolíneas, seguridad, aeropuertos y derechos de los pasajeros.
 
-- [Africanews](https://www.africanews.com/) â€” Canal internacional centrado en Ãfrica, con noticias sobre conectividad, compaÃ±Ã­as aÃ©reas y turismo regional.
+- [Africanews](https://www.africanews.com/) — Canal internacional centrado en África, con noticias sobre conectividad, compañías aéreas y turismo regional.
 
-- [SABC News](https://www.sabcnews.com/sabcnews/) â€” Referencia televisiva sudafricana para transporte, aviaciÃ³n y actividad empresarial en Ãfrica austral.
+- [SABC News](https://www.sabcnews.com/sabcnews/) — Referencia televisiva sudafricana para transporte, aviación y actividad empresarial en África austral.
 
-- [Euronews](https://www.euronews.com/) â€” Seguimiento europeo de aerolÃ­neas, huelgas, cancelaciones, regulaciÃ³n y movilidad internacional.
+- [Euronews](https://www.euronews.com/) — Seguimiento europeo de aerolíneas, huelgas, cancelaciones, regulación y movilidad internacional.
 
-- [teleSUR English](https://www.telesurenglish.net/) â€” Perspectiva latinoamericana sobre transporte aÃ©reo, turismo, infraestructura y conectividad regional.
+- [teleSUR English](https://www.telesurenglish.net/) — Perspectiva latinoamericana sobre transporte aéreo, turismo, infraestructura y conectividad regional.
 
-- [Arirang TV](https://www.arirang.com/) â€” Canal internacional surcoreano con contenidos sobre turismo, economÃ­a y aviaciÃ³n en Asia oriental.
+- [Arirang TV](https://www.arirang.com/) — Canal internacional surcoreano con contenidos sobre turismo, economía y aviación en Asia oriental.
 
 ## RADIO
 
-- [ABC Radio National](https://www.abc.net.au/listen/radionational) â€” ProgramaciÃ³n australiana de actualidad con anÃ¡lisis sobre transporte, viajes y polÃ­ticas de aviaciÃ³n.
+- [ABC Radio National](https://www.abc.net.au/listen/radionational) — Programación australiana de actualidad con análisis sobre transporte, viajes y políticas de aviación.
 
-- [RNZ National](https://www.rnz.co.nz/national) â€” Radio pÃºblica de Nueva Zelanda con cobertura de aerolÃ­neas, conectividad insular y turismo del PacÃ­fico.
+- [RNZ National](https://www.rnz.co.nz/national) — Radio pública de Nueva Zelanda con cobertura de aerolíneas, conectividad insular y turismo del Pacífico.
 
-- [Voice of America](https://www.voanews.com/) â€” Servicio internacional con noticias sobre aviaciÃ³n, viajes, seguridad y economÃ­a global.
+- [Voice of America](https://www.voanews.com/) — Servicio internacional con noticias sobre aviación, viajes, seguridad y economía global.
 
-- [KBS World Radio](https://world.kbs.co.kr/service/index.htm?lang=e) â€” Emisora internacional surcoreana Ãºtil para seguir aerolÃ­neas y mercados turÃ­sticos de Asia.
+- [KBS World Radio](https://world.kbs.co.kr/service/index.htm?lang=e) — Emisora internacional surcoreana útil para seguir aerolíneas y mercados turísticos de Asia.
 
-- [RTÃ‰ Radio 1](https://www.rte.ie/radio/radio1/) â€” Radio pÃºblica irlandesa con informaciÃ³n sobre aerolÃ­neas europeas, aeropuertos y movilidad internacional.
+- [RTÉ Radio 1](https://www.rte.ie/radio/radio1/) — Radio pública irlandesa con información sobre aerolíneas europeas, aeropuertos y movilidad internacional.
 
-- [Cadena SER](https://cadenaser.com/) â€” Emisora espaÃ±ola con cobertura continua de huelgas, cancelaciones, turismo y transporte aÃ©reo.
+- [Cadena SER](https://cadenaser.com/) — Emisora española con cobertura continua de huelgas, cancelaciones, turismo y transporte aéreo.
 
-- [Onda Cero](https://www.ondacero.es/) â€” InformaciÃ³n radiofÃ³nica espaÃ±ola sobre viajes, aeropuertos, compaÃ±Ã­as aÃ©reas y derechos de los pasajeros.
+- [Onda Cero](https://www.ondacero.es/) — Información radiofónica española sobre viajes, aeropuertos, compañías aéreas y derechos de los pasajeros.
 
-- [SABC Radio](https://www.sabc.co.za/sabc/radio/) â€” Red pÃºblica sudafricana con emisoras nacionales y regionales que cubren transporte y aviaciÃ³n africana.
+- [SABC Radio](https://www.sabc.co.za/sabc/radio/) — Red pública sudafricana con emisoras nacionales y regionales que cubren transporte y aviación africana.
 
-- [Radio Nacional Argentina](https://www.radionacional.com.ar/) â€” Actualidad argentina sobre turismo, rutas aÃ©reas, infraestructura aeroportuaria y conectividad territorial.
+- [Radio Nacional Argentina](https://www.radionacional.com.ar/) — Actualidad argentina sobre turismo, rutas aéreas, infraestructura aeroportuaria y conectividad territorial.
 
-- [Radio Nacional de Colombia](https://www.radionacional.co/) â€” InformaciÃ³n pÃºblica colombiana sobre aerolÃ­neas, turismo, aeropuertos y transporte regional.
+- [Radio Nacional de Colombia](https://www.radionacional.co/) — Información pública colombiana sobre aerolíneas, turismo, aeropuertos y transporte regional.
 
 ## PRENSA ONLINE
 
-- [FlightGlobal](https://www.flightglobal.com/) â€” Referencia internacional en noticias de aerolÃ­neas, fabricantes, flotas, seguridad y aviaciÃ³n comercial.
+- [FlightGlobal](https://www.flightglobal.com/) — Referencia internacional en noticias de aerolíneas, fabricantes, flotas, seguridad y aviación comercial.
 
-- [Aviation Week](https://aviationweek.com/) â€” InformaciÃ³n profesional sobre transporte aÃ©reo, tecnologÃ­a, mantenimiento, fabricantes y estrategia empresarial.
+- [Aviation Week](https://aviationweek.com/) — Información profesional sobre transporte aéreo, tecnología, mantenimiento, fabricantes y estrategia empresarial.
 
-- [AeroTime](https://www.aerotime.aero/) â€” Noticias y anÃ¡lisis accesibles sobre compaÃ±Ã­as aÃ©reas, aeropuertos, aeronaves y operaciones.
+- [AeroTime](https://www.aerotime.aero/) — Noticias y análisis accesibles sobre compañías aéreas, aeropuertos, aeronaves y operaciones.
 
-- [AirlineGeeks](https://airlinegeeks.com/) â€” PublicaciÃ³n especializada en aerolÃ­neas, rutas, flotas, experiencias de viaje y mercados regionales.
+- [AirlineGeeks](https://airlinegeeks.com/) — Publicación especializada en aerolíneas, rutas, flotas, experiencias de viaje y mercados regionales.
 
-- [The Air Current](https://theaircurrent.com/) â€” Periodismo especializado y anÃ¡lisis profundo sobre aerolÃ­neas, fabricantes y tecnologÃ­a aeronÃ¡utica.
+- [The Air Current](https://theaircurrent.com/) — Periodismo especializado y análisis profundo sobre aerolíneas, fabricantes y tecnología aeronáutica.
 
-- [CAPA â€“ Centre for Aviation](https://centreforaviation.com/) â€” Inteligencia de mercado, datos y anÃ¡lisis estratÃ©gico sobre aerolÃ­neas y aeropuertos mundiales.
+- [CAPA – Centre for Aviation](https://centreforaviation.com/) — Inteligencia de mercado, datos y análisis estratégico sobre aerolíneas y aeropuertos mundiales.
 
-- [Skift Airlines](https://skift.com/airlines/) â€” InformaciÃ³n empresarial sobre aerolÃ­neas, turismo, distribuciÃ³n, fidelizaciÃ³n y comportamiento del pasajero.
+- [Skift Airlines](https://skift.com/airlines/) — Información empresarial sobre aerolíneas, turismo, distribución, fidelización y comportamiento del pasajero.
 
-- [Routes](https://www.routesonline.com/news/) â€” Noticias sobre planificaciÃ³n de rutas, redes aÃ©reas, aeropuertos y desarrollo de destinos.
+- [Routes](https://www.routesonline.com/news/) — Noticias sobre planificación de rutas, redes aéreas, aeropuertos y desarrollo de destinos.
 
-- [ch-aviation](https://www.ch-aviation.com/) â€” Base especializada en operadores, flotas, rutas, capacidad, propiedad de aeronaves y noticias corporativas.
+- [ch-aviation](https://www.ch-aviation.com/) — Base especializada en operadores, flotas, rutas, capacidad, propiedad de aeronaves y noticias corporativas.
 
-- [AeroRoutes](https://www.aeroroutes.com/) â€” Seguimiento detallado de nuevos servicios, cambios de frecuencia, cancelaciones y programaciÃ³n de rutas.
+- [AeroRoutes](https://www.aeroroutes.com/) — Seguimiento detallado de nuevos servicios, cambios de frecuencia, cancelaciones y programación de rutas.
 
 ## PRENSA ESCRITA
 
-- [Flight International](https://www.flightglobal.com/flight-international) â€” Revista histÃ³rica de aviaciÃ³n con reportajes sobre aerolÃ­neas, fabricantes, flotas y tecnologÃ­a.
+- [Flight International](https://www.flightglobal.com/flight-international) — Revista histórica de aviación con reportajes sobre aerolíneas, fabricantes, flotas y tecnología.
 
-- [Airline Business](https://www.flightglobal.com/airline-business) â€” PublicaciÃ³n profesional centrada en estrategia, finanzas, gestiÃ³n y evoluciÃ³n del sector aÃ©reo.
+- [Airline Business](https://www.flightglobal.com/airline-business) — Publicación profesional centrada en estrategia, finanzas, gestión y evolución del sector aéreo.
 
-- [Airways](https://www.airwaysmag.com/) â€” Revista internacional dedicada a aerolÃ­neas, rutas, aeronaves, historia y experiencia de vuelo.
+- [Airways](https://www.airwaysmag.com/) — Revista internacional dedicada a aerolíneas, rutas, aeronaves, historia y experiencia de vuelo.
 
-- [Aviation International News](https://www.ainonline.com/) â€” PublicaciÃ³n profesional sobre aviaciÃ³n comercial, ejecutiva, regulaciÃ³n, seguridad y tecnologÃ­a.
+- [Aviation International News](https://www.ainonline.com/) — Publicación profesional sobre aviación comercial, ejecutiva, regulación, seguridad y tecnología.
 
-- [Asian Aviation](https://asianaviation.com/) â€” Revista especializada en aerolÃ­neas, aeropuertos y empresas aeronÃ¡uticas de Asia-PacÃ­fico.
+- [Asian Aviation](https://asianaviation.com/) — Revista especializada en aerolíneas, aeropuertos y empresas aeronáuticas de Asia-Pacífico.
 
-- [Australian Aviation](https://australianaviation.com.au/) â€” PublicaciÃ³n australiana sobre compaÃ±Ã­as aÃ©reas, aeropuertos, flotas y polÃ­tica aeronÃ¡utica regional.
+- [Australian Aviation](https://australianaviation.com.au/) — Publicación australiana sobre compañías aéreas, aeropuertos, flotas y política aeronáutica regional.
 
-- [Airliner World](https://www.key.aero/airliner-world) â€” Revista centrada en aviaciÃ³n comercial, compaÃ±Ã­as aÃ©reas, flotas, operaciones e historia aeronÃ¡utica.
+- [Airliner World](https://www.key.aero/airliner-world) — Revista centrada en aviación comercial, compañías aéreas, flotas, operaciones e historia aeronáutica.
 
-- [AviTrader Aviation News](https://avitrader.com/) â€” PublicaciÃ³n profesional con revista especializada en mantenimiento, reparaciÃ³n, flotas y mercado posventa.
+- [AviTrader Aviation News](https://avitrader.com/) — Publicación profesional con revista especializada en mantenimiento, reparación, flotas y mercado posventa.
 
-- [AEROSPACE magazine](https://www.aerosociety.com/aerospace) â€” Revista de la Royal Aeronautical Society sobre tecnologÃ­a, transporte aÃ©reo y polÃ­tica aeroespacial.
+- [AEROSPACE magazine](https://www.aerosociety.com/aerospace) — Revista de la Royal Aeronautical Society sobre tecnología, transporte aéreo y política aeroespacial.
 
-- [Aviation News](https://www.key.aero/aviationnews/latest-issue) â€” Revista de actualidad aeronÃ¡utica con contenidos sobre aviaciÃ³n comercial, aerolÃ­neas y aeronaves.
+- [Aviation News](https://www.key.aero/aviationnews/latest-issue) — Revista de actualidad aeronáutica con contenidos sobre aviación comercial, aerolíneas y aeronaves.
 
 # RSS
 
-**Fecha de verificaciÃ³n:** 29 de julio de 2026\
-**Ãmbito:** compaÃ±Ã­as aÃ©reas, regulaciÃ³n, seguridad operacional, fabricantes, trÃ¡fico, rutas, experiencia de pasajero y actualidad aeronÃ¡utica.
+**Fecha de verificación:** 29 de julio de 2026\
+**Ámbito:** compañías aéreas, regulación, seguridad operacional, fabricantes, tráfico, rutas, experiencia de pasajero y actualidad aeronáutica.
 
 ## Tabla resumen
 
-|CategorÃ­a|Nombre|OrganizaciÃ³n|Idioma|Tipo|Estado|
+|Categoría|Nombre|Organización|Idioma|Tipo|Estado|
 |---|---|---|---|---|---|
-|ðŸŸ¢ Oficial|EASA News|EASA|InglÃ©s|RegulaciÃ³n y seguridad|**Activo** ([EASA](https://www.easa.europa.eu/en/rss "RSS - Machine-readable format - Really Simple Syndication | EASA"))|
-|ðŸŸ¢ Oficial|EASA Press Releases|EASA|InglÃ©s|Comunicados oficiales|**Activo** ([EASA](https://www.easa.europa.eu/en/rss "RSS - Machine-readable format - Really Simple Syndication | EASA"))|
-|ðŸŸ¢ Oficial|FAA Press Releases|FAA|InglÃ©s|RegulaciÃ³n y operaciones|**Activo** ([AdministraciÃ³n Federal de AviaciÃ³n](https://www.faa.gov/newsroom/press_releases "FAA Press Releases | Federal Aviation Administration"))|
-|ðŸŸ¢ Oficial|NTSB Investigations|NTSB|InglÃ©s|Investigaciones de accidentes|**Activo** ([NTSB](https://www.ntsb.gov/Pages/RSS.aspx "NTSB RSS Feed"))|
-|ðŸŸ¢ Empresa|Commercial Aircraft|Airbus|InglÃ©s|FabricaciÃ³n y pedidos|**Activo** ([Airbus](https://www.airbus.com/en/rss-feeds "RSS feeds | Airbus"))|
-|ðŸŸ¢ Empresa|Commercial Airplanes|Boeing|InglÃ©s|FabricaciÃ³n y flotas|**Activo** ([MediaRoom](https://boeing.mediaroom.com/rss-feeds "Boeing: News - Email Subscriptions/RSS Feeds"))|
-|ðŸŸ¢ AerolÃ­nea|Lufthansa Group Newsroom|Lufthansa Group|InglÃ©s|Noticias corporativas|**Activo** ([Lufthansa Group Newsroom](https://newsroom.lufthansagroup.com/en/ "Newsroom Deutsche Lufthansa AG"))|
-|ðŸŸ¢ Institucional|Airlines for America|A4A|InglÃ©s|Industria aÃ©rea estadounidense|**Activo**|
-|ðŸ”µ CientÃ­fico|NASA Aeronautics|NASA|InglÃ©s|InvestigaciÃ³n aeronÃ¡utica|**Activo** ([NASA](https://www.nasa.gov/rss-feeds/ "RSS Feeds - NASA"))|
-|ðŸŸ  Especializado|APEX|Airline Passenger Experience Association|InglÃ©s|Experiencia de pasajero|**Activo**|
-|ðŸŸ  Especializado|OAG Blog|OAG Aviation|InglÃ©s|Datos, capacidad y rutas|**Activo**|
-|ðŸŸ  Actualidad|AeroTime|AeroTime|InglÃ©s|Noticias aeronÃ¡uticas|**Activo**|
+|🟢 Oficial|EASA News|EASA|Inglés|Regulación y seguridad|**Activo** ([EASA](https://www.easa.europa.eu/en/rss "RSS - Machine-readable format - Really Simple Syndication | EASA"))|
+|🟢 Oficial|EASA Press Releases|EASA|Inglés|Comunicados oficiales|**Activo** ([EASA](https://www.easa.europa.eu/en/rss "RSS - Machine-readable format - Really Simple Syndication | EASA"))|
+|🟢 Oficial|FAA Press Releases|FAA|Inglés|Regulación y operaciones|**Activo** ([Administración Federal de Aviación](https://www.faa.gov/newsroom/press_releases "FAA Press Releases | Federal Aviation Administration"))|
+|🟢 Oficial|NTSB Investigations|NTSB|Inglés|Investigaciones de accidentes|**Activo** ([NTSB](https://www.ntsb.gov/Pages/RSS.aspx "NTSB RSS Feed"))|
+|🟢 Empresa|Commercial Aircraft|Airbus|Inglés|Fabricación y pedidos|**Activo** ([Airbus](https://www.airbus.com/en/rss-feeds "RSS feeds | Airbus"))|
+|🟢 Empresa|Commercial Airplanes|Boeing|Inglés|Fabricación y flotas|**Activo** ([MediaRoom](https://boeing.mediaroom.com/rss-feeds "Boeing: News - Email Subscriptions/RSS Feeds"))|
+|🟢 Aerolínea|Lufthansa Group Newsroom|Lufthansa Group|Inglés|Noticias corporativas|**Activo** ([Lufthansa Group Newsroom](https://newsroom.lufthansagroup.com/en/ "Newsroom Deutsche Lufthansa AG"))|
+|🟢 Institucional|Airlines for America|A4A|Inglés|Industria aérea estadounidense|**Activo**|
+|🔵 Científico|NASA Aeronautics|NASA|Inglés|Investigación aeronáutica|**Activo** ([NASA](https://www.nasa.gov/rss-feeds/ "RSS Feeds - NASA"))|
+|🟠 Especializado|APEX|Airline Passenger Experience Association|Inglés|Experiencia de pasajero|**Activo**|
+|🟠 Especializado|OAG Blog|OAG Aviation|Inglés|Datos, capacidad y rutas|**Activo**|
+|🟠 Actualidad|AeroTime|AeroTime|Inglés|Noticias aeronáuticas|**Activo**|
 
 ---
 
-## ðŸŸ¢ RSS oficiales
+## 🟢 RSS oficiales
 
 ## 1. EASA News
 
-**OrganizaciÃ³n:** European Union Aviation Safety Agency\
-**CategorÃ­a:** Regulador europeo\
+**Organización:** European Union Aviation Safety Agency\
+**Categoría:** Regulador europeo\
 **URL RSS:** <https://www.easa.europa.eu/newsroom-and-events/news/feed.xml>\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
-**Cobertura:** UniÃ³n Europea e internacional\
-**Tipo de contenido:** Noticias, certificaciÃ³n, seguridad operacional, normativa y sostenibilidad\
+**Idioma:** Inglés\
+**Cobertura:** Unión Europea e internacional\
+**Tipo de contenido:** Noticias, certificación, seguridad operacional, normativa y sostenibilidad\
 **Frecuencia aproximada:** Varias publicaciones mensuales\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** principal canal de noticias de la Agencia de Seguridad AÃ©rea de la UniÃ³n Europea. Resulta esencial para seguir medidas regulatorias que afectan a aerolÃ­neas, operadores, aeropuertos y fabricantes.
+**Descripción:** principal canal de noticias de la Agencia de Seguridad Aérea de la Unión Europea. Resulta esencial para seguir medidas regulatorias que afectan a aerolíneas, operadores, aeropuertos y fabricantes.
 
-**Observaciones:** el enlace aparece en el directorio RSS oficial de EASA, el endpoint responde como feed XML y la secciÃ³n continuaba publicando noticias en julio de 2026. ([EASA](https://www.easa.europa.eu/en/rss "RSS - Machine-readable format - Really Simple Syndication | EASA"))
+**Observaciones:** el enlace aparece en el directorio RSS oficial de EASA, el endpoint responde como feed XML y la sección continuaba publicando noticias en julio de 2026. ([EASA](https://www.easa.europa.eu/en/rss "RSS - Machine-readable format - Really Simple Syndication | EASA"))
 
 ---
 
 ## 2. EASA Press Releases
 
-**OrganizaciÃ³n:** European Union Aviation Safety Agency\
-**CategorÃ­a:** Regulador europeo\
+**Organización:** European Union Aviation Safety Agency\
+**Categoría:** Regulador europeo\
 **URL RSS:** <https://www.easa.europa.eu/newsroom-and-events/press-releases/feed.xml>\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
-**Cobertura:** UniÃ³n Europea e internacional\
+**Idioma:** Inglés\
+**Cobertura:** Unión Europea e internacional\
 **Tipo de contenido:** Comunicados institucionales, acuerdos y decisiones regulatorias\
 **Frecuencia aproximada:** Mensual o irregular\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal especÃ­fico para anuncios institucionales de mayor importancia emitidos por EASA.
+**Descripción:** canal específico para anuncios institucionales de mayor importancia emitidos por EASA.
 
-**Observaciones:** es menos frecuente que el canal general de noticias, pero mÃ¡s selectivo. El feed estÃ¡ enlazado en la pÃ¡gina RSS oficial de la agencia y mantenÃ­a publicaciones recientes en 2026. ([EASA](https://www.easa.europa.eu/en/rss "RSS - Machine-readable format - Really Simple Syndication | EASA"))
+**Observaciones:** es menos frecuente que el canal general de noticias, pero más selectivo. El feed está enlazado en la página RSS oficial de la agencia y mantenía publicaciones recientes en 2026. ([EASA](https://www.easa.europa.eu/en/rss "RSS - Machine-readable format - Really Simple Syndication | EASA"))
 
 ---
 
 ## 3. FAA Press Releases
 
-**OrganizaciÃ³n:** Federal Aviation Administration\
-**CategorÃ­a:** Regulador estadounidense\
+**Organización:** Federal Aviation Administration\
+**Categoría:** Regulador estadounidense\
 **URL RSS:** <https://www.faa.gov/newsroom/press_releases/rss>\
 **Formato:** RSS 2.0\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Estados Unidos, con impacto internacional\
-**Tipo de contenido:** RegulaciÃ³n, trÃ¡fico aÃ©reo, aeropuertos, seguridad y operaciones\
+**Tipo de contenido:** Regulación, tráfico aéreo, aeropuertos, seguridad y operaciones\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** fuente primaria para decisiones regulatorias y operativas de la aviaciÃ³n civil estadounidense.
+**Descripción:** fuente primaria para decisiones regulatorias y operativas de la aviación civil estadounidense.
 
-**Observaciones:** la pÃ¡gina oficial de comunicados identifica expresamente el canal RSS. Presentaba publicaciones hasta el 28 de julio de 2026. ([AdministraciÃ³n Federal de AviaciÃ³n](https://www.faa.gov/newsroom/press_releases "FAA Press Releases | Federal Aviation Administration"))
+**Observaciones:** la página oficial de comunicados identifica expresamente el canal RSS. Presentaba publicaciones hasta el 28 de julio de 2026. ([Administración Federal de Aviación](https://www.faa.gov/newsroom/press_releases "FAA Press Releases | Federal Aviation Administration"))
 
 ---
 
 ## 4. NTSB Investigations
 
-**OrganizaciÃ³n:** National Transportation Safety Board\
-**CategorÃ­a:** Organismo oficial de investigaciÃ³n\
+**Organización:** National Transportation Safety Board\
+**Categoría:** Organismo oficial de investigación\
 **URL RSS:** <https://www.ntsb.gov/_layouts/feed.aspx?page=674e62a9-4f3b-4058-846b-150bc1c21aa0&pageurl=%2FPages%2FRSS-Feed-Page.aspx&web=%2F&wp=a19255e2-c8e3-41fd-8c99-f8bc0453cb58&xsl=1>\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Estados Unidos\
 **Tipo de contenido:** Apertura y desarrollo de investigaciones de accidentes\
 **Frecuencia aproximada:** Irregular; varias actualizaciones mensuales\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** permite seguir investigaciones oficiales sobre accidentes e incidentes de transporte, incluidos los relacionados con aviaciÃ³n comercial.
+**Descripción:** permite seguir investigaciones oficiales sobre accidentes e incidentes de transporte, incluidos los relacionados con aviación comercial.
 
-**Observaciones:** el feed incluye tambiÃ©n otros modos de transporte. Conviene aplicar filtros por tÃ©rminos como `aviation`, `airplane`, `air carrier`, `airport` o por nombre de aerolÃ­nea. EstÃ¡ publicado en el directorio RSS oficial del NTSB. ([NTSB](https://www.ntsb.gov/Pages/RSS.aspx "NTSB RSS Feed"))
+**Observaciones:** el feed incluye también otros modos de transporte. Conviene aplicar filtros por términos como `aviation`, `airplane`, `air carrier`, `airport` o por nombre de aerolínea. Está publicado en el directorio RSS oficial del NTSB. ([NTSB](https://www.ntsb.gov/Pages/RSS.aspx "NTSB RSS Feed"))
 
 ---
 
-## ðŸŸ¢ RSS de empresas y aerolÃ­neas
+## 🟢 RSS de empresas y aerolíneas
 
 ## 5. Airbus Commercial Aircraft
 
-**OrganizaciÃ³n:** Airbus\
-**CategorÃ­a:** Fabricante aeronÃ¡utico\
+**Organización:** Airbus\
+**Categoría:** Fabricante aeronáutico\
 **URL RSS:** <https://www.airbus.com/en/generate-rss-feeds?fid=29711&tid=15571>\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
 **Tipo de contenido:** Pedidos, entregas, contratos, flotas y nuevos aviones\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal oficial centrado en la divisiÃ³n de aviaciÃ³n comercial de Airbus. Es particularmente Ãºtil para seguir pedidos de aerolÃ­neas, entregas, certificaciones y evoluciÃ³n de programas de aeronaves.
+**Descripción:** canal oficial centrado en la división de aviación comercial de Airbus. Es particularmente útil para seguir pedidos de aerolíneas, entregas, certificaciones y evolución de programas de aeronaves.
 
-**Observaciones:** se ha seleccionado el canal especÃ­fico de aviaciÃ³n comercial en lugar del feed general de Airbus para reducir informaciÃ³n sobre defensa, helicÃ³pteros y espacio. El endpoint respondiÃ³ como RSS y la sala de prensa mantenÃ­a actividad en julio de 2026. ([Airbus](https://www.airbus.com/en/rss-feeds "RSS feeds | Airbus"))
+**Observaciones:** se ha seleccionado el canal específico de aviación comercial en lugar del feed general de Airbus para reducir información sobre defensa, helicópteros y espacio. El endpoint respondió como RSS y la sala de prensa mantenía actividad en julio de 2026. ([Airbus](https://www.airbus.com/en/rss-feeds "RSS feeds | Airbus"))
 
 ---
 
 ## 6. Boeing Commercial Airplanes
 
-**OrganizaciÃ³n:** Boeing\
-**CategorÃ­a:** Fabricante aeronÃ¡utico\
+**Organización:** Boeing\
+**Categoría:** Fabricante aeronáutico\
 **URL RSS:** <https://boeing.mediaroom.com/news-releases-statements?category=786&pagetemplate=rss>\
 **Formato:** RSS\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** Pedidos, entregas, acuerdos con aerolÃ­neas y programas comerciales\
+**Tipo de contenido:** Pedidos, entregas, acuerdos con aerolíneas y programas comerciales\
 **Frecuencia aproximada:** Varias publicaciones mensuales\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal oficial dedicado a la divisiÃ³n de aviones comerciales de Boeing.
+**Descripción:** canal oficial dedicado a la división de aviones comerciales de Boeing.
 
-**Observaciones:** es preferible al RSS general de Boeing para el seguimiento de aerolÃ­neas. El directorio oficial ofrece feeds separados por categorÃ­a y la sala de prensa publicaba noticias hasta el 28 de julio de 2026. ([MediaRoom](https://boeing.mediaroom.com/rss-feeds "Boeing: News - Email Subscriptions/RSS Feeds"))
+**Observaciones:** es preferible al RSS general de Boeing para el seguimiento de aerolíneas. El directorio oficial ofrece feeds separados por categoría y la sala de prensa publicaba noticias hasta el 28 de julio de 2026. ([MediaRoom](https://boeing.mediaroom.com/rss-feeds "Boeing: News - Email Subscriptions/RSS Feeds"))
 
 ---
 
 ## 7. Lufthansa Group Newsroom
 
-**OrganizaciÃ³n:** Lufthansa Group\
-**CategorÃ­a:** Grupo de aerolÃ­neas\
+**Organización:** Lufthansa Group\
+**Categoría:** Grupo de aerolíneas\
 **URL RSS:** <https://newsroom.lufthansagroup.com/feed/en>\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Europa y mundial\
 **Tipo de contenido:** Noticias corporativas, rutas, flota, resultados, servicios y sostenibilidad\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal oficial del grupo propietario de Lufthansa, SWISS, Austrian Airlines, Brussels Airlines, Discover Airlines y otras compaÃ±Ã­as.
+**Descripción:** canal oficial del grupo propietario de Lufthansa, SWISS, Austrian Airlines, Brussels Airlines, Discover Airlines y otras compañías.
 
-**Observaciones:** es uno de los pocos RSS generales claramente operativos publicados directamente por un gran grupo aÃ©reo europeo. La sala de prensa contenÃ­a numerosas publicaciones de julio de 2026. ([Lufthansa Group Newsroom](https://newsroom.lufthansagroup.com/en/ "Newsroom Deutsche Lufthansa AG"))
+**Observaciones:** es uno de los pocos RSS generales claramente operativos publicados directamente por un gran grupo aéreo europeo. La sala de prensa contenía numerosas publicaciones de julio de 2026. ([Lufthansa Group Newsroom](https://newsroom.lufthansagroup.com/en/ "Newsroom Deutsche Lufthansa AG"))
 
 ---
 
 ## 8. Airlines for America
 
-**OrganizaciÃ³n:** Airlines for America\
-**CategorÃ­a:** AsociaciÃ³n profesional\
+**Organización:** Airlines for America\
+**Categoría:** Asociación profesional\
 **URL RSS:** <https://www.airlines.org/feed/>\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Estados Unidos\
-**Tipo de contenido:** PolÃ­tica aÃ©rea, operaciones, costes, trÃ¡fico y regulaciÃ³n\
+**Tipo de contenido:** Política aérea, operaciones, costes, tráfico y regulación\
 **Frecuencia aproximada:** Semanal o irregular\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** feed del dominio oficial de la asociaciÃ³n que representa a las principales aerolÃ­neas estadounidenses.
+**Descripción:** feed del dominio oficial de la asociación que representa a las principales aerolíneas estadounidenses.
 
-**Observaciones:** resulta Ãºtil para conocer la posiciÃ³n conjunta del sector sobre combustible, control aÃ©reo, seguridad, conectividad y legislaciÃ³n. El endpoint respondiÃ³ y el sitio publicaba noticias y estadÃ­sticas durante julio de 2026.
+**Observaciones:** resulta útil para conocer la posición conjunta del sector sobre combustible, control aéreo, seguridad, conectividad y legislación. El endpoint respondió y el sitio publicaba noticias y estadísticas durante julio de 2026.
 
 ---
 
-## ðŸ”µ RSS cientÃ­ficos y tÃ©cnicos
+## 🔵 RSS científicos y técnicos
 
 ## 9. NASA Aeronautics
 
-**OrganizaciÃ³n:** National Aeronautics and Space Administration\
-**CategorÃ­a:** Organismo cientÃ­fico pÃºblico\
+**Organización:** National Aeronautics and Space Administration\
+**Categoría:** Organismo científico público\
 **URL RSS:** <https://www.nasa.gov/aeronautics/feed/>\
 **Formato:** RSS 2.0\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** InvestigaciÃ³n aeronÃ¡utica, gestiÃ³n del trÃ¡fico, aviaciÃ³n sostenible y nuevas aeronaves\
+**Tipo de contenido:** Investigación aeronáutica, gestión del tráfico, aviación sostenible y nuevas aeronaves\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal temÃ¡tico oficial de NASA sobre investigaciÃ³n aeronÃ¡utica. Cubre tecnologÃ­as que pueden incorporarse posteriormente a las operaciones de aerolÃ­neas.
+**Descripción:** canal temático oficial de NASA sobre investigación aeronáutica. Cubre tecnologías que pueden incorporarse posteriormente a las operaciones de aerolíneas.
 
-**Observaciones:** incluye propulsiÃ³n sostenible, reducciÃ³n de ruido, gestiÃ³n avanzada del espacio aÃ©reo, vuelos supersÃ³nicos y automatizaciÃ³n. NASA incluye este canal en su directorio oficial de RSS y el endpoint responde como `application/rss+xml`. ([NASA](https://www.nasa.gov/rss-feeds/ "RSS Feeds - NASA"))
+**Observaciones:** incluye propulsión sostenible, reducción de ruido, gestión avanzada del espacio aéreo, vuelos supersónicos y automatización. NASA incluye este canal en su directorio oficial de RSS y el endpoint responde como `application/rss+xml`. ([NASA](https://www.nasa.gov/rss-feeds/ "RSS Feeds - NASA"))
 
 ---
 
-## ðŸŸ  RSS especializados y de actualidad
+## 🟠 RSS especializados y de actualidad
 
 ## 10. APEX
 
-**OrganizaciÃ³n:** Airline Passenger Experience Association\
-**CategorÃ­a:** AsociaciÃ³n profesional internacional\
+**Organización:** Airline Passenger Experience Association\
+**Categoría:** Asociación profesional internacional\
 **URL RSS:** <https://apex.aero/feed/>\
 **Formato:** RSS 2.0\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
 **Tipo de contenido:** Experiencia de pasajero, cabina, conectividad, entretenimiento y servicios\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** fuente especializada en producto de cabina, experiencia del cliente, sistemas de entretenimiento, conectividad a bordo y servicios auxiliares.
+**Descripción:** fuente especializada en producto de cabina, experiencia del cliente, sistemas de entretenimiento, conectividad a bordo y servicios auxiliares.
 
-**Observaciones:** el endpoint devuelve contenido `application/rss+xml`. El archivo oficial publicaba artÃ­culos hasta el 21 de julio de 2026.
+**Observaciones:** el endpoint devuelve contenido `application/rss+xml`. El archivo oficial publicaba artículos hasta el 21 de julio de 2026.
 
 ---
 
 ## 11. OAG Blog
 
-**OrganizaciÃ³n:** OAG Aviation Worldwide\
-**CategorÃ­a:** InformaciÃ³n y anÃ¡lisis de aviaciÃ³n\
+**Organización:** OAG Aviation Worldwide\
+**Categoría:** Información y análisis de aviación\
 **URL RSS:** <https://www.oag.com/blog/rss.xml>\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** Capacidad, horarios, rutas, puntualidad, trÃ¡fico y anÃ¡lisis de mercado\
+**Tipo de contenido:** Capacidad, horarios, rutas, puntualidad, tráfico y análisis de mercado\
 **Frecuencia aproximada:** Semanal\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** feed especializado en datos de aerolÃ­neas y anÃ¡lisis de redes. Resulta especialmente Ãºtil para vigilar aperturas de rutas, capacidad programada, conectividad y tendencias del mercado.
+**Descripción:** feed especializado en datos de aerolíneas y análisis de redes. Resulta especialmente útil para vigilar aperturas de rutas, capacidad programada, conectividad y tendencias del mercado.
 
-**Observaciones:** el blog oficial estÃ¡ configurado para generar RSS y publicaba anÃ¡lisis durante julio de 2026. El canal es corporativo, pero sus contenidos se basan en las bases de datos aeronÃ¡uticas de OAG.
+**Observaciones:** el blog oficial está configurado para generar RSS y publicaba análisis durante julio de 2026. El canal es corporativo, pero sus contenidos se basan en las bases de datos aeronáuticas de OAG.
 
 ---
 
 ## 12. AeroTime
 
-**OrganizaciÃ³n:** AeroTime\
-**CategorÃ­a:** Medio especializado\
+**Organización:** AeroTime\
+**Categoría:** Medio especializado\
 **URL RSS:** <https://www.aerotime.aero/feed>\
 **Formato:** RSS 2.0\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** AerolÃ­neas, fabricantes, aeropuertos, defensa y aviaciÃ³n comercial\
-**Frecuencia aproximada:** Diaria; mÃºltiples publicaciones\
+**Tipo de contenido:** Aerolíneas, fabricantes, aeropuertos, defensa y aviación comercial\
+**Frecuencia aproximada:** Diaria; múltiples publicaciones\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** medio de actualidad aeronÃ¡utica con elevada frecuencia de publicaciÃ³n. Aporta cobertura rÃ¡pida sobre flotas, rutas, resultados, incidentes y operaciones de aerolÃ­neas.
+**Descripción:** medio de actualidad aeronáutica con elevada frecuencia de publicación. Aporta cobertura rápida sobre flotas, rutas, resultados, incidentes y operaciones de aerolíneas.
 
-**Observaciones:** es una fuente periodÃ­stica y debe utilizarse como complemento de reguladores y salas de prensa oficiales. El endpoint responde como `application/rss+xml` y el medio publicaba noticias hasta el 28 de julio de 2026.
+**Observaciones:** es una fuente periodística y debe utilizarse como complemento de reguladores y salas de prensa oficiales. El endpoint responde como `application/rss+xml` y el medio publicaba noticias hasta el 28 de julio de 2026.
 
 ---
 
 ## Organizaciones relevantes sin RSS general verificable
 
-|OrganizaciÃ³n|SituaciÃ³n|Mejor alternativa|
+|Organización|Situación|Mejor alternativa|
 |---|---|---|
-|**ICAO**|No se confirmÃ³ un RSS pÃºblico general y actualizado para toda su sala de prensa|Consultar su newsroom oficial|
-|**IATA**|No se localizÃ³ un RSS general pÃºblico; ofrece suscripciÃ³n a novedades de prensa|SuscripciÃ³n por correo y pressroom|
+|**ICAO**|No se confirmó un RSS público general y actualizado para toda su sala de prensa|Consultar su newsroom oficial|
+|**IATA**|No se localizó un RSS general público; ofrece suscripción a novedades de prensa|Suscripción por correo y pressroom|
 |**EUROCONTROL**|Mantiene newsletters y productos de datos, pero no un RSS general claramente publicado|Newsroom y suscripciones oficiales|
-|**UK Civil Aviation Authority**|Utiliza alertas, correo y el servicio SkyWise|SuscripciÃ³n a SkyWise|
-|**AESA EspaÃ±a**|No se verificÃ³ un feed RSS general operativo para sus noticias|SecciÃ³n oficial de comunicaciÃ³n|
-|**Delta Air Lines**|News Hub activo, pero sin RSS general pÃºblico confirmado|SuscripciÃ³n y consulta del News Hub|
+|**UK Civil Aviation Authority**|Utiliza alertas, correo y el servicio SkyWise|Suscripción a SkyWise|
+|**AESA España**|No se verificó un feed RSS general operativo para sus noticias|Sección oficial de comunicación|
+|**Delta Air Lines**|News Hub activo, pero sin RSS general público confirmado|Suscripción y consulta del News Hub|
 |**easyJet**|Centro de prensa activo, pero sin RSS general verificable|Alertas y media centre|
-|**Ryanair**|Sala de prensa activa, pero sin un RSS pÃºblico general confirmado|PÃ¡gina corporativa de noticias|
+|**Ryanair**|Sala de prensa activa, pero sin un RSS público general confirmado|Página corporativa de noticias|
 
-La ausencia indicada se refiere a un **RSS general pÃºblico y verificable a 29 de julio de 2026**; algunas organizaciones ofrecen boletines, alertas, APIs comerciales o feeds internos no destinados a lectores RSS. ([OACI](https://www.icao.int/news "ICAO Newsroom"))
+La ausencia indicada se refiere a un **RSS general público y verificable a 29 de julio de 2026**; algunas organizaciones ofrecen boletines, alertas, APIs comerciales o feeds internos no destinados a lectores RSS. ([OACI](https://www.icao.int/news "ICAO Newsroom"))
 
 ---
 
@@ -632,32 +632,32 @@ La ausencia indicada se refiere a un **RSS general pÃºblico y verificable a 29
 
 Feeds adicionales de alta calidad verificados, no desarrollados para evitar duplicados:
 
-- **Airbus â€” todas las noticias y comunicados:** <https://www.airbus.com/en/generate-rss-feeds>
+- **Airbus — todas las noticias y comunicados:** <https://www.airbus.com/en/generate-rss-feeds>
 
-- **Boeing â€” todas las noticias:** <https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss>
+- **Boeing — todas las noticias:** <https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss>
 
-- **NTSB â€” comunicados de prensa:** <https://www.ntsb.gov/_layouts/feed.aspx?page=674e62a9-4f3b-4058-846b-150bc1c21aa0&pageurl=%2FPages%2FRSS-Feed-Page.aspx&web=%2F&wp=5c78a16b-edcb-475c-8a9c-93c00783cd61&xsl=1>
+- **NTSB — comunicados de prensa:** <https://www.ntsb.gov/_layouts/feed.aspx?page=674e62a9-4f3b-4058-846b-150bc1c21aa0&pageurl=%2FPages%2FRSS-Feed-Page.aspx&web=%2F&wp=5c78a16b-edcb-475c-8a9c-93c00783cd61&xsl=1>
 
-- **NTSB â€” informes publicados:** <https://www.ntsb.gov/_layouts/feed.aspx?page=674e62a9-4f3b-4058-846b-150bc1c21aa0&pageurl=%2FPages%2FRSS-Feed-Page.aspx&web=%2F&wp=4d4ae30f-92c9-4e6c-9c58-6bac99822531&xsl=1>
+- **NTSB — informes publicados:** <https://www.ntsb.gov/_layouts/feed.aspx?page=674e62a9-4f3b-4058-846b-150bc1c21aa0&pageurl=%2FPages%2FRSS-Feed-Page.aspx&web=%2F&wp=4d4ae30f-92c9-4e6c-9c58-6bac99822531&xsl=1>
 
-- **Lufthansa Group â€” canal en alemÃ¡n:** <https://manager.presspage.com/feed/deutsche-lufthansa-ag/de>
+- **Lufthansa Group — canal en alemán:** <https://manager.presspage.com/feed/deutsche-lufthansa-ag/de>
 
-## SelecciÃ³n prioritaria
+## Selección prioritaria
 
-Para una vigilancia general del sector aÃ©reo:
+Para una vigilancia general del sector aéreo:
 
-1. **EASA News** â€” regulaciÃ³n europea.
+1. **EASA News** — regulación europea.
 
-2. **FAA Press Releases** â€” regulaciÃ³n y operaciones estadounidenses.
+2. **FAA Press Releases** — regulación y operaciones estadounidenses.
 
-3. **Airbus Commercial Aircraft** â€” pedidos y entregas.
+3. **Airbus Commercial Aircraft** — pedidos y entregas.
 
-4. **Boeing Commercial Airplanes** â€” flotas y programas.
+4. **Boeing Commercial Airplanes** — flotas y programas.
 
-5. **Lufthansa Group Newsroom** â€” actividad directa de aerolÃ­neas.
+5. **Lufthansa Group Newsroom** — actividad directa de aerolíneas.
 
-6. **OAG Blog** â€” capacidad, rutas y datos.
+6. **OAG Blog** — capacidad, rutas y datos.
 
-7. **AeroTime** â€” actualidad diaria.
+7. **AeroTime** — actualidad diaria.
 
-La selecciÃ³n queda preparada para ampliarla por aerolÃ­nea, alianza aÃ©rea, paÃ­s o regiÃ³n.
+La selección queda preparada para ampliarla por aerolínea, alianza aérea, país o región.

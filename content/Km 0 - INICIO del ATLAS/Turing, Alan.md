@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:33:43.414Z
-modified: 2026-09-17T10:13:57.457Z
+modified: 2026-09-18T09:36:22.190Z
 ---
 
-#IA #Personajes #CientÃ­ficos #Notebook
+#IA #Personajes #Científicos #Notebook
 
 INDICES: [[Turing, Alan (i)]]
 
@@ -14,30 +14,30 @@ INDICES: [[Turing, Alan (i)]]
 
 ## [WIKIPEDIA: Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing?wprov=sfla1)
 
-## Â¿QuiÃ©n fue?
+## ¿Quién fue?
 
-MatemÃ¡tico y pionero de la computaciÃ³n.
+Matemático y pionero de la computación.
 
 ## Ideas importantes
 
-- [[MÃ¡quina de Turing 1]]
+- [[Máquina de Turing 1]]
 - Test de Turing
-- CriptoanÃ¡lisis
+- Criptoanálisis
 
 ## Relacionado con
 
 - [[Historia de la Inteligencia Artificial]]
-- [[ComputaciÃ³n]]
+- [[Computación]]
 - [[Segunda Guerra Mundial]]
-- [[ComputaciÃ³n]]
-- [[MÃ¡quina de Turing]]
+- [[Computación]]
+- [[Máquina de Turing]]
 - [[Historia de la Inteligencia Artificial]]
 - [[Conferencia de Dartmouth (1956)]]
 
 ## Recursos
 
-- vÃ­deo...
-- artÃ­culo...
+- vídeo...
+- artículo...
 - libro...
 
 ## Reflexiones propias

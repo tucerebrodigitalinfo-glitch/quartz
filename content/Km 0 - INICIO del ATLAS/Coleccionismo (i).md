@@ -1,92 +1,92 @@
 ---
 publish: true
 created: 2026-08-06T05:19:21.587Z
-modified: 2026-09-17T10:14:16.074Z
+modified: 2026-09-18T09:36:34.690Z
 ---
 
-#Ãndices #Aficiones
+#Índices #Aficiones
 
 ![Image](https://images.openai.com/static-rsc-4/rqxCTTu8wUwV-4cmzrr2m_va4BtNuR2XmjlB6f9eqIcIrtSsI60i3zQYzdtaHQRZ3ClMCU9oWb9cFNGaCwXsqyJXFivJXTiRqIm2p261ecMtDScxv17oyC-z1kY7eUgzXufxpktk4kj26i9TqyrWoHTuasWhMcEVhpQ-ovyIv0RCuOOLUq-9OzukxkuDg7S4?purpose=fullsize)
 
-âœ… SelecciÃ³n elaborada priorizando recursos oficiales, acadÃ©micos e institucionales siempre que ha sido posible. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Selección elaborada priorizando recursos oficiales, académicos e institucionales siempre que ha sido posible. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
 ## [WIKIPEDIA: Coleccionismo](https://es.wikipedia.org/wiki/Coleccionismo?wprov=sfla1))
 
 ## WEB
 
-- **[Smithsonian Institution](https://www.si.edu/?utm_source=chatgpt.com)** â€” InstituciÃ³n de referencia mundial con colecciones, publicaciones y recursos sobre conservaciÃ³n, patrimonio y cultura material.
+- **[Smithsonian Institution](https://www.si.edu/?utm_source=chatgpt.com)** — Institución de referencia mundial con colecciones, publicaciones y recursos sobre conservación, patrimonio y cultura material.
 
-- **[The British Museum](https://www.britishmuseum.org/?utm_source=chatgpt.com)** â€” Acceso a millones de objetos catalogados y documentaciÃ³n sobre historia del coleccionismo.
+- **[The British Museum](https://www.britishmuseum.org/?utm_source=chatgpt.com)** — Acceso a millones de objetos catalogados y documentación sobre historia del coleccionismo.
 
-- **[The Metropolitan Museum of Art (The Met)](https://www.metmuseum.org/?utm_source=chatgpt.com)** â€” Base de datos abierta con colecciones, publicaciones y estudios.
+- **[The Metropolitan Museum of Art (The Met)](https://www.metmuseum.org/?utm_source=chatgpt.com)** — Base de datos abierta con colecciones, publicaciones y estudios.
 
-- **[Victoria and Albert Museum (V\&A)](https://www.vam.ac.uk/?utm_source=chatgpt.com)** â€” Referencia internacional en artes decorativas y objetos coleccionables.
+- **[Victoria and Albert Museum (V\&A)](https://www.vam.ac.uk/?utm_source=chatgpt.com)** — Referencia internacional en artes decorativas y objetos coleccionables.
 
-- **[Library of Congress Digital Collections](https://www.loc.gov/collections?utm_source=chatgpt.com)** â€” Fondos digitales de documentos, mapas, fotografÃ­as y objetos histÃ³ricos.
+- **[Library of Congress Digital Collections](https://www.loc.gov/collections?utm_source=chatgpt.com)** — Fondos digitales de documentos, mapas, fotografías y objetos históricos.
 
-- **[Europeana](https://www.europeana.eu/?utm_source=chatgpt.com)** â€” Portal europeo que reÃºne millones de objetos digitalizados procedentes de bibliotecas y museos.
+- **[Europeana](https://www.europeana.eu/?utm_source=chatgpt.com)** — Portal europeo que reúne millones de objetos digitalizados procedentes de bibliotecas y museos.
 
-- **[Google Arts & Culture](https://artsandculture.google.com/?utm_source=chatgpt.com)** â€” Acceso a exposiciones virtuales y colecciones de instituciones culturales.
+- **[Google Arts & Culture](https://artsandculture.google.com/?utm_source=chatgpt.com)** — Acceso a exposiciones virtuales y colecciones de instituciones culturales.
 
-- **[American Numismatic Association](https://www.money.org/?utm_source=chatgpt.com)** â€” Recursos especializados sobre numismÃ¡tica y coleccionismo monetario.
+- **[American Numismatic Association](https://www.money.org/?utm_source=chatgpt.com)** — Recursos especializados sobre numismática y coleccionismo monetario.
 
-- **[American Philatelic Society](https://stamps.org/?utm_source=chatgpt.com)** â€” OrganizaciÃ³n de referencia para filatelia.
+- **[American Philatelic Society](https://stamps.org/?utm_source=chatgpt.com)** — Organización de referencia para filatelia.
 
-- **[International Council of Museums (ICOM)](https://icom.museum/?utm_source=chatgpt.com)** â€” DocumentaciÃ³n sobre conservaciÃ³n, catalogaciÃ³n y gestiÃ³n de colecciones.
+- **[International Council of Museums (ICOM)](https://icom.museum/?utm_source=chatgpt.com)** — Documentación sobre conservación, catalogación y gestión de colecciones.
 
-- **[UNESCO â€“ Patrimonio Cultural](https://www.unesco.org/?utm_source=chatgpt.com)** â€” InformaciÃ³n sobre protecciÃ³n del patrimonio cultural y bienes histÃ³ricos.
+- **[UNESCO – Patrimonio Cultural](https://www.unesco.org/?utm_source=chatgpt.com)** — Información sobre protección del patrimonio cultural y bienes históricos.
 
-- **[The Getty](https://www.getty.edu/?utm_source=chatgpt.com)** â€” InvestigaciÃ³n, conservaciÃ³n y documentaciÃ³n del patrimonio artÃ­stico.
+- **[The Getty](https://www.getty.edu/?utm_source=chatgpt.com)** — Investigación, conservación y documentación del patrimonio artístico.
 
-- **[Smithsonian Open Access](https://www.si.edu/openaccess?utm_source=chatgpt.com)** â€” Millones de imÃ¡genes y registros reutilizables para investigaciÃ³n.
+- **[Smithsonian Open Access](https://www.si.edu/openaccess?utm_source=chatgpt.com)** — Millones de imágenes y registros reutilizables para investigación.
 
-- **[The Royal Philatelic Society London](https://www.rpsl.org.uk/?utm_source=chatgpt.com)** â€” Sociedad filatÃ©lica histÃ³rica con publicaciones y biblioteca.
+- **[The Royal Philatelic Society London](https://www.rpsl.org.uk/?utm_source=chatgpt.com)** — Sociedad filatélica histórica con publicaciones y biblioteca.
 
-- **[WorldCat](https://search.worldcat.org/?utm_source=chatgpt.com)** â€” LocalizaciÃ³n internacional de libros especializados sobre cualquier rama del coleccionismo.
+- **[WorldCat](https://search.worldcat.org/?utm_source=chatgpt.com)** — Localización internacional de libros especializados sobre cualquier rama del coleccionismo.
 
 ## YOUTUBE
 
-- **[Smithsonian Channel](https://www.youtube.com/@SmithsonianChannel?utm_source=chatgpt.com)** â€” Documentales sobre patrimonio, historia y objetos histÃ³ricos.
+- **[Smithsonian Channel](https://www.youtube.com/@SmithsonianChannel?utm_source=chatgpt.com)** — Documentales sobre patrimonio, historia y objetos históricos.
 
-- **[The British Museum](https://www.youtube.com/@britishmuseum?utm_source=chatgpt.com)** â€” ConservaciÃ³n, arqueologÃ­a y colecciones.
+- **[The British Museum](https://www.youtube.com/@britishmuseum?utm_source=chatgpt.com)** — Conservación, arqueología y colecciones.
 
-- **[The Metropolitan Museum of Art](https://www.youtube.com/@metmuseum?utm_source=chatgpt.com)** â€” Conferencias y presentaciones de colecciones.
+- **[The Metropolitan Museum of Art](https://www.youtube.com/@metmuseum?utm_source=chatgpt.com)** — Conferencias y presentaciones de colecciones.
 
-- **[Victoria and Albert Museum](https://www.youtube.com/@vamuseum?utm_source=chatgpt.com)** â€” Artes decorativas y patrimonio.
+- **[Victoria and Albert Museum](https://www.youtube.com/@vamuseum?utm_source=chatgpt.com)** — Artes decorativas y patrimonio.
 
-- **[The Getty](https://www.youtube.com/@gettymuseum?utm_source=chatgpt.com)** â€” ConservaciÃ³n e historia del arte.
+- **[The Getty](https://www.youtube.com/@gettymuseum?utm_source=chatgpt.com)** — Conservación e historia del arte.
 
 ## PODCAST
 
-- **[The British Museum Podcast](https://www.britishmuseum.org/blog/podcast?utm_source=chatgpt.com)** â€” Episodios dedicados a objetos histÃ³ricos y colecciones.
+- **[The British Museum Podcast](https://www.britishmuseum.org/blog/podcast?utm_source=chatgpt.com)** — Episodios dedicados a objetos históricos y colecciones.
 
-- **[The Art Angle](https://news.artnet.com/multimedia/the-art-angle-podcast?utm_source=chatgpt.com)** â€” Mercado del arte, patrimonio y colecciones.
+- **[The Art Angle](https://news.artnet.com/multimedia/the-art-angle-podcast?utm_source=chatgpt.com)** — Mercado del arte, patrimonio y colecciones.
 
-- **[The MET Podcast](https://www.metmuseum.org/perspectives/podcasts?utm_source=chatgpt.com)** â€” Historia de las colecciones del museo.
+- **[The MET Podcast](https://www.metmuseum.org/perspectives/podcasts?utm_source=chatgpt.com)** — Historia de las colecciones del museo.
 
 ## LIBROS
 
-- **Susan M. Pearce â€“ _On Collecting_** â€” Disponible en catÃ¡logos como **[WorldCat](https://search.worldcat.org/?utm_source=chatgpt.com)**. Obra acadÃ©mica fundamental sobre teorÃ­a del coleccionismo.
+- **Susan M. Pearce – _On Collecting_** — Disponible en catálogos como **[WorldCat](https://search.worldcat.org/?utm_source=chatgpt.com)**. Obra académica fundamental sobre teoría del coleccionismo.
 
-- **Russell W. Belk â€“ _Collecting in a Consumer Society_** â€” Referencia en estudios sobre comportamiento del coleccionista.
+- **Russell W. Belk – _Collecting in a Consumer Society_** — Referencia en estudios sobre comportamiento del coleccionista.
 
-- **Werner Muensterberger â€“ _Collecting: An Unruly Passion_** â€” AnÃ¡lisis psicolÃ³gico del coleccionismo.
+- **Werner Muensterberger – _Collecting: An Unruly Passion_** — Análisis psicológico del coleccionismo.
 
-- **Jean Baudrillard â€“ _The System of Objects_** â€” Incluye una influyente reflexiÃ³n sobre el objeto coleccionable.
+- **Jean Baudrillard – _The System of Objects_** — Incluye una influyente reflexión sobre el objeto coleccionable.
 
-- **Krzysztof Pomian â€“ _Collectors and Curiosities_** â€” Historia del coleccionismo europeo desde la Edad Moderna.
+- **Krzysztof Pomian – _Collectors and Curiosities_** — Historia del coleccionismo europeo desde la Edad Moderna.
 
-- **Phillip Blom â€“ _To Have and To Hold_** â€” Historia cultural del coleccionismo.
+- **Phillip Blom – _To Have and To Hold_** — Historia cultural del coleccionismo.
 
-- **Walter Benjamin â€“ _Illuminations_** â€” Contiene el ensayo clÃ¡sico _Unpacking My Library_ sobre coleccionar libros.
+- **Walter Benjamin – _Illuminations_** — Contiene el ensayo clásico _Unpacking My Library_ sobre coleccionar libros.
 
 ## REVISTAS
 
-- **[Journal of Museum Studies](https://www.tandfonline.com/?utm_source=chatgpt.com)** â€” Estudios museolÃ³gicos.
+- **[Journal of Museum Studies](https://www.tandfonline.com/?utm_source=chatgpt.com)** — Estudios museológicos.
 
-- **[Museum International](https://onlinelibrary.wiley.com/journal/14680033?utm_source=chatgpt.com)** â€” Revista de ICOM sobre museos y patrimonio.
+- **[Museum International](https://onlinelibrary.wiley.com/journal/14680033?utm_source=chatgpt.com)** — Revista de ICOM sobre museos y patrimonio.
 
-- **[Curator: The Museum Journal](https://onlinelibrary.wiley.com/journal/21516952?utm_source=chatgpt.com)** â€” GestiÃ³n de colecciones y museos.
+- **[Curator: The Museum Journal](https://onlinelibrary.wiley.com/journal/21516952?utm_source=chatgpt.com)** — Gestión de colecciones y museos.
 
 ## MUSEOS
 
@@ -98,7 +98,7 @@ modified: 2026-09-17T10:14:16.074Z
 
 - [Smithsonian Institution](https://www.si.edu/?utm_source=chatgpt.com)
 
-- [MusÃ©e du Louvre](https://www.louvre.fr/?utm_source=chatgpt.com)
+- [Musée du Louvre](https://www.louvre.fr/?utm_source=chatgpt.com)
 
 - [Rijksmuseum](https://www.rijksmuseum.nl/?utm_source=chatgpt.com)
 
@@ -106,13 +106,13 @@ modified: 2026-09-17T10:14:16.074Z
 
 ## UNIVERSIDADES
 
-- [University of Oxford](https://www.ox.ac.uk/?utm_source=chatgpt.com) â€” InvestigaciÃ³n en patrimonio y museologÃ­a.
+- [University of Oxford](https://www.ox.ac.uk/?utm_source=chatgpt.com) — Investigación en patrimonio y museología.
 
-- [University of Leicester](https://le.ac.uk/?utm_source=chatgpt.com) â€” Referente internacional en Museum Studies.
+- [University of Leicester](https://le.ac.uk/?utm_source=chatgpt.com) — Referente internacional en Museum Studies.
 
-- [University College London (UCL)](https://www.ucl.ac.uk/?utm_source=chatgpt.com) â€” Patrimonio cultural y arqueologÃ­a.
+- [University College London (UCL)](https://www.ucl.ac.uk/?utm_source=chatgpt.com) — Patrimonio cultural y arqueología.
 
-- [University of Glasgow](https://www.gla.ac.uk/?utm_source=chatgpt.com) â€” Estudios museÃ­sticos.
+- [University of Glasgow](https://www.gla.ac.uk/?utm_source=chatgpt.com) — Estudios museísticos.
 
 ## ASOCIACIONES
 
@@ -138,9 +138,9 @@ modified: 2026-09-17T10:14:16.074Z
 
 - [Smithsonian Channel](https://www.smithsonianchannel.com/?utm_source=chatgpt.com)
 
-- [BBC Four](https://www.bbc.co.uk/bbcfour?utm_source=chatgpt.com) â€” Documentales culturales.
+- [BBC Four](https://www.bbc.co.uk/bbcfour?utm_source=chatgpt.com) — Documentales culturales.
 
-- [ARTE](https://www.arte.tv/?utm_source=chatgpt.com) â€” Patrimonio, arte e historia.
+- [ARTE](https://www.arte.tv/?utm_source=chatgpt.com) — Patrimonio, arte e historia.
 
 ## RADIO
 
@@ -160,10 +160,10 @@ modified: 2026-09-17T10:14:16.074Z
 
 ## PRENSA ESCRITA
 
-- **The Art Newspaper** â€” PublicaciÃ³n internacional especializada en patrimonio, museos y mercado del arte.
+- **The Art Newspaper** — Publicación internacional especializada en patrimonio, museos y mercado del arte.
 
-- **Apollo** â€” Revista histÃ³rica sobre arte, antigÃ¼edades y coleccionismo.
+- **Apollo** — Revista histórica sobre arte, antigüedades y coleccionismo.
 
-- **The Burlington Magazine** â€” Revista acadÃ©mica de historia del arte.
+- **The Burlington Magazine** — Revista académica de historia del arte.
 
-- **Journal of Museum Studies** â€” PublicaciÃ³n especializada en investigaciÃ³n museÃ­stica.
+- **Journal of Museum Studies** — Publicación especializada en investigación museística.

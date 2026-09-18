@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-06T05:19:53.120Z
-modified: 2026-09-17T10:14:11.988Z
+modified: 2026-09-18T09:36:31.373Z
 ---
 
-#Ãndices #InversiÃ³n
+#Índices #Inversión

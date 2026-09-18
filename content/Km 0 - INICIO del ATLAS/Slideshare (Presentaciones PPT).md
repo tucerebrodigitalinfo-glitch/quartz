@@ -1,31 +1,31 @@
 ---
 publish: true
 created: 2026-08-20T11:05:43.579Z
-modified: 2026-09-17T10:14:35.637Z
+modified: 2026-09-18T09:36:49.725Z
 ---
 
 #Repositorio #Bases #Presentaciones #PPT
 
 # [SlideShare](https://es.slideshare.net/)
 
-AquÃ­ no hay pÃ¡ginas en blanco.
+Aquí no hay páginas en blanco.
 
-Las buenas ideas no crecen en los Ã¡rboles.
+Las buenas ideas no crecen en los árboles.
 Viven en Slideshare.
 
 Todo comienzacon una diapositiva.
 
-CATEGORÃAS:
+CATEGORÍAS:
 
-### AlimentaciÃ³n
+### Alimentación
 
-### Arte y fotografÃ­a
+### Arte y fotografía
 
-### AtenciÃ³n sanitaria
+### Atención sanitaria
 
 ### Ciencias
 
-### Datos y anÃ¡lisis
+### Datos y análisis
 
 ### Deportes
 
@@ -33,13 +33,13 @@ CATEGORÃAS:
 
 ### Desarrollo personal
 
-### DiseÃ±o
+### Diseño
 
 ### Dispositivos y hardware
 
-### EconomÃ­a y finanzas
+### Economía y finanzas
 
-### EducaciÃ³n
+### Educación
 
 ### Empleo
 
@@ -49,31 +49,31 @@ CATEGORÃAS:
 
 ### Estilo de vida
 
-### Gobierno y org. sin Ã¡nimo de lucro
+### Gobierno y org. sin ánimo de lucro
 
-### IngenierÃ­a
+### Ingeniería
 
 ### Internet
 
-### Liderazgo y gestiÃ³n
+### Liderazgo y gestión
 
 ### Marketing
 
 ### Medio ambiente
 
-### MeditaciÃ³n
+### Meditación
 
 ### Motor
 
-### MÃ³vil
+### Móvil
 
-### Noticias y polÃ­tica
+### Noticias y política
 
-### Presentaciones y charlas pÃºblica
+### Presentaciones y charlas pública
 
 ### PYMES y liderazgo
 
-### Reclutamiento y RR.Â HH
+### Reclutamiento y RR. HH
 
 ### Redes sociales
 
@@ -87,7 +87,7 @@ CATEGORÃAS:
 
 ### Software
 
-### TecnologÃ­a
+### Tecnología
 
 ### Venta al por menor
 

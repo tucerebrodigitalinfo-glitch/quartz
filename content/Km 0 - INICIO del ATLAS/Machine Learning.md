@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-12T14:38:05.651Z
-modified: 2026-09-17T10:13:51.010Z
+modified: 2026-09-18T09:36:20.268Z
 ---
 
-#IA #Aprendizaje #FormaciÃ³n #Machine #Learning
+#IA #Aprendizaje #Formación #Machine #Learning
 
-### [[AI, Aprendizaje MÃ¡quina]]
+### [[AI, Aprendizaje Máquina]]
 
 [[Youtube]]
 https://youtu.be/UTkYv9-0fL8?si=ZJVX6YJfpkCUWtV0
@@ -17,7 +17,7 @@ https://youtu.be/UTkYv9-0fL8?si=ZJVX6YJfpkCUWtV0
 
 ![](Biblioteca/data/md-images/269539d6-73c9-45b6-a2fc-5ca28dbd9c6a.webp)
 ![](Biblioteca/data/md-images/b1b82924-09cb-4ac5-94bb-64069cae25b5.webp)
-Los datos etiquetados ayudan a la red a aprender los conceptos bÃ¡sicos de las tareas, mientras que los datos sin etiquetar la ayudan a generalizar el conocimiento hacia nuevos ejemplos.
+Los datos etiquetados ayudan a la red a aprender los conceptos básicos de las tareas, mientras que los datos sin etiquetar la ayudan a generalizar el conocimiento hacia nuevos ejemplos.
 
 ![](Biblioteca/data/md-images/5f55707d-4dc4-4ccc-8648-86708506de9d.webp)
 ![](Biblioteca/data/md-images/af10874a-f5a9-4995-a44b-5c500d02ad37.webp)

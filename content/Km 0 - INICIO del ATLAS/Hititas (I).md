@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-18T11:23:45.692Z
-modified: 2026-09-17T10:14:32.021Z
+modified: 2026-09-18T09:36:47.167Z
 ---
 
-#Ãndices #Civilizaciones
+#Índices #Civilizaciones
 
 ![Image](https://images.openai.com/static-rsc-4/cQ3ctlfXrnDW21vFJDyFncONcPj_0cTQ66y5rtM-R8pJnkkKT6EPGR2YppP84l1_NPArqQWssuG_rqB10-UV77vn4_U7g6PmEuW6OT5ONL7toIoVqOL4PHC1xPu7AwmbZdPlSn7KskN2uvl8ZnMVTMlN1Ws6E7zY5eYZL_hYkwXhg8c9Zms4_ephxrJ3EF-3?purpose=fullsize)
 
@@ -14,221 +14,221 @@ modified: 2026-09-17T10:14:32.021Z
 
 # HITITAS
 
-âœ… Enlaces verificados y operativos en la fecha de elaboraciÃ³n del informe. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 [Wikipedia](https://es.wikipedia.org/wiki/Hititas)
 
 # WEB
 
-[Hattusha: the Hittite Capital â€” UNESCO World Heritage Centre](https://whc.unesco.org/en/list/377/) â€“ Ficha oficial del sitio de á¸ªattuÅ¡a, capital imperial hitita, inscrito como Patrimonio Mundial. Documenta su urbanismo, fortificaciones, templos, puertas monumentales y el santuario rupestre de YazÄ±lÄ±kaya. ([UNESCO World Heritage Centre](https://whc.unesco.org/en/list/377/?utm_source=chatgpt.com "Hattusha: the Hittite Capital - UNESCO World Heritage Centre"))
+[Hattusha: the Hittite Capital — UNESCO World Heritage Centre](https://whc.unesco.org/en/list/377/) – Ficha oficial del sitio de Ḫattuša, capital imperial hitita, inscrito como Patrimonio Mundial. Documenta su urbanismo, fortificaciones, templos, puertas monumentales y el santuario rupestre de Yazılıkaya. ([UNESCO World Heritage Centre](https://whc.unesco.org/en/list/377/?utm_source=chatgpt.com "Hattusha: the Hittite Capital - UNESCO World Heritage Centre"))
 
-[á¸ªattuÅ¡a/BoÄŸazkÃ¶y â€“ Die Hauptstadt des Hethiterreiches â€” Deutsches ArchÃ¤ologisches Institut](https://www.dainst.org/forschung/projekte/noslug/2280) â€“ Proyecto arqueolÃ³gico del Deutsches ArchÃ¤ologisches Institut dedicado a la antigua capital hitita. Es una referencia fundamental para seguir la investigaciÃ³n de campo y las excavaciones en BoÄŸazkÃ¶y.
+[Ḫattuša/Boğazköy – Die Hauptstadt des Hethiterreiches — Deutsches Archäologisches Institut](https://www.dainst.org/forschung/projekte/noslug/2280) – Proyecto arqueológico del Deutsches Archäologisches Institut dedicado a la antigua capital hitita. Es una referencia fundamental para seguir la investigación de campo y las excavaciones en Boğazköy.
 
-[The Chicago Hittite Dictionary Project â€” Institute for the Study of Ancient Cultures](https://isac.uchicago.edu/research/projects/hit/chicago-hittite-dictionary-project) â€“ Proyecto lexicogrÃ¡fico de University of Chicago iniciado en 1975 para elaborar un diccionario completo de la lengua hitita. Constituye uno de los grandes instrumentos internacionales de la hititologÃ­a. ([IECA](https://isac.uchicago.edu/research/projects/hit/chicago-hittite-dictionary-project?utm_source=chatgpt.com "The Chicago Hittite Dictionary Project | Institute for the Study of Ancient Cultures"))
+[The Chicago Hittite Dictionary Project — Institute for the Study of Ancient Cultures](https://isac.uchicago.edu/research/projects/hit/chicago-hittite-dictionary-project) – Proyecto lexicográfico de University of Chicago iniciado en 1975 para elaborar un diccionario completo de la lengua hitita. Constituye uno de los grandes instrumentos internacionales de la hititología. ([IECA](https://isac.uchicago.edu/research/projects/hit/chicago-hittite-dictionary-project?utm_source=chatgpt.com "The Chicago Hittite Dictionary Project | Institute for the Study of Ancient Cultures"))
 
-[Electronic Chicago Hittite Dictionary (eCHD)](https://isac.uchicago.edu/research/projects/chicago-hittite-dictionary-project/electronic-chicago-hittite-dictionary) â€“ VersiÃ³n electrÃ³nica del Chicago Hittite Dictionary, concebida para investigaciÃ³n filolÃ³gica avanzada sobre el corpus textual hitita. ([IECA](https://isac.uchicago.edu/research/projects/chicago-hittite-dictionary-project/electronic-chicago-hittite-dictionary?utm_source=chatgpt.com "The Electronic Chicago Hittite Dictionary (eCHD) | Institute for the Study of Ancient Cultures"))
+[Electronic Chicago Hittite Dictionary (eCHD)](https://isac.uchicago.edu/research/projects/chicago-hittite-dictionary-project/electronic-chicago-hittite-dictionary) – Versión electrónica del Chicago Hittite Dictionary, concebida para investigación filológica avanzada sobre el corpus textual hitita. ([IECA](https://isac.uchicago.edu/research/projects/chicago-hittite-dictionary-project/electronic-chicago-hittite-dictionary?utm_source=chatgpt.com "The Electronic Chicago Hittite Dictionary (eCHD) | Institute for the Study of Ancient Cultures"))
 
-[Chicago Hittite Dictionary â€” Publications](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary) â€“ PÃ¡gina editorial del diccionario con volÃºmenes, fascÃ­culos, ISBN y materiales descargables. La obra estudia el vocabulario hitita en su contexto lingÃ¼Ã­stico, histÃ³rico y cultural. ([IECA](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary?utm_source=chatgpt.com "The Hittite Dictionary of the Institute for the Study of Ancient Cultures of the University of Chicago | Institute for the Study of Ancient Cultures"))
+[Chicago Hittite Dictionary — Publications](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary) – Página editorial del diccionario con volúmenes, fascículos, ISBN y materiales descargables. La obra estudia el vocabulario hitita en su contexto lingüístico, histórico y cultural. ([IECA](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary?utm_source=chatgpt.com "The Hittite Dictionary of the Institute for the Study of Ancient Cultures of the University of Chicago | Institute for the Study of Ancient Cultures"))
 
-[Chicago Hittite Dictionary Supplements](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary-supplements-chds) â€“ Serie complementaria dedicada especialmente a materiales textuales de BoÄŸazkÃ¶y. La colecciÃ³n continÃºa activa y contiene entregas publicadas hasta 2026. ([IECA](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary-supplements-chds?utm_source=chatgpt.com "Chicago Hittite Dictionary Supplements (CHDS) | Institute for the Study of Ancient Cultures"))
+[Chicago Hittite Dictionary Supplements](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary-supplements-chds) – Serie complementaria dedicada especialmente a materiales textuales de Boğazköy. La colección continúa activa y contiene entregas publicadas hasta 2026. ([IECA](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary-supplements-chds?utm_source=chatgpt.com "Chicago Hittite Dictionary Supplements (CHDS) | Institute for the Study of Ancient Cultures"))
 
-[Studying Hittite at the University of Chicago](https://isac.uchicago.edu/research/projects/hit/studying-hittite-university-chicago-0) â€“ IntroducciÃ³n institucional a los estudios de lengua, cultura y arqueologÃ­a hititas en University of Chicago, incluyendo hitita elemental y avanzado y otras lenguas anatolias antiguas. ([IECA](https://isac.uchicago.edu/research/projects/hit/studying-hittite-university-chicago-0?utm_source=chatgpt.com "Studying Hittite at the University of Chicago | Institute for the Study of Ancient Cultures"))
+[Studying Hittite at the University of Chicago](https://isac.uchicago.edu/research/projects/hit/studying-hittite-university-chicago-0) – Introducción institucional a los estudios de lengua, cultura y arqueología hititas en University of Chicago, incluyendo hitita elemental y avanzado y otras lenguas anatolias antiguas. ([IECA](https://isac.uchicago.edu/research/projects/hit/studying-hittite-university-chicago-0?utm_source=chatgpt.com "Studying Hittite at the University of Chicago | Institute for the Study of Ancient Cultures"))
 
-[Turkey â€” Institute for the Study of Ancient Cultures](https://isac.uchicago.edu/explore-oi/turkey) â€“ Recurso contextual sobre Anatolia hitita, á¸ªattuÅ¡a y el patrimonio textual. SeÃ±ala la existencia de mÃ¡s de 30.000 textos hititas conservados, aunque muchos son fragmentarios. ([IECA](https://isac.uchicago.edu/explore-oi/turkey?utm_source=chatgpt.com "Turkey | Institute for the Study of Ancient Cultures"))
+[Turkey — Institute for the Study of Ancient Cultures](https://isac.uchicago.edu/explore-oi/turkey) – Recurso contextual sobre Anatolia hitita, Ḫattuša y el patrimonio textual. Señala la existencia de más de 30.000 textos hititas conservados, aunque muchos son fragmentarios. ([IECA](https://isac.uchicago.edu/explore-oi/turkey?utm_source=chatgpt.com "Turkey | Institute for the Study of Ancient Cultures"))
 
-[Hittite â€” British Museum Collections Online](https://www.britishmuseum.org/collection/term/x13949) â€“ CatÃ¡logo institucional de objetos clasificados como hititas, con materiales procedentes de Anatolia, Carchemish y otros enclaves. ([Museo BritÃ¡nico](https://www.britishmuseum.org/collection/term/x13949?utm_source=chatgpt.com "Collections Online | British Museum"))
+[Hittite — British Museum Collections Online](https://www.britishmuseum.org/collection/term/x13949) – Catálogo institucional de objetos clasificados como hititas, con materiales procedentes de Anatolia, Carchemish y otros enclaves. ([Museo Británico](https://www.britishmuseum.org/collection/term/x13949?utm_source=chatgpt.com "Collections Online | British Museum"))
 
-[Hittite Collection Search â€” British Museum](https://www.britishmuseum.org/collection/search?keyword=hittite) â€“ Buscador especializado dentro de la colecciÃ³n del British Museum que permite localizar centenares de objetos relacionados con la cultura hitita y neohitita. ([Museo BritÃ¡nico](https://www.britishmuseum.org/collection/search?keyword=hittite\&utm_source=chatgpt.com "Collections Search | British Museum"))
+[Hittite Collection Search — British Museum](https://www.britishmuseum.org/collection/search?keyword=hittite) – Buscador especializado dentro de la colección del British Museum que permite localizar centenares de objetos relacionados con la cultura hitita y neohitita. ([Museo Británico](https://www.britishmuseum.org/collection/search?keyword=hittite\&utm_source=chatgpt.com "Collections Search | British Museum"))
 
-[Old Hittite â€” British Museum Collections Online](https://www.britishmuseum.org/collection/term/x14372) â€“ SecciÃ³n especÃ­fica dedicada al periodo antiguo hitita y a objetos clasificados dentro de esta tradiciÃ³n cultural. ([Museo BritÃ¡nico](https://www.britishmuseum.org/collection/term/x14372?utm_source=chatgpt.com "Collections Online | British Museum"))
+[Old Hittite — British Museum Collections Online](https://www.britishmuseum.org/collection/term/x14372) – Sección específica dedicada al periodo antiguo hitita y a objetos clasificados dentro de esta tradición cultural. ([Museo Británico](https://www.britishmuseum.org/collection/term/x14372?utm_source=chatgpt.com "Collections Online | British Museum"))
 
-[Neo-Hittite â€” British Museum Collections Online](https://www.britishmuseum.org/collection/term/x14335) â€“ CatÃ¡logo dedicado a los estados y manifestaciones culturales denominados neohititas posteriores al colapso del imperio hacia finales de la Edad del Bronce. ([Museo BritÃ¡nico](https://www.britishmuseum.org/collection/term/x14335?utm_source=chatgpt.com "Collections Online | British Museum"))
+[Neo-Hittite — British Museum Collections Online](https://www.britishmuseum.org/collection/term/x14335) – Catálogo dedicado a los estados y manifestaciones culturales denominados neohititas posteriores al colapso del imperio hacia finales de la Edad del Bronce. ([Museo Británico](https://www.britishmuseum.org/collection/term/x14335?utm_source=chatgpt.com "Collections Online | British Museum"))
 
-[Anatolian Studies â€” Institute for the Study of Ancient Cultures](https://isac.uchicago.edu/research/catalog-publications) â€“ El catÃ¡logo temÃ¡tico de ISAC reÃºne publicaciones sobre civilizaciÃ³n hitita, lenguas y textos, arqueologÃ­a y estudios anatolios. ([IECA](https://isac.uchicago.edu/research/catalog-publications?utm_source=chatgpt.com "Catalog of Publications | Institute for the Study of Ancient Cultures"))
+[Anatolian Studies — Institute for the Study of Ancient Cultures](https://isac.uchicago.edu/research/catalog-publications) – El catálogo temático de ISAC reúne publicaciones sobre civilización hitita, lenguas y textos, arqueología y estudios anatolios. ([IECA](https://isac.uchicago.edu/research/catalog-publications?utm_source=chatgpt.com "Catalog of Publications | Institute for the Study of Ancient Cultures"))
 
-[Hethitologie Portal Mainz](https://www.hethport.uni-wuerzburg.de/) â€“ Infraestructura digital acadÃ©mica de referencia para la hititologÃ­a, con bases de datos, bibliografÃ­as, corpus y proyectos especializados relacionados con los textos de Anatolia antigua.
+[Hethitologie Portal Mainz](https://www.hethport.uni-wuerzburg.de/) – Infraestructura digital académica de referencia para la hititología, con bases de datos, bibliografías, corpus y proyectos especializados relacionados con los textos de Anatolia antigua.
 
-[Hittite Online â€” Linguistics Research Center, The University of Texas at Austin](https://lrc.la.utexas.edu/eieol/hitol) â€“ Material acadÃ©mico para el estudio de la lengua hitita basado en textos y anÃ¡lisis lingÃ¼Ã­sticos; especialmente Ãºtil como introducciÃ³n al hitita dentro de las lenguas indoeuropeas.
+[Hittite Online — Linguistics Research Center, The University of Texas at Austin](https://lrc.la.utexas.edu/eieol/hitol) – Material académico para el estudio de la lengua hitita basado en textos y análisis lingüísticos; especialmente útil como introducción al hitita dentro de las lenguas indoeuropeas.
 
-[BoÄŸazkÃ¶y-HattuÅŸa Ã–renyeri â€” T.C. KÃ¼ltÃ¼r ve Turizm BakanlÄ±ÄŸÄ±](https://muze.gov.tr/) â€“ Portal oficial del Ministerio turco responsable de los sitios arqueolÃ³gicos y museos estatales; constituye la fuente administrativa principal para informaciÃ³n de visita sobre á¸ªattuÅ¡a y los museos asociados.
+[Boğazköy-Hattuşa Örenyeri — T.C. Kültür ve Turizm Bakanlığı](https://muze.gov.tr/) – Portal oficial del Ministerio turco responsable de los sitios arqueológicos y museos estatales; constituye la fuente administrativa principal para información de visita sobre Ḫattuša y los museos asociados.
 
-[Ã‡orum MÃ¼zesi](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=COR01) â€“ Museo arqueolÃ³gico regional cuya colecciÃ³n integra materiales procedentes de AlacahÃ¶yÃ¼k, BoÄŸazkÃ¶y, OrtakÃ¶y, Eskiyapar y otros yacimientos; contiene una importante representaciÃ³n del periodo hitita. ([T.C. KÃ¼ltÃ¼r ve Turizm BakanlÄ±ÄŸÄ±](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=COR01\&utm_source=chatgpt.com "Ã‡orum MÃ¼zesi"))
+[Çorum Müzesi](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=COR01) – Museo arqueológico regional cuya colección integra materiales procedentes de Alacahöyük, Boğazköy, Ortaköy, Eskiyapar y otros yacimientos; contiene una importante representación del periodo hitita. ([T.C. Kültür ve Turizm Bakanlığı](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=COR01\&utm_source=chatgpt.com "Çorum Müzesi"))
 
-[BoÄŸazkÃ¶y MÃ¼zesi](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=BOG01) â€“ Museo situado en BoÄŸazkale que conserva y expone materiales excavados en á¸ªattuÅ¡a, incluida la Esfinge de BoÄŸazkÃ¶y restituida desde BerlÃ­n. ([T.C. KÃ¼ltÃ¼r ve Turizm BakanlÄ±ÄŸÄ±](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=BOG01\&utm_source=chatgpt.com "BoÄŸazkÃ¶y MÃ¼zesi"))
+[Boğazköy Müzesi](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=BOG01) – Museo situado en Boğazkale que conserva y expone materiales excavados en Ḫattuša, incluida la Esfinge de Boğazköy restituida desde Berlín. ([T.C. Kültür ve Turizm Bakanlığı](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=BOG01\&utm_source=chatgpt.com "Boğazköy Müzesi"))
 
-[British Institute at Ankara](https://biaa.ac.uk/) â€“ Instituto britÃ¡nico de investigaciÃ³n especializado en TurquÃ­a y la regiÃ³n del mar Negro, con una larga trayectoria en arqueologÃ­a e historia de Anatolia y editor de _Anatolian Studies_.
+[British Institute at Ankara](https://biaa.ac.uk/) – Instituto británico de investigación especializado en Turquía y la región del mar Negro, con una larga trayectoria en arqueología e historia de Anatolia y editor de _Anatolian Studies_.
 
-[Ancient Near East Today â€” ASOR](https://www.asor.org/anetoday/) â€“ PublicaciÃ³n digital de American Society of Overseas Research que difunde investigaciÃ³n sobre arqueologÃ­a e historia del PrÃ³ximo Oriente, incluida Anatolia de la Edad del Bronce.
+[Ancient Near East Today — ASOR](https://www.asor.org/anetoday/) – Publicación digital de American Society of Overseas Research que difunde investigación sobre arqueología e historia del Próximo Oriente, incluida Anatolia de la Edad del Bronce.
 
 # YOUTUBE
 
-[Institute for the Study of Ancient Cultures â€” YouTube](https://www.youtube.com/@ISAC_UChicago) â€“ Canal institucional de University of Chicago con conferencias y contenidos acadÃ©micos sobre el antiguo PrÃ³ximo Oriente; su archivo incluye materiales relevantes para Anatolia, lenguas antiguas y estudios hititas.
+[Institute for the Study of Ancient Cultures — YouTube](https://www.youtube.com/@ISAC_UChicago) – Canal institucional de University of Chicago con conferencias y contenidos académicos sobre el antiguo Próximo Oriente; su archivo incluye materiales relevantes para Anatolia, lenguas antiguas y estudios hititas.
 
-[The British Museum â€” YouTube](https://www.youtube.com/@britishmuseum) â€“ Canal oficial del museo, Ãºtil para contextualizar el arte y la arqueologÃ­a de Anatolia y el PrÃ³ximo Oriente a travÃ©s de sus colecciones y actividades acadÃ©micas.
+[The British Museum — YouTube](https://www.youtube.com/@britishmuseum) – Canal oficial del museo, útil para contextualizar el arte y la arqueología de Anatolia y el Próximo Oriente a través de sus colecciones y actividades académicas.
 
-[Penn Museum â€” YouTube](https://www.youtube.com/@PennMuseum) â€“ Canal institucional del University of Pennsylvania Museum of Archaeology and Anthropology con conferencias sobre arqueologÃ­a, lenguas y civilizaciones del PrÃ³ximo Oriente.
+[Penn Museum — YouTube](https://www.youtube.com/@PennMuseum) – Canal institucional del University of Pennsylvania Museum of Archaeology and Anthropology con conferencias sobre arqueología, lenguas y civilizaciones del Próximo Oriente.
 
-[Deutsches ArchÃ¤ologisches Institut â€” YouTube](https://www.youtube.com/@DAIglobal) â€“ Canal del organismo arqueolÃ³gico alemÃ¡n responsable de investigaciones de larga duraciÃ³n en á¸ªattuÅ¡a/BoÄŸazkÃ¶y y otros yacimientos internacionales.
+[Deutsches Archäologisches Institut — YouTube](https://www.youtube.com/@DAIglobal) – Canal del organismo arqueológico alemán responsable de investigaciones de larga duración en Ḫattuša/Boğazköy y otros yacimientos internacionales.
 
-[American Society of Overseas Research â€” YouTube](https://www.youtube.com/@ASOResearch) â€“ Canal acadÃ©mico centrado en arqueologÃ­a e historia del PrÃ³ximo Oriente y MediterrÃ¡neo oriental, marco indispensable para contextualizar el mundo hitita.
+[American Society of Overseas Research — YouTube](https://www.youtube.com/@ASOResearch) – Canal académico centrado en arqueología e historia del Próximo Oriente y Mediterráneo oriental, marco indispensable para contextualizar el mundo hitita.
 
 # PODCAST
 
-[BBC In Our Time](https://www.bbc.co.uk/programmes/b006qykl) â€“ Archivo de uno de los principales programas radiofÃ³nicos britÃ¡nicos dedicados a historia, ciencia y cultura, con episodios acadÃ©micos sobre civilizaciones y problemas histÃ³ricos del mundo antiguo.
+[BBC In Our Time](https://www.bbc.co.uk/programmes/b006qykl) – Archivo de uno de los principales programas radiofónicos británicos dedicados a historia, ciencia y cultura, con episodios académicos sobre civilizaciones y problemas históricos del mundo antiguo.
 
-[The Ancients â€” History Hit](https://www.historyhit.com/podcast/the-ancients/) â€“ Podcast especializado en historia antigua que aborda arqueologÃ­a, imperios, conflictos y sociedades del MediterrÃ¡neo y PrÃ³ximo Oriente mediante entrevistas con investigadores.
+[The Ancients — History Hit](https://www.historyhit.com/podcast/the-ancients/) – Podcast especializado en historia antigua que aborda arqueología, imperios, conflictos y sociedades del Mediterráneo y Próximo Oriente mediante entrevistas con investigadores.
 
-[Ancient Near East Today â€” ASOR](https://www.asor.org/anetoday/) â€“ Plataforma de divulgaciÃ³n acadÃ©mica de ASOR; complementa los formatos escritos y audiovisuales de la organizaciÃ³n para el estudio del antiguo PrÃ³ximo Oriente.
+[Ancient Near East Today — ASOR](https://www.asor.org/anetoday/) – Plataforma de divulgación académica de ASOR; complementa los formatos escritos y audiovisuales de la organización para el estudio del antiguo Próximo Oriente.
 
 # LIBROS
 
-[The Kingdom of the Hittites â€” Trevor Bryce](https://academic.oup.com/book/36172) â€“ Estudio de referencia sobre la historia polÃ­tica del reino y el Imperio hitita, desde su formaciÃ³n hasta su desapariciÃ³n. Oxford University Press, ediciÃ³n revisada de 2005. ([OUP Academic](https://academic.oup.com/book/36172?utm_source=chatgpt.com "The Kingdom of the Hittites | Oxford Academic"))
+[The Kingdom of the Hittites — Trevor Bryce](https://academic.oup.com/book/36172) – Estudio de referencia sobre la historia política del reino y el Imperio hitita, desde su formación hasta su desaparición. Oxford University Press, edición revisada de 2005. ([OUP Academic](https://academic.oup.com/book/36172?utm_source=chatgpt.com "The Kingdom of the Hittites | Oxford Academic"))
 
-[Life and Society in the Hittite World â€” Trevor Bryce](https://academic.oup.com/book/46997) â€“ InvestigaciÃ³n centrada en sociedad, costumbres, instituciones y vida cotidiana de los hititas, concebida como complemento social y cultural a la historia polÃ­tica del autor. Oxford University Press. ([OUP Academic](https://academic.oup.com/book/46997?utm_source=chatgpt.com "Life and Society in the Hittite World | Oxford Academic"))
+[Life and Society in the Hittite World — Trevor Bryce](https://academic.oup.com/book/46997) – Investigación centrada en sociedad, costumbres, instituciones y vida cotidiana de los hititas, concebida como complemento social y cultural a la historia política del autor. Oxford University Press. ([OUP Academic](https://academic.oup.com/book/46997?utm_source=chatgpt.com "Life and Society in the Hittite World | Oxford Academic"))
 
-[The Hittites and Their World â€” Billie Jean Collins](https://www.sbl-site.org/) â€“ IntroducciÃ³n acadÃ©mica a la historia, religiÃ³n, sociedad y cultura hititas, especialmente Ãºtil para obtener una visiÃ³n integrada de las fuentes arqueolÃ³gicas y textuales.
+[The Hittites and Their World — Billie Jean Collins](https://www.sbl-site.org/) – Introducción académica a la historia, religión, sociedad y cultura hititas, especialmente útil para obtener una visión integrada de las fuentes arqueológicas y textuales.
 
-[A Grammar of the Hittite Language â€” Harry A. Hoffner Jr. y H. Craig Melchert](https://www.eisenbrauns.org/) â€“ GramÃ¡tica acadÃ©mica fundamental para el estudio filolÃ³gico del hitita, elaborada por dos especialistas centrales de la disciplina.
+[A Grammar of the Hittite Language — Harry A. Hoffner Jr. y H. Craig Melchert](https://www.eisenbrauns.org/) – Gramática académica fundamental para el estudio filológico del hitita, elaborada por dos especialistas centrales de la disciplina.
 
-[Hittite Myths â€” Harry A. Hoffner Jr.](https://www.sbl-site.org/) â€“ EdiciÃ³n y traducciÃ³n de textos mitolÃ³gicos hititas, herramienta esencial para investigar religiÃ³n, tradiciÃ³n narrativa y transmisiÃ³n cultural entre Anatolia, Siria y Mesopotamia.
+[Hittite Myths — Harry A. Hoffner Jr.](https://www.sbl-site.org/) – Edición y traducción de textos mitológicos hititas, herramienta esencial para investigar religión, tradición narrativa y transmisión cultural entre Anatolia, Siria y Mesopotamia.
 
-[Hittite Diplomatic Texts â€” Gary Beckman](https://www.sbl-site.org/) â€“ ColecciÃ³n traducida de tratados y otros documentos diplomÃ¡ticos hititas, fundamental para estudiar relaciones internacionales y prÃ¡ctica jurÃ­dica en el PrÃ³ximo Oriente de la Edad del Bronce.
+[Hittite Diplomatic Texts — Gary Beckman](https://www.sbl-site.org/) – Colección traducida de tratados y otros documentos diplomáticos hititas, fundamental para estudiar relaciones internacionales y práctica jurídica en el Próximo Oriente de la Edad del Bronce.
 
-[The Hittites: And Their Contemporaries in Asia Minor â€” J. G. Macqueen](https://www.thamesandhudson.com/) â€“ SÃ­ntesis arqueolÃ³gica e histÃ³rica clÃ¡sica sobre los hititas y las culturas contemporÃ¡neas de Anatolia.
+[The Hittites: And Their Contemporaries in Asia Minor — J. G. Macqueen](https://www.thamesandhudson.com/) – Síntesis arqueológica e histórica clásica sobre los hititas y las culturas contemporáneas de Anatolia.
 
-[Warriors of Anatolia: A Concise History of the Hittites â€” Trevor Bryce](https://www.bloomsbury.com/) â€“ SÃ­ntesis histÃ³rica de Trevor Bryce sobre el desarrollo del reino hitita, su polÃ­tica exterior, guerras, monarquÃ­a y desapariciÃ³n.
+[Warriors of Anatolia: A Concise History of the Hittites — Trevor Bryce](https://www.bloomsbury.com/) – Síntesis histórica de Trevor Bryce sobre el desarrollo del reino hitita, su política exterior, guerras, monarquía y desaparición.
 
-[The Hittite Dictionary of the Oriental Institute of the University of Chicago](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary) â€“ Obra lexicogrÃ¡fica colectiva dirigida sucesivamente por Hans G. GÃ¼terbock, Harry A. Hoffner, Theo P. J. van den Hout y Petra M. Goedegebuure; herramienta fundamental para la traducciÃ³n e interpretaciÃ³n del hitita. ([IECA](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary?utm_source=chatgpt.com "The Hittite Dictionary of the Institute for the Study of Ancient Cultures of the University of Chicago | Institute for the Study of Ancient Cultures"))
+[The Hittite Dictionary of the Oriental Institute of the University of Chicago](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary) – Obra lexicográfica colectiva dirigida sucesivamente por Hans G. Güterbock, Harry A. Hoffner, Theo P. J. van den Hout y Petra M. Goedegebuure; herramienta fundamental para la traducción e interpretación del hitita. ([IECA](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary?utm_source=chatgpt.com "The Hittite Dictionary of the Institute for the Study of Ancient Cultures of the University of Chicago | Institute for the Study of Ancient Cultures"))
 
-[Chicago Hittite Dictionary Supplements](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary-supplements-chds) â€“ Serie cientÃ­fica complementaria con ediciones y transliteraciones de materiales hititas, incluidos fragmentos inÃ©ditos de BoÄŸazkÃ¶y; mantiene publicaciones recientes en 2024, 2025 y 2026. ([IECA](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary-supplements-chds?utm_source=chatgpt.com "Chicago Hittite Dictionary Supplements (CHDS) | Institute for the Study of Ancient Cultures"))
+[Chicago Hittite Dictionary Supplements](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary-supplements-chds) – Serie científica complementaria con ediciones y transliteraciones de materiales hititas, incluidos fragmentos inéditos de Boğazköy; mantiene publicaciones recientes en 2024, 2025 y 2026. ([IECA](https://isac.uchicago.edu/research/publications/chicago-hittite-dictionary-supplements-chds?utm_source=chatgpt.com "Chicago Hittite Dictionary Supplements (CHDS) | Institute for the Study of Ancient Cultures"))
 
 # REVISTAS
 
-[Anatolian Studies](https://www.cambridge.org/core/journals/anatolian-studies) â€“ Revista cientÃ­fica arbitrada del British Institute at Ankara dedicada a arqueologÃ­a, historia y patrimonio de TurquÃ­a y el entorno del mar Negro. Publica regularmente investigaciÃ³n hititolÃ³gica. ([Cambridge University Press](https://www.cambridge.org/core/journals/anatolian-studies/information/about-this-journal?utm_source=chatgpt.com "About this journal"))
+[Anatolian Studies](https://www.cambridge.org/core/journals/anatolian-studies) – Revista científica arbitrada del British Institute at Ankara dedicada a arqueología, historia y patrimonio de Turquía y el entorno del mar Negro. Publica regularmente investigación hititológica. ([Cambridge University Press](https://www.cambridge.org/core/journals/anatolian-studies/information/about-this-journal?utm_source=chatgpt.com "About this journal"))
 
-[Journal of Cuneiform Studies](https://www.asor.org/jcs/) â€“ Revista acadÃ©mica de ASOR dedicada a la investigaciÃ³n de textos cuneiformes y culturas que utilizaron este sistema de escritura; relevante para el estudio filolÃ³gico de los archivos hititas.
+[Journal of Cuneiform Studies](https://www.asor.org/jcs/) – Revista académica de ASOR dedicada a la investigación de textos cuneiformes y culturas que utilizaron este sistema de escritura; relevante para el estudio filológico de los archivos hititas.
 
-[Altorientalische Forschungen](https://www.degruyter.com/journal/key/aofo/html) â€“ Revista acadÃ©mica internacional especializada en historia, filologÃ­a y arqueologÃ­a del antiguo PrÃ³ximo Oriente, con presencia habitual de investigaciÃ³n sobre Anatolia hitita.
+[Altorientalische Forschungen](https://www.degruyter.com/journal/key/aofo/html) – Revista académica internacional especializada en historia, filología y arqueología del antiguo Próximo Oriente, con presencia habitual de investigación sobre Anatolia hitita.
 
-[Zeitschrift fÃ¼r Assyriologie und Vorderasiatische ArchÃ¤ologie](https://www.degruyter.com/journal/key/zava/html) â€“ PublicaciÃ³n histÃ³rica de estudios del antiguo PrÃ³ximo Oriente, particularmente relevante para cuneiforme, filologÃ­a y relaciones entre Anatolia y Mesopotamia.
+[Zeitschrift für Assyriologie und Vorderasiatische Archäologie](https://www.degruyter.com/journal/key/zava/html) – Publicación histórica de estudios del antiguo Próximo Oriente, particularmente relevante para cuneiforme, filología y relaciones entre Anatolia y Mesopotamia.
 
-[Anatolica](https://www.nino-leiden.nl/publication/anatolica) â€“ Revista del Nederlands Instituut voor het Nabije Oosten dedicada a Anatolia y regiones relacionadas, con artÃ­culos arqueolÃ³gicos e histÃ³ricos sobre la Edad del Bronce.
+[Anatolica](https://www.nino-leiden.nl/publication/anatolica) – Revista del Nederlands Instituut voor het Nabije Oosten dedicada a Anatolia y regiones relacionadas, con artículos arqueológicos e históricos sobre la Edad del Bronce.
 
-[Belleten](https://belleten.gov.tr/) â€“ Revista cientÃ­fica de TÃ¼rk Tarih Kurumu que publica investigaciÃ³n histÃ³rica y arqueolÃ³gica sobre TurquÃ­a y Anatolia, incluyendo trabajos relacionados con los hititas.
+[Belleten](https://belleten.gov.tr/) – Revista científica de Türk Tarih Kurumu que publica investigación histórica y arqueológica sobre Turquía y Anatolia, incluyendo trabajos relacionados con los hititas.
 
-[Near Eastern Archaeology](https://www.asor.org/near-eastern-archaeology/) â€“ Revista de ASOR dedicada a la arqueologÃ­a del PrÃ³ximo Oriente, adecuada para contextualizar los hallazgos hititas dentro de las culturas contemporÃ¡neas.
+[Near Eastern Archaeology](https://www.asor.org/near-eastern-archaeology/) – Revista de ASOR dedicada a la arqueología del Próximo Oriente, adecuada para contextualizar los hallazgos hititas dentro de las culturas contemporáneas.
 
 # MUSEOS
 
-[BoÄŸazkÃ¶y MÃ¼zesi](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=BOG01) â€“ Museo local directamente vinculado con á¸ªattuÅ¡a. Expone objetos recuperados en las excavaciones de la capital hitita y las dos esfinges de BoÄŸazkÃ¶y reunificadas desde 2011. ([T.C. KÃ¼ltÃ¼r ve Turizm BakanlÄ±ÄŸÄ±](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=BOG01\&utm_source=chatgpt.com "BoÄŸazkÃ¶y MÃ¼zesi"))
+[Boğazköy Müzesi](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=BOG01) – Museo local directamente vinculado con Ḫattuša. Expone objetos recuperados en las excavaciones de la capital hitita y las dos esfinges de Boğazköy reunificadas desde 2011. ([T.C. Kültür ve Turizm Bakanlığı](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=BOG01\&utm_source=chatgpt.com "Boğazköy Müzesi"))
 
-[Ã‡orum MÃ¼zesi](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=COR01) â€“ Museo regional esencial para conocer la arqueologÃ­a del nÃºcleo territorial hitita, con materiales procedentes de varios de los principales yacimientos de la provincia de Ã‡orum. ([T.C. KÃ¼ltÃ¼r ve Turizm BakanlÄ±ÄŸÄ±](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=COR01\&utm_source=chatgpt.com "Ã‡orum MÃ¼zesi"))
+[Çorum Müzesi](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=COR01) – Museo regional esencial para conocer la arqueología del núcleo territorial hitita, con materiales procedentes de varios de los principales yacimientos de la provincia de Çorum. ([T.C. Kültür ve Turizm Bakanlığı](https://muze.gov.tr/muze-detay?DistId=MRK\&SectionId=COR01\&utm_source=chatgpt.com "Çorum Müzesi"))
 
-[Anadolu Medeniyetleri MÃ¼zesi](https://muze.gov.tr/) â€“ Museum of Anatolian Civilizations de Ankara; instituciÃ³n fundamental para el estudio material de las civilizaciones de Anatolia, con una de las colecciones hititas mÃ¡s importantes de TurquÃ­a.
+[Anadolu Medeniyetleri Müzesi](https://muze.gov.tr/) – Museum of Anatolian Civilizations de Ankara; institución fundamental para el estudio material de las civilizaciones de Anatolia, con una de las colecciones hititas más importantes de Turquía.
 
-[AlacahÃ¶yÃ¼k MÃ¼zesi](https://muze.gov.tr/) â€“ Museo asociado al importante yacimiento de AlacahÃ¶yÃ¼k, donde se conservan materiales de distintas fases de la prehistoria y Edad del Bronce anatolias, incluido el periodo hitita.
+[Alacahöyük Müzesi](https://muze.gov.tr/) – Museo asociado al importante yacimiento de Alacahöyük, donde se conservan materiales de distintas fases de la prehistoria y Edad del Bronce anatolias, incluido el periodo hitita.
 
-[British Museum](https://www.britishmuseum.org/collection/term/x13949) â€“ Conserva una extensa colecciÃ³n de objetos hititas y neohititas, particularmente relevante para Carchemish y las relaciones culturales entre Anatolia y Siria. Su catÃ¡logo registra centenares de piezas relacionadas. ([Museo BritÃ¡nico](https://www.britishmuseum.org/collection/search?keyword=hittite\&utm_source=chatgpt.com "Collections Search | British Museum"))
+[British Museum](https://www.britishmuseum.org/collection/term/x13949) – Conserva una extensa colección de objetos hititas y neohititas, particularmente relevante para Carchemish y las relaciones culturales entre Anatolia y Siria. Su catálogo registra centenares de piezas relacionadas. ([Museo Británico](https://www.britishmuseum.org/collection/search?keyword=hittite\&utm_source=chatgpt.com "Collections Search | British Museum"))
 
-[The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection) â€“ Sus colecciones de arte del antiguo PrÃ³ximo Oriente incluyen materiales anatolios e hititas y ofrecen fichas catalogrÃ¡ficas digitales para investigaciÃ³n.
+[The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection) – Sus colecciones de arte del antiguo Próximo Oriente incluyen materiales anatolios e hititas y ofrecen fichas catalográficas digitales para investigación.
 
-[Penn Museum](https://www.penn.museum/) â€“ Museo universitario con importantes colecciones arqueolÃ³gicas del PrÃ³ximo Oriente y recursos cientÃ­ficos Ãºtiles para contextualizar la Anatolia hitita.
+[Penn Museum](https://www.penn.museum/) – Museo universitario con importantes colecciones arqueológicas del Próximo Oriente y recursos científicos útiles para contextualizar la Anatolia hitita.
 
-[MusÃ©e du Louvre](https://www.louvre.fr/) â€“ Sus departamentos de antigÃ¼edades orientales conservan materiales de Anatolia y del Ã¡mbito sirio-anatolio relacionados con las culturas hitita y neohitita.
+[Musée du Louvre](https://www.louvre.fr/) – Sus departamentos de antigüedades orientales conservan materiales de Anatolia y del ámbito sirio-anatolio relacionados con las culturas hitita y neohitita.
 
-[Institute for the Study of Ancient Cultures Museum](https://isac.uchicago.edu/museum-exhibits) â€“ Museo de University of Chicago integrado en uno de los centros mundiales de investigaciÃ³n sobre el antiguo PrÃ³ximo Oriente y estrechamente relacionado con el Chicago Hittite Dictionary Project.
+[Institute for the Study of Ancient Cultures Museum](https://isac.uchicago.edu/museum-exhibits) – Museo de University of Chicago integrado en uno de los centros mundiales de investigación sobre el antiguo Próximo Oriente y estrechamente relacionado con el Chicago Hittite Dictionary Project.
 
 # UNIVERSIDADES
 
-[University of Chicago â€” Hittite Studies](https://isac.uchicago.edu/research/projects/hit/studying-hittite-university-chicago-0) â€“ Uno de los centros internacionales mÃ¡s importantes para la lengua y cultura hititas. Ofrece formaciÃ³n en hitita elemental y avanzado, luvita jeroglÃ­fico y arqueologÃ­a de Anatolia y Siria. ([IECA](https://isac.uchicago.edu/research/projects/hit/studying-hittite-university-chicago-0?utm_source=chatgpt.com "Studying Hittite at the University of Chicago | Institute for the Study of Ancient Cultures"))
+[University of Chicago — Hittite Studies](https://isac.uchicago.edu/research/projects/hit/studying-hittite-university-chicago-0) – Uno de los centros internacionales más importantes para la lengua y cultura hititas. Ofrece formación en hitita elemental y avanzado, luvita jeroglífico y arqueología de Anatolia y Siria. ([IECA](https://isac.uchicago.edu/research/projects/hit/studying-hittite-university-chicago-0?utm_source=chatgpt.com "Studying Hittite at the University of Chicago | Institute for the Study of Ancient Cultures"))
 
-[University of WÃ¼rzburg â€” Hethitologie](https://www.uni-wuerzburg.de/) â€“ Universidad vinculada a proyectos digitales especializados en hititologÃ­a y a la infraestructura del Hethitologie Portal, fundamental para la investigaciÃ³n filolÃ³gica contemporÃ¡nea.
+[University of Würzburg — Hethitologie](https://www.uni-wuerzburg.de/) – Universidad vinculada a proyectos digitales especializados en hititología y a la infraestructura del Hethitologie Portal, fundamental para la investigación filológica contemporánea.
 
-[Ankara Ãœniversitesi](https://www.ankara.edu.tr/) â€“ Universidad turca con una larga tradiciÃ³n de investigaciÃ³n en lenguas y culturas de Anatolia antigua y formaciÃ³n especializada relacionada con la hititologÃ­a.
+[Ankara Üniversitesi](https://www.ankara.edu.tr/) – Universidad turca con una larga tradición de investigación en lenguas y culturas de Anatolia antigua y formación especializada relacionada con la hititología.
 
-[Ä°stanbul Ãœniversitesi](https://www.istanbul.edu.tr/) â€“ InstituciÃ³n histÃ³rica de la investigaciÃ³n arqueolÃ³gica y filolÃ³gica turca, con actividad acadÃ©mica relacionada con Anatolia antigua y los estudios hititas.
+[İstanbul Üniversitesi](https://www.istanbul.edu.tr/) – Institución histórica de la investigación arqueológica y filológica turca, con actividad académica relacionada con Anatolia antigua y los estudios hititas.
 
-[Leiden University](https://www.universiteitleiden.nl/) â€“ Centro internacional destacado en lenguas indoeuropeas y anatolias antiguas, vinculado a proyectos de corpus y lexicografÃ­a hitita.
+[Leiden University](https://www.universiteitleiden.nl/) – Centro internacional destacado en lenguas indoeuropeas y anatolias antiguas, vinculado a proyectos de corpus y lexicografía hitita.
 
-[Sapienza UniversitÃ  di Roma](https://www.uniroma1.it/) â€“ Universidad con una extensa tradiciÃ³n en estudios del antiguo PrÃ³ximo Oriente, filologÃ­a anatolia y arqueologÃ­a de Anatolia y Siria.
+[Sapienza Università di Roma](https://www.uniroma1.it/) – Universidad con una extensa tradición en estudios del antiguo Próximo Oriente, filología anatolia y arqueología de Anatolia y Siria.
 
-[The University of Texas at Austin â€” Linguistics Research Center](https://lrc.la.utexas.edu/eieol/hitol) â€“ Centro que mantiene _Hittite Online_, recurso universitario para estudiar la lengua mediante textos comentados y anÃ¡lisis gramatical.
+[The University of Texas at Austin — Linguistics Research Center](https://lrc.la.utexas.edu/eieol/hitol) – Centro que mantiene _Hittite Online_, recurso universitario para estudiar la lengua mediante textos comentados y análisis gramatical.
 
-[University of Oxford](https://www.ox.ac.uk/) â€“ Centro de investigaciÃ³n sobre arqueologÃ­a, historia y lenguas del antiguo PrÃ³ximo Oriente; Oxford University Press mantiene ademÃ¡s una bibliografÃ­a fundamental sobre los hititas.
+[University of Oxford](https://www.ox.ac.uk/) – Centro de investigación sobre arqueología, historia y lenguas del antiguo Próximo Oriente; Oxford University Press mantiene además una bibliografía fundamental sobre los hititas.
 
 # ASOCIACIONES
 
-[American Society of Overseas Research](https://www.asor.org/) â€“ Sociedad cientÃ­fica internacional dedicada a la historia y arqueologÃ­a del PrÃ³ximo Oriente y MediterrÃ¡neo oriental; edita _Journal of Cuneiform Studies_ y _Near Eastern Archaeology_.
+[American Society of Overseas Research](https://www.asor.org/) – Sociedad científica internacional dedicada a la historia y arqueología del Próximo Oriente y Mediterráneo oriental; edita _Journal of Cuneiform Studies_ y _Near Eastern Archaeology_.
 
-[International Association for Assyriology](https://iaassyriology.com/) â€“ AsociaciÃ³n internacional de especialistas en las civilizaciones cuneiformes del antiguo PrÃ³ximo Oriente. Su Ã¡mbito acadÃ©mico incluye los textos hititas escritos en cuneiforme.
+[International Association for Assyriology](https://iaassyriology.com/) – Asociación internacional de especialistas en las civilizaciones cuneiformes del antiguo Próximo Oriente. Su ámbito académico incluye los textos hititas escritos en cuneiforme.
 
-[British Institute at Ankara](https://biaa.ac.uk/) â€“ OrganizaciÃ³n cientÃ­fica britÃ¡nica especializada en TurquÃ­a y el mar Negro que fomenta investigaciÃ³n arqueolÃ³gica, histÃ³rica y patrimonial y publica _Anatolian Studies_.
+[British Institute at Ankara](https://biaa.ac.uk/) – Organización científica británica especializada en Turquía y el mar Negro que fomenta investigación arqueológica, histórica y patrimonial y publica _Anatolian Studies_.
 
-[Deutsches ArchÃ¤ologisches Institut](https://www.dainst.org/) â€“ InstituciÃ³n arqueolÃ³gica alemana responsable de uno de los programas de investigaciÃ³n mÃ¡s importantes y duraderos sobre á¸ªattuÅ¡a/BoÄŸazkÃ¶y.
+[Deutsches Archäologisches Institut](https://www.dainst.org/) – Institución arqueológica alemana responsable de uno de los programas de investigación más importantes y duraderos sobre Ḫattuša/Boğazköy.
 
-[TÃ¼rk Tarih Kurumu](https://www.ttk.gov.tr/) â€“ Turkish Historical Society; organismo acadÃ©mico dedicado a la investigaciÃ³n histÃ³rica y arqueolÃ³gica de TurquÃ­a, con publicaciones relevantes para la historia de Anatolia.
+[Türk Tarih Kurumu](https://www.ttk.gov.tr/) – Turkish Historical Society; organismo académico dedicado a la investigación histórica y arqueológica de Turquía, con publicaciones relevantes para la historia de Anatolia.
 
 # NEWSLETTER
 
-[British Institute at Ankara â€” Newsletter](https://biaa.ac.uk/) â€“ InformaciÃ³n periÃ³dica sobre proyectos, excavaciones, publicaciones, becas y actividades acadÃ©micas relacionadas con TurquÃ­a y Anatolia.
+[British Institute at Ankara — Newsletter](https://biaa.ac.uk/) – Información periódica sobre proyectos, excavaciones, publicaciones, becas y actividades académicas relacionadas con Turquía y Anatolia.
 
-[American Society of Overseas Research â€” News](https://www.asor.org/news/) â€“ Actualizaciones institucionales sobre arqueologÃ­a, investigaciÃ³n, publicaciones y reuniones cientÃ­ficas del antiguo PrÃ³ximo Oriente.
+[American Society of Overseas Research — News](https://www.asor.org/news/) – Actualizaciones institucionales sobre arqueología, investigación, publicaciones y reuniones científicas del antiguo Próximo Oriente.
 
-[Institute for the Study of Ancient Cultures â€” News](https://isac.uchicago.edu/news) â€“ Canal institucional para novedades de investigaciÃ³n, publicaciones, exposiciones y proyectos, incluido el entorno acadÃ©mico responsable del Chicago Hittite Dictionary.
+[Institute for the Study of Ancient Cultures — News](https://isac.uchicago.edu/news) – Canal institucional para novedades de investigación, publicaciones, exposiciones y proyectos, incluido el entorno académico responsable del Chicago Hittite Dictionary.
 
-[Deutsches ArchÃ¤ologisches Institut â€” Aktuelles](https://www.dainst.org/) â€“ InformaciÃ³n institucional sobre excavaciones, descubrimientos y proyectos arqueolÃ³gicos internacionales, incluido el programa de investigaciÃ³n de á¸ªattuÅ¡a.
+[Deutsches Archäologisches Institut — Aktuelles](https://www.dainst.org/) – Información institucional sobre excavaciones, descubrimientos y proyectos arqueológicos internacionales, incluido el programa de investigación de Ḫattuša.
 
 # TV
 
-[TRT Belgesel](https://www.trtbelgesel.com.tr/) â€“ Canal documental pÃºblico turco que constituye una fuente audiovisual especialmente pertinente para arqueologÃ­a, patrimonio y civilizaciones antiguas de Anatolia.
+[TRT Belgesel](https://www.trtbelgesel.com.tr/) – Canal documental público turco que constituye una fuente audiovisual especialmente pertinente para arqueología, patrimonio y civilizaciones antiguas de Anatolia.
 
-[ARTE](https://www.arte.tv/) â€“ Canal cultural franco-alemÃ¡n con producciÃ³n documental de arqueologÃ­a, historia antigua y PrÃ³ximo Oriente.
+[ARTE](https://www.arte.tv/) – Canal cultural franco-alemán con producción documental de arqueología, historia antigua y Próximo Oriente.
 
-[BBC](https://www.bbc.co.uk/) â€“ Servicio pÃºblico britÃ¡nico con producciÃ³n histÃ³rica y arqueolÃ³gica de referencia y un amplio archivo de programas sobre civilizaciones antiguas.
+[BBC](https://www.bbc.co.uk/) – Servicio público británico con producción histórica y arqueológica de referencia y un amplio archivo de programas sobre civilizaciones antiguas.
 
-[Deutsche Welle](https://www.dw.com/) â€“ Medio pÃºblico internacional alemÃ¡n que publica documentales y reportajes culturales y arqueolÃ³gicos, incluidos contenidos sobre TurquÃ­a y patrimonio anatolio.
+[Deutsche Welle](https://www.dw.com/) – Medio público internacional alemán que publica documentales y reportajes culturales y arqueológicos, incluidos contenidos sobre Turquía y patrimonio anatolio.
 
-[TRT World](https://www.trtworld.com/) â€“ Servicio internacional de TÃ¼rkiye Radyo Televizyon Kurumu con cobertura de arqueologÃ­a, patrimonio y nuevos descubrimientos realizados en TurquÃ­a.
+[TRT World](https://www.trtworld.com/) – Servicio internacional de Türkiye Radyo Televizyon Kurumu con cobertura de arqueología, patrimonio y nuevos descubrimientos realizados en Turquía.
 
 # RADIO
 
-[BBC Radio 4 â€” In Our Time](https://www.bbc.co.uk/programmes/b006qykl) â€“ Programa radiofÃ³nico de referencia para historia intelectual y antigua basado en conversaciones con especialistas universitarios.
+[BBC Radio 4 — In Our Time](https://www.bbc.co.uk/programmes/b006qykl) – Programa radiofónico de referencia para historia intelectual y antigua basado en conversaciones con especialistas universitarios.
 
-[France Culture](https://www.radiofrance.fr/franceculture) â€“ Emisora cultural pÃºblica francesa con programas especializados en historia, arqueologÃ­a y civilizaciones antiguas.
+[France Culture](https://www.radiofrance.fr/franceculture) – Emisora cultural pública francesa con programas especializados en historia, arqueología y civilizaciones antiguas.
 
-[Deutschlandfunk](https://www.deutschlandfunk.de/) â€“ Radio pÃºblica alemana con cobertura cientÃ­fica y cultural, incluida arqueologÃ­a del PrÃ³ximo Oriente y proyectos alemanes en TurquÃ­a.
+[Deutschlandfunk](https://www.deutschlandfunk.de/) – Radio pública alemana con cobertura científica y cultural, incluida arqueología del Próximo Oriente y proyectos alemanes en Turquía.
 
-[ABC Radio National](https://www.abc.net.au/radionational) â€“ Radio pÃºblica australiana con programaciÃ³n acadÃ©mica e histÃ³rica sobre arqueologÃ­a y mundo antiguo.
+[ABC Radio National](https://www.abc.net.au/radionational) – Radio pública australiana con programación académica e histórica sobre arqueología y mundo antiguo.
 
 # PRENSA ONLINE
 
-[Ancient Near East Today](https://www.asor.org/anetoday/) â€“ PublicaciÃ³n digital acadÃ©mica de ASOR que acerca al pÃºblico investigaciones recientes sobre arqueologÃ­a, historia, textos y patrimonio del PrÃ³ximo Oriente.
+[Ancient Near East Today](https://www.asor.org/anetoday/) – Publicación digital académica de ASOR que acerca al público investigaciones recientes sobre arqueología, historia, textos y patrimonio del Próximo Oriente.
 
-[Archaeology Magazine](https://www.archaeology.org/) â€“ PublicaciÃ³n del Archaeological Institute of America que informa sobre descubrimientos y proyectos arqueolÃ³gicos internacionales, incluidos Anatolia y la Edad del Bronce.
+[Archaeology Magazine](https://www.archaeology.org/) – Publicación del Archaeological Institute of America que informa sobre descubrimientos y proyectos arqueológicos internacionales, incluidos Anatolia y la Edad del Bronce.
 
-[Current World Archaeology](https://www.world-archaeology.com/) â€“ PublicaciÃ³n especializada en arqueologÃ­a mundial con reportajes sobre yacimientos, excavaciones y culturas antiguas.
+[Current World Archaeology](https://www.world-archaeology.com/) – Publicación especializada en arqueología mundial con reportajes sobre yacimientos, excavaciones y culturas antiguas.
 
-[Smithsonian Magazine â€” Archaeology](https://www.smithsonianmag.com/category/archaeology/) â€“ SecciÃ³n arqueolÃ³gica de _Smithsonian Magazine_, Ãºtil para seguir descubrimientos y debates de alcance internacional.
+[Smithsonian Magazine — Archaeology](https://www.smithsonianmag.com/category/archaeology/) – Sección arqueológica de _Smithsonian Magazine_, útil para seguir descubrimientos y debates de alcance internacional.
 
-[Anadolu AjansÄ±](https://www.aa.com.tr/) â€“ Agencia de noticias turca que proporciona cobertura frecuente de excavaciones, museos y descubrimientos arqueolÃ³gicos en á¸ªattuÅ¡a, AlacahÃ¶yÃ¼k y otros enclaves de Anatolia.
+[Anadolu Ajansı](https://www.aa.com.tr/) – Agencia de noticias turca que proporciona cobertura frecuente de excavaciones, museos y descubrimientos arqueológicos en Ḫattuša, Alacahöyük y otros enclaves de Anatolia.
 
-[HÃ¼rriyet Daily News](https://www.hurriyetdailynews.com/) â€“ PublicaciÃ³n turca en inglÃ©s con cobertura habitual de arqueologÃ­a y patrimonio cultural de TurquÃ­a, incluidos hallazgos relacionados con los hititas.
+[Hürriyet Daily News](https://www.hurriyetdailynews.com/) – Publicación turca en inglés con cobertura habitual de arqueología y patrimonio cultural de Turquía, incluidos hallazgos relacionados con los hititas.
 
-[Daily Sabah](https://www.dailysabah.com/) â€“ Diario turco en inglÃ©s con una secciÃ³n cultural que informa sobre yacimientos y descubrimientos arqueolÃ³gicos de Anatolia; su archivo incluye cobertura de á¸ªattuÅ¡a y YazÄ±lÄ±kaya.
+[Daily Sabah](https://www.dailysabah.com/) – Diario turco en inglés con una sección cultural que informa sobre yacimientos y descubrimientos arqueológicos de Anatolia; su archivo incluye cobertura de Ḫattuša y Yazılıkaya.
 
-[History Today](https://www.historytoday.com/) â€“ Revista histÃ³rica con contenidos de investigaciÃ³n y divulgaciÃ³n sobre sociedades antiguas, Oriente PrÃ³ximo y arqueologÃ­a.
+[History Today](https://www.historytoday.com/) – Revista histórica con contenidos de investigación y divulgación sobre sociedades antiguas, Oriente Próximo y arqueología.
 
 # PRENSA ESCRITA
 
-[Archaeology](https://www.archaeology.org/) â€“ Revista impresa del Archaeological Institute of America dedicada a descubrimientos, excavaciones y anÃ¡lisis arqueolÃ³gicos internacionales.
+[Archaeology](https://www.archaeology.org/) – Revista impresa del Archaeological Institute of America dedicada a descubrimientos, excavaciones y análisis arqueológicos internacionales.
 
-[Current World Archaeology](https://www.world-archaeology.com/) â€“ Revista britÃ¡nica especializada en arqueologÃ­a mundial, con atenciÃ³n a TurquÃ­a, Anatolia y el PrÃ³ximo Oriente.
+[Current World Archaeology](https://www.world-archaeology.com/) – Revista británica especializada en arqueología mundial, con atención a Turquía, Anatolia y el Próximo Oriente.
 
-[Anatolian Studies](https://www.cambridge.org/core/journals/anatolian-studies) â€“ PublicaciÃ³n acadÃ©mica anual impresa y digital del British Institute at Ankara; una de las cabeceras fundamentales para la investigaciÃ³n cientÃ­fica sobre Anatolia. ([Cambridge University Press](https://www.cambridge.org/core/journals/anatolian-studies/information/about-this-journal?utm_source=chatgpt.com "About this journal"))
+[Anatolian Studies](https://www.cambridge.org/core/journals/anatolian-studies) – Publicación académica anual impresa y digital del British Institute at Ankara; una de las cabeceras fundamentales para la investigación científica sobre Anatolia. ([Cambridge University Press](https://www.cambridge.org/core/journals/anatolian-studies/information/about-this-journal?utm_source=chatgpt.com "About this journal"))
 
-[Near Eastern Archaeology](https://www.asor.org/near-eastern-archaeology/) â€“ Revista impresa y digital de ASOR dedicada a la arqueologÃ­a y cultura material del antiguo PrÃ³ximo Oriente.
+[Near Eastern Archaeology](https://www.asor.org/near-eastern-archaeology/) – Revista impresa y digital de ASOR dedicada a la arqueología y cultura material del antiguo Próximo Oriente.
 
-[Journal of Cuneiform Studies](https://www.asor.org/jcs/) â€“ Revista acadÃ©mica especializada en documentos cuneiformes; esencial para seguir investigaciÃ³n filolÃ³gica que afecta tambiÃ©n al corpus hitita.
+[Journal of Cuneiform Studies](https://www.asor.org/jcs/) – Revista académica especializada en documentos cuneiformes; esencial para seguir investigación filológica que afecta también al corpus hitita.
 
-[Belleten](https://belleten.gov.tr/) â€“ Revista acadÃ©mica de TÃ¼rk Tarih Kurumu dedicada a historia y arqueologÃ­a, con una larga tradiciÃ³n de publicaciÃ³n de investigaciones sobre la Anatolia antigua.
+[Belleten](https://belleten.gov.tr/) – Revista académica de Türk Tarih Kurumu dedicada a historia y arqueología, con una larga tradición de publicación de investigaciones sobre la Anatolia antigua.
 
-[Zeitschrift fÃ¼r Assyriologie und Vorderasiatische ArchÃ¤ologie](https://www.degruyter.com/journal/key/zava/html) â€“ Revista cientÃ­fica histÃ³rica dedicada a filologÃ­a, historia y arqueologÃ­a del PrÃ³ximo Oriente antiguo, relevante para los estudios hititas y anatolios.
+[Zeitschrift für Assyriologie und Vorderasiatische Archäologie](https://www.degruyter.com/journal/key/zava/html) – Revista científica histórica dedicada a filología, historia y arqueología del Próximo Oriente antiguo, relevante para los estudios hititas y anatolios.

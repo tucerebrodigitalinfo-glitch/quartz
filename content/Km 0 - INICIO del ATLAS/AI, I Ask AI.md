@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-28T15:50:17.130Z
-modified: 2026-09-17T10:13:58.748Z
+modified: 2026-09-18T09:36:22.742Z
 ---
 
 #IA #LLM
@@ -10,8 +10,8 @@ modified: 2026-09-17T10:13:58.748Z
 
 ## [I ASK AI](https://iask.ai)
 
-AcadÃ©mico,Â preciso yÂ con autoridad.
+Académico, preciso y con autoridad.
 
-El motorÂ **de bÃºsqueda Ask AI**Â diseÃ±ado paraÂ estudiantes e investigadores
+El motor **de búsqueda Ask AI** diseñado para estudiantes e investigadores
 
-Haz una pregunta sobre los deberes o cualquier otra cosa a la IA y recibe una respuesta factual de las fuentes mÃ¡s autorizadas del mundo.
+Haz una pregunta sobre los deberes o cualquier otra cosa a la IA y recibe una respuesta factual de las fuentes más autorizadas del mundo.

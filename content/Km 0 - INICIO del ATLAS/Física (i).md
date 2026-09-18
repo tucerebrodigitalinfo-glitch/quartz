@@ -1,387 +1,387 @@
 ---
 publish: true
 created: 2026-08-06T05:19:39.946Z
-modified: 2026-09-17T10:14:12.933Z
+modified: 2026-09-18T09:36:32.194Z
 ---
 
-#Ãndices
+#Índices
 ![[Biblioteca/FISICA.jpg]]
-âœ… Enlaces comprobados y operativos el 16 de julio de 2026. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Enlaces comprobados y operativos el 16 de julio de 2026. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-## ðŸŒ Las 30 mejores webs
+## 🌍 Las 30 mejores webs
 
-- [arXiv Physics](https://arxiv.org/archive/physics) â€” Repositorio abierto de prepublicaciones en todas las Ã¡reas de la fÃ­sica.
+- [arXiv Physics](https://arxiv.org/archive/physics) — Repositorio abierto de prepublicaciones en todas las áreas de la física.
 
-- [HyperPhysics](https://hyperphysics.phy-astr.gsu.edu/) â€” Mapas conceptuales y explicaciones concisas de principios fÃ­sicos.
+- [HyperPhysics](https://hyperphysics.phy-astr.gsu.edu/) — Mapas conceptuales y explicaciones concisas de principios físicos.
 
-- [Physics LibreTexts](https://phys.libretexts.org/) â€” Biblioteca abierta de manuales, ejercicios y materiales universitarios.
+- [Physics LibreTexts](https://phys.libretexts.org/) — Biblioteca abierta de manuales, ejercicios y materiales universitarios.
 
-- [OpenStax Science](https://openstax.org/subjects/science) â€” Libros gratuitos de fÃ­sica general, universitaria y moderna.
+- [OpenStax Science](https://openstax.org/subjects/science) — Libros gratuitos de física general, universitaria y moderna.
 
-- [PhET Interactive Simulations: Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics\&type=html) â€” Simulaciones interactivas gratuitas para aprender fÃ­sica experimentalmente.
+- [PhET Interactive Simulations: Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics\&type=html) — Simulaciones interactivas gratuitas para aprender física experimentalmente.
 
-- [CERN](https://home.cern/) â€” Portal oficial del principal laboratorio internacional de fÃ­sica de partÃ­culas.
+- [CERN](https://home.cern/) — Portal oficial del principal laboratorio internacional de física de partículas.
 
-- [LIGO Laboratory](https://www.ligo.caltech.edu/) â€” InvestigaciÃ³n, datos y divulgaciÃ³n sobre ondas gravitacionales.
+- [LIGO Laboratory](https://www.ligo.caltech.edu/) — Investigación, datos y divulgación sobre ondas gravitacionales.
 
-- [SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/) â€” Recursos sobre aceleradores, fotÃ³nica, partÃ­culas y ciencia de materiales.
+- [SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/) — Recursos sobre aceleradores, fotónica, partículas y ciencia de materiales.
 
-- [Fermilab](https://www.fnal.gov/) â€” InvestigaciÃ³n internacional en partÃ­culas, neutrinos, cosmologÃ­a y aceleradores.
+- [Fermilab](https://www.fnal.gov/) — Investigación internacional en partículas, neutrinos, cosmología y aceleradores.
 
-- [DESY](https://www.desy.de/) â€” Centro alemÃ¡n especializado en aceleradores, fotones y fÃ­sica de partÃ­culas.
+- [DESY](https://www.desy.de/) — Centro alemán especializado en aceleradores, fotones y física de partículas.
 
-- [KEK](https://www.kek.jp/en/) â€” OrganizaciÃ³n japonesa de investigaciÃ³n con aceleradores de alta energÃ­a.
+- [KEK](https://www.kek.jp/en/) — Organización japonesa de investigación con aceleradores de alta energía.
 
-- [Brookhaven National Laboratory](https://www.bnl.gov/world/) â€” InvestigaciÃ³n en fÃ­sica nuclear, materiales, energÃ­a y computaciÃ³n cientÃ­fica.
+- [Brookhaven National Laboratory](https://www.bnl.gov/world/) — Investigación en física nuclear, materiales, energía y computación científica.
 
-- [NIST Physical Measurement Laboratory](https://www.nist.gov/pml) â€” Patrones, mediciones y datos de referencia para las ciencias fÃ­sicas.
+- [NIST Physical Measurement Laboratory](https://www.nist.gov/pml) — Patrones, mediciones y datos de referencia para las ciencias físicas.
 
-- [International Centre for Theoretical Physics](https://www.ictp.it/) â€” FormaciÃ³n e investigaciÃ³n internacional en fÃ­sica teÃ³rica y matemÃ¡tica.
+- [International Centre for Theoretical Physics](https://www.ictp.it/) — Formación e investigación internacional en física teórica y matemática.
 
-- [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/) â€” Conferencias, cursos y publicaciones sobre fÃ­sica teÃ³rica fundamental.
+- [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/) — Conferencias, cursos y publicaciones sobre física teórica fundamental.
 
-- [Physics Stack Exchange](https://physics.stackexchange.com/) â€” Comunidad especializada de preguntas y respuestas sobre problemas fÃ­sicos.
+- [Physics Stack Exchange](https://physics.stackexchange.com/) — Comunidad especializada de preguntas y respuestas sobre problemas físicos.
 
-- [The Physics Classroom](https://www.physicsclassroom.com/) â€” Lecciones, animaciones y ejercicios para fundamentos de fÃ­sica.
+- [The Physics Classroom](https://www.physicsclassroom.com/) — Lecciones, animaciones y ejercicios para fundamentos de física.
 
-- [Wolfram Demonstrations Project: Physics](https://demonstrations.wolfram.com/topic/physics) â€” Modelos interactivos de fenÃ³menos fÃ­sicos y matemÃ¡ticos.
+- [Wolfram Demonstrations Project: Physics](https://demonstrations.wolfram.com/topic/physics) — Modelos interactivos de fenómenos físicos y matemáticos.
 
-- [NASA Universe](https://science.nasa.gov/universe/) â€” InformaciÃ³n cientÃ­fica sobre cosmologÃ­a, gravedad, estrellas y astrofÃ­sica.
+- [NASA Universe](https://science.nasa.gov/universe/) — Información científica sobre cosmología, gravedad, estrellas y astrofísica.
 
-- [ESA Science & Exploration](https://www.esa.int/Science_Exploration) â€” Misiones y resultados europeos de fÃ­sica espacial y astronomÃ­a.
+- [ESA Science & Exploration](https://www.esa.int/Science_Exploration) — Misiones y resultados europeos de física espacial y astronomía.
 
-- [Institute of Physics, Chinese Academy of Sciences](https://english.iop.cas.cn/) â€” InvestigaciÃ³n avanzada china en materia condensada, Ã³ptica y fÃ­sica cuÃ¡ntica.
+- [Institute of Physics, Chinese Academy of Sciences](https://english.iop.cas.cn/) — Investigación avanzada china en materia condensada, óptica y física cuántica.
 
-- [TIFR Department of High Energy Physics](https://www.tifr.res.in/dhep/) â€” InvestigaciÃ³n india en partÃ­culas, astropartÃ­culas y fÃ­sica teÃ³rica.
+- [TIFR Department of High Energy Physics](https://www.tifr.res.in/dhep/) — Investigación india en partículas, astropartículas y física teórica.
 
-- [National Institute for Theoretical and Computational Sciences](https://nithecs.ac.za/) â€” Red africana de fÃ­sica teÃ³rica, modelizaciÃ³n y computaciÃ³n cientÃ­fica.
+- [National Institute for Theoretical and Computational Sciences](https://nithecs.ac.za/) — Red africana de física teórica, modelización y computación científica.
 
-- [Centro Brasileiro de Pesquisas FÃ­sicas](https://www.gov.br/cbpf/pt-br) â€” Instituto brasileÃ±o dedicado a investigaciÃ³n y formaciÃ³n en fÃ­sica.
+- [Centro Brasileiro de Pesquisas Físicas](https://www.gov.br/cbpf/pt-br) — Instituto brasileño dedicado a investigación y formación en física.
 
-- [Instituto Balseiro](https://www.ib.edu.ar/) â€” Centro argentino de referencia en fÃ­sica, ingenierÃ­a nuclear y tecnologÃ­a.
+- [Instituto Balseiro](https://www.ib.edu.ar/) — Centro argentino de referencia en física, ingeniería nuclear y tecnología.
 
-- [Centro Latino-Americano de FÃ­sica](https://claffisica.org.br/) â€” CooperaciÃ³n, formaciÃ³n y desarrollo de la fÃ­sica en AmÃ©rica Latina.
+- [Centro Latino-Americano de Física](https://claffisica.org.br/) — Cooperación, formación y desarrollo de la física en América Latina.
 
-- [ARC Centre of Excellence for Dark Matter Particle Physics](https://www.centredarkmatter.org/) â€” InvestigaciÃ³n australiana sobre materia oscura y fÃ­sica de astropartÃ­culas.
+- [ARC Centre of Excellence for Dark Matter Particle Physics](https://www.centredarkmatter.org/) — Investigación australiana sobre materia oscura y física de astropartículas.
 
-- [Kavli Institute for Particle Astrophysics and Cosmology](https://kipac.stanford.edu/) â€” Estudios sobre cosmologÃ­a, gravedad, galaxias y partÃ­culas cÃ³smicas.
+- [Kavli Institute for Particle Astrophysics and Cosmology](https://kipac.stanford.edu/) — Estudios sobre cosmología, gravedad, galaxias y partículas cósmicas.
 
-- [Kavli IPMU](https://www.ipmu.jp/) â€” Instituto japonÃ©s sobre matemÃ¡ticas, universo temprano y fÃ­sica fundamental.
+- [Kavli IPMU](https://www.ipmu.jp/) — Instituto japonés sobre matemáticas, universo temprano y física fundamental.
 
-- [CNRS NuclÃ©aire & Particules](https://www.in2p3.cnrs.fr/en) â€” Red francesa de fÃ­sica nuclear, partÃ­culas y astropartÃ­culas.
+- [CNRS Nucléaire & Particules](https://www.in2p3.cnrs.fr/en) — Red francesa de física nuclear, partículas y astropartículas.
 
-## ðŸŽ¥ Los 10 mejores canales de YouTube
+## 🎥 Los 10 mejores canales de YouTube
 
-- [minutephysics](https://www.youtube.com/@MinutePhysics) â€” Animaciones breves que explican conceptos fÃ­sicos fundamentales.
+- [minutephysics](https://www.youtube.com/@MinutePhysics) — Animaciones breves que explican conceptos físicos fundamentales.
 
-- [PBS Space Time](https://www.youtube.com/@pbsspacetime) â€” CosmologÃ­a, relatividad, fÃ­sica cuÃ¡ntica y naturaleza del espacio-tiempo.
+- [PBS Space Time](https://www.youtube.com/@pbsspacetime) — Cosmología, relatividad, física cuántica y naturaleza del espacio-tiempo.
 
-- [Sixty Symbols](https://www.youtube.com/@sixtysymbols) â€” Conversaciones con investigadores sobre sÃ­mbolos, teorÃ­as y experimentos.
+- [Sixty Symbols](https://www.youtube.com/@sixtysymbols) — Conversaciones con investigadores sobre símbolos, teorías y experimentos.
 
-- [Physics Girl](https://www.youtube.com/@physicsgirl) â€” Experimentos, demostraciones y divulgaciÃ³n visual de fenÃ³menos fÃ­sicos.
+- [Physics Girl](https://www.youtube.com/@physicsgirl) — Experimentos, demostraciones y divulgación visual de fenómenos físicos.
 
-- [ScienceClic English](https://www.youtube.com/@ScienceClicEN) â€” Animaciones rigurosas sobre relatividad, gravedad y fÃ­sica cuÃ¡ntica.
+- [ScienceClic English](https://www.youtube.com/@ScienceClicEN) — Animaciones rigurosas sobre relatividad, gravedad y física cuántica.
 
-- [QuantumFracture](https://www.youtube.com/@QuantumFracture) â€” DivulgaciÃ³n en espaÃ±ol sobre fÃ­sica moderna y fundamentos cientÃ­ficos.
+- [QuantumFracture](https://www.youtube.com/@QuantumFracture) — Divulgación en español sobre física moderna y fundamentos científicos.
 
-- [Tibees](https://www.youtube.com/@tibees) â€” Problemas, historia y enseÃ±anza de fÃ­sica y matemÃ¡ticas.
+- [Tibees](https://www.youtube.com/@tibees) — Problemas, historia y enseñanza de física y matemáticas.
 
-- [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder) â€” AnÃ¡lisis crÃ­tico de investigaciones y noticias de fÃ­sica contemporÃ¡nea.
+- [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder) — Análisis crítico de investigaciones y noticias de física contemporánea.
 
-- [Looking Glass Universe](https://www.youtube.com/@LookingGlassUniverse) â€” Explicaciones accesibles de fÃ­sica cuÃ¡ntica, simetrÃ­as y partÃ­culas.
+- [Looking Glass Universe](https://www.youtube.com/@LookingGlassUniverse) — Explicaciones accesibles de física cuántica, simetrías y partículas.
 
-- [FloatHeadPhysics](https://www.youtube.com/@Mahesh_Shenoy) â€” Lecciones visuales de mecÃ¡nica, electromagnetismo y fÃ­sica moderna.
+- [FloatHeadPhysics](https://www.youtube.com/@Mahesh_Shenoy) — Lecciones visuales de mecánica, electromagnetismo y física moderna.
 
-## ðŸŽ™ Los 10 mejores podcasts
+## 🎙 Los 10 mejores podcasts
 
-- [Physics World Weekly Podcast](https://podcasts.apple.com/us/podcast/physics-world-weekly-podcast/id1400686733) â€” Entrevistas y noticias semanales sobre investigaciÃ³n en fÃ­sica.
+- [Physics World Weekly Podcast](https://podcasts.apple.com/us/podcast/physics-world-weekly-podcast/id1400686733) — Entrevistas y noticias semanales sobre investigación en física.
 
-- [People Doing Physics](https://people-doing-physics.captivate.fm/) â€” Conversaciones sobre las trayectorias personales y profesionales de fÃ­sicos.
+- [People Doing Physics](https://people-doing-physics.captivate.fm/) — Conversaciones sobre las trayectorias personales y profesionales de físicos.
 
-- [Why This Universe?](https://whythisuniverse.buzzsprout.com/) â€” Explicaciones accesibles de cosmologÃ­a, partÃ­culas y grandes preguntas fÃ­sicas.
+- [Why This Universe?](https://whythisuniverse.buzzsprout.com/) — Explicaciones accesibles de cosmología, partículas y grandes preguntas físicas.
 
-- [Daniel and Kellyâ€™s Extraordinary Universe](https://www.iheart.com/podcast/105-daniel-and-kellys-extraord-29862087/) â€” DiÃ¡logos divulgativos sobre el universo y las leyes fundamentales.
+- [Daniel and Kelly’s Extraordinary Universe](https://www.iheart.com/podcast/105-daniel-and-kellys-extraord-29862087/) — Diálogos divulgativos sobre el universo y las leyes fundamentales.
 
-- [Sean Carrollâ€™s Mindscape](https://preposterousuniverse.com/podcast/) â€” Entrevistas extensas sobre fÃ­sica, cosmologÃ­a, filosofÃ­a y ciencia.
+- [Sean Carroll’s Mindscape](https://preposterousuniverse.com/podcast/) — Entrevistas extensas sobre física, cosmología, filosofía y ciencia.
 
-- [The Astrophysics Podcast](https://rss.com/podcasts/astrophysics/) â€” Episodios especializados sobre investigaciones recientes en astrofÃ­sica.
+- [The Astrophysics Podcast](https://rss.com/podcasts/astrophysics/) — Episodios especializados sobre investigaciones recientes en astrofísica.
 
-- [The Quark Side](https://podcasts.apple.com/us/podcast/the-quark-side-quantum-physics-podcast/id1874948322) â€” Conversaciones centradas en fÃ­sica cuÃ¡ntica y tecnologÃ­as emergentes.
+- [The Quark Side](https://podcasts.apple.com/us/podcast/the-quark-side-quantum-physics-podcast/id1874948322) — Conversaciones centradas en física cuántica y tecnologías emergentes.
 
-- [The Cosmic Savannah](https://thecosmicsavannah.com/) â€” AstronomÃ­a y astrofÃ­sica desde Ãfrica y el hemisferio austral.
+- [The Cosmic Savannah](https://thecosmicsavannah.com/) — Astronomía y astrofísica desde África y el hemisferio austral.
 
-- [Space Nuts](https://spacenutspodcast.com/) â€” Actualidad y preguntas del pÃºblico sobre astronomÃ­a, espacio y cosmologÃ­a.
+- [Space Nuts](https://spacenutspodcast.com/) — Actualidad y preguntas del público sobre astronomía, espacio y cosmología.
 
-- [The Jodcast](https://www.jodcast.net/) â€” Noticias, entrevistas y observaciones producidas por radioastrÃ³nomos.
+- [The Jodcast](https://www.jodcast.net/) — Noticias, entrevistas y observaciones producidas por radioastrónomos.
 
-## ðŸ“š Los 20 mejores libros
+## 📚 Los 20 mejores libros
 
-- [The Feynman Lectures on Physics â€” Richard P. Feynman, Robert B. Leighton y Matthew Sands](https://www.feynmanlectures.caltech.edu/) â€” Curso clÃ¡sico que conecta intuiciÃ³n fÃ­sica, experimentos y formalismo.
+- [The Feynman Lectures on Physics — Richard P. Feynman, Robert B. Leighton y Matthew Sands](https://www.feynmanlectures.caltech.edu/) — Curso clásico que conecta intuición física, experimentos y formalismo.
 
-- [University Physics with Modern Physics â€” Hugh D. Young y Roger A. Freedman](https://www.pearson.com/en-us/subject-catalog/p/university-physics-with-modern-physics/P200000012703/9780135342282) â€” Manual universitario completo con problemas y aplicaciones.
+- [University Physics with Modern Physics — Hugh D. Young y Roger A. Freedman](https://www.pearson.com/en-us/subject-catalog/p/university-physics-with-modern-physics/P200000012703/9780135342282) — Manual universitario completo con problemas y aplicaciones.
 
-- [Fundamentals of Physics â€” David Halliday, Robert Resnick y Jearl Walker](https://www.wiley.com/en-us/Fundamentals%2Bof%2BPhysics%2C%2B12th%2BEdition-p-9781119801122) â€” IntroducciÃ³n amplia a mecÃ¡nica, ondas, termodinÃ¡mica y fÃ­sica moderna.
+- [Fundamentals of Physics — David Halliday, Robert Resnick y Jearl Walker](https://www.wiley.com/en-us/Fundamentals%2Bof%2BPhysics%2C%2B12th%2BEdition-p-9781119801122) — Introducción amplia a mecánica, ondas, termodinámica y física moderna.
 
-- [Classical Mechanics â€” John R. Taylor](https://mitpress.mit.edu/9781891389221/classical-mechanics/) â€” PresentaciÃ³n pedagÃ³gica de la mecÃ¡nica newtoniana, lagrangiana y hamiltoniana.
+- [Classical Mechanics — John R. Taylor](https://mitpress.mit.edu/9781891389221/classical-mechanics/) — Presentación pedagógica de la mecánica newtoniana, lagrangiana y hamiltoniana.
 
-- [Classical Mechanics â€” Herbert Goldstein, Charles P. Poole y John L. Safko](https://www.pearson.com/en-us/subject-catalog/p/classical-mechanics/P200000006871/9780201657029) â€” Tratado avanzado de referencia sobre mecÃ¡nica analÃ­tica.
+- [Classical Mechanics — Herbert Goldstein, Charles P. Poole y John L. Safko](https://www.pearson.com/en-us/subject-catalog/p/classical-mechanics/P200000006871/9780201657029) — Tratado avanzado de referencia sobre mecánica analítica.
 
-- [Introduction to Electrodynamics â€” David J. Griffiths](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/FD23E188E2BDCDB40199CFE3386EC08F) â€” Texto fundamental sobre campos elÃ©ctricos, magnÃ©ticos y radiaciÃ³n.
+- [Introduction to Electrodynamics — David J. Griffiths](https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/FD23E188E2BDCDB40199CFE3386EC08F) — Texto fundamental sobre campos eléctricos, magnéticos y radiación.
 
-- [Introduction to Quantum Mechanics â€” David J. Griffiths y Darrell F. Schroeter](https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E) â€” IntroducciÃ³n clara al formalismo y las aplicaciones cuÃ¡nticas.
+- [Introduction to Quantum Mechanics — David J. Griffiths y Darrell F. Schroeter](https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E) — Introducción clara al formalismo y las aplicaciones cuánticas.
 
-- [Modern Quantum Mechanics â€” J. J. Sakurai y Jim Napolitano](https://www.cambridge.org/highereducation/books/modern-quantum-mechanics/DF43277E8AEDF83CC12EA62887C277DC) â€” Referencia avanzada sobre simetrÃ­as, espÃ­n y teorÃ­a cuÃ¡ntica.
+- [Modern Quantum Mechanics — J. J. Sakurai y Jim Napolitano](https://www.cambridge.org/highereducation/books/modern-quantum-mechanics/DF43277E8AEDF83CC12EA62887C277DC) — Referencia avanzada sobre simetrías, espín y teoría cuántica.
 
-- [Quantum Mechanics: Concepts and Applications â€” Nouredine Zettili](https://www.wiley.com/en-us/Quantum%2BMechanics%3A%2BConcepts%2Band%2BApplications%2C%2B3rd%2BEdition-p-9781118307892) â€” Desarrollo detallado acompaÃ±ado de numerosos problemas resueltos.
+- [Quantum Mechanics: Concepts and Applications — Nouredine Zettili](https://www.wiley.com/en-us/Quantum%2BMechanics%3A%2BConcepts%2Band%2BApplications%2C%2B3rd%2BEdition-p-9781118307892) — Desarrollo detallado acompañado de numerosos problemas resueltos.
 
-- [Statistical Mechanics â€” R. K. Pathria y Paul D. Beale](https://shop.elsevier.com/books/statistical-mechanics/beale/978-0-12-382188-1) â€” Tratamiento avanzado de ensambles, transiciones y sistemas cuÃ¡nticos.
+- [Statistical Mechanics — R. K. Pathria y Paul D. Beale](https://shop.elsevier.com/books/statistical-mechanics/beale/978-0-12-382188-1) — Tratamiento avanzado de ensambles, transiciones y sistemas cuánticos.
 
-- [An Introduction to Thermal Physics â€” Daniel V. Schroeder](https://global.oup.com/ukhe/product/an-introduction-to-thermal-physics-9780192895554) â€” ExplicaciÃ³n intuitiva de termodinÃ¡mica y mecÃ¡nica estadÃ­stica.
+- [An Introduction to Thermal Physics — Daniel V. Schroeder](https://global.oup.com/ukhe/product/an-introduction-to-thermal-physics-9780192895554) — Explicación intuitiva de termodinámica y mecánica estadística.
 
-- [Spacetime and Geometry â€” Sean M. Carroll](https://www.cambridge.org/highereducation/books/spacetime-and-geometry/38EDABF9E2BADCE6FBCF2B22DC12BFFE) â€” IntroducciÃ³n moderna a relatividad general, geometrÃ­a y cosmologÃ­a.
+- [Spacetime and Geometry — Sean M. Carroll](https://www.cambridge.org/highereducation/books/spacetime-and-geometry/38EDABF9E2BADCE6FBCF2B22DC12BFFE) — Introducción moderna a relatividad general, geometría y cosmología.
 
-- [General Relativity â€” Robert M. Wald](https://press.uchicago.edu/ucp/books/book/chicago/G/bo5952261.html) â€” ExposiciÃ³n rigurosa de la estructura matemÃ¡tica de la gravitaciÃ³n.
+- [General Relativity — Robert M. Wald](https://press.uchicago.edu/ucp/books/book/chicago/G/bo5952261.html) — Exposición rigurosa de la estructura matemática de la gravitación.
 
-- [Solid State Physics â€” Neil W. Ashcroft y N. David Mermin](https://www.cengage.com/c/solid-state-physics-1e-ashcroft/9780030839931/) â€” Referencia clÃ¡sica sobre electrones, cristales y propiedades de sÃ³lidos.
+- [Solid State Physics — Neil W. Ashcroft y N. David Mermin](https://www.cengage.com/c/solid-state-physics-1e-ashcroft/9780030839931/) — Referencia clásica sobre electrones, cristales y propiedades de sólidos.
 
-- [Introduction to Solid State Physics â€” Charles Kittel](https://www.wiley.com/en-us/Introduction%2Bto%2BSolid%2BState%2BPhysics%2C%2B8th%2BEdition-p-9780471415268) â€” IntroducciÃ³n esencial a estructuras y fenÃ³menos de la materia condensada.
+- [Introduction to Solid State Physics — Charles Kittel](https://www.wiley.com/en-us/Introduction%2Bto%2BSolid%2BState%2BPhysics%2C%2B8th%2BEdition-p-9780471415268) — Introducción esencial a estructuras y fenómenos de la materia condensada.
 
-- [QED: The Strange Theory of Light and Matter â€” Richard P. Feynman](https://mitpressbookstore.mit.edu/book/9780691164090) â€” PresentaciÃ³n divulgativa de la electrodinÃ¡mica cuÃ¡ntica.
+- [QED: The Strange Theory of Light and Matter — Richard P. Feynman](https://mitpressbookstore.mit.edu/book/9780691164090) — Presentación divulgativa de la electrodinámica cuántica.
 
-- [The Character of Physical Law â€” Richard P. Feynman](https://mitpress.mit.edu/9780262560030/the-character-of-physical-law/) â€” ReflexiÃ³n accesible sobre simetrÃ­a, conservaciÃ³n y mÃ©todo cientÃ­fico.
+- [The Character of Physical Law — Richard P. Feynman](https://mitpress.mit.edu/9780262560030/the-character-of-physical-law/) — Reflexión accesible sobre simetría, conservación y método científico.
 
-- [The Road to Reality â€” Roger Penrose](https://www.penguin.co.uk/books/357292/the-road-to-reality-by-penrose-roger/9780099440680) â€” Recorrido matemÃ¡tico por las principales teorÃ­as del universo fÃ­sico.
+- [The Road to Reality — Roger Penrose](https://www.penguin.co.uk/books/357292/the-road-to-reality-by-penrose-roger/9780099440680) — Recorrido matemático por las principales teorías del universo físico.
 
-- [Seven Brief Lessons on Physics â€” Carlo Rovelli](https://www.penguin.co.uk/books/288083/seven-brief-lessons-on-physics-by-rovelli-carlo/9780241737675) â€” SÃ­ntesis divulgativa de relatividad, cuÃ¡ntica y cosmologÃ­a.
+- [Seven Brief Lessons on Physics — Carlo Rovelli](https://www.penguin.co.uk/books/288083/seven-brief-lessons-on-physics-by-rovelli-carlo/9780241737675) — Síntesis divulgativa de relatividad, cuántica y cosmología.
 
-- [The Order of Time â€” Carlo Rovelli](https://www.penguin.co.uk/books/301539/the-order-of-time-by-rovelli-carlo/9780141984964) â€” ExploraciÃ³n fÃ­sica y filosÃ³fica de la naturaleza del tiempo.
+- [The Order of Time — Carlo Rovelli](https://www.penguin.co.uk/books/301539/the-order-of-time-by-rovelli-carlo/9780141984964) — Exploración física y filosófica de la naturaleza del tiempo.
 
-## ðŸ“° Las 10 mejores revistas de referencia
+## 📰 Las 10 mejores revistas de referencia
 
-- [Physical Review Letters](https://journals.aps.org/prl/) â€” Resultados breves y de alto impacto en todas las ramas de la fÃ­sica.
+- [Physical Review Letters](https://journals.aps.org/prl/) — Resultados breves y de alto impacto en todas las ramas de la física.
 
-- [Nature Physics](https://www.nature.com/nphys/) â€” InvestigaciÃ³n destacada, anÃ¡lisis y perspectivas de fÃ­sica contemporÃ¡nea.
+- [Nature Physics](https://www.nature.com/nphys/) — Investigación destacada, análisis y perspectivas de física contemporánea.
 
-- [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630) â€” Revista internacional de acceso abierto con cobertura interdisciplinar.
+- [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630) — Revista internacional de acceso abierto con cobertura interdisciplinar.
 
-- [Journal of High Energy Physics](https://link.springer.com/journal/13130) â€” Referencia en partÃ­culas, campos, cuerdas y gravitaciÃ³n.
+- [Journal of High Energy Physics](https://link.springer.com/journal/13130) — Referencia en partículas, campos, cuerdas y gravitación.
 
-- [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381) â€” InvestigaciÃ³n sobre gravedad, relatividad y estructura del espacio-tiempo.
+- [Classical and Quantum Gravity](https://iopscience.iop.org/journal/0264-9381) — Investigación sobre gravedad, relatividad y estructura del espacio-tiempo.
 
-- [Progress of Theoretical and Experimental Physics](https://academic.oup.com/ptep) â€” Trabajos teÃ³ricos y experimentales sobre fÃ­sica fundamental.
+- [Progress of Theoretical and Experimental Physics](https://academic.oup.com/ptep) — Trabajos teóricos y experimentales sobre física fundamental.
 
-- [Chinese Physics C](https://cpc.ihep.ac.cn/) â€” PublicaciÃ³n sobre partÃ­culas, fÃ­sica nuclear, aceleradores y cosmologÃ­a.
+- [Chinese Physics C](https://cpc.ihep.ac.cn/) — Publicación sobre partículas, física nuclear, aceleradores y cosmología.
 
-- [Revista Mexicana de FÃ­sica](https://rmf.smf.mx/ojs/) â€” InvestigaciÃ³n y educaciÃ³n en fÃ­sica desde AmÃ©rica Latina.
+- [Revista Mexicana de Física](https://rmf.smf.mx/ojs/) — Investigación y educación en física desde América Latina.
 
-- [Indian Journal of Physics](https://link.springer.com/journal/12648) â€” Revista multidisciplinar de larga trayectoria en las ciencias fÃ­sicas.
+- [Indian Journal of Physics](https://link.springer.com/journal/12648) — Revista multidisciplinar de larga trayectoria en las ciencias físicas.
 
-- [Brazilian Journal of Physics](https://link.springer.com/journal/13538) â€” InvestigaciÃ³n internacional en fÃ­sica teÃ³rica, experimental y aplicada.
+- [Brazilian Journal of Physics](https://link.springer.com/journal/13538) — Investigación internacional en física teórica, experimental y aplicada.
 
-## ðŸ› Los 10 mejores museos
+## 🏛 Los 10 mejores museos
 
-- [Science Museum](https://www.sciencemuseum.org.uk/) â€” Colecciones histÃ³ricas sobre ciencia, instrumentaciÃ³n, espacio y tecnologÃ­a.
+- [Science Museum](https://www.sciencemuseum.org.uk/) — Colecciones históricas sobre ciencia, instrumentación, espacio y tecnología.
 
-- [Deutsches Museum](https://www.deutsches-museum.de/en) â€” Amplias exposiciones de fÃ­sica, astronomÃ­a, energÃ­a e ingenierÃ­a.
+- [Deutsches Museum](https://www.deutsches-museum.de/en) — Amplias exposiciones de física, astronomía, energía e ingeniería.
 
-- [CitÃ© des sciences et de lâ€™industrie](https://www.cite-sciences.fr/en/home) â€” Experiencias interactivas sobre luz, sonido, espacio y materia.
+- [Cité des sciences et de l’industrie](https://www.cite-sciences.fr/en/home) — Experiencias interactivas sobre luz, sonido, espacio y materia.
 
-- [Exploratorium](https://www.exploratorium.edu/) â€” Museo pionero en aprendizaje experimental y percepciÃ³n fÃ­sica.
+- [Exploratorium](https://www.exploratorium.edu/) — Museo pionero en aprendizaje experimental y percepción física.
 
-- [Miraikan](https://www.miraikan.jst.go.jp/en/) â€” Exposiciones japonesas sobre universo, tecnologÃ­a y ciencia avanzada.
+- [Miraikan](https://www.miraikan.jst.go.jp/en/) — Exposiciones japonesas sobre universo, tecnología y ciencia avanzada.
 
-- [Shanghai Science and Technology Museum](https://en.sstm.org.cn/) â€” GalerÃ­as dedicadas a fenÃ³menos naturales, espacio e innovaciÃ³n.
+- [Shanghai Science and Technology Museum](https://en.sstm.org.cn/) — Galerías dedicadas a fenómenos naturales, espacio e innovación.
 
-- [Nehru Science Centre](https://nehrusciencecentre.gov.in/) â€” Principal museo cientÃ­fico interactivo de la India.
+- [Nehru Science Centre](https://nehrusciencecentre.gov.in/) — Principal museo científico interactivo de la India.
 
-- [Questacon](https://www.questacon.edu.au/) â€” Centro australiano con demostraciones prÃ¡cticas de fÃ­sica y tecnologÃ­a.
+- [Questacon](https://www.questacon.edu.au/) — Centro australiano con demostraciones prácticas de física y tecnología.
 
-- [Museu de Astronomia e CiÃªncias Afins](https://www.gov.br/mast/pt-br) â€” Patrimonio cientÃ­fico brasileÃ±o, astronomÃ­a e instrumentos histÃ³ricos.
+- [Museu de Astronomia e Ciências Afins](https://www.gov.br/mast/pt-br) — Patrimonio científico brasileño, astronomía e instrumentos históricos.
 
-- [Cape Town Science Centre](https://www.ctsc.org.za/) â€” Exhibiciones educativas de fÃ­sica, matemÃ¡ticas y tecnologÃ­a en SudÃ¡frica.
+- [Cape Town Science Centre](https://www.ctsc.org.za/) — Exhibiciones educativas de física, matemáticas y tecnología en Sudáfrica.
 
-## ðŸŽ“ Las 10 mejores universidades
+## 🎓 Las 10 mejores universidades
 
-- [MIT Department of Physics](https://physics.mit.edu/) â€” FormaciÃ³n e investigaciÃ³n sobresalientes en fÃ­sica teÃ³rica y experimental.
+- [MIT Department of Physics](https://physics.mit.edu/) — Formación e investigación sobresalientes en física teórica y experimental.
 
-- [Caltech Division of Physics, Mathematics and Astronomy](https://www.pma.caltech.edu/) â€” Programas avanzados en fÃ­sica fundamental, astrofÃ­sica y cosmologÃ­a.
+- [Caltech Division of Physics, Mathematics and Astronomy](https://www.pma.caltech.edu/) — Programas avanzados en física fundamental, astrofísica y cosmología.
 
-- [Princeton University Department of Physics](https://phy.princeton.edu/) â€” Referente mundial en partÃ­culas, materia condensada y gravitaciÃ³n.
+- [Princeton University Department of Physics](https://phy.princeton.edu/) — Referente mundial en partículas, materia condensada y gravitación.
 
-- [ETH ZÃ¼rich Department of Physics](https://phys.ethz.ch/) â€” InvestigaciÃ³n europea de primer nivel en fÃ­sica cuÃ¡ntica y aplicada.
+- [ETH Zürich Department of Physics](https://phys.ethz.ch/) — Investigación europea de primer nivel en física cuántica y aplicada.
 
-- [University of Tokyo Department of Physics](https://www.phys.s.u-tokyo.ac.jp/en/) â€” Centro asiÃ¡tico destacado en partÃ­culas, materiales y astrofÃ­sica.
+- [University of Tokyo Department of Physics](https://www.phys.s.u-tokyo.ac.jp/en/) — Centro asiático destacado en partículas, materiales y astrofísica.
 
-- [Tsinghua University Department of Physics](https://www.phys.tsinghua.edu.cn/physen/) â€” InvestigaciÃ³n china avanzada en Ã³ptica, materia y fÃ­sica cuÃ¡ntica.
+- [Tsinghua University Department of Physics](https://www.phys.tsinghua.edu.cn/physen/) — Investigación china avanzada en óptica, materia y física cuántica.
 
-- [Indian Institute of Science Department of Physics](https://physics.iisc.ac.in/) â€” InstituciÃ³n india de referencia en investigaciÃ³n fÃ­sica fundamental.
+- [Indian Institute of Science Department of Physics](https://physics.iisc.ac.in/) — Institución india de referencia en investigación física fundamental.
 
-- [Australian National University Research School of Physics](https://physics.anu.edu.au/) â€” Programas lÃ­deres en fÃ­sica nuclear, cuÃ¡ntica, Ã³ptica y materiales.
+- [Australian National University Research School of Physics](https://physics.anu.edu.au/) — Programas líderes en física nuclear, cuántica, óptica y materiales.
 
-- [University of SÃ£o Paulo Institute of Physics](https://portal.if.usp.br/ifusp/en) â€” Principal centro latinoamericano de formaciÃ³n e investigaciÃ³n en fÃ­sica.
+- [University of São Paulo Institute of Physics](https://portal.if.usp.br/ifusp/en) — Principal centro latinoamericano de formación e investigación en física.
 
-- [University of Cape Town Department of Physics](https://science.uct.ac.za/department-physics) â€” InvestigaciÃ³n africana en astrofÃ­sica, nuclear, materiales y partÃ­culas.
+- [University of Cape Town Department of Physics](https://science.uct.ac.za/department-physics) — Investigación africana en astrofísica, nuclear, materiales y partículas.
 
-## ðŸ¤ Las 10 mejores asociaciones internacionales
+## 🤝 Las 10 mejores asociaciones internacionales
 
-- [International Union of Pure and Applied Physics](https://iupap.org/) â€” Promueve la cooperaciÃ³n mundial y los estÃ¡ndares internacionales de fÃ­sica.
+- [International Union of Pure and Applied Physics](https://iupap.org/) — Promueve la cooperación mundial y los estándares internacionales de física.
 
-- [European Physical Society](https://eps.org/) â€” FederaciÃ³n de sociedades, investigadores e instituciones fÃ­sicas europeas.
+- [European Physical Society](https://eps.org/) — Federación de sociedades, investigadores e instituciones físicas europeas.
 
-- [Association of Asia Pacific Physical Societies](https://aapps.org/) â€” Coordina sociedades de fÃ­sica de Asia y el PacÃ­fico.
+- [Association of Asia Pacific Physical Societies](https://aapps.org/) — Coordina sociedades de física de Asia y el Pacífico.
 
-- [African Physical Society](https://www.africanphysicalsociety.org/) â€” Impulsa la colaboraciÃ³n y el desarrollo de la fÃ­sica en Ãfrica.
+- [African Physical Society](https://www.africanphysicalsociety.org/) — Impulsa la colaboración y el desarrollo de la física en África.
 
-- [FederaciÃ³n Iberoamericana de Sociedades de FÃ­sica](https://feiasofi.net/) â€” Conecta sociedades de fÃ­sica de IberoamÃ©rica.
+- [Federación Iberoamericana de Sociedades de Física](https://feiasofi.net/) — Conecta sociedades de física de Iberoamérica.
 
-- [Arab Physical Society](https://www.arabphysicalsociety.org/) â€” Favorece la cooperaciÃ³n cientÃ­fica entre comunidades fÃ­sicas Ã¡rabes.
+- [Arab Physical Society](https://www.arabphysicalsociety.org/) — Favorece la cooperación científica entre comunidades físicas árabes.
 
-- [International Association of Mathematical Physics](https://www.iamp.org/) â€” Promueve la investigaciÃ³n internacional en fÃ­sica matemÃ¡tica.
+- [International Association of Mathematical Physics](https://www.iamp.org/) — Promueve la investigación internacional en física matemática.
 
-- [International Organization for Medical Physics](https://www.iomp.org/) â€” Coordina organizaciones profesionales de fÃ­sica mÃ©dica de todo el mundo.
+- [International Organization for Medical Physics](https://www.iomp.org/) — Coordina organizaciones profesionales de física médica de todo el mundo.
 
-- [International Radiation Physics Society](https://radiationphysics.org/) â€” Red internacional dedicada a la fÃ­sica y aplicaciones de la radiaciÃ³n.
+- [International Radiation Physics Society](https://radiationphysics.org/) — Red internacional dedicada a la física y aplicaciones de la radiación.
 
-- [International Association of Physics Students](https://iaps.info/) â€” OrganizaciÃ³n mundial de estudiantes y asociaciones universitarias de fÃ­sica.
+- [International Association of Physics Students](https://iaps.info/) — Organización mundial de estudiantes y asociaciones universitarias de física.
 
-## âœ‰ï¸ Las 10 mejores newsletters
+## ✉️ Las 10 mejores newsletters
 
-- [CERN Courier](https://cerncourier.com/about-cern-courier/) â€” Actualidad periÃ³dica sobre partÃ­culas, aceleradores y grandes laboratorios.
+- [CERN Courier](https://cerncourier.com/about-cern-courier/) — Actualidad periódica sobre partículas, aceleradores y grandes laboratorios.
 
-- [Symmetry Email Updates](https://www.symmetrymagazine.org/subscribe?language_content_entity=und) â€” ArtÃ­culos divulgativos sobre fÃ­sica de partÃ­culas y astrofÃ­sica.
+- [Symmetry Email Updates](https://www.symmetrymagazine.org/subscribe?language_content_entity=und) — Artículos divulgativos sobre física de partículas y astrofísica.
 
-- [Quanta Magazine Newsletters](https://quantamagazine.us1.list-manage.com/subscribe?id=f0cb61321c\&u=0d6ddf7dc1a0b7297c8e06618) â€” Selecciones sobre fÃ­sica fundamental, matemÃ¡ticas y computaciÃ³n.
+- [Quanta Magazine Newsletters](https://quantamagazine.us1.list-manage.com/subscribe?id=f0cb61321c\&u=0d6ddf7dc1a0b7297c8e06618) — Selecciones sobre física fundamental, matemáticas y computación.
 
-- [Science News Newsletters](https://www.sciencenews.org/newsletters) â€” Boletines gratuitos con descubrimientos cientÃ­ficos y noticias de fÃ­sica.
+- [Science News Newsletters](https://www.sciencenews.org/newsletters) — Boletines gratuitos con descubrimientos científicos y noticias de física.
 
-- [Scientific American Newsletters](https://www.scientificamerican.com/newsletters/) â€” ResÃºmenes temÃ¡ticos de ciencia, espacio, tecnologÃ­a y fÃ­sica.
+- [Scientific American Newsletters](https://www.scientificamerican.com/newsletters/) — Resúmenes temáticos de ciencia, espacio, tecnología y física.
 
-- [African Physics Newsletter](https://www.aps.org/publications/african-physics-newsletter) â€” Noticias, oportunidades y actividades de la comunidad fÃ­sica africana.
+- [African Physics Newsletter](https://www.aps.org/publications/african-physics-newsletter) — Noticias, oportunidades y actividades de la comunidad física africana.
 
-- [AIP FYI](https://www.aip.org/fyi/subscribe-to-fyi-today) â€” InformaciÃ³n especializada sobre polÃ­ticas cientÃ­ficas y financiaciÃ³n.
+- [AIP FYI](https://www.aip.org/fyi/subscribe-to-fyi-today) — Información especializada sobre políticas científicas y financiación.
 
-- [The Quantum Insider](https://thequantuminsider.com/) â€” Noticias y anÃ¡lisis sobre ciencia y tecnologÃ­as cuÃ¡nticas.
+- [The Quantum Insider](https://thequantuminsider.com/) — Noticias y análisis sobre ciencia y tecnologías cuánticas.
 
-- [Quantum Computing Report Alerts](https://quantumcomputingreport.com/) â€” Actualizaciones sobre investigaciÃ³n, industria y computaciÃ³n cuÃ¡ntica.
+- [Quantum Computing Report Alerts](https://quantumcomputingreport.com/) — Actualizaciones sobre investigación, industria y computación cuántica.
 
-- [Physics Today Newsletters](https://physicstoday.aip.org/pt-newsletters) â€” Selecciones semanales y mensuales sobre las ciencias fÃ­sicas.
+- [Physics Today Newsletters](https://physicstoday.aip.org/pt-newsletters) — Selecciones semanales y mensuales sobre las ciencias físicas.
 
 ## TV: Los 10 mejores canales
 
-- [NASA+](https://plus.nasa.gov/) â€” Emisiones, documentales y series sobre astrofÃ­sica, exploraciÃ³n espacial y ciencias fÃ­sicas.
+- [NASA+](https://plus.nasa.gov/) — Emisiones, documentales y series sobre astrofísica, exploración espacial y ciencias físicas.
 
-- [CERN Live](https://live.cern/) â€” Retransmisiones de conferencias, seminarios y experimentos de fÃ­sica de partÃ­culas.
+- [CERN Live](https://live.cern/) — Retransmisiones de conferencias, seminarios y experimentos de física de partículas.
 
-- [ESA Web TV](https://watch.esa.int/) â€” ProgramaciÃ³n en directo sobre misiones espaciales, astronomÃ­a y tecnologÃ­a aeroespacial.
+- [ESA Web TV](https://watch.esa.int/) — Programación en directo sobre misiones espaciales, astronomía y tecnología aeroespacial.
 
-- [PIRSA â€” Perimeter Institute Recorded Seminar Archive](https://pirsa.org/) â€” Archivo audiovisual especializado en fÃ­sica teÃ³rica, cosmologÃ­a y teorÃ­a cuÃ¡ntica.
+- [PIRSA — Perimeter Institute Recorded Seminar Archive](https://pirsa.org/) — Archivo audiovisual especializado en física teórica, cosmología y teoría cuántica.
 
-- [ICTP YouTube Channels](https://www.ictp.it/taxonomy/term/338) â€” Conferencias internacionales sobre materia condensada, fÃ­sica estadÃ­stica, cosmologÃ­a y altas energÃ­as.
+- [ICTP YouTube Channels](https://www.ictp.it/taxonomy/term/338) — Conferencias internacionales sobre materia condensada, física estadística, cosmología y altas energías.
 
-- [Fermilab Videos](https://news.fnal.gov/videos/) â€” VÃ­deos sobre neutrinos, aceleradores, partÃ­culas elementales, materia y energÃ­a.
+- [Fermilab Videos](https://news.fnal.gov/videos/) — Vídeos sobre neutrinos, aceleradores, partículas elementales, materia y energía.
 
-- [PBS Space Time](https://www.pbs.org/show/pbs-space-time/) â€” Serie divulgativa sobre astrofÃ­sica, relatividad, mecÃ¡nica cuÃ¡ntica y estructura del universo.
+- [PBS Space Time](https://www.pbs.org/show/pbs-space-time/) — Serie divulgativa sobre astrofísica, relatividad, mecánica cuántica y estructura del universo.
 
-- [Tomorrow Today â€” Deutsche Welle](https://www.dw.com/en/tomorrow-today-the-science-program-on-dw/video-63585845) â€” MagacÃ­n cientÃ­fico internacional con contenidos frecuentes sobre fÃ­sica, energÃ­a y espacio.
+- [Tomorrow Today — Deutsche Welle](https://www.dw.com/en/tomorrow-today-the-science-program-on-dw/video-63585845) — Magacín científico internacional con contenidos frecuentes sobre física, energía y espacio.
 
-- [TV UNAM](https://tv.unam.mx/carteleras-4-2/) â€” TelevisiÃ³n universitaria mexicana con programas de ciencia, tecnologÃ­a y divulgaciÃ³n de la fÃ­sica.
+- [TV UNAM](https://tv.unam.mx/carteleras-4-2/) — Televisión universitaria mexicana con programas de ciencia, tecnología y divulgación de la física.
 
-- [SLAC Multimedia](https://www6.slac.stanford.edu/news-and-events/news-center/media-resources) â€” Producciones audiovisuales sobre aceleradores, fÃ­sica fundamental, rayos X y ciencia cuÃ¡ntica.
+- [SLAC Multimedia](https://www6.slac.stanford.edu/news-and-events/news-center/media-resources) — Producciones audiovisuales sobre aceleradores, física fundamental, rayos X y ciencia cuántica.
 
 ## Radio: Las 10 mejores emisoras
 
-- [Science in Action â€” BBC World Service](https://www.bbc.co.uk/programmes/p002vsnb) â€” Programa internacional sobre descubrimientos cientÃ­ficos, fÃ­sica, astronomÃ­a y tecnologÃ­a.
+- [Science in Action — BBC World Service](https://www.bbc.co.uk/programmes/p002vsnb) — Programa internacional sobre descubrimientos científicos, física, astronomía y tecnología.
 
-- [The Science Show â€” ABC Radio National](https://www.abc.net.au/listen/programs/scienceshow) â€” Espacio australiano sobre investigaciÃ³n, fÃ­sica, energÃ­a, matemÃ¡ticas y ciencias naturales.
+- [The Science Show — ABC Radio National](https://www.abc.net.au/listen/programs/scienceshow) — Espacio australiano sobre investigación, física, energía, matemáticas y ciencias naturales.
 
-- [Quirks & Quarks â€” CBC Radio](https://www.cbc.ca/radio/quirks) â€” Programa canadiense dedicado a la actualidad cientÃ­fica, desde partÃ­culas subatÃ³micas hasta cosmologÃ­a.
+- [Quirks & Quarks — CBC Radio](https://www.cbc.ca/radio/quirks) — Programa canadiense dedicado a la actualidad científica, desde partículas subatómicas hasta cosmología.
 
-- [La Science, CQFD â€” France Culture](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd) â€” Entrevistas y debates sobre fÃ­sica cuÃ¡ntica, astronomÃ­a y otras disciplinas cientÃ­ficas.
+- [La Science, CQFD — France Culture](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd) — Entrevistas y debates sobre física cuántica, astronomía y otras disciplinas científicas.
 
-- [A hombros de gigantes â€” RNE](https://www.rtve.es/play/audios/a-hombros-de-gigantes/) â€” Programa espaÃ±ol sobre investigaciÃ³n cientÃ­fica, fÃ­sica, espacio y divulgaciÃ³n.
+- [A hombros de gigantes — RNE](https://www.rtve.es/play/audios/a-hombros-de-gigantes/) — Programa español sobre investigación científica, física, espacio y divulgación.
 
-- [SÃºbele a la ciencia â€” Radio UNAM](https://www.radio.unam.mx/programa_unam/subele-a-la-ciencia/) â€” Espacio mexicano que acerca la ciencia y la fÃ­sica al pÃºblico joven.
+- [Súbele a la ciencia — Radio UNAM](https://www.radio.unam.mx/programa_unam/subele-a-la-ciencia/) — Espacio mexicano que acerca la ciencia y la física al público joven.
 
-- [Our Changing World â€” RNZ](https://www.rnz.co.nz/podcast/ourchangingworld) â€” Programa neozelandÃ©s sobre investigaciÃ³n, astronomÃ­a, energÃ­a y ciencias fÃ­sicas.
+- [Our Changing World — RNZ](https://www.rnz.co.nz/podcast/ourchangingworld) — Programa neozelandés sobre investigación, astronomía, energía y ciencias físicas.
 
-- [Forschung aktuell â€” Deutschlandfunk](https://www.deutschlandfunk.de/forschung-aktuell-100.html) â€” Actualidad cientÃ­fica alemana con cobertura habitual de fÃ­sica y tecnologÃ­a.
+- [Forschung aktuell — Deutschlandfunk](https://www.deutschlandfunk.de/forschung-aktuell-100.html) — Actualidad científica alemana con cobertura habitual de física y tecnología.
 
-- [The Naked Scientists Podcast](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast) â€” Programa producido con cientÃ­ficos que explica investigaciones y fenÃ³menos fÃ­sicos de forma accesible.
+- [The Naked Scientists Podcast](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast) — Programa producido con científicos que explica investigaciones y fenómenos físicos de forma accesible.
 
-- [Science Friday](https://www.sciencefriday.com/) â€” Programa radiofÃ³nico sobre fÃ­sica, espacio, tecnologÃ­a, medioambiente y novedades cientÃ­ficas.
+- [Science Friday](https://www.sciencefriday.com/) — Programa radiofónico sobre física, espacio, tecnología, medioambiente y novedades científicas.
 
 ## Prensa Online: Las 10 mejores publicaciones
 
-- [Physics World](https://physicsworld.com/) â€” Noticias, anÃ¡lisis y entrevistas internacionales sobre todas las ramas de la fÃ­sica.
+- [Physics World](https://physicsworld.com/) — Noticias, análisis y entrevistas internacionales sobre todas las ramas de la física.
 
-- [APS Physics](https://physics.aps.org/) â€” SelecciÃ³n editorial de investigaciones publicadas por la American Physical Society.
+- [APS Physics](https://physics.aps.org/) — Selección editorial de investigaciones publicadas por la American Physical Society.
 
-- [CERN Courier](https://cerncourier.com/) â€” InformaciÃ³n especializada en fÃ­sica de altas energÃ­as, aceleradores y grandes experimentos internacionales.
+- [CERN Courier](https://cerncourier.com/) — Información especializada en física de altas energías, aceleradores y grandes experimentos internacionales.
 
-- [Quanta Magazine â€” Physics](https://www.quantamagazine.org/physics/) â€” Reportajes rigurosos sobre fÃ­sica teÃ³rica, cosmologÃ­a, materia y ciencias cuÃ¡nticas.
+- [Quanta Magazine — Physics](https://www.quantamagazine.org/physics/) — Reportajes rigurosos sobre física teórica, cosmología, materia y ciencias cuánticas.
 
-- [Symmetry Magazine](https://www.symmetrymagazine.org/) â€” PublicaciÃ³n sobre fÃ­sica de partÃ­culas editada por Fermilab y SLAC.
+- [Symmetry Magazine](https://www.symmetrymagazine.org/) — Publicación sobre física de partículas editada por Fermilab y SLAC.
 
-- [Phys.org â€” Physics](https://phys.org/physics-news/) â€” Actualidad diaria sobre fÃ­sica, materiales, Ã³ptica, energÃ­a y astronomÃ­a.
+- [Phys.org — Physics](https://phys.org/physics-news/) — Actualidad diaria sobre física, materiales, óptica, energía y astronomía.
 
-- [Physics Today](https://physicstoday.aip.org/) â€” Noticias y anÃ¡lisis profesionales del American Institute of Physics.
+- [Physics Today](https://physicstoday.aip.org/) — Noticias y análisis profesionales del American Institute of Physics.
 
-- [Asia Research News â€” Physics](https://www.asiaresearchnews.com/disciplines/physics) â€” Investigaciones y novedades de fÃ­sica procedentes de instituciones asiÃ¡ticas.
+- [Asia Research News — Physics](https://www.asiaresearchnews.com/disciplines/physics) — Investigaciones y novedades de física procedentes de instituciones asiáticas.
 
-- [Pesquisa FAPESP](https://revistapesquisa.fapesp.br/en/) â€” PublicaciÃ³n brasileÃ±a sobre investigaciÃ³n cientÃ­fica, materiales, energÃ­a, astronomÃ­a y fÃ­sica.
+- [Pesquisa FAPESP](https://revistapesquisa.fapesp.br/en/) — Publicación brasileña sobre investigación científica, materiales, energía, astronomía y física.
 
-- [SciDev.Net](https://www.scidev.net/global/) â€” InformaciÃ³n cientÃ­fica internacional con especial atenciÃ³n a Ãfrica, Asia y AmÃ©rica Latina.
+- [SciDev.Net](https://www.scidev.net/global/) — Información científica internacional con especial atención a África, Asia y América Latina.
 
 ## Prensa escrita: Las 10 mejores publicaciones
 
-- [Physical Review Letters](https://journals.aps.org/prl/) â€” Revista internacional de referencia para resultados relevantes en todas las Ã¡reas de la fÃ­sica.
+- [Physical Review Letters](https://journals.aps.org/prl/) — Revista internacional de referencia para resultados relevantes en todas las áreas de la física.
 
-- [Nature Physics](https://www.nature.com/nphys/) â€” PublicaciÃ³n cientÃ­fica sobre fÃ­sica fundamental, aplicada, cuÃ¡ntica y de la materia condensada.
+- [Nature Physics](https://www.nature.com/nphys/) — Publicación científica sobre física fundamental, aplicada, cuántica y de la materia condensada.
 
-- [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121) â€” Revista especializada en fÃ­sica matemÃ¡tica, estadÃ­stica, cuÃ¡ntica y sistemas complejos.
+- [Journal of Physics A: Mathematical and Theoretical](https://iopscience.iop.org/journal/1751-8121) — Revista especializada en física matemática, estadística, cuántica y sistemas complejos.
 
-- [The European Physical Journal C](https://link.springer.com/journal/10052) â€” InvestigaciÃ³n sobre partÃ­culas, campos, gravitaciÃ³n, cosmologÃ­a y fÃ­sica nuclear.
+- [The European Physical Journal C](https://link.springer.com/journal/10052) — Investigación sobre partículas, campos, gravitación, cosmología y física nuclear.
 
-- [Revista Mexicana de FÃ­sica](https://rmf.smf.mx/) â€” PublicaciÃ³n de la Sociedad Mexicana de FÃ­sica con artÃ­culos de investigaciÃ³n y educaciÃ³n cientÃ­fica.
+- [Revista Mexicana de Física](https://rmf.smf.mx/) — Publicación de la Sociedad Mexicana de Física con artículos de investigación y educación científica.
 
-- [Brazilian Journal of Physics](https://link.springer.com/journal/13538) â€” Revista de la Sociedade Brasileira de FÃ­sica con cobertura multidisciplinar.
+- [Brazilian Journal of Physics](https://link.springer.com/journal/13538) — Revista de la Sociedade Brasileira de Física con cobertura multidisciplinar.
 
-- [Chinese Physics B](https://cpb.iphy.ac.cn/) â€” Revista internacional sobre fÃ­sica teÃ³rica, experimental y aplicada publicada en China.
+- [Chinese Physics B](https://cpb.iphy.ac.cn/) — Revista internacional sobre física teórica, experimental y aplicada publicada en China.
 
-- [Indian Journal of Physics](https://link.springer.com/journal/12648) â€” PublicaciÃ³n histÃ³rica de la Indian Association for the Cultivation of Science.
+- [Indian Journal of Physics](https://link.springer.com/journal/12648) — Publicación histórica de la Indian Association for the Cultivation of Science.
 
-- [Canadian Journal of Physics](https://cdnsciencepub.com/journal/cjp) â€” Revista sobre fÃ­sica atÃ³mica, nuclear, Ã³ptica, cuÃ¡ntica y de la materia condensada.
+- [Canadian Journal of Physics](https://cdnsciencepub.com/journal/cjp) — Revista sobre física atómica, nuclear, óptica, cuántica y de la materia condensada.
 
-- [Japanese Journal of Applied Physics](https://iopscience.iop.org/journal/1347-4065) â€” PublicaciÃ³n japonesa especializada en fÃ­sica aplicada, materiales, fotÃ³nica y dispositivos.
+- [Japanese Journal of Applied Physics](https://iopscience.iop.org/journal/1347-4065) — Publicación japonesa especializada en física aplicada, materiales, fotónica y dispositivos.
 
 En Resumen:
 
-- Â¿QuÃ© es la FÃ­sica?
-- Historia de la FÃ­sica
-- MecÃ¡nica clÃ¡sica
-- TermodinÃ¡mica
+- ¿Qué es la Física?
+- Historia de la Física
+- Mecánica clásica
+- Termodinámica
 - Electromagnetismo
-- Ã“ptica
-- AcÃºstica
+- Óptica
+- Acústica
 - Ondas
 - Relatividad
-- MecÃ¡nica cuÃ¡ntica
-- FÃ­sica nuclear
-- FÃ­sica de partÃ­culas
-- AstrofÃ­sica y CosmologÃ­a
-- FÃ­sica del estado sÃ³lido
-- FÃ­sica estadÃ­stica
-- FÃ­sica de plasmas
-- BiofÃ­sica
-- GeofÃ­sica
-- FÃ­sica computacional
-- InstrumentaciÃ³n y medida
+- Mecánica cuántica
+- Física nuclear
+- Física de partículas
+- Astrofísica y Cosmología
+- Física del estado sólido
+- Física estadística
+- Física de plasmas
+- Biofísica
+- Geofísica
+- Física computacional
+- Instrumentación y medida
 - Constantes fundamentales
 - Grandes experimentos
-- Premios Nobel de FÃ­sica
-- FÃ­sicos que cambiaron el mundo
-- Universidades y centros de investigaciÃ³n
-- Revistas cientÃ­ficas
+- Premios Nobel de Física
+- Físicos que cambiaron el mundo
+- Universidades y centros de investigación
+- Revistas científicas
 - Museos
 - Libros
 - Podcasts

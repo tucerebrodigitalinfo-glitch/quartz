@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-25T18:12:01.439Z
-modified: 2026-09-17T10:13:58.493Z
+modified: 2026-09-18T09:36:22.684Z
 ---
 
 #Wikipedia
@@ -23,8 +23,8 @@ https://es.wikipedia.org/wiki/Inteligencia\_artificial?wprov=sfla1
 [[inteligencia Artificial Generativa]]
 https://es.wikipedia.org/wiki/Inteligencia\_artificial\_generativa?wprov=sfla1
 
-[[AI, Aprendizaje MÃ¡quina]]
+[[AI, Aprendizaje Máquina]]
 https://es.wikipedia.org/wiki/Aprendizaje\_autom%C3%A1tico?wprov=sfla1
 
-[[PerceptrÃ³n (i)]]
+[[Perceptrón (i)]]
 https://es.wikipedia.org/wiki/Perceptr%C3%B3n

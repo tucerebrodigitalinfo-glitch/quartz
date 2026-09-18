@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-03T07:52:00.277Z
-modified: 2026-09-17T10:14:42.206Z
+modified: 2026-09-18T09:36:54.723Z
 ---
 
-#IA #ProducciÃ³n #ImÃ¡gen #Video #LLM #PresentaciÃ³n
+#IA #Producción #Imágen #Video #LLM #Presentación
 
 # [Magnific](https://magnific.com)
 

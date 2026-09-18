@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-05T15:01:00.199Z
-modified: 2026-09-17T10:14:02.854Z
+modified: 2026-09-18T09:36:24.037Z
 ---
 
 #IA
 
-![[N1056 PolÃ­tica_Industrial__Priorizando_a_Personas.png]]
+![[Biblioteca/N1056 Política_Industrial__Priorizando_a_Personas.png]]
 ![[N1056 La_IA_ya_es_industria_pesada.mp3]]
 ![[N1056 IA__La_nueva_infraestructura.mp4]]
 
@@ -14,6 +14,6 @@ modified: 2026-09-17T10:14:02.854Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/2f8767a3-f5e7-42a4-9968-d686fc45f3a8?authuser=2)
 
-Estas fuentes describen un cambio de paradigma donde laÂ **inteligencia artificial**Â deja de ser una simple herramienta de software para convertirse en unaÂ **fuerza estructural e infraestructura industrial**Â comparable a la electricidad. El eje central es la propuesta de Sam Altman sobre una nuevaÂ **polÃ­tica industrial**Â que incluye medidas drÃ¡sticas como unÂ **impuesto a los robots**, la semana laboral de cuatro dÃ­as y unÂ **fondo de riqueza pÃºblica**Â para redistribuir las ganancias tecnolÃ³gicas. Se destaca la importancia crÃ­tica de laÂ **soberanÃ­a energÃ©tica y de datos**, mencionando inversiones masivas en regiones estratÃ©gicas como laÂ **Patagonia Argentina**Â para albergar centros de datos de escala mundial. Asimismo, se analiza la transiciÃ³n hacia modelos deÂ **IA local o "Edge AI"**, que permiten procesar informaciÃ³n sin depender de la nube, garantizando mayor privacidad y autonomÃ­a tÃ©cnica. Finalmente, los textos advierten que el principal desafÃ­o actual no es la tecnologÃ­a en sÃ­, sino la necesidad deÂ **talento especializado**Â y unÂ **nuevo contrato social**Â para gestionar el impacto econÃ³mico de la superinteligencia.
+Estas fuentes describen un cambio de paradigma donde la **inteligencia artificial** deja de ser una simple herramienta de software para convertirse en una **fuerza estructural e infraestructura industrial** comparable a la electricidad. El eje central es la propuesta de Sam Altman sobre una nueva **política industrial** que incluye medidas drásticas como un **impuesto a los robots**, la semana laboral de cuatro días y un **fondo de riqueza pública** para redistribuir las ganancias tecnológicas. Se destaca la importancia crítica de la **soberanía energética y de datos**, mencionando inversiones masivas en regiones estratégicas como la **Patagonia Argentina** para albergar centros de datos de escala mundial. Asimismo, se analiza la transición hacia modelos de **IA local o "Edge AI"**, que permiten procesar información sin depender de la nube, garantizando mayor privacidad y autonomía técnica. Finalmente, los textos advierten que el principal desafío actual no es la tecnología en sí, sino la necesidad de **talento especializado** y un **nuevo contrato social** para gestionar el impacto económico de la superinteligencia.
 
-![[N1056 Mind Map PolÃ­tica Industrial en la era de la Inteligencia Humana.png]]
+![[Biblioteca/N1056 Mind Map Política Industrial en la era de la Inteligencia Humana.png]]

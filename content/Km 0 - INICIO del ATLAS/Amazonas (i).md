@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-08-06T05:18:54.379Z
-modified: 2026-09-17T10:14:23.248Z
+modified: 2026-09-18T09:36:39.077Z
 ---
 
-#Ãndices #Naturaleza
+#Índices #Naturaleza
 
 ![[Biblioteca/amazonas.jpg]]
-âœ… Enlaces comprobados y operativos el 21 de julio de 2026. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Enlaces comprobados y operativos el 21 de julio de 2026. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-[La resoluciÃ³n de la ONU marca un punto de inflexiÃ³n en el liderazgo climÃ¡tico mundial. | WWF](https://wwf.panda.org/es/noticias_y_publicaciones/noticias/?15914866/resolucion-ONU-clima)
+[La resolución de la ONU marca un punto de inflexión en el liderazgo climático mundial. | WWF](https://wwf.panda.org/es/noticias_y_publicaciones/noticias/?15914866/resolucion-ONU-clima)
 
-AMAZONAS: RÃO Y SELVA (i)
+AMAZONAS: RÍO Y SELVA (i)
 
 ## [WEFORUM: Amazonas](https://intelligence.weforum.org/topics/a1Gb00000015HiiEAE)
 
@@ -21,595 +21,595 @@ AMAZONAS: RÃO Y SELVA (i)
 
 ## WEB
 
-- [OrganizaciÃ³n del Tratado de CooperaciÃ³n AmazÃ³nica â€” OTCA](https://otca.org/en/) â€” Organismo intergubernamental de los ocho paÃ­ses de la cuenca amazÃ³nica.
+- [Organización del Tratado de Cooperación Amazónica — OTCA](https://otca.org/en/) — Organismo intergubernamental de los ocho países de la cuenca amazónica.
 
-- [Observatorio Regional AmazÃ³nico â€” ORA](https://www.oraotca.org/en) â€” Plataforma regional con datos ambientales, sociales y cientÃ­ficos sobre la AmazonÃ­a.
+- [Observatorio Regional Amazónico — ORA](https://www.oraotca.org/en) — Plataforma regional con datos ambientales, sociales y científicos sobre la Amazonía.
 
-- [Red AmazÃ³nica de InformaciÃ³n Socioambiental Georreferenciada â€” RAISG](https://www.raisg.org/en/) â€” Mapas y anÃ¡lisis sobre bosques, territorios indÃ­genas, incendios y actividades extractivas.
+- [Red Amazónica de Información Socioambiental Georreferenciada — RAISG](https://www.raisg.org/en/) — Mapas y análisis sobre bosques, territorios indígenas, incendios y actividades extractivas.
 
-- [MapBiomas AmazonÃ­a](https://amazonia.mapbiomas.org/) â€” CartografÃ­a histÃ³rica de cobertura y uso del suelo en toda la regiÃ³n.
+- [MapBiomas Amazonía](https://amazonia.mapbiomas.org/) — Cartografía histórica de cobertura y uso del suelo en toda la región.
 
-- [Science Panel for the Amazon](https://www.sp-amazon.org/) â€” Evaluaciones cientÃ­ficas multidisciplinares sobre conservaciÃ³n y desarrollo sostenible.
+- [Science Panel for the Amazon](https://www.sp-amazon.org/) — Evaluaciones científicas multidisciplinares sobre conservación y desarrollo sostenible.
 
-- [Amazon Conservation](https://www.amazonconservation.org/) â€” Proyectos de protecciÃ³n forestal, monitoreo y colaboraciÃ³n con comunidades locales.
+- [Amazon Conservation](https://www.amazonconservation.org/) — Proyectos de protección forestal, monitoreo y colaboración con comunidades locales.
 
-- [Amazon Conservation Team](https://www.amazonteam.org/) â€” ConservaciÃ³n biocultural liderada junto con pueblos indÃ­genas amazÃ³nicos.
+- [Amazon Conservation Team](https://www.amazonteam.org/) — Conservación biocultural liderada junto con pueblos indígenas amazónicos.
 
-- [Amazon Watch](https://amazonwatch.org/) â€” Defensa de la selva y de los derechos de los pueblos indÃ­genas.
+- [Amazon Watch](https://amazonwatch.org/) — Defensa de la selva y de los derechos de los pueblos indígenas.
 
-- [WWF â€” Amazon](https://www.worldwildlife.org/places/amazon/) â€” InformaciÃ³n sobre biodiversidad, amenazas y programas internacionales de conservaciÃ³n.
+- [WWF — Amazon](https://www.worldwildlife.org/places/amazon/) — Información sobre biodiversidad, amenazas y programas internacionales de conservación.
 
-- [Wildlife Conservation Society â€” Andes, Amazon and Orinoco](https://www.wcs.org/our-work/regions/andes-amazon-orinoco) â€” InvestigaciÃ³n y protecciÃ³n de paisajes y especies amazÃ³nicas.
+- [Wildlife Conservation Society — Andes, Amazon and Orinoco](https://www.wcs.org/our-work/regions/andes-amazon-orinoco) — Investigación y protección de paisajes y especies amazónicas.
 
-- [Alianza Aguas AmazÃ³nicas](https://en.aguasamazonicas.org/) â€” Ciencia y cooperaciÃ³n para la conservaciÃ³n de ecosistemas acuÃ¡ticos amazÃ³nicos.
+- [Alianza Aguas Amazónicas](https://en.aguasamazonicas.org/) — Ciencia y cooperación para la conservación de ecosistemas acuáticos amazónicos.
 
-- [Monitoring of the Andean Amazon Project â€” MAAP](https://www.maapprogram.org/) â€” Informes satelitales sobre deforestaciÃ³n, minerÃ­a, incendios y carreteras.
+- [Monitoring of the Andean Amazon Project — MAAP](https://www.maapprogram.org/) — Informes satelitales sobre deforestación, minería, incendios y carreteras.
 
-- [TerraBrasilis â€” INPE](https://terrabrasilis.dpi.inpe.br/) â€” Datos oficiales brasileÃ±os de deforestaciÃ³n, incendios y cobertura forestal.
+- [TerraBrasilis — INPE](https://terrabrasilis.dpi.inpe.br/) — Datos oficiales brasileños de deforestación, incendios y cobertura forestal.
 
-- [Instituto de Pesquisa Ambiental da AmazÃ´nia â€” IPAM](https://ipam.org.br/) â€” InvestigaciÃ³n sobre clima, bosques, producciÃ³n rural y polÃ­ticas pÃºblicas.
+- [Instituto de Pesquisa Ambiental da Amazônia — IPAM](https://ipam.org.br/) — Investigación sobre clima, bosques, producción rural y políticas públicas.
 
-- [Imazon](https://imazon.org.br/) â€” Instituto de investigaciÃ³n dedicado al uso sostenible de la AmazonÃ­a brasileÃ±a.
+- [Imazon](https://imazon.org.br/) — Instituto de investigación dedicado al uso sostenible de la Amazonía brasileña.
 
-- [Instituto Socioambiental â€” ISA](https://www.socioambiental.org/) â€” InformaciÃ³n sobre pueblos indÃ­genas, Ã¡reas protegidas y conflictos territoriales.
+- [Instituto Socioambiental — ISA](https://www.socioambiental.org/) — Información sobre pueblos indígenas, áreas protegidas y conflictos territoriales.
 
-- [Instituto Nacional de Pesquisas da AmazÃ´nia â€” INPA](https://www.gov.br/inpa/) â€” Centro cientÃ­fico brasileÃ±o especializado en ecologÃ­a y biodiversidad amazÃ³nicas.
+- [Instituto Nacional de Pesquisas da Amazônia — INPA](https://www.gov.br/inpa/) — Centro científico brasileño especializado en ecología y biodiversidad amazónicas.
 
-- [Instituto de Desenvolvimento SustentÃ¡vel MamirauÃ¡](https://www.mamiraua.org/) â€” InvestigaciÃ³n y gestiÃ³n comunitaria de bosques inundables y fauna acuÃ¡tica.
+- [Instituto de Desenvolvimento Sustentável Mamirauá](https://www.mamiraua.org/) — Investigación y gestión comunitaria de bosques inundables y fauna acuática.
 
-- [Instituto AmazÃ³nico de Investigaciones CientÃ­ficas SINCHI](https://sinchi.org.co/) â€” Principal instituciÃ³n colombiana de investigaciÃ³n cientÃ­fica sobre la AmazonÃ­a.
+- [Instituto Amazónico de Investigaciones Científicas SINCHI](https://sinchi.org.co/) — Principal institución colombiana de investigación científica sobre la Amazonía.
 
-- [Instituto de Investigaciones de la AmazonÃ­a Peruana â€” IIAP](https://www.iiap.gob.pe/) â€” Estudios sobre biodiversidad, recursos acuÃ¡ticos y desarrollo sostenible.
+- [Instituto de Investigaciones de la Amazonía Peruana — IIAP](https://www.iiap.gob.pe/) — Estudios sobre biodiversidad, recursos acuáticos y desarrollo sostenible.
 
-- [FundaciÃ³n Gaia Amazonas](https://gaiaamazonas.org/) â€” Gobernanza indÃ­gena, protecciÃ³n territorial y conservaciÃ³n de la AmazonÃ­a colombiana.
+- [Fundación Gaia Amazonas](https://gaiaamazonas.org/) — Gobernanza indígena, protección territorial y conservación de la Amazonía colombiana.
 
-- [Coordinadora de las Organizaciones IndÃ­genas de la Cuenca AmazÃ³nica â€” COICA](https://coicamazonia.org/) â€” RepresentaciÃ³n internacional de pueblos indÃ­genas de los nueve paÃ­ses amazÃ³nicos.
+- [Coordinadora de las Organizaciones Indígenas de la Cuenca Amazónica — COICA](https://coicamazonia.org/) — Representación internacional de pueblos indígenas de los nueve países amazónicos.
 
-- [CoordenaÃ§Ã£o das OrganizaÃ§Ãµes IndÃ­genas da AmazÃ´nia Brasileira â€” COIAB](https://coiab.org.br/) â€” OrganizaciÃ³n representativa de los pueblos indÃ­genas de la AmazonÃ­a brasileÃ±a.
+- [Coordenação das Organizações Indígenas da Amazônia Brasileira — COIAB](https://coiab.org.br/) — Organización representativa de los pueblos indígenas de la Amazonía brasileña.
 
-- [FundaÃ§Ã£o VitÃ³ria AmazÃ´nica](https://www.fva.org.br/) â€” ConservaciÃ³n participativa y desarrollo sostenible en el Amazonas brasileÃ±o.
+- [Fundação Vitória Amazônica](https://www.fva.org.br/) — Conservación participativa y desarrollo sostenible en el Amazonas brasileño.
 
-- [Instituto Peabiru](https://peabiru.org.br/) â€” Iniciativas comunitarias, cadenas forestales sostenibles y protecciÃ³n de la biodiversidad.
+- [Instituto Peabiru](https://peabiru.org.br/) — Iniciativas comunitarias, cadenas forestales sostenibles y protección de la biodiversidad.
 
-- [Rainforest Foundation US](https://rainforestfoundation.org/) â€” Apoyo jurÃ­dico y tecnolÃ³gico a comunidades indÃ­genas de bosques tropicales.
+- [Rainforest Foundation US](https://rainforestfoundation.org/) — Apoyo jurídico y tecnológico a comunidades indígenas de bosques tropicales.
 
-- [Amazon Aid Foundation](https://amazonaid.org/) â€” EducaciÃ³n ambiental y campaÃ±as contra la minerÃ­a ilegal de oro.
+- [Amazon Aid Foundation](https://amazonaid.org/) — Educación ambiental y campañas contra la minería ilegal de oro.
 
-- [AsociaciÃ³n InterÃ©tnica de Desarrollo de la Selva Peruana â€” AIDESEP](https://aidesep.org.pe/) â€” OrganizaciÃ³n nacional representativa de los pueblos indÃ­genas amazÃ³nicos del PerÃº.
+- [Asociación Interétnica de Desarrollo de la Selva Peruana — AIDESEP](https://aidesep.org.pe/) — Organización nacional representativa de los pueblos indígenas amazónicos del Perú.
 
-- [Amazon Sustainable Landscapes Program â€” Banco Mundial](https://www.worldbank.org/en/programs/amazon-sustainable-landscapes-program) â€” Programa multinacional para conservar bosques y promover paisajes productivos sostenibles.
+- [Amazon Sustainable Landscapes Program — Banco Mundial](https://www.worldbank.org/en/programs/amazon-sustainable-landscapes-program) — Programa multinacional para conservar bosques y promover paisajes productivos sostenibles.
 
-- [Central Amazon Conservation Complex â€” UNESCO](https://whc.unesco.org/en/list/998/) â€” InformaciÃ³n oficial sobre el mayor conjunto protegido de la AmazonÃ­a central.
+- [Central Amazon Conservation Complex — UNESCO](https://whc.unesco.org/en/list/998/) — Información oficial sobre el mayor conjunto protegido de la Amazonía central.
 
 ## YOUTUBE
 
-- [Instituto Socioambiental](https://www.youtube.com/user/socioambiental) â€” Documentales sobre territorios indÃ­genas, bosques, rÃ­os y derechos socioambientales.
+- [Instituto Socioambiental](https://www.youtube.com/user/socioambiental) — Documentales sobre territorios indígenas, bosques, ríos y derechos socioambientales.
 
-- [Instituto MamirauÃ¡](https://www.youtube.com/user/InstitutoMamiraua) â€” InvestigaciÃ³n, fauna acuÃ¡tica y conservaciÃ³n comunitaria de bosques inundables.
+- [Instituto Mamirauá](https://www.youtube.com/user/InstitutoMamiraua) — Investigación, fauna acuática y conservación comunitaria de bosques inundables.
 
-- [Museu Paraense EmÃ­lio Goeldi](https://www.youtube.com/channel/UCwkOB_ODeHLPt7Msf6z5Vuw) â€” DivulgaciÃ³n cientÃ­fica sobre biodiversidad, arqueologÃ­a y culturas amazÃ³nicas.
+- [Museu Paraense Emílio Goeldi](https://www.youtube.com/channel/UCwkOB_ODeHLPt7Msf6z5Vuw) — Divulgación científica sobre biodiversidad, arqueología y culturas amazónicas.
 
-- [IPAM AmazÃ´nia](https://www.youtube.com/ipam_amazonia) â€” AnÃ¡lisis sobre clima, deforestaciÃ³n, incendios y producciÃ³n sostenible.
+- [IPAM Amazônia](https://www.youtube.com/ipam_amazonia) — Análisis sobre clima, deforestación, incendios y producción sostenible.
 
-- [Amazon Watch](https://www.youtube.com/user/AmazonWatch) â€” Testimonios indÃ­genas y campaÃ±as internacionales de protecciÃ³n amazÃ³nica.
+- [Amazon Watch](https://www.youtube.com/user/AmazonWatch) — Testimonios indígenas y campañas internacionales de protección amazónica.
 
-- [WWF-Brasil](https://www.youtube.com/user/WWFBrasil) â€” VÃ­deos educativos sobre fauna, bosques, agua y cambio climÃ¡tico.
+- [WWF-Brasil](https://www.youtube.com/user/WWFBrasil) — Vídeos educativos sobre fauna, bosques, agua y cambio climático.
 
-- [OTCA](https://www.youtube.com/user/otcavideo) â€” CooperaciÃ³n regional, proyectos cientÃ­ficos y polÃ­ticas de los paÃ­ses amazÃ³nicos.
+- [OTCA](https://www.youtube.com/user/otcavideo) — Cooperación regional, proyectos científicos y políticas de los países amazónicos.
 
-- [Amazon Conservation Team](https://www.youtube.com/channel/UCN7P8Z0eBlZrecVsAiNNj6w) â€” Historias de conservaciÃ³n biocultural y liderazgo indÃ­gena.
+- [Amazon Conservation Team](https://www.youtube.com/channel/UCN7P8Z0eBlZrecVsAiNNj6w) — Historias de conservación biocultural y liderazgo indígena.
 
-- [Amazon Conservation](https://www.youtube.com/user/AmazonConservation) â€” Monitoreo forestal, restauraciÃ³n y proyectos comunitarios en la AmazonÃ­a occidental.
+- [Amazon Conservation](https://www.youtube.com/user/AmazonConservation) — Monitoreo forestal, restauración y proyectos comunitarios en la Amazonía occidental.
 
-- [Science Panel for the Amazon](https://www.youtube.com/@sciencepanelfortheamazon) â€” Conferencias y presentaciones de especialistas internacionales en ciencia amazÃ³nica.
+- [Science Panel for the Amazon](https://www.youtube.com/@sciencepanelfortheamazon) — Conferencias y presentaciones de especialistas internacionales en ciencia amazónica.
 
 ## PODCAST
 
-- [Conversations for the Amazon We Want](https://www.sp-amazon.org/es/podcast) â€” Conversaciones cientÃ­ficas sobre las transformaciones y el futuro de la AmazonÃ­a.
+- [Conversations for the Amazon We Want](https://www.sp-amazon.org/es/podcast) — Conversaciones científicas sobre las transformaciones y el futuro de la Amazonía.
 
-- [AmazÃ´nia IndÃ­gena](https://open.spotify.com/show/6Hn6KCferLW4BdOuPF6cVy) â€” ProducciÃ³n de COIAB centrada en derechos, culturas y voces indÃ­genas.
+- [Amazônia Indígena](https://open.spotify.com/show/6Hn6KCferLW4BdOuPF6cVy) — Producción de COIAB centrada en derechos, culturas y voces indígenas.
 
-- [Liberal Amazon Podcast](https://www.liberalamazon.com/podcast) â€” Entrevistas sobre economÃ­a, instituciones y desarrollo sostenible de la regiÃ³n.
+- [Liberal Amazon Podcast](https://www.liberalamazon.com/podcast) — Entrevistas sobre economía, instituciones y desarrollo sostenible de la región.
 
-- [Vozes IndÃ­genas da AmazÃ´nia](https://www.deezer.com/br/show/2557452) â€” Relatos, conocimientos y perspectivas de comunicadores indÃ­genas amazÃ³nicos.
+- [Vozes Indígenas da Amazônia](https://www.deezer.com/br/show/2557452) — Relatos, conocimientos y perspectivas de comunicadores indígenas amazónicos.
 
-- [El podcast de Amazondas](https://open.spotify.com/show/1POBPvHrjoYFntlOTrdIb1) â€” Historias sobre mujeres, territorio, cultura y defensa de la selva.
+- [El podcast de Amazondas](https://open.spotify.com/show/1POBPvHrjoYFntlOTrdIb1) — Historias sobre mujeres, territorio, cultura y defensa de la selva.
 
-- [Pavulagem](https://www.podcastnarrativo.com.br/podcasts/pavulagem) â€” Periodismo narrativo brasileÃ±o sobre vidas, conflictos e identidades amazÃ³nicas.
+- [Pavulagem](https://www.podcastnarrativo.com.br/podcasts/pavulagem) — Periodismo narrativo brasileño sobre vidas, conflictos e identidades amazónicas.
 
-- [Vozes do Planeta â€” Especies amazÃ³nicas](https://rainforestjournalismfund.org/stories/podcast-vozes-do-planeta-explores-new-species-brazilian-amazon-portuguese) â€” Serie sonora sobre descubrimientos cientÃ­ficos y biodiversidad de la AmazonÃ­a brasileÃ±a.
+- [Vozes do Planeta — Especies amazónicas](https://rainforestjournalismfund.org/stories/podcast-vozes-do-planeta-explores-new-species-brazilian-amazon-portuguese) — Serie sonora sobre descubrimientos científicos y biodiversidad de la Amazonía brasileña.
 
-- [Pod Parente](https://apiboficial.org/2024/03/19/articulacao-dos-povos-indigenas-do-brasil-lanca-o-pod-parente-podcast-produzido-por-comunicadores-indigenas/) â€” Podcast producido por comunicadores indÃ­genas de distintas regiones de Brasil.
+- [Pod Parente](https://apiboficial.org/2024/03/19/articulacao-dos-povos-indigenas-do-brasil-lanca-o-pod-parente-podcast-produzido-por-comunicadores-indigenas/) — Podcast producido por comunicadores indígenas de distintas regiones de Brasil.
 
-- [Missing in the Amazon](https://www.theguardian.com/gnm-press-office/2025/jun/05/the-guardian-launches-missing-in-the-amazon-a-new-podcast-that-uncovers-what-happened-when-a-journalist-and-an-indigenous-defender-disappeared) â€” InvestigaciÃ³n sobre Bruno Pereira, Dom Phillips y los conflictos del valle del Javari.
+- [Missing in the Amazon](https://www.theguardian.com/gnm-press-office/2025/jun/05/the-guardian-launches-missing-in-the-amazon-a-new-podcast-that-uncovers-what-happened-when-a-journalist-and-an-indigenous-defender-disappeared) — Investigación sobre Bruno Pereira, Dom Phillips y los conflictos del valle del Javari.
 
-- [The Junglekeeper Podcast with Paul Rosolie](https://open.spotify.com/show/0Jh5nYfV94MzLZXjZWuxMp) â€” Conversaciones sobre conservaciÃ³n, expediciones y protecciÃ³n de ecosistemas amazÃ³nicos.
+- [The Junglekeeper Podcast with Paul Rosolie](https://open.spotify.com/show/0Jh5nYfV94MzLZXjZWuxMp) — Conversaciones sobre conservación, expediciones y protección de ecosistemas amazónicos.
 
 ## LIBROS
 
-- [The Amazon: What Everyone Needs to Know â€” Mark J. Plotkin](https://academic.oup.com/book/62802) â€” SÃ­ntesis accesible sobre biodiversidad, pueblos, amenazas y conservaciÃ³n.
+- [The Amazon: What Everyone Needs to Know — Mark J. Plotkin](https://academic.oup.com/book/62802) — Síntesis accesible sobre biodiversidad, pueblos, amenazas y conservación.
 
-- [The Fate of the Forest â€” Susanna B. Hecht y Alexander Cockburn](https://press.uchicago.edu/ucp/books/book/chicago/F/bo10387801.html) â€” Historia polÃ­tica y econÃ³mica de la ocupaciÃ³n de la AmazonÃ­a brasileÃ±a.
+- [The Fate of the Forest — Susanna B. Hecht y Alexander Cockburn](https://press.uchicago.edu/ucp/books/book/chicago/F/bo10387801.html) — Historia política y económica de la ocupación de la Amazonía brasileña.
 
-- [The River of Doubt â€” Candice Millard](https://www.penguinrandomhouse.com/books/114422/the-river-of-doubt-by-candice-millard/) â€” Relato de la expediciÃ³n de Theodore Roosevelt por un afluente amazÃ³nico.
+- [The River of Doubt — Candice Millard](https://www.penguinrandomhouse.com/books/114422/the-river-of-doubt-by-candice-millard/) — Relato de la expedición de Theodore Roosevelt por un afluente amazónico.
 
-- [The Lost City of Z â€” David Grann](https://www.penguinrandomhouse.com/books/70475/the-lost-city-of-z-by-david-grann/) â€” InvestigaciÃ³n sobre Percy Fawcett y las antiguas sociedades amazÃ³nicas.
+- [The Lost City of Z — David Grann](https://www.penguinrandomhouse.com/books/70475/the-lost-city-of-z-by-david-grann/) — Investigación sobre Percy Fawcett y las antiguas sociedades amazónicas.
 
-- [Fordlandia â€” Greg Grandin](https://us.macmillan.com/books/9780312429621/fordlandia/) â€” Historia del fallido proyecto industrial de Henry Ford en Brasil.
+- [Fordlandia — Greg Grandin](https://us.macmillan.com/books/9780312429621/fordlandia/) — Historia del fallido proyecto industrial de Henry Ford en Brasil.
 
-- [One River â€” Wade Davis](https://www.simonandschuster.com/books/One-River/Wade-Davis/9780684834962) â€” EtnobotÃ¡nica, exploraciÃ³n cientÃ­fica y conocimientos indÃ­genas de SudamÃ©rica.
+- [One River — Wade Davis](https://www.simonandschuster.com/books/One-River/Wade-Davis/9780684834962) — Etnobotánica, exploración científica y conocimientos indígenas de Sudamérica.
 
-- [The Falling Sky â€” Davi Kopenawa y Bruce Albert](https://www.jstor.org/stable/j.ctt6wppk9) â€” Testimonio fundamental sobre cosmologÃ­a yanomami y destrucciÃ³n territorial.
+- [The Falling Sky — Davi Kopenawa y Bruce Albert](https://www.jstor.org/stable/j.ctt6wppk9) — Testimonio fundamental sobre cosmología yanomami y destrucción territorial.
 
-- [Banzeiro Ã’kÃ²tÃ³ â€” Eliane Brum](https://www.graywolfpress.org/books/banzeiro-okoto) â€” CrÃ³nica contemporÃ¡nea sobre pueblos, conflictos y resistencias de la selva.
+- [Banzeiro Òkòtó — Eliane Brum](https://www.graywolfpress.org/books/banzeiro-okoto) — Crónica contemporánea sobre pueblos, conflictos y resistencias de la selva.
 
-- [Ideas to Postpone the End of the World â€” Ailton Krenak](https://houseofanansi.com/products/ideas-to-postpone-the-end-of-the-world) â€” ReflexiÃ³n indÃ­gena sobre humanidad, naturaleza y crisis ecolÃ³gica.
+- [Ideas to Postpone the End of the World — Ailton Krenak](https://houseofanansi.com/products/ideas-to-postpone-the-end-of-the-world) — Reflexión indígena sobre humanidad, naturaleza y crisis ecológica.
 
-- [In Amazonia â€” Hugh Raffles](https://press.princeton.edu/books/paperback/9780691048857/in-amazonia) â€” Estudio antropolÃ³gico sobre paisajes, comunidades y transformaciÃ³n ambiental.
+- [In Amazonia — Hugh Raffles](https://press.princeton.edu/books/paperback/9780691048857/in-amazonia) — Estudio antropológico sobre paisajes, comunidades y transformación ambiental.
 
-- [Tree of Rivers â€” John Hemming](https://books.apple.com/au/book/tree-of-rivers/id571929087) â€” Historia integral de la exploraciÃ³n y ocupaciÃ³n de la AmazonÃ­a.
+- [Tree of Rivers — John Hemming](https://books.apple.com/au/book/tree-of-rivers/id571929087) — Historia integral de la exploración y ocupación de la Amazonía.
 
-- [The Unconquered â€” Scott Wallace](https://books.google.com/books/about/The_Unconquered.html?id=Gqb8mAEACAAJ) â€” ExpediciÃ³n para proteger territorios de pueblos indÃ­genas aislados.
+- [The Unconquered — Scott Wallace](https://books.google.com/books/about/The_Unconquered.html?id=Gqb8mAEACAAJ) — Expedición para proteger territorios de pueblos indígenas aislados.
 
-- [The Burning Season â€” Andrew Revkin](https://books.apple.com/gb/book/the-burning-season/id6761501976) â€” BiografÃ­a de Chico Mendes y crÃ³nica de la defensa del bosque.
+- [The Burning Season — Andrew Revkin](https://books.apple.com/gb/book/the-burning-season/id6761501976) — Biografía de Chico Mendes y crónica de la defensa del bosque.
 
-- [Walking the Amazon â€” Ed Stafford](https://www.penguin.co.uk/books/414877/walking-the-amazon-by-ed-stafford/9780753515648) â€” Relato de la primera travesÃ­a documentada a pie del Amazonas.
+- [Walking the Amazon — Ed Stafford](https://www.penguin.co.uk/books/414877/walking-the-amazon-by-ed-stafford/9780753515648) — Relato de la primera travesía documentada a pie del Amazonas.
 
-- [Amazonia: Landscape and Species Evolution â€” Carina Hoorn y Frank Wesselingh](https://www.wiley.com/en-us/Amazonia%3A+Landscape+and+Species+Evolution%3A+A+Look+into+the+Past-p-9781444306408) â€” Referencia cientÃ­fica sobre geologÃ­a, evoluciÃ³n y biodiversidad amazÃ³nicas.
+- [Amazonia: Landscape and Species Evolution — Carina Hoorn y Frank Wesselingh](https://www.wiley.com/en-us/Amazonia%3A+Landscape+and+Species+Evolution%3A+A+Look+into+the+Past-p-9781444306408) — Referencia científica sobre geología, evolución y biodiversidad amazónicas.
 
-- [The Shamanâ€™s Apprentice â€” Mark J. Plotkin y Lynne Cherry](https://www.simonandschuster.com/books/The-Shamans-Apprentice/Mark-J-Plotkin/9780152003913) â€” IntroducciÃ³n ilustrada a la medicina tradicional y la etnobotÃ¡nica.
+- [The Shaman’s Apprentice — Mark J. Plotkin y Lynne Cherry](https://www.simonandschuster.com/books/The-Shamans-Apprentice/Mark-J-Plotkin/9780152003913) — Introducción ilustrada a la medicina tradicional y la etnobotánica.
 
-- [We Will Be Jaguars â€” Nemonte Nenquimo y Mitch Anderson](https://www.abramsbooks.com/product/we-will-be-jaguars-reeses-book-club-pick_9781419763779/) â€” Memorias de la dirigente waorani y su lucha por el territorio.
+- [We Will Be Jaguars — Nemonte Nenquimo y Mitch Anderson](https://www.abramsbooks.com/product/we-will-be-jaguars-reeses-book-club-pick_9781419763779/) — Memorias de la dirigente waorani y su lucha por el territorio.
 
-- [The Last Forest â€” Mark London y Brian Kelly](https://www.penguinrandomhouse.com/books/101930/the-last-forest-by-mark-london-and-brian-kelly/) â€” AnÃ¡lisis de las fuerzas econÃ³micas que transforman la AmazonÃ­a.
+- [The Last Forest — Mark London y Brian Kelly](https://www.penguinrandomhouse.com/books/101930/the-last-forest-by-mark-london-and-brian-kelly/) — Análisis de las fuerzas económicas que transforman la Amazonía.
 
-- [Amazon River Fishes â€” Michael Goulding, Ronaldo Barthem y Efrem Ferreira](https://www.smithsonianbooks.com/store/science-nature/amazon-river-fishes/) â€” GuÃ­a cientÃ­fica sobre peces, hÃ¡bitats y ecologÃ­a fluvial amazÃ³nica.
+- [Amazon River Fishes — Michael Goulding, Ronaldo Barthem y Efrem Ferreira](https://www.smithsonianbooks.com/store/science-nature/amazon-river-fishes/) — Guía científica sobre peces, hábitats y ecología fluvial amazónica.
 
-- [Amazonian Floodplain Forests â€” Wolfgang J. Junk, Maria T. F. Piedade, Florian Wittmann, Jochen SchÃ¶ngart y Pia Parolin](https://link.springer.com/book/10.1007/978-90-481-8725-6) â€” Obra especializada sobre bosques inundables, biodiversidad y gestiÃ³n sostenible.
+- [Amazonian Floodplain Forests — Wolfgang J. Junk, Maria T. F. Piedade, Florian Wittmann, Jochen Schöngart y Pia Parolin](https://link.springer.com/book/10.1007/978-90-481-8725-6) — Obra especializada sobre bosques inundables, biodiversidad y gestión sostenible.
 
 ## REVISTAS
 
-- [Acta Amazonica](https://www.scielo.br/j/aa/) â€” Revista cientÃ­fica multidisciplinar del INPA dedicada a la AmazonÃ­a.
+- [Acta Amazonica](https://www.scielo.br/j/aa/) — Revista científica multidisciplinar del INPA dedicada a la Amazonía.
 
-- [Mundo AmazÃ³nico](https://revistas.unal.edu.co/index.php/imanimundo) â€” Estudios interdisciplinarios sobre sociedades, territorios y conocimientos amazÃ³nicos.
+- [Mundo Amazónico](https://revistas.unal.edu.co/index.php/imanimundo) — Estudios interdisciplinarios sobre sociedades, territorios y conocimientos amazónicos.
 
-- [Boletim do Museu Paraense EmÃ­lio Goeldi â€” CiÃªncias Naturais](https://boletimcn.museu-goeldi.br/bcnaturais) â€” InvestigaciÃ³n sobre zoologÃ­a, botÃ¡nica, ecologÃ­a y ciencias de la Tierra.
+- [Boletim do Museu Paraense Emílio Goeldi — Ciências Naturais](https://boletimcn.museu-goeldi.br/bcnaturais) — Investigación sobre zoología, botánica, ecología y ciencias de la Tierra.
 
-- [Boletim do Museu Paraense EmÃ­lio Goeldi â€” CiÃªncias Humanas](https://www.scielo.br/j/bgoeldi/) â€” AntropologÃ­a, arqueologÃ­a, lingÃ¼Ã­stica e historia de la regiÃ³n.
+- [Boletim do Museu Paraense Emílio Goeldi — Ciências Humanas](https://www.scielo.br/j/bgoeldi/) — Antropología, arqueología, lingüística e historia de la región.
 
-- [Novos Cadernos NAEA](https://periodicos.ufpa.br/index.php/ncn) â€” Desarrollo regional, economÃ­a, polÃ­ticas pÃºblicas y cuestiones socioambientales.
+- [Novos Cadernos NAEA](https://periodicos.ufpa.br/index.php/ncn) — Desarrollo regional, economía, políticas públicas y cuestiones socioambientales.
 
-- [AmazÃ´nica â€” Revista de Antropologia](https://periodicos.ufpa.br/index.php/amazonica) â€” Estudios antropolÃ³gicos sobre pueblos y culturas amazÃ³nicas.
+- [Amazônica — Revista de Antropologia](https://periodicos.ufpa.br/index.php/amazonica) — Estudios antropológicos sobre pueblos y culturas amazónicas.
 
-- [Biota AmazÃ´nia](https://periodicos.unifap.br/index.php/biota/index) â€” Biodiversidad, conservaciÃ³n y ciencias ambientales de la AmazonÃ­a.
+- [Biota Amazônia](https://periodicos.unifap.br/index.php/biota/index) — Biodiversidad, conservación y ciencias ambientales de la Amazonía.
 
-- [Revista GeoAmazÃ´nia](https://periodicos.ufpa.br/index.php/geoamazonia) â€” GeografÃ­a fÃ­sica, humana y territorial de los espacios amazÃ³nicos.
+- [Revista GeoAmazônia](https://periodicos.ufpa.br/index.php/geoamazonia) — Geografía física, humana y territorial de los espacios amazónicos.
 
-- [Revista Terceira Margem AmazÃ´nia](https://www.revistaterceiramargem.com/terceiramargem/index) â€” Sociedad, cultura, desarrollo rural y sostenibilidad regional.
+- [Revista Terceira Margem Amazônia](https://www.revistaterceiramargem.com/terceiramargem/index) — Sociedad, cultura, desarrollo rural y sostenibilidad regional.
 
-- [Revista Brasileira de CiÃªncias da AmazÃ´nia](https://periodicos.unir.br/index.php/rolimdemoura/index) â€” ProducciÃ³n cientÃ­fica interdisciplinar vinculada a la AmazonÃ­a brasileÃ±a.
+- [Revista Brasileira de Ciências da Amazônia](https://periodicos.unir.br/index.php/rolimdemoura/index) — Producción científica interdisciplinar vinculada a la Amazonía brasileña.
 
 ## MUSEOS
 
-- [Museu Paraense EmÃ­lio Goeldi](https://www.gov.br/museugoeldi/pt-br/a-instituicao/visitacao) â€” Colecciones cientÃ­ficas y etnogrÃ¡ficas fundamentales sobre la AmazonÃ­a oriental.
+- [Museu Paraense Emílio Goeldi](https://www.gov.br/museugoeldi/pt-br/a-instituicao/visitacao) — Colecciones científicas y etnográficas fundamentales sobre la Amazonía oriental.
 
-- [Museu da AmazÃ´nia â€” MUSA](https://museudaamazonia.org.br/visita/) â€” Museo vivo y jardÃ­n botÃ¡nico integrado en una reserva forestal de Manaos.
+- [Museu da Amazônia — MUSA](https://museudaamazonia.org.br/visita/) — Museo vivo y jardín botánico integrado en una reserva forestal de Manaos.
 
-- [Museu AmazÃ´nico â€” Universidade Federal do Amazonas](https://visite.museus.gov.br/instituicoes/museu-amazonico-universidade-federal-do-amazonas/) â€” ArqueologÃ­a, etnologÃ­a, historia y cultura material amazÃ³nicas.
+- [Museu Amazônico — Universidade Federal do Amazonas](https://visite.museus.gov.br/instituicoes/museu-amazonico-universidade-federal-do-amazonas/) — Arqueología, etnología, historia y cultura material amazónicas.
 
-- [Museu Sacaca](https://www.museusacaca.ap.gov.br/conteudo/institucional/historia) â€” Exposiciones al aire libre sobre comunidades y modos de vida de AmapÃ¡.
+- [Museu Sacaca](https://www.museusacaca.ap.gov.br/conteudo/institucional/historia) — Exposiciones al aire libre sobre comunidades y modos de vida de Amapá.
 
-- [Museu do Seringal Vila ParaÃ­so](https://cultura.am.gov.br/espacos-culturais/museus/museu-do-seringal-vila-paraiso/) â€” ReconstrucciÃ³n histÃ³rica de la economÃ­a y sociedad de la Ã©poca del caucho.
+- [Museu do Seringal Vila Paraíso](https://cultura.am.gov.br/espacos-culturais/museus/museu-do-seringal-vila-paraiso/) — Reconstrucción histórica de la economía y sociedad de la época del caucho.
 
-- [Museo AmazÃ³nico de Iquitos](https://museos.cultura.pe/museos/museo-amaz%C3%B3nico) â€” Historia regional, esculturas indÃ­genas y patrimonio cultural de Loreto.
+- [Museo Amazónico de Iquitos](https://museos.cultura.pe/museos/museo-amaz%C3%B3nico) — Historia regional, esculturas indígenas y patrimonio cultural de Loreto.
 
-- [Museo de Culturas IndÃ­genas AmazÃ³nicas](https://www.ytuqueplanes.com/destinos/loreto/la-ciudad-de-iquitos/museo-de-culturas-indigenas-amazonicas) â€” Colecciones representativas de numerosos pueblos indÃ­genas de la cuenca.
+- [Museo de Culturas Indígenas Amazónicas](https://www.ytuqueplanes.com/destinos/loreto/la-ciudad-de-iquitos/museo-de-culturas-indigenas-amazonicas) — Colecciones representativas de numerosos pueblos indígenas de la cuenca.
 
-- [Museo EtnogrÃ¡fico del Banco de la RepÃºblica â€” Leticia](https://www.banrepcultural.org/leticia/museo-etnografico) â€” Objetos, fotografÃ­as y conocimientos de los pueblos de la AmazonÃ­a colombiana.
+- [Museo Etnográfico del Banco de la República — Leticia](https://www.banrepcultural.org/leticia/museo-etnografico) — Objetos, fotografías y conocimientos de los pueblos de la Amazonía colombiana.
 
-- [Museu Nacional dos Povos IndÃ­genas](https://www.gov.br/funai/pt-br/assuntos/noticias/2025/governo-federal-oficializa-mudanca-de-nome-do-museu-nacional-dos-povos-indigenas) â€” Patrimonio etnogrÃ¡fico y documental de los pueblos indÃ­genas de Brasil.
+- [Museu Nacional dos Povos Indígenas](https://www.gov.br/funai/pt-br/assuntos/noticias/2025/governo-federal-oficializa-mudanca-de-nome-do-museu-nacional-dos-povos-indigenas) — Patrimonio etnográfico y documental de los pueblos indígenas de Brasil.
 
-- [Museo Nacional de EtnografÃ­a y Folklore â€” MUSEF](https://www.musef.org.bo/) â€” Colecciones bolivianas que incluyen culturas indÃ­genas de las tierras bajas amazÃ³nicas.
+- [Museo Nacional de Etnografía y Folklore — MUSEF](https://www.musef.org.bo/) — Colecciones bolivianas que incluyen culturas indígenas de las tierras bajas amazónicas.
 
 ## UNIVERSIDADES
 
-- [Universidade Federal do Amazonas â€” UFAM](https://www.ufam.edu.br/) â€” Universidad central para la investigaciÃ³n cientÃ­fica y social del Amazonas brasileÃ±o.
+- [Universidade Federal do Amazonas — UFAM](https://www.ufam.edu.br/) — Universidad central para la investigación científica y social del Amazonas brasileño.
 
-- [Universidade Federal do ParÃ¡ â€” UFPA](https://www.ufpa.br/) â€” Referencia regional en biodiversidad, antropologÃ­a, desarrollo y estudios amazÃ³nicos.
+- [Universidade Federal do Pará — UFPA](https://www.ufpa.br/) — Referencia regional en biodiversidad, antropología, desarrollo y estudios amazónicos.
 
-- [Universidade Federal do Oeste do ParÃ¡ â€” UFOPA](https://www.ufopa.edu.br/) â€” FormaciÃ³n e investigaciÃ³n especializada en ecosistemas y sociedades amazÃ³nicas.
+- [Universidade Federal do Oeste do Pará — UFOPA](https://www.ufopa.edu.br/) — Formación e investigación especializada en ecosistemas y sociedades amazónicas.
 
-- [Universidad Nacional de la AmazonÃ­a Peruana â€” UNAP](https://portal.unapiquitos.edu.pe/) â€” Principal universidad pÃºblica de Loreto y la AmazonÃ­a peruana.
+- [Universidad Nacional de la Amazonía Peruana — UNAP](https://portal.unapiquitos.edu.pe/) — Principal universidad pública de Loreto y la Amazonía peruana.
 
-- [Universidad Nacional AmazÃ³nica de Madre de Dios â€” UNAMAD](https://www.unamad.edu.pe/) â€” InvestigaciÃ³n sobre bosques, biodiversidad, turismo y recursos naturales.
+- [Universidad Nacional Amazónica de Madre de Dios — UNAMAD](https://www.unamad.edu.pe/) — Investigación sobre bosques, biodiversidad, turismo y recursos naturales.
 
-- [Universidad Nacional de Colombia â€” Sede Amazonia](https://amazonia.unal.edu.co/) â€” Estudios interculturales, ecologÃ­a y formaciÃ³n avanzada desde Leticia.
+- [Universidad Nacional de Colombia — Sede Amazonia](https://amazonia.unal.edu.co/) — Estudios interculturales, ecología y formación avanzada desde Leticia.
 
-- [Universidad de la Amazonia](https://www.uniamazonia.edu.co/) â€” InstituciÃ³n colombiana orientada al desarrollo y conservaciÃ³n de la regiÃ³n.
+- [Universidad de la Amazonia](https://www.uniamazonia.edu.co/) — Institución colombiana orientada al desarrollo y conservación de la región.
 
-- [Universidad Estatal AmazÃ³nica](https://www.uea.edu.ec/) â€” Universidad ecuatoriana especializada en biodiversidad, agroecologÃ­a y turismo sostenible.
+- [Universidad Estatal Amazónica](https://www.uea.edu.ec/) — Universidad ecuatoriana especializada en biodiversidad, agroecología y turismo sostenible.
 
-- [Universidad AmazÃ³nica de Pando](https://www.uap.edu.bo/) â€” FormaciÃ³n e investigaciÃ³n vinculadas a la AmazonÃ­a boliviana.
+- [Universidad Amazónica de Pando](https://www.uap.edu.bo/) — Formación e investigación vinculadas a la Amazonía boliviana.
 
-- [University of Guyana](https://www.uog.edu.gy/) â€” Estudios sobre bosques tropicales, biodiversidad y desarrollo de las Guayanas.
+- [University of Guyana](https://www.uog.edu.gy/) — Estudios sobre bosques tropicales, biodiversidad y desarrollo de las Guayanas.
 
 ## ASOCIACIONES
 
-- [OrganizaciÃ³n Nacional de los Pueblos IndÃ­genas de la AmazonÃ­a Colombiana â€” OPIAC](https://opiac.org.co/) â€” Representa y defiende los territorios y derechos de los pueblos amazÃ³nicos colombianos.
+- [Organización Nacional de los Pueblos Indígenas de la Amazonía Colombiana — OPIAC](https://opiac.org.co/) — Representa y defiende los territorios y derechos de los pueblos amazónicos colombianos.
 
-- [ArticulaÃ§Ã£o dos Povos IndÃ­genas do Brasil â€” APIB](https://apiboficial.org/) â€” CoordinaciÃ³n nacional de organizaciones indÃ­genas y campaÃ±as de defensa territorial.
+- [Articulação dos Povos Indígenas do Brasil — APIB](https://apiboficial.org/) — Coordinación nacional de organizaciones indígenas y campañas de defensa territorial.
 
-- [ConfederaciÃ³n de Nacionalidades IndÃ­genas de la AmazonÃ­a Ecuatoriana â€” CONFENIAE](https://confeniae.org/) â€” OrganizaciÃ³n representativa de las nacionalidades indÃ­genas de la AmazonÃ­a ecuatoriana.
+- [Confederación de Nacionalidades Indígenas de la Amazonía Ecuatoriana — CONFENIAE](https://confeniae.org/) — Organización representativa de las nacionalidades indígenas de la Amazonía ecuatoriana.
 
-- [ConfederaciÃ³n de Pueblos IndÃ­genas de Bolivia â€” CIDOB](https://cidob-bo.org/) â€” Defensa polÃ­tica y territorial de pueblos indÃ­genas de tierras bajas.
+- [Confederación de Pueblos Indígenas de Bolivia — CIDOB](https://cidob-bo.org/) — Defensa política y territorial de pueblos indígenas de tierras bajas.
 
-- [Amerindian Peoples Association â€” Guyana](https://www.apaguyana.org/) â€” PromociÃ³n de los derechos colectivos y territoriales de los pueblos amerindios.
+- [Amerindian Peoples Association — Guyana](https://www.apaguyana.org/) — Promoción de los derechos colectivos y territoriales de los pueblos amerindios.
 
-- [Association of Indigenous Village Leaders in Suriname â€” VIDS](https://vids.sr/) â€” RepresentaciÃ³n de autoridades comunitarias indÃ­genas de Surinam.
+- [Association of Indigenous Village Leaders in Suriname — VIDS](https://vids.sr/) — Representación de autoridades comunitarias indígenas de Surinam.
 
-- [OrganizaciÃ³n Regional de Pueblos IndÃ­genas de Amazonas â€” ORPIA](https://orpia.org/) â€” ArticulaciÃ³n de organizaciones y comunidades indÃ­genas del Amazonas venezolano.
+- [Organización Regional de Pueblos Indígenas de Amazonas — ORPIA](https://orpia.org/) — Articulación de organizaciones y comunidades indígenas del Amazonas venezolano.
 
-- [FederaciÃ³n Nativa del RÃ­o Madre de Dios y Afluentes â€” FENAMAD](https://fenamad.com.pe/) â€” ProtecciÃ³n de territorios indÃ­genas y pueblos en aislamiento del PerÃº.
+- [Federación Nativa del Río Madre de Dios y Afluentes — FENAMAD](https://fenamad.com.pe/) — Protección de territorios indígenas y pueblos en aislamiento del Perú.
 
-- [OrganizaciÃ³n Regional AIDESEP Ucayali â€” ORAU](https://orau.org.pe/) â€” RepresentaciÃ³n de federaciones indÃ­genas de la AmazonÃ­a central peruana.
+- [Organización Regional AIDESEP Ucayali — ORAU](https://orau.org.pe/) — Representación de federaciones indígenas de la Amazonía central peruana.
 
-- [Red Eclesial PanamazÃ³nica â€” REPAM](https://www.repam.net/) â€” Red internacional dedicada a la justicia socioambiental y los derechos amazÃ³nicos.
+- [Red Eclesial Panamazónica — REPAM](https://www.repam.net/) — Red internacional dedicada a la justicia socioambiental y los derechos amazónicos.
 
 ## NEWSLETTER
 
-- [Amazon Watch Newsletter](https://amazonwatch.org/subscribe) â€” CampaÃ±as, noticias indÃ­genas y alertas sobre amenazas ambientales.
+- [Amazon Watch Newsletter](https://amazonwatch.org/subscribe) — Campañas, noticias indígenas y alertas sobre amenazas ambientales.
 
-- [Mongabay Newsletters](https://news.mongabay.com/newsletter-subscribe/) â€” Selecciones periÃ³dicas de periodismo ambiental y noticias de bosques tropicales.
+- [Mongabay Newsletters](https://news.mongabay.com/newsletter-subscribe/) — Selecciones periódicas de periodismo ambiental y noticias de bosques tropicales.
 
-- [Amazon Conservation Newsletter](https://www.amazonconservation.org/newsletter/) â€” Resultados de conservaciÃ³n, ciencia de campo y proyectos comunitarios.
+- [Amazon Conservation Newsletter](https://www.amazonconservation.org/newsletter/) — Resultados de conservación, ciencia de campo y proyectos comunitarios.
 
-- [The Vine â€” Amazon Conservation Team](https://www.amazonteam.org/the-vine/) â€” Actualizaciones sobre conservaciÃ³n biocultural y alianzas con pueblos indÃ­genas.
+- [The Vine — Amazon Conservation Team](https://www.amazonteam.org/the-vine/) — Actualizaciones sobre conservación biocultural y alianzas con pueblos indígenas.
 
-- [AmazÃ´nia em Pauta â€” InfoAmazonia](https://www.linkedin.com/newsletters/amaz%C3%B4nia-em-pauta-7075578670030950400) â€” SelecciÃ³n informativa sobre ambiente, polÃ­tica y territorios amazÃ³nicos.
+- [Amazônia em Pauta — InfoAmazonia](https://www.linkedin.com/newsletters/amaz%C3%B4nia-em-pauta-7075578670030950400) — Selección informativa sobre ambiente, política y territorios amazónicos.
 
-- [Rainforest Foundation US Newsletter](https://rainforestfoundation.org/subscribe/) â€” Derechos indÃ­genas, protecciÃ³n territorial y monitoreo de bosques.
+- [Rainforest Foundation US Newsletter](https://rainforestfoundation.org/subscribe/) — Derechos indígenas, protección territorial y monitoreo de bosques.
 
-- [WWF Newsletter](https://www.worldwildlife.org/pages/newsletter-sign-up) â€” Noticias internacionales de conservaciÃ³n con cobertura regular de la AmazonÃ­a.
+- [WWF Newsletter](https://www.worldwildlife.org/pages/newsletter-sign-up) — Noticias internacionales de conservación con cobertura regular de la Amazonía.
 
-- [WCS Newsletter](https://secure.wcs.org/subscribe) â€” Ciencia, biodiversidad y proyectos de conservaciÃ³n de paisajes tropicales.
+- [WCS Newsletter](https://secure.wcs.org/subscribe) — Ciencia, biodiversidad y proyectos de conservación de paisajes tropicales.
 
-- [Forest Trends Newsletter](https://www.forest-trends.org/newsletter/) â€” EconomÃ­a forestal, carbono, agua y derechos comunitarios.
+- [Forest Trends Newsletter](https://www.forest-trends.org/newsletter/) — Economía forestal, carbono, agua y derechos comunitarios.
 
-- [Amazon Frontlines Newsletter](https://www.amazonfrontlines.org/newsletter/) â€” CampaÃ±as y testimonios de pueblos indÃ­genas de la AmazonÃ­a occidental.
+- [Amazon Frontlines Newsletter](https://www.amazonfrontlines.org/newsletter/) — Campañas y testimonios de pueblos indígenas de la Amazonía occidental.
 
 ## TV
 
-- [Rede AmazÃ´nica](https://redeglobo.globo.com/redeamazonica/) â€” Red regional con informaciÃ³n diaria de los estados amazÃ³nicos de Brasil.
+- [Rede Amazônica](https://redeglobo.globo.com/redeamazonica/) — Red regional con información diaria de los estados amazónicos de Brasil.
 
-- [Amazon Sat](https://portalamazonia.com/amazon-sat/) â€” Canal especializado en cultura, naturaleza, economÃ­a y sociedad amazÃ³nicas.
+- [Amazon Sat](https://portalamazonia.com/amazon-sat/) — Canal especializado en cultura, naturaleza, economía y sociedad amazónicas.
 
-- [TV Cultura do ParÃ¡](https://portalcultura.com.br/) â€” ProgramaciÃ³n pÃºblica sobre cultura, ciencia y actualidad de ParÃ¡.
+- [TV Cultura do Pará](https://portalcultura.com.br/) — Programación pública sobre cultura, ciencia y actualidad de Pará.
 
-- [TV Encontro das Ãguas](https://tveradioencontrodasaguas.com.br/) â€” TelevisiÃ³n pÃºblica del estado de Amazonas con contenidos educativos y culturales.
+- [TV Encontro das Águas](https://tveradioencontrodasaguas.com.br/) — Televisión pública del estado de Amazonas con contenidos educativos y culturales.
 
-- [TV UFAM](https://www.youtube.com/@TVUFAM) â€” DivulgaciÃ³n universitaria, ciencia y debates sobre la AmazonÃ­a.
+- [TV UFAM](https://www.youtube.com/@TVUFAM) — Divulgación universitaria, ciencia y debates sobre la Amazonía.
 
-- [TV UFPA](https://www.youtube.com/@tvufpa) â€” Producciones acadÃ©micas y culturales desde la AmazonÃ­a oriental.
+- [TV UFPA](https://www.youtube.com/@tvufpa) — Producciones académicas y culturales desde la Amazonía oriental.
 
-- [TV Brasil](https://tvbrasil.ebc.com.br/) â€” Canal pÃºblico con documentales y reportajes frecuentes sobre la regiÃ³n amazÃ³nica.
+- [TV Brasil](https://tvbrasil.ebc.com.br/) — Canal público con documentales y reportajes frecuentes sobre la región amazónica.
 
-- [Teleamazonas](https://www.teleamazonas.com/) â€” Canal ecuatoriano con cobertura informativa de las provincias amazÃ³nicas.
+- [Teleamazonas](https://www.teleamazonas.com/) — Canal ecuatoriano con cobertura informativa de las provincias amazónicas.
 
-- [TV PerÃº](https://www.tvperu.gob.pe/) â€” TelevisiÃ³n pÃºblica con noticias y documentales de la selva peruana.
+- [TV Perú](https://www.tvperu.gob.pe/) — Televisión pública con noticias y documentales de la selva peruana.
 
-- [Canal Institucional](https://www.canalinstitucional.tv/) â€” Canal pÃºblico colombiano con contenidos sobre ambiente y AmazonÃ­a.
+- [Canal Institucional](https://www.canalinstitucional.tv/) — Canal público colombiano con contenidos sobre ambiente y Amazonía.
 
 ## RADIO
 
-- [RÃ¡dio Nacional da AmazÃ´nia](https://radios.ebc.com.br/nacionalamazonia) â€” Emisora pÃºblica dirigida a comunidades rurales y ribereÃ±as de la AmazonÃ­a brasileÃ±a.
+- [Rádio Nacional da Amazônia](https://radios.ebc.com.br/nacionalamazonia) — Emisora pública dirigida a comunidades rurales y ribereñas de la Amazonía brasileña.
 
-- [RÃ¡dio Nacional do Alto SolimÃµes](https://radios.ebc.com.br/nacionalaltosolimoes) â€” InformaciÃ³n fronteriza y multicultural desde Tabatinga.
+- [Rádio Nacional do Alto Solimões](https://radios.ebc.com.br/nacionalaltosolimoes) — Información fronteriza y multicultural desde Tabatinga.
 
-- [RÃ¡dio YandÃª](https://radioyande.com/) â€” Primera radio indÃ­gena en lÃ­nea de Brasil, con comunicadores de numerosos pueblos.
+- [Rádio Yandê](https://radioyande.com/) — Primera radio indígena en línea de Brasil, con comunicadores de numerosos pueblos.
 
-- [RÃ¡dio Ucamara](https://radioucamara.net/) â€” Emisora intercultural vinculada a comunidades indÃ­genas y ribereÃ±as de Loreto.
+- [Rádio Ucamara](https://radioucamara.net/) — Emisora intercultural vinculada a comunidades indígenas y ribereñas de Loreto.
 
-- [Radio Madre de Dios](https://radiomadrededios.com.pe/) â€” InformaciÃ³n social, ambiental y comunitaria de la AmazonÃ­a suroriental peruana.
+- [Radio Madre de Dios](https://radiomadrededios.com.pe/) — Información social, ambiental y comunitaria de la Amazonía suroriental peruana.
 
-- [RÃ¡dio Difusora do Amazonas](https://difusora24h.com/) â€” Emisora histÃ³rica de Manaos con amplia cobertura regional.
+- [Rádio Difusora do Amazonas](https://difusora24h.com/) — Emisora histórica de Manaos con amplia cobertura regional.
 
-- [Radio Nacional del PerÃº](https://www.radionacional.gob.pe/) â€” Servicio pÃºblico con informaciÃ³n y programaciÃ³n para regiones amazÃ³nicas.
+- [Radio Nacional del Perú](https://www.radionacional.gob.pe/) — Servicio público con información y programación para regiones amazónicas.
 
-- [Radio Nacional de Colombia](https://www.radionacional.co/) â€” Red pÃºblica con emisoras y corresponsales en la AmazonÃ­a colombiana.
+- [Radio Nacional de Colombia](https://www.radionacional.co/) — Red pública con emisoras y corresponsales en la Amazonía colombiana.
 
-- [Radio PÃºblica de Ecuador](https://www.radiopublica.ec/) â€” InformaciÃ³n nacional con cobertura de comunidades y provincias amazÃ³nicas.
+- [Radio Pública de Ecuador](https://www.radiopublica.ec/) — Información nacional con cobertura de comunidades y provincias amazónicas.
 
-- [Radio Santa Cruz](https://www.radiosantacruz.com.bo/) â€” Emisora boliviana con cobertura de las tierras bajas y la AmazonÃ­a meridional.
+- [Radio Santa Cruz](https://www.radiosantacruz.com.bo/) — Emisora boliviana con cobertura de las tierras bajas y la Amazonía meridional.
 
 ## PRENSA ONLINE
 
-- [Mongabay Latam](https://es.mongabay.com/) â€” Periodismo ambiental especializado en biodiversidad, bosques y comunidades amazÃ³nicas.
+- [Mongabay Latam](https://es.mongabay.com/) — Periodismo ambiental especializado en biodiversidad, bosques y comunidades amazónicas.
 
-- [InfoAmazonia](https://infoamazonia.org/) â€” Datos, mapas e investigaciones periodÃ­sticas sobre los nueve paÃ­ses amazÃ³nicos.
+- [InfoAmazonia](https://infoamazonia.org/) — Datos, mapas e investigaciones periodísticas sobre los nueve países amazónicos.
 
-- [AmazÃ´nia Real](https://amazoniareal.com.br/) â€” Medio independiente producido desde Manaos con enfoque socioambiental.
+- [Amazônia Real](https://amazoniareal.com.br/) — Medio independiente producido desde Manaos con enfoque socioambiental.
 
-- [O Eco](https://oeco.org.br/) â€” Periodismo brasileÃ±o especializado en conservaciÃ³n y polÃ­ticas ambientales.
+- [O Eco](https://oeco.org.br/) — Periodismo brasileño especializado en conservación y políticas ambientales.
 
-- [SumaÃºma](https://sumauma.com/) â€” Periodismo narrativo y de investigaciÃ³n realizado desde el centro de la AmazonÃ­a.
+- [Sumaúma](https://sumauma.com/) — Periodismo narrativo y de investigación realizado desde el centro de la Amazonía.
 
-- [AmazÃ´nia Latitude](https://amazonialatitude.com/) â€” Ciencia, cultura, pensamiento y periodismo sobre la regiÃ³n.
+- [Amazônia Latitude](https://amazonialatitude.com/) — Ciencia, cultura, pensamiento y periodismo sobre la región.
 
-- [AgÃªncia Cenarium](https://agenciacenarium.com.br/) â€” Noticias y reportajes sobre polÃ­tica, sociedad y ambiente amazÃ³nicos.
+- [Agência Cenarium](https://agenciacenarium.com.br/) — Noticias y reportajes sobre política, sociedad y ambiente amazónicos.
 
-- [Vocativo](https://vocativo.com/) â€” Periodismo independiente sobre Manaos, derechos humanos y conflictos regionales.
+- [Vocativo](https://vocativo.com/) — Periodismo independiente sobre Manaos, derechos humanos y conflictos regionales.
 
-- [Brasil de Fato â€” AmazÃ´nia](https://www.brasildefato.com.br/tag/amazonia/) â€” Cobertura de movimientos sociales, comunidades y polÃ­ticas pÃºblicas.
+- [Brasil de Fato — Amazônia](https://www.brasildefato.com.br/tag/amazonia/) — Cobertura de movimientos sociales, comunidades y políticas públicas.
 
-- [Dialogue Earth â€” Amazon](https://dialogue.earth/en/amazon/) â€” Periodismo internacional sobre clima, infraestructura y economÃ­a amazÃ³nicas.
+- [Dialogue Earth — Amazon](https://dialogue.earth/en/amazon/) — Periodismo internacional sobre clima, infraestructura y economía amazónicas.
 
 ## PRENSA ESCRITA
 
-- [O Liberal](https://www.oliberal.com/) â€” Diario impreso de ParÃ¡ con extensa cobertura de la AmazonÃ­a oriental.
+- [O Liberal](https://www.oliberal.com/) — Diario impreso de Pará con extensa cobertura de la Amazonía oriental.
 
-- [A CrÃ­tica](https://www.acritica.com/) â€” PeriÃ³dico histÃ³rico de Manaos y referencia informativa del estado de Amazonas.
+- [A Crítica](https://www.acritica.com/) — Periódico histórico de Manaos y referencia informativa del estado de Amazonas.
 
-- [DiÃ¡rio do ParÃ¡](https://dol.com.br/) â€” PublicaciÃ³n impresa y digital centrada en ParÃ¡ y la regiÃ³n norte.
+- [Diário do Pará](https://dol.com.br/) — Publicación impresa y digital centrada en Pará y la región norte.
 
-- [Jornal do Commercio](https://www.jcam.com.br/) â€” Diario tradicional de Manaos con informaciÃ³n econÃ³mica y regional.
+- [Jornal do Commercio](https://www.jcam.com.br/) — Diario tradicional de Manaos con información económica y regional.
 
-- [El Comercio](https://elcomercio.pe/) â€” Diario peruano con investigaciones y corresponsalÃ­as sobre la AmazonÃ­a.
+- [El Comercio](https://elcomercio.pe/) — Diario peruano con investigaciones y corresponsalías sobre la Amazonía.
 
-- [La RegiÃ³n](https://diariolaregion.com/) â€” PeriÃ³dico de Iquitos especializado en la actualidad de Loreto.
+- [La Región](https://diariolaregion.com/) — Periódico de Iquitos especializado en la actualidad de Loreto.
 
-- [El Deber](https://eldeber.com.bo/) â€” Diario boliviano con cobertura regular de bosques, incendios y tierras bajas.
+- [El Deber](https://eldeber.com.bo/) — Diario boliviano con cobertura regular de bosques, incendios y tierras bajas.
 
-- [El Espectador](https://www.elespectador.com/) â€” PublicaciÃ³n colombiana con investigaciones ambientales sobre la AmazonÃ­a.
+- [El Espectador](https://www.elespectador.com/) — Publicación colombiana con investigaciones ambientales sobre la Amazonía.
 
-- [Stabroek News](https://www.stabroeknews.com/) â€” Diario de Guyana con informaciÃ³n sobre territorios, minerÃ­a y pueblos amerindios.
+- [Stabroek News](https://www.stabroeknews.com/) — Diario de Guyana con información sobre territorios, minería y pueblos amerindios.
 
-- [De Ware Tijd](https://dwtonline.com/) â€” PeriÃ³dico de Surinam con cobertura nacional de selvas y comunidades del interior.
+- [De Ware Tijd](https://dwtonline.com/) — Periódico de Surinam con cobertura nacional de selvas y comunidades del interior.
 
 # RSS
 
 [![LiveLib](https://images.openai.com/static-rsc-4/ncFSgyP9KzgtaWAfdmbrqAX30BH2t5bfndZiGg-Hr-OJA3u3meFFdp_nPccxG9IYYSAGcw6ii1kd9COMhhq61DCvNS145TATs_fhf6mAUsaXog1-_0PDiWkGZ-r3EZmKyaIySMg-zyrLeHKffQOgIKjE3wg9wMkqUQCHTSWZjHo?purpose=inline)](https://www.livelib.ru/selection/894734-amazoniya?utm_source=chatgpt.com)
-Informe aplicado a la **AmazonÃ­a como selva y cuenca internacional**, no a Amazon como empresa ni exclusivamente al estado brasileÃ±o de Amazonas.
+Informe aplicado a la **Amazonía como selva y cuenca internacional**, no a Amazon como empresa ni exclusivamente al estado brasileño de Amazonas.
 
-**Fecha de verificaciÃ³n:** 29 de julio de 2026
-**Cobertura:** Bolivia, Brasil, Colombia, Ecuador, Guyana, PerÃº, Surinam, Venezuela y Guayana Francesa.
-**Ãmbitos:** conservaciÃ³n, deforestaciÃ³n, incendios, biodiversidad, pueblos indÃ­genas, clima, agua, territorio e investigaciÃ³n cientÃ­fica.
+**Fecha de verificación:** 29 de julio de 2026
+**Cobertura:** Bolivia, Brasil, Colombia, Ecuador, Guyana, Perú, Surinam, Venezuela y Guayana Francesa.
+**Ámbitos:** conservación, deforestación, incendios, biodiversidad, pueblos indígenas, clima, agua, territorio e investigación científica.
 
 ## Tabla resumen
 
-| CategorÃ­a        | Nombre                     | OrganizaciÃ³n                                      | Idioma             | Tipo                                  | Estado     | RSS                                                                   |
+| Categoría        | Nombre                     | Organización                                      | Idioma             | Tipo                                  | Estado     | RSS                                                                   |
 | ---------------- | -------------------------- | ------------------------------------------------- | ------------------ | ------------------------------------- | ---------- | --------------------------------------------------------------------- |
-| ðŸŸ¢ Oficial       | Noticias OTCA              | OrganizaciÃ³n del Tratado de CooperaciÃ³n AmazÃ³nica | MultilingÃ¼e        | CooperaciÃ³n y polÃ­ticas amazÃ³nicas    | **Activo** | [Abrir RSS](https://otca.org/feed/)                                   |
-| ðŸŸ¢ Institucional | IPAM AmazÃ´nia              | Instituto de Pesquisa Ambiental da AmazÃ´nia       | InglÃ©s             | InvestigaciÃ³n y polÃ­ticas ambientales | **Activo** | [Abrir RSS](https://ipam.org.br/en/feed/feed)                         |
-| ðŸŸ¢ Institucional | MapBiomas Brasil           | Red MapBiomas                                     | PortuguÃ©s          | Uso del suelo, fuego y agua           | **Activo** | [Abrir RSS](http://mapbiomas.org/feed)                                |
-| ðŸŸ¢ Institucional | Amazon Conservation        | Amazon Conservation Association                   | InglÃ©s             | ConservaciÃ³n y monitorizaciÃ³n         | **Activo** | [Abrir RSS](https://www.amazonconservation.org/feed/)                 |
-| ðŸŸ¢ Institucional | Amazon Conservation Team   | Amazon Conservation Team                          | InglÃ©s             | Pueblos indÃ­genas y territorio        | **Activo** | [Abrir RSS](https://www.amazonteam.org/feed/)                         |
-| ðŸŸ¢ Oficial       | NASA Earth Observatory     | NASA                                              | InglÃ©s             | ObservaciÃ³n terrestre y satÃ©lites     | **Activo** | [Abrir RSS](https://science.nasa.gov/feed/?science_org=19791%2C22453) |
-| ðŸ”µ CientÃ­fico    | Acta Amazonica             | INPA / SciELO                                     | PortuguÃ©s e inglÃ©s | InvestigaciÃ³n amazÃ³nica               | **Activo** | [Abrir RSS](http://www.scielo.br/rss.php?pid=0044-5967\&lang=en)       |
-| ðŸ”µ TÃ©cnico       | Forests News               | CIFOR-ICRAF / Landscape Alliance                  | InglÃ©s             | Bosques, clima y gobernanza           | **Activo** | [Abrir RSS](https://forestsnews.cifor.org/feed)                       |
-| ðŸ”µ CientÃ­fico    | Nature Ecology & Evolution | Nature Portfolio                                  | InglÃ©s             | EcologÃ­a y biodiversidad              | **Activo** | [Abrir RSS](https://www.nature.com/natecolevol.rss)                   |
-| ðŸŸ  Actualidad    | Mongabay Latam             | Mongabay                                          | EspaÃ±ol            | Medioambiente y conservaciÃ³n          | **Activo** | [Abrir RSS](https://es.mongabay.com/feed/)                            |
+| 🟢 Oficial       | Noticias OTCA              | Organización del Tratado de Cooperación Amazónica | Multilingüe        | Cooperación y políticas amazónicas    | **Activo** | [Abrir RSS](https://otca.org/feed/)                                   |
+| 🟢 Institucional | IPAM Amazônia              | Instituto de Pesquisa Ambiental da Amazônia       | Inglés             | Investigación y políticas ambientales | **Activo** | [Abrir RSS](https://ipam.org.br/en/feed/feed)                         |
+| 🟢 Institucional | MapBiomas Brasil           | Red MapBiomas                                     | Portugués          | Uso del suelo, fuego y agua           | **Activo** | [Abrir RSS](http://mapbiomas.org/feed)                                |
+| 🟢 Institucional | Amazon Conservation        | Amazon Conservation Association                   | Inglés             | Conservación y monitorización         | **Activo** | [Abrir RSS](https://www.amazonconservation.org/feed/)                 |
+| 🟢 Institucional | Amazon Conservation Team   | Amazon Conservation Team                          | Inglés             | Pueblos indígenas y territorio        | **Activo** | [Abrir RSS](https://www.amazonteam.org/feed/)                         |
+| 🟢 Oficial       | NASA Earth Observatory     | NASA                                              | Inglés             | Observación terrestre y satélites     | **Activo** | [Abrir RSS](https://science.nasa.gov/feed/?science_org=19791%2C22453) |
+| 🔵 Científico    | Acta Amazonica             | INPA / SciELO                                     | Portugués e inglés | Investigación amazónica               | **Activo** | [Abrir RSS](http://www.scielo.br/rss.php?pid=0044-5967\&lang=en)       |
+| 🔵 Técnico       | Forests News               | CIFOR-ICRAF / Landscape Alliance                  | Inglés             | Bosques, clima y gobernanza           | **Activo** | [Abrir RSS](https://forestsnews.cifor.org/feed)                       |
+| 🔵 Científico    | Nature Ecology & Evolution | Nature Portfolio                                  | Inglés             | Ecología y biodiversidad              | **Activo** | [Abrir RSS](https://www.nature.com/natecolevol.rss)                   |
+| 🟠 Actualidad    | Mongabay Latam             | Mongabay                                          | Español            | Medioambiente y conservación          | **Activo** | [Abrir RSS](https://es.mongabay.com/feed/)                            |
 
 ---
 
-## ðŸŸ¢ RSS oficiales e institucionales
+## 🟢 RSS oficiales e institucionales
 
 ## 1. Noticias OTCA
 
-**OrganizaciÃ³n:** OrganizaciÃ³n del Tratado de CooperaciÃ³n AmazÃ³nica
-**CategorÃ­a:** Organismo internacional
+**Organización:** Organización del Tratado de Cooperación Amazónica
+**Categoría:** Organismo internacional
 **URL RSS:** <https://otca.org/feed/>
 **Formato:** RSS/XML
-**Idioma:** MultilingÃ¼e; principalmente espaÃ±ol, portuguÃ©s e inglÃ©s
-**Cobertura:** Cuenca amazÃ³nica internacional
-**Tipo de contenido:** CooperaciÃ³n regional, biodiversidad, agua, bosques, incendios, pueblos indÃ­genas y polÃ­ticas pÃºblicas
+**Idioma:** Multilingüe; principalmente español, portugués e inglés
+**Cobertura:** Cuenca amazónica internacional
+**Tipo de contenido:** Cooperación regional, biodiversidad, agua, bosques, incendios, pueblos indígenas y políticas públicas
 **Frecuencia aproximada:** Varias publicaciones semanales
 **Estado:** **Activo**
 
-**DescripciÃ³n:** es la fuente institucional prioritaria para seguir iniciativas coordinadas entre los paÃ­ses amazÃ³nicos.
+**Descripción:** es la fuente institucional prioritaria para seguir iniciativas coordinadas entre los países amazónicos.
 
-**Observaciones:** el endpoint devuelve contenido RSS pÃºblico. La secciÃ³n oficial mantenÃ­a publicaciones durante julio de 2026 sobre incendios, biodiversidad, cooperaciÃ³n cientÃ­fica y gestiÃ³n regional de la AmazonÃ­a.
+**Observaciones:** el endpoint devuelve contenido RSS público. La sección oficial mantenía publicaciones durante julio de 2026 sobre incendios, biodiversidad, cooperación científica y gestión regional de la Amazonía.
 
-**PÃ¡gina oficial:** <https://otca.org/>
+**Página oficial:** <https://otca.org/>
 
 ---
 
-## 2. IPAM AmazÃ´nia
+## 2. IPAM Amazônia
 
-**OrganizaciÃ³n:** Instituto de Pesquisa Ambiental da AmazÃ´nia
-**CategorÃ­a:** Instituto de investigaciÃ³n ambiental
+**Organización:** Instituto de Pesquisa Ambiental da Amazônia
+**Categoría:** Instituto de investigación ambiental
 **URL RSS:** <https://ipam.org.br/en/feed/feed>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
-**Cobertura:** AmazonÃ­a brasileÃ±a, con relevancia internacional
-**Tipo de contenido:** DeforestaciÃ³n, clima, carbono, agricultura, incendios y polÃ­ticas ambientales
+**Idioma:** Inglés
+**Cobertura:** Amazonía brasileña, con relevancia internacional
+**Tipo de contenido:** Deforestación, clima, carbono, agricultura, incendios y políticas ambientales
 **Frecuencia aproximada:** Varias publicaciones mensuales
 **Estado:** **Activo**
 
-**DescripciÃ³n:** feed de una instituciÃ³n amazÃ³nica especializada en investigaciÃ³n cientÃ­fica y polÃ­ticas sobre bosques, clima y uso del territorio.
+**Descripción:** feed de una institución amazónica especializada en investigación científica y políticas sobre bosques, clima y uso del territorio.
 
-**Observaciones:** la ruta contiene la secuencia poco habitual `/feed/feed`, pero estÃ¡ registrada como RSS del dominio oficial. El feed presentaba una instantÃ¡nea reciente en junio de 2026 y el sitio institucional publicÃ³ nuevos anÃ¡lisis durante julio. ([bevelment78.rssing.com][1])
+**Observaciones:** la ruta contiene la secuencia poco habitual `/feed/feed`, pero está registrada como RSS del dominio oficial. El feed presentaba una instantánea reciente en junio de 2026 y el sitio institucional publicó nuevos análisis durante julio. ([bevelment78.rssing.com][1])
 
-**PÃ¡gina oficial:** <https://ipam.org.br/en/>
+**Página oficial:** <https://ipam.org.br/en/>
 
 ---
 
 ## 3. MapBiomas Brasil
 
-**OrganizaciÃ³n:** Red MapBiomas
-**CategorÃ­a:** Red cientÃ­fica y tecnolÃ³gica
+**Organización:** Red MapBiomas
+**Categoría:** Red científica y tecnológica
 **URL RSS:** <http://mapbiomas.org/feed>
 **Formato:** RSS/XML
-**Idioma:** PortuguÃ©s
-**Cobertura:** Brasil, incluida la AmazonÃ­a Legal
-**Tipo de contenido:** Cobertura del suelo, deforestaciÃ³n, Ã¡reas quemadas, agua, agricultura y minerÃ­a
+**Idioma:** Portugués
+**Cobertura:** Brasil, incluida la Amazonía Legal
+**Tipo de contenido:** Cobertura del suelo, deforestación, áreas quemadas, agua, agricultura y minería
 **Frecuencia aproximada:** Mensual o irregular
 **Estado:** **Activo**
 
-**DescripciÃ³n:** fuente muy Ãºtil para seguir datos cartogrÃ¡ficos y anÃ¡lisis sobre cambios de uso del suelo en la AmazonÃ­a brasileÃ±a.
+**Descripción:** fuente muy útil para seguir datos cartográficos y análisis sobre cambios de uso del suelo en la Amazonía brasileña.
 
-**Observaciones:** el feed utiliza una direcciÃ³n HTTP histÃ³rica que puede redirigir. El canal presentaba contenidos recientes en junio de 2026 y el portal oficial publicÃ³ nuevas noticias y resultados durante julio. ([mapbiomas7.rssing.com][2])
+**Observaciones:** el feed utiliza una dirección HTTP histórica que puede redirigir. El canal presentaba contenidos recientes en junio de 2026 y el portal oficial publicó nuevas noticias y resultados durante julio. ([mapbiomas7.rssing.com][2])
 
-**PÃ¡gina oficial:** <https://brasil.mapbiomas.org/>
+**Página oficial:** <https://brasil.mapbiomas.org/>
 
 ---
 
 ## 4. Amazon Conservation
 
-**OrganizaciÃ³n:** Amazon Conservation Association
-**CategorÃ­a:** OrganizaciÃ³n de conservaciÃ³n
+**Organización:** Amazon Conservation Association
+**Categoría:** Organización de conservación
 **URL RSS:** <https://www.amazonconservation.org/feed/>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
-**Cobertura:** Cuenca amazÃ³nica, especialmente PerÃº y Bolivia
-**Tipo de contenido:** ConservaciÃ³n, Ã¡reas protegidas, incendios, deforestaciÃ³n, ciencia y monitorizaciÃ³n satelital
+**Idioma:** Inglés
+**Cobertura:** Cuenca amazónica, especialmente Perú y Bolivia
+**Tipo de contenido:** Conservación, áreas protegidas, incendios, deforestación, ciencia y monitorización satelital
 **Frecuencia aproximada:** Varias publicaciones mensuales
 **Estado:** **Activo**
 
-**DescripciÃ³n:** publica proyectos de conservaciÃ³n y resultados de monitorizaciÃ³n ambiental, incluidos contenidos vinculados a la plataforma MAAP.
+**Descripción:** publica proyectos de conservación y resultados de monitorización ambiental, incluidos contenidos vinculados a la plataforma MAAP.
 
-**Observaciones:** el endpoint devuelve RSS pÃºblico. La secciÃ³n de noticias mantenÃ­a actividad en junio y julio de 2026.
+**Observaciones:** el endpoint devuelve RSS público. La sección de noticias mantenía actividad en junio y julio de 2026.
 
-**PÃ¡gina oficial:** <https://www.amazonconservation.org/>
+**Página oficial:** <https://www.amazonconservation.org/>
 
 ---
 
 ## 5. Amazon Conservation Team
 
-**OrganizaciÃ³n:** Amazon Conservation Team
-**CategorÃ­a:** ConservaciÃ³n y derechos indÃ­genas
+**Organización:** Amazon Conservation Team
+**Categoría:** Conservación y derechos indígenas
 **URL RSS:** <https://www.amazonteam.org/feed/>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
-**Cobertura:** AmazonÃ­a y Guayanas
-**Tipo de contenido:** Pueblos indÃ­genas, cartografÃ­a, territorios, conocimientos tradicionales y conservaciÃ³n biocultural
+**Idioma:** Inglés
+**Cobertura:** Amazonía y Guayanas
+**Tipo de contenido:** Pueblos indígenas, cartografía, territorios, conocimientos tradicionales y conservación biocultural
 **Frecuencia aproximada:** Varias publicaciones mensuales
 **Estado:** **Activo**
 
-**DescripciÃ³n:** fuente especializada en protecciÃ³n de territorios indÃ­genas y conservaciÃ³n dirigida por comunidades locales.
+**Descripción:** fuente especializada en protección de territorios indígenas y conservación dirigida por comunidades locales.
 
-**Observaciones:** el feed responde como RSS pÃºblico. El sitio publicÃ³ durante julio de 2026 contenidos sobre planificaciÃ³n territorial, seguridad alimentaria y conocimientos indÃ­genas.
+**Observaciones:** el feed responde como RSS público. El sitio publicó durante julio de 2026 contenidos sobre planificación territorial, seguridad alimentaria y conocimientos indígenas.
 
-**PÃ¡gina oficial:** <https://www.amazonteam.org/>
+**Página oficial:** <https://www.amazonteam.org/>
 
 ---
 
 ## 6. NASA Earth Observatory
 
-**OrganizaciÃ³n:** National Aeronautics and Space Administration
-**CategorÃ­a:** Organismo cientÃ­fico pÃºblico
+**Organización:** National Aeronautics and Space Administration
+**Categoría:** Organismo científico público
 **URL RSS:** <https://science.nasa.gov/feed/?science_org=19791%2C22453>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** ImÃ¡genes satelitales, incendios, clima, rÃ­os, vegetaciÃ³n, sequÃ­as y cambios de uso del suelo
+**Tipo de contenido:** Imágenes satelitales, incendios, clima, ríos, vegetación, sequías y cambios de uso del suelo
 **Frecuencia aproximada:** Varias publicaciones semanales
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal de observaciÃ³n terrestre de la NASA. Publica imÃ¡genes y anÃ¡lisis cientÃ­ficos que frecuentemente incluyen la AmazonÃ­a.
+**Descripción:** canal de observación terrestre de la NASA. Publica imágenes y análisis científicos que frecuentemente incluyen la Amazonía.
 
 **Observaciones:** el antiguo feed de Earth Observatory redirige actualmente a este canal de NASA Science. Debe filtrarse por `Amazon`, `Amazonia`, `Brazil`, `rainforest`, `deforestation`, `fire` y `drought`.
 
-**PÃ¡gina oficial:** <https://science.nasa.gov/earth/earth-observatory/>
+**Página oficial:** <https://science.nasa.gov/earth/earth-observatory/>
 
 ---
 
-## ðŸ”µ RSS cientÃ­ficos y tÃ©cnicos
+## 🔵 RSS científicos y técnicos
 
 ## 7. Acta Amazonica
 
-**OrganizaciÃ³n:** Instituto Nacional de Pesquisas da AmazÃ´nia
-**PublicaciÃ³n:** Acta Amazonica
-**CategorÃ­a:** Revista cientÃ­fica
+**Organización:** Instituto Nacional de Pesquisas da Amazônia
+**Publicación:** Acta Amazonica
+**Categoría:** Revista científica
 **URL RSS:** <http://www.scielo.br/rss.php?pid=0044-5967&lang=en>
 **Formato:** RSS/XML
-**Idioma:** PortuguÃ©s e inglÃ©s
-**Cobertura:** AmazonÃ­a
-**Tipo de contenido:** EcologÃ­a, biodiversidad, botÃ¡nica, zoologÃ­a, ciencias forestales, agricultura y ciencias sociales
-**Frecuencia aproximada:** Trimestral, con publicaciÃ³n continua de artÃ­culos
+**Idioma:** Portugués e inglés
+**Cobertura:** Amazonía
+**Tipo de contenido:** Ecología, biodiversidad, botánica, zoología, ciencias forestales, agricultura y ciencias sociales
+**Frecuencia aproximada:** Trimestral, con publicación continua de artículos
 **Estado:** **Activo**
 
-**DescripciÃ³n:** es el feed cientÃ­fico mÃ¡s preciso de la selecciÃ³n, porque la revista estÃ¡ dedicada especÃ­ficamente a investigaciones sobre la AmazonÃ­a.
+**Descripción:** es el feed científico más preciso de la selección, porque la revista está dedicada específicamente a investigaciones sobre la Amazonía.
 
-**Observaciones:** la pÃ¡gina oficial de SciELO ofrece suscripciÃ³n mediante RSS y mantiene volumen correspondiente a 2026. La URL utiliza el servicio RSS histÃ³rico de SciELO y puede redirigir dentro de la plataforma. ([SciELO][3])
+**Observaciones:** la página oficial de SciELO ofrece suscripción mediante RSS y mantiene volumen correspondiente a 2026. La URL utiliza el servicio RSS histórico de SciELO y puede redirigir dentro de la plataforma. ([SciELO][3])
 
-**PÃ¡gina oficial:** <https://www.scielo.br/j/aa/>
+**Página oficial:** <https://www.scielo.br/j/aa/>
 
 ---
 
 ## 8. Forests News
 
-**OrganizaciÃ³n:** CIFOR-ICRAF / Landscape Alliance
-**CategorÃ­a:** InvestigaciÃ³n forestal y divulgaciÃ³n tÃ©cnica
+**Organización:** CIFOR-ICRAF / Landscape Alliance
+**Categoría:** Investigación forestal y divulgación técnica
 **URL RSS:** <https://forestsnews.cifor.org/feed>
 **Formato:** RSS/XML
-**Idioma:** Principalmente inglÃ©s
-**Cobertura:** Mundial, con amplia atenciÃ³n a bosques tropicales
-**Tipo de contenido:** Bosques, incendios, restauraciÃ³n, comunidades, clima, polÃ­ticas y gobernanza
+**Idioma:** Principalmente inglés
+**Cobertura:** Mundial, con amplia atención a bosques tropicales
+**Tipo de contenido:** Bosques, incendios, restauración, comunidades, clima, políticas y gobernanza
 **Frecuencia aproximada:** Varias publicaciones semanales
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal tÃ©cnico especializado en investigaciÃ³n forestal y gestiÃ³n sostenible de paisajes.
+**Descripción:** canal técnico especializado en investigación forestal y gestión sostenible de paisajes.
 
-**Observaciones:** el endpoint RSS sigue operativo, aunque el portal estÃ¡ adoptando la marca Landscape Alliance. En julio de 2026 publicÃ³ anÃ¡lisis relacionados directamente con incendios y cooperaciÃ³n panamazÃ³nica.
+**Observaciones:** el endpoint RSS sigue operativo, aunque el portal está adoptando la marca Landscape Alliance. En julio de 2026 publicó análisis relacionados directamente con incendios y cooperación panamazónica.
 
-**PÃ¡gina oficial:** <https://www.forestsnews.org/forests>
+**Página oficial:** <https://www.forestsnews.org/forests>
 
 ---
 
 ## 9. Nature Ecology & Evolution
 
-**OrganizaciÃ³n:** Nature Portfolio
-**CategorÃ­a:** Revista cientÃ­fica
+**Organización:** Nature Portfolio
+**Categoría:** Revista científica
 **URL RSS:** <https://www.nature.com/natecolevol.rss>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** EcologÃ­a, evoluciÃ³n, biodiversidad, conservaciÃ³n y cambio ambiental
+**Tipo de contenido:** Ecología, evolución, biodiversidad, conservación y cambio ambiental
 **Frecuencia aproximada:** Varias publicaciones semanales
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal cientÃ­fico general de alta calidad. No estÃ¡ dedicado exclusivamente a la AmazonÃ­a, pero publica investigaciones relevantes sobre bosques tropicales, biodiversidad y efectos climÃ¡ticos.
+**Descripción:** canal científico general de alta calidad. No está dedicado exclusivamente a la Amazonía, pero publica investigaciones relevantes sobre bosques tropicales, biodiversidad y efectos climáticos.
 
-**Observaciones:** la revista mantiene RSS y una ediciÃ³n activa en julio de 2026. Se recomienda filtrar `Amazon`, `Amazonian`, `tropical forest`, `rainforest`, `deforestation` y `biodiversity`. ([Nature][4])
+**Observaciones:** la revista mantiene RSS y una edición activa en julio de 2026. Se recomienda filtrar `Amazon`, `Amazonian`, `tropical forest`, `rainforest`, `deforestation` y `biodiversity`. ([Nature][4])
 
-**PÃ¡gina oficial:** <https://www.nature.com/natecolevol/>
+**Página oficial:** <https://www.nature.com/natecolevol/>
 
 ---
 
-## ðŸŸ  RSS de actualidad especializada
+## 🟠 RSS de actualidad especializada
 
 ## 10. Mongabay Latam
 
-**OrganizaciÃ³n:** Mongabay
-**CategorÃ­a:** Medio ambiental especializado
+**Organización:** Mongabay
+**Categoría:** Medio ambiental especializado
 **URL RSS:** <https://es.mongabay.com/feed/>
 **Formato:** RSS/XML
-**Idioma:** EspaÃ±ol
-**Cobertura:** AmÃ©rica Latina
-**Tipo de contenido:** DeforestaciÃ³n, biodiversidad, minerÃ­a, incendios, pueblos indÃ­genas, Ã¡reas protegidas y delitos ambientales
+**Idioma:** Español
+**Cobertura:** América Latina
+**Tipo de contenido:** Deforestación, biodiversidad, minería, incendios, pueblos indígenas, áreas protegidas y delitos ambientales
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**DescripciÃ³n:** fuente periodÃ­stica de alta frecuencia con cobertura detallada de la AmazonÃ­a de Brasil, PerÃº, Colombia, Bolivia y Ecuador.
+**Descripción:** fuente periodística de alta frecuencia con cobertura detallada de la Amazonía de Brasil, Perú, Colombia, Bolivia y Ecuador.
 
-**Observaciones:** el dominio oficial utiliza expresamente esta direcciÃ³n RSS en sus propios recursos. Como es un canal latinoamericano general, conviene aplicar filtros por `AmazonÃ­a`, `Amazonas`, `selva amazÃ³nica`, `Brasil`, `PerÃº`, `Colombia` o por nombres de territorios indÃ­genas. ([Mongabay en EspaÃ±ol][5])
+**Observaciones:** el dominio oficial utiliza expresamente esta dirección RSS en sus propios recursos. Como es un canal latinoamericano general, conviene aplicar filtros por `Amazonía`, `Amazonas`, `selva amazónica`, `Brasil`, `Perú`, `Colombia` o por nombres de territorios indígenas. ([Mongabay en Español][5])
 
-**PÃ¡gina temÃ¡tica sobre la AmazonÃ­a:** <https://es.mongabay.com/topic/amazonia/>
+**Página temática sobre la Amazonía:** <https://es.mongabay.com/topic/amazonia/>
 
 ---
 
-## Fuentes relevantes sin RSS pÃºblico verificado
+## Fuentes relevantes sin RSS público verificado
 
-## INPE â€” PRODES, DETER y Programa Queimadas
+## INPE — PRODES, DETER y Programa Queimadas
 
-El Instituto Nacional de Pesquisas Espaciais es una fuente oficial imprescindible para deforestaciÃ³n e incendios en la AmazonÃ­a brasileÃ±a. Publica datos actuales mediante DETER, PRODES, TerraBrasilis e InfoQueima, pero no se verificÃ³ un RSS temÃ¡tico pÃºblico y estable para estos sistemas.
+El Instituto Nacional de Pesquisas Espaciais es una fuente oficial imprescindible para deforestación e incendios en la Amazonía brasileña. Publica datos actuales mediante DETER, PRODES, TerraBrasilis e InfoQueima, pero no se verificó un RSS temático público y estable para estos sistemas.
 
-El portal del INPE publicÃ³ datos de DETER de junio de 2026 y un nuevo boletÃ­n InfoQueima el 23 de julio de 2026. ([ServiÃ§os e InformaÃ§Ãµes do Brasil][6])
+El portal del INPE publicó datos de DETER de junio de 2026 y un nuevo boletín InfoQueima el 23 de julio de 2026. ([Serviços e Informações do Brasil][6])
 
 **Alternativas oficiales:**
 
 - [Portal del INPE](https://www.gov.br/inpe/pt-br)
-- [TerraBrasilis â€” datos de deforestaciÃ³n](https://www.gov.br/inpe/pt-br/assuntos/produtos/desmatamento)
+- [TerraBrasilis — datos de deforestación](https://www.gov.br/inpe/pt-br/assuntos/produtos/desmatamento)
 - [Proyecto DETER](https://www.gov.br/inpe/pt-br/area-conhecimento/unidade-amazonia/projetos-e-pesquisas/deter)
 - [Plataforma TerraBrasilis](http://terrabrasilis.dpi.inpe.br/)
 
@@ -617,7 +617,7 @@ El portal del INPE publicÃ³ datos de DETER de junio de 2026 y un nuevo boletÃ
 
 ## Imazon
 
-Imazon mantiene boletines, informes y datos recientes sobre el Sistema de Alerta de Desmatamento. Sin embargo, no se confirmÃ³ un endpoint RSS pÃºblico con garantÃ­as suficientes para incorporarlo como feed operativo. Su portal contenÃ­a boletines y publicaciones de mayo y junio de 2026. ([imazon.org.br][7])
+Imazon mantiene boletines, informes y datos recientes sobre el Sistema de Alerta de Desmatamento. Sin embargo, no se confirmó un endpoint RSS público con garantías suficientes para incorporarlo como feed operativo. Su portal contenía boletines y publicaciones de mayo y junio de 2026. ([imazon.org.br][7])
 
 **Alternativa oficial:** <https://imazon.org.br/>
 
@@ -629,7 +629,7 @@ InfoAmazonia dispone de un endpoint aparente:
 
 <https://infoamazonia.org/feed/>
 
-Durante la verificaciÃ³n devolviÃ³ **HTTP 429 â€” Too Many Requests**, por lo que no se considera suficientemente estable para la selecciÃ³n principal. El sitio editorial sÃ­ mantenÃ­a publicaciones amazÃ³nicas recientes.
+Durante la verificación devolvió **HTTP 429 — Too Many Requests**, por lo que no se considera suficientemente estable para la selección principal. El sitio editorial sí mantenía publicaciones amazónicas recientes.
 
 **Alternativa oficial:** <https://infoamazonia.org/>
 
@@ -637,32 +637,32 @@ Durante la verificaciÃ³n devolviÃ³ **HTTP 429 â€” Too Many Requests**, 
 
 ## Global Forest Watch
 
-El blog publica anÃ¡lisis actuales sobre pÃ©rdida de bosques, incendios y deforestaciÃ³n, incluidos contenidos relacionados con la AmazonÃ­a. No se confirmÃ³ un endpoint RSS pÃºblico y estable. El portal publicÃ³ nuevos anÃ¡lisis durante julio de 2026. ([Global Forest Watch][8])
+El blog publica análisis actuales sobre pérdida de bosques, incendios y deforestación, incluidos contenidos relacionados con la Amazonía. No se confirmó un endpoint RSS público y estable. El portal publicó nuevos análisis durante julio de 2026. ([Global Forest Watch][8])
 
 **Alternativas:**
 
 - [Global Forest Watch Blog](https://www.globalforestwatch.org/blog/)
-- [ArtÃ­culos sobre la AmazonÃ­a](https://www.globalforestwatch.org/blog/category-and-topics/?topic=amazon)
+- [Artículos sobre la Amazonía](https://www.globalforestwatch.org/blog/category-and-topics/?topic=amazon)
 
 ---
 
-## SelecciÃ³n prioritaria
+## Selección prioritaria
 
-Para una vigilancia general de la AmazonÃ­a:
+Para una vigilancia general de la Amazonía:
 
-1. [OTCA](https://otca.org/feed/) â€” cooperaciÃ³n oficial de toda la cuenca.
-2. [IPAM AmazÃ´nia](https://ipam.org.br/en/feed/feed) â€” clima, deforestaciÃ³n y polÃ­ticas.
-3. [MapBiomas Brasil](http://mapbiomas.org/feed) â€” territorio, fuego, agua y uso del suelo.
-4. [Amazon Conservation](https://www.amazonconservation.org/feed/) â€” monitorizaciÃ³n y conservaciÃ³n.
-5. [Acta Amazonica](http://www.scielo.br/rss.php?pid=0044-5967\&lang=en) â€” investigaciÃ³n cientÃ­fica especÃ­ficamente amazÃ³nica.
-6. [NASA Earth Observatory](https://science.nasa.gov/feed/?science_org=19791%2C22453) â€” observaciÃ³n satelital.
-7. [Mongabay Latam](https://es.mongabay.com/feed/) â€” actualidad diaria en espaÃ±ol.
+1. [OTCA](https://otca.org/feed/) — cooperación oficial de toda la cuenca.
+2. [IPAM Amazônia](https://ipam.org.br/en/feed/feed) — clima, deforestación y políticas.
+3. [MapBiomas Brasil](http://mapbiomas.org/feed) — territorio, fuego, agua y uso del suelo.
+4. [Amazon Conservation](https://www.amazonconservation.org/feed/) — monitorización y conservación.
+5. [Acta Amazonica](http://www.scielo.br/rss.php?pid=0044-5967\&lang=en) — investigación científica específicamente amazónica.
+6. [NASA Earth Observatory](https://science.nasa.gov/feed/?science_org=19791%2C22453) — observación satelital.
+7. [Mongabay Latam](https://es.mongabay.com/feed/) — actualidad diaria en español.
 
 ## Palabras clave recomendadas
 
-`AmazonÃ­a` Â· `Amazonia` Â· `Amazonas` Â· `Amazon basin` Â· `Amazon rainforest` Â· `AmazÃ´nia Legal` Â· `deforestation` Â· `desmatamento` Â· `wildfire` Â· `queimadas` Â· `indigenous territories` Â· `pueblos indÃ­genas` Â· `biodiversity` Â· `drought` Â· `mining`
+`Amazonía` · `Amazonia` · `Amazonas` · `Amazon basin` · `Amazon rainforest` · `Amazônia Legal` · `deforestation` · `desmatamento` · `wildfire` · `queimadas` · `indigenous territories` · `pueblos indígenas` · `biodiversity` · `drought` · `mining`
 
-[1]: https://bevelment78.rssing.com/index.php "IPAM AmazÃ´nia"
+[1]: https://bevelment78.rssing.com/index.php "IPAM Amazônia"
 
 [2]: https://mapbiomas7.rssing.com/index.php "MapBiomas Brasil"
 
@@ -672,8 +672,8 @@ Para una vigilancia general de la AmazonÃ­a:
 
 [5]: https://es.mongabay.com/ultimas-noticias/?utm_source=chatgpt.com "Ultimas noticias"
 
-[6]: https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/dados-do-deter-referentes-a-junho-de-2026-estao-disponiveis-na-plataforma-terra-brasilis?utm_source=chatgpt.com "Dados do DETER referentes a junho de 2026 estÃ£o ..."
+[6]: https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/dados-do-deter-referentes-a-junho-de-2026-estao-disponiveis-na-plataforma-terra-brasilis?utm_source=chatgpt.com "Dados do DETER referentes a junho de 2026 estão ..."
 
-[7]: https://imazon.org.br/all/en?utm_source=chatgpt.com "Instituto do Homem e Meio Ambiente da AmazÃ´nia"
+[7]: https://imazon.org.br/all/en?utm_source=chatgpt.com "Instituto do Homem e Meio Ambiente da Amazônia"
 
 [8]: https://www.globalforestwatch.org/blog/?utm_source=chatgpt.com "Global Forest Watch Blog"

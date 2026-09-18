@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-12T14:35:07.408Z
-modified: 2026-09-17T10:13:55.417Z
+modified: 2026-09-18T09:36:21.441Z
 ---
 
-### [[ComputaciÃ³n CuÃ¡ntica y FÃ­sica]]
+### [[Computación Cuántica y Física]]
 
-[[ComputaciÃ³n CuÃ¡ntica y FÃ­sica]]
+[[Computación Cuántica y Física]]
 
-### [[N1022 Mapeando la Gravedad CuÃ¡ntica â€” La Trama y el Cuanto]]
+### [[N1022 Mapeando la Gravedad Cuántica — La Trama y el Cuanto]]
 
-[[N1022 Mapeando la Gravedad CuÃ¡ntica â€” La Trama y el Cuanto]]
+[[N1022 Mapeando la Gravedad Cuántica — La Trama y el Cuanto]]

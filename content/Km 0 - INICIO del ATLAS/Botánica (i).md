@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-08-06T05:19:11.002Z
-modified: 2026-09-17T10:14:19.806Z
+modified: 2026-09-18T09:36:36.482Z
 ---
 
-#Ãndices #Naturaleza #Ciencia
+#Índices #Naturaleza #Ciencia
 
 ![[Biblioteca/BOTANICA.jpg]]
 
-âœ… **Enlaces comprobados y operativos el 21 de julio de 2026.** Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ **Enlaces comprobados y operativos el 21 de julio de 2026.** Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-## [WEFORUM: BotÃ¡nica](https://intelligence.weforum.org/topics/a1G0X0000062jZ3UAI/key-issues/a1G0X0000057IJOUA2)
+## [WEFORUM: Botánica](https://intelligence.weforum.org/topics/a1G0X0000062jZ3UAI/key-issues/a1G0X0000057IJOUA2)
 
 \[En Windows F11 para Zoom = alternar mapa y datos]
 
@@ -20,369 +20,369 @@ modified: 2026-09-17T10:14:19.806Z
 
 - **Royal Botanic Gardens, Kew**\
   <https://www.kew.org/>\
-  La instituciÃ³n botÃ¡nica mÃ¡s prestigiosa del mundo en investigaciÃ³n y conservaciÃ³n vegetal.
+  La institución botánica más prestigiosa del mundo en investigación y conservación vegetal.
 - **Plants of the World Online (POWO)**\
   <https://powo.science.kew.org/>\
-  Base de datos oficial de Kew con informaciÃ³n taxonÃ³mica y distribuciÃ³n de plantas.
+  Base de datos oficial de Kew con información taxonómica y distribución de plantas.
 - **Missouri Botanical Garden**\
   <https://www.missouribotanicalgarden.org/>\
-  Referente internacional en investigaciÃ³n botÃ¡nica y conservaciÃ³n.
+  Referente internacional en investigación botánica y conservación.
 - **Tropicos**\
   <https://www.tropicos.org/>\
-  Base de datos botÃ¡nica del Missouri Botanical Garden.
+  Base de datos botánica del Missouri Botanical Garden.
 - **Botanic Gardens Conservation International (BGCI)**\
   <https://www.bgci.org/>\
-  Red mundial para la conservaciÃ³n de plantas y jardines botÃ¡nicos.
+  Red mundial para la conservación de plantas y jardines botánicos.
 - **International Plant Names Index (IPNI)**\
   <https://www.ipni.org/>\
-  Registro internacional de nombres cientÃ­ficos de plantas.
+  Registro internacional de nombres científicos de plantas.
 - **World Flora Online**\
   <https://www.worldfloraonline.org/>\
-  CatÃ¡logo global de especies vegetales.
+  Catálogo global de especies vegetales.
 - **Index Herbariorum**\
   <https://sweetgum.nybg.org/science/ih/>\
   Directorio internacional de herbarios y especialistas.
 - **JSTOR Global Plants**\
   <https://plants.jstor.org/>\
-  ColecciÃ³n digital de ejemplares tipo y material botÃ¡nico histÃ³rico.
+  Colección digital de ejemplares tipo y material botánico histórico.
 - **Flora of North America**\
   http://floranorthamerica.org/\
-  Flora de referencia para AmÃ©rica del Norte.
-- **GBIF â€“ Global Biodiversity Information Facility**\
+  Flora de referencia para América del Norte.
+- **GBIF – Global Biodiversity Information Facility**\
   <https://www.gbif.org/>\
-  Datos mundiales sobre biodiversidad, incluyendo millones de registros botÃ¡nicos.
+  Datos mundiales sobre biodiversidad, incluyendo millones de registros botánicos.
 - **Encyclopedia of Life (EOL)**\
   <https://eol.org/>\
-  InformaciÃ³n sobre especies vegetales de todo el mundo.
+  Información sobre especies vegetales de todo el mundo.
 - **USDA PLANTS Database**\
   <https://plants.usda.gov/>\
   Base de datos oficial de plantas de Estados Unidos.
 - **Royal Horticultural Society (RHS)**\
   <https://www.rhs.org.uk/>\
-  Referencia mundial en horticultura y botÃ¡nica aplicada.
+  Referencia mundial en horticultura y botánica aplicada.
 - **New York Botanical Garden (NYBG)**\
   <https://www.nybg.org/>\
-  InvestigaciÃ³n, herbarios y conservaciÃ³n vegetal.
+  Investigación, herbarios y conservación vegetal.
 - **Australian National Botanic Gardens**\
   <https://www.anbg.gov.au/>\
-  Flora australiana e investigaciÃ³n botÃ¡nica.
-- **Chinese Academy of Sciences â€“ Flora of China**\
+  Flora australiana e investigación botánica.
+- **Chinese Academy of Sciences – Flora of China**\
   http://www.efloras.org/\
-  Flora cientÃ­fica de China.
+  Flora científica de China.
 - **eFloras**\
   http://www.efloras.org/\
   Acceso a importantes floras regionales del mundo.
 - **European Native Seed Conservation Network (ENSCONET)**\
   https://ensconet.maich.gr/\
-  ConservaciÃ³n de semillas y biodiversidad vegetal.
+  Conservación de semillas y biodiversidad vegetal.
 - **International Association for Plant Taxonomy (IAPT)**\
   <https://www.iaptglobal.org/>\
-  OrganizaciÃ³n lÃ­der en taxonomÃ­a vegetal.
+  Organización líder en taxonomía vegetal.
 - **Botanical Society of America (BSA)**\
   <https://botany.org/>\
-  Principal sociedad cientÃ­fica de botÃ¡nica de Estados Unidos.
+  Principal sociedad científica de botánica de Estados Unidos.
 - **American Society of Plant Biologists (ASPB)**\
   <https://aspb.org/>\
-  Referencia en fisiologÃ­a y biologÃ­a vegetal.
-- **Plant List (archivo histÃ³rico)**\
+  Referencia en fisiología y biología vegetal.
+- **Plant List (archivo histórico)**\
   http://www.theplantlist.org/\
-  CatÃ¡logo histÃ³rico de nombres botÃ¡nicos, aÃºn Ãºtil para consultas.
+  Catálogo histórico de nombres botánicos, aún útil para consultas.
 - **Flora Iberica**\
   <https://www.floraiberica.es/>\
-  Referencia cientÃ­fica sobre la flora de la PenÃ­nsula IbÃ©rica.
+  Referencia científica sobre la flora de la Península Ibérica.
 - **Kew Science**\
   <https://www.kew.org/science>\
-  InvestigaciÃ³n avanzada sobre biodiversidad vegetal.
+  Investigación avanzada sobre biodiversidad vegetal.
 - **International Society of Arboriculture (ISA)**\
   <https://www.isa-arbor.com/>\
-  Ciencia y gestiÃ³n del arbolado.
+  Ciencia y gestión del arbolado.
 - **BGCI PlantSearch**\
   https://tools.bgci.org/plant\_search.php\
-  LocalizaciÃ³n de especies conservadas en jardines botÃ¡nicos.
+  Localización de especies conservadas en jardines botánicos.
 - **Plant Resources of Tropical Africa (PROTA)**\
   <https://www.prota4u.org/>\
-  Recursos vegetales del Ãfrica tropical.
+  Recursos vegetales del África tropical.
 - **Plants For A Future (PFAF)**\
   <https://pfaf.org/>\
-  Base de datos sobre plantas Ãºtiles y etnobotÃ¡nica.
+  Base de datos sobre plantas útiles y etnobotánica.
 - **The Gymnosperm Database**\
   <https://www.conifers.org/>\
-  Referencia especializada en conÃ­feras y gimnospermas.
+  Referencia especializada en coníferas y gimnospermas.
 
 # YOUTUBE
 
 - **Royal Botanic Gardens, Kew**\
   https://www.youtube.com/@kewgardens\
-  Conferencias, conservaciÃ³n e investigaciÃ³n botÃ¡nica.
+  Conferencias, conservación e investigación botánica.
 - **Missouri Botanical Garden**\
   https://www.youtube.com/@MissouriBotanicalGarden\
-  BotÃ¡nica, horticultura y biodiversidad vegetal.
+  Botánica, horticultura y biodiversidad vegetal.
 - **New York Botanical Garden**\
   https://www.youtube.com/@NYBG\
-  Recursos educativos y divulgaciÃ³n cientÃ­fica.
+  Recursos educativos y divulgación científica.
 - **Botanical Society of America**\
   https://www.youtube.com/@BotanicalSocietyofAmerica\
-  Charlas cientÃ­ficas sobre investigaciÃ³n botÃ¡nica.
+  Charlas científicas sobre investigación botánica.
 - **American Society of Plant Biologists (ASPB)**\
   https://www.youtube.com/@ASPBMedia\
-  FisiologÃ­a vegetal, genÃ©tica y biologÃ­a molecular de plantas.
-- **RHS â€“ Royal Horticultural Society**\
+  Fisiología vegetal, genética y biología molecular de plantas.
+- **RHS – Royal Horticultural Society**\
   https://www.youtube.com/@The\_RHS\
-  JardinerÃ­a basada en evidencia cientÃ­fica y botÃ¡nica aplicada.
+  Jardinería basada en evidencia científica y botánica aplicada.
 - **Crime Pays But Botany Doesn't**\
   https://www.youtube.com/@CrimePaysButBotanyDoesnt\
-  DivulgaciÃ³n de botÃ¡nica de campo, taxonomÃ­a y ecologÃ­a vegetal.
+  Divulgación de botánica de campo, taxonomía y ecología vegetal.
 - **Botanic Gardens Conservation International (BGCI)**\
   https://www.youtube.com/@BGCIBotanicGardens\
-  ConservaciÃ³n de plantas y jardines botÃ¡nicos.
+  Conservación de plantas y jardines botánicos.
 - **iBiology**\
   https://www.youtube.com/@iBiology\
-  Incluye numerosas conferencias sobre biologÃ­a y fisiologÃ­a vegetal.
+  Incluye numerosas conferencias sobre biología y fisiología vegetal.
 - **Oxford Botanic Garden & Arboretum**\
   https://www.youtube.com/@OxfordBotanicGarden\
-  Historia, investigaciÃ³n y conservaciÃ³n de plantas.
+  Historia, investigación y conservación de plantas.
 
 # PODCAST
 
 - **In Defense of Plants Podcast**\
   <https://www.indefenseofplants.com/podcast>\
-  Uno de los podcasts mÃ¡s prestigiosos sobre botÃ¡nica, ecologÃ­a vegetal y conservaciÃ³n.
+  Uno de los podcasts más prestigiosos sobre botánica, ecología vegetal y conservación.
 - **Plant Kingdom**\
   https://www.plantkingdom.earth/\
-  Entrevistas con botÃ¡nicos, horticultores e investigadores de todo el mundo.
+  Entrevistas con botánicos, horticultores e investigadores de todo el mundo.
 - **Kew Gardens Podcast**\
   https://www.kew.org/kew-gardens-podcast\
-  Serie oficial del Royal Botanic Gardens, Kew, sobre ciencia, conservaciÃ³n e historia de las plantas.
+  Serie oficial del Royal Botanic Gardens, Kew, sobre ciencia, conservación e historia de las plantas.
 - **On The Ledge**\
   <https://www.janeperrone.com/on-the-ledge>\
-  Podcast de referencia sobre plantas de interior, horticultura y botÃ¡nica.
+  Podcast de referencia sobre plantas de interior, horticultura y botánica.
 - **The Plantastic Podcast**\
   https://www.plantasticpodcast.com/\
-  Conversaciones sobre biodiversidad vegetal, investigaciÃ³n y jardinerÃ­a cientÃ­fica.
+  Conversaciones sobre biodiversidad vegetal, investigación y jardinería científica.
 - **Talking Heads (American Society of Plant Biologists)**\
   <https://aspb.org/>\
-  Entrevistas con investigadores en fisiologÃ­a y biologÃ­a vegetal.
+  Entrevistas con investigadores en fisiología y biología vegetal.
 - **The Field Guides Podcast**\
   <https://fieldguides.com/>\
-  Episodios dedicados a flora, biodiversidad y expediciones botÃ¡nicas.
+  Episodios dedicados a flora, biodiversidad y expediciones botánicas.
 - **BBC Gardeners' World Magazine Podcast**\
   <https://www.gardenersworld.com/podcast/>\
-  JardinerÃ­a con base botÃ¡nica y entrevistas a especialistas.
+  Jardinería con base botánica y entrevistas a especialistas.
 - **Roots and All**\
   <https://rootsandall.co.uk/>\
-  BotÃ¡nica, horticultura, agricultura sostenible y conservaciÃ³n.
+  Botánica, horticultura, agricultura sostenible y conservación.
 - **Botany One Podcast**\
   <https://botany.one/>\
   Complemento sonoro del portal internacional _Botany One_, con noticias e investigaciones.
 
 # LIBROS
 
-- **Raven Biology of Plants â€” Ray F. Evert, Susan E. Eichhorn y Peter H. Raven**\
-  El manual universitario de botÃ¡nica mÃ¡s utilizado internacionalmente.
-- **Plant Systematics â€” Michael G. Simpson**\
-  Referencia moderna sobre taxonomÃ­a y sistemÃ¡tica vegetal.
-- **Plant Physiology and Development â€” Lincoln Taiz, Eduardo Zeiger et al.**\
-  Obra fundamental sobre fisiologÃ­a vegetal.
-- **Botany for Gardeners â€” Brian Capon**\
-  Excelente introducciÃ³n a la botÃ¡nica aplicada.
-- **The Hidden Life of Trees â€” Peter Wohlleben**\
-  DivulgaciÃ³n sobre ecologÃ­a forestal y comunicaciÃ³n entre Ã¡rboles.
-- **The Botany of Desire â€” Michael Pollan**\
-  RelaciÃ³n evolutiva entre plantas y seres humanos.
-- **Braiding Sweetgrass â€” Robin Wall Kimmerer**\
-  BotÃ¡nica, ecologÃ­a y conocimiento indÃ­gena.
-- **The Secret Life of Plants â€” Peter Tompkins y Christopher Bird**\
-  Obra clÃ¡sica de divulgaciÃ³n botÃ¡nica.
-- **Flora: Inside the Secret World of Plants â€” DK**\
-  MagnÃ­fica introducciÃ³n ilustrada al mundo vegetal.
-- **The Reason for Flowers â€” Stephen Buchmann**\
-  EvoluciÃ³n y ecologÃ­a de las flores.
-- **The Triumph of Seeds â€” Thor Hanson**\
+- **Raven Biology of Plants — Ray F. Evert, Susan E. Eichhorn y Peter H. Raven**\
+  El manual universitario de botánica más utilizado internacionalmente.
+- **Plant Systematics — Michael G. Simpson**\
+  Referencia moderna sobre taxonomía y sistemática vegetal.
+- **Plant Physiology and Development — Lincoln Taiz, Eduardo Zeiger et al.**\
+  Obra fundamental sobre fisiología vegetal.
+- **Botany for Gardeners — Brian Capon**\
+  Excelente introducción a la botánica aplicada.
+- **The Hidden Life of Trees — Peter Wohlleben**\
+  Divulgación sobre ecología forestal y comunicación entre árboles.
+- **The Botany of Desire — Michael Pollan**\
+  Relación evolutiva entre plantas y seres humanos.
+- **Braiding Sweetgrass — Robin Wall Kimmerer**\
+  Botánica, ecología y conocimiento indígena.
+- **The Secret Life of Plants — Peter Tompkins y Christopher Bird**\
+  Obra clásica de divulgación botánica.
+- **Flora: Inside the Secret World of Plants — DK**\
+  Magnífica introducción ilustrada al mundo vegetal.
+- **The Reason for Flowers — Stephen Buchmann**\
+  Evolución y ecología de las flores.
+- **The Triumph of Seeds — Thor Hanson**\
   Historia natural de las semillas.
-- **The Tree â€” Colin Tudge**\
-  Panorama global de la diversidad arbÃ³rea.
-- **The Cabaret of Plants â€” Richard Mabey**\
-  Historia cultural y cientÃ­fica de las plantas.
-- **Plant Evolution â€” Karl J. Niklas**\
-  Referencia sobre evoluciÃ³n vegetal.
-- **Economic Botany â€” Beryl Simpson y Molly Ogorzaly**\
-  Plantas Ãºtiles y su importancia econÃ³mica.
-- **Flora Britannica â€” Richard Mabey**\
-  Historia natural de la flora britÃ¡nica.
-- **The Emerald Planet â€” David Beerling**\
-  EvoluciÃ³n de las plantas y transformaciÃ³n de la Tierra.
-- **Manual of Leaf Architecture â€” Leaf Architecture Working Group**\
-  Referencia tÃ©cnica para morfologÃ­a foliar.
-- **Plant Identification Terminology â€” James G. Harris y Melinda Woolf Harris**\
-  GuÃ­a esencial para la identificaciÃ³n botÃ¡nica.
-- **Botany in a Day â€” Thomas J. Elpel**\
-  MÃ©todo prÃ¡ctico para reconocer familias botÃ¡nicas.
+- **The Tree — Colin Tudge**\
+  Panorama global de la diversidad arbórea.
+- **The Cabaret of Plants — Richard Mabey**\
+  Historia cultural y científica de las plantas.
+- **Plant Evolution — Karl J. Niklas**\
+  Referencia sobre evolución vegetal.
+- **Economic Botany — Beryl Simpson y Molly Ogorzaly**\
+  Plantas útiles y su importancia económica.
+- **Flora Britannica — Richard Mabey**\
+  Historia natural de la flora británica.
+- **The Emerald Planet — David Beerling**\
+  Evolución de las plantas y transformación de la Tierra.
+- **Manual of Leaf Architecture — Leaf Architecture Working Group**\
+  Referencia técnica para morfología foliar.
+- **Plant Identification Terminology — James G. Harris y Melinda Woolf Harris**\
+  Guía esencial para la identificación botánica.
+- **Botany in a Day — Thomas J. Elpel**\
+  Método práctico para reconocer familias botánicas.
 
 # REVISTAS
 
 - **Annals of Botany**\
   <https://academic.oup.com/aob>\
-  Una de las revistas cientÃ­ficas mÃ¡s prestigiosas en botÃ¡nica.
+  Una de las revistas científicas más prestigiosas en botánica.
 - **American Journal of Botany**\
   <https://bsapubs.onlinelibrary.wiley.com/journal/15372197>\
-  PublicaciÃ³n oficial de la Botanical Society of America.
+  Publicación oficial de la Botanical Society of America.
 - **New Phytologist**\
   <https://nph.onlinelibrary.wiley.com/>\
-  Referencia mundial en fisiologÃ­a, evoluciÃ³n y ecologÃ­a vegetal.
+  Referencia mundial en fisiología, evolución y ecología vegetal.
 - **Plant Physiology**\
   <https://academic.oup.com/plphys>\
-  Revista lÃ­der en fisiologÃ­a vegetal.
+  Revista líder en fisiología vegetal.
 - **The Plant Cell**\
   <https://academic.oup.com/plcell>\
-  InvestigaciÃ³n en biologÃ­a molecular y celular de plantas.
+  Investigación en biología molecular y celular de plantas.
 - **Plant Journal**\
   <https://onlinelibrary.wiley.com/journal/1365313x>\
-  GenÃ©tica, biotecnologÃ­a y fisiologÃ­a vegetal.
+  Genética, biotecnología y fisiología vegetal.
 - **Taxon**\
   <https://onlinelibrary.wiley.com/journal/19968175>\
   Revista oficial de la International Association for Plant Taxonomy.
 - **Brittonia**\
   <https://link.springer.com/journal/12228>\
-  TaxonomÃ­a, sistemÃ¡tica y flora americana.
+  Taxonomía, sistemática y flora americana.
 - **Botanical Journal of the Linnean Society**\
   <https://academic.oup.com/botlinnean>\
-  InvestigaciÃ³n en evoluciÃ³n y sistemÃ¡tica vegetal.
+  Investigación en evolución y sistemática vegetal.
 - **Systematic Botany**\
   <https://www.aspt.net/systematic-botany>\
-  Revista especializada en taxonomÃ­a y filogenia de plantas.
-  ðŸ› MUSEOS: Los 10 mejores museos
+  Revista especializada en taxonomía y filogenia de plantas.
+  🏛 MUSEOS: Los 10 mejores museos
 
 # MUSEOS
 
 - **Royal Botanic Gardens, Kew (Reino Unido)**\
   <https://www.kew.org/>\
-  Patrimonio Mundial de la UNESCO y el jardÃ­n botÃ¡nico de mayor prestigio cientÃ­fico del mundo.
+  Patrimonio Mundial de la UNESCO y el jardín botánico de mayor prestigio científico del mundo.
 - **Missouri Botanical Garden (Estados Unidos)**\
   <https://www.missouribotanicalgarden.org/>\
-  Uno de los principales centros internacionales de investigaciÃ³n botÃ¡nica y conservaciÃ³n.
+  Uno de los principales centros internacionales de investigación botánica y conservación.
 - **New York Botanical Garden (Estados Unidos)**\
   <https://www.nybg.org/>\
-  Destaca por su herbario, biblioteca cientÃ­fica y programas de investigaciÃ³n.
-- **Jardin des Plantes â€“ MusÃ©um national d'Histoire naturelle (Francia)**\
+  Destaca por su herbario, biblioteca científica y programas de investigación.
+- **Jardin des Plantes – Muséum national d'Histoire naturelle (Francia)**\
   <https://www.mnhn.fr/>\
-  HistÃ³rico jardÃ­n botÃ¡nico con importantes colecciones cientÃ­ficas.
+  Histórico jardín botánico con importantes colecciones científicas.
 - **Singapore Botanic Gardens (Singapur)**\
   <https://www.nparks.gov.sg/sbg>\
-  Patrimonio Mundial de la UNESCO y referente en botÃ¡nica tropical.
+  Patrimonio Mundial de la UNESCO y referente en botánica tropical.
 - **Berlin-Dahlem Botanical Garden and Botanical Museum (Alemania)**\
   <https://www.bgbm.org/>\
-  Uno de los mayores jardines botÃ¡nicos de Europa y centro de investigaciÃ³n taxonÃ³mica.
+  Uno de los mayores jardines botánicos de Europa y centro de investigación taxonómica.
 - **Australian National Botanic Gardens (Australia)**\
   <https://www.anbg.gov.au/>\
-  Especializado en la flora australiana y su conservaciÃ³n.
-- **Real JardÃ­n BotÃ¡nico de Madrid (EspaÃ±a)**\
+  Especializado en la flora australiana y su conservación.
+- **Real Jardín Botánico de Madrid (España)**\
   https://www.rjb.csic.es/\
-  InstituciÃ³n cientÃ­fica del CSIC con importantes colecciones y herbarios.
-- **Jardim BotÃ¢nico do Rio de Janeiro (Brasil)**\
+  Institución científica del CSIC con importantes colecciones y herbarios.
+- **Jardim Botânico do Rio de Janeiro (Brasil)**\
   <https://jbrj.gov.br/>\
   Referencia mundial en biodiversidad y flora tropical.
 - **Royal Botanic Garden Edinburgh (Reino Unido)**\
   <https://www.rbge.org.uk/>\
-  Centro internacional de investigaciÃ³n, educaciÃ³n y conservaciÃ³n vegetal.
+  Centro internacional de investigación, educación y conservación vegetal.
 
 # UNIVERSIDADES
 
 - **University of California, Davis (Estados Unidos)**\
   <https://www.ucdavis.edu/>\
-  Referente internacional en ciencias vegetales, agricultura y botÃ¡nica.
+  Referente internacional en ciencias vegetales, agricultura y botánica.
 - **Cornell University (Estados Unidos)**\
   <https://www.cornell.edu/>\
-  Destacada en fisiologÃ­a vegetal, genÃ©tica y biologÃ­a de plantas.
+  Destacada en fisiología vegetal, genética y biología de plantas.
 - **University of Cambridge (Reino Unido)**\
   <https://www.cam.ac.uk/>\
-  InvestigaciÃ³n de excelencia en botÃ¡nica y biologÃ­a evolutiva.
+  Investigación de excelencia en botánica y biología evolutiva.
 - **University of Oxford (Reino Unido)**\
   <https://www.ox.ac.uk/>\
-  Hogar del histÃ³rico Oxford Botanic Garden y de importantes grupos de investigaciÃ³n.
-- **Wageningen University & Research (PaÃ­ses Bajos)**\
+  Hogar del histórico Oxford Botanic Garden y de importantes grupos de investigación.
+- **Wageningen University & Research (Países Bajos)**\
   <https://www.wur.nl/>\
-  LÃ­der mundial en ciencias de las plantas, agricultura y biodiversidad.
+  Líder mundial en ciencias de las plantas, agricultura y biodiversidad.
 - **Swedish University of Agricultural Sciences (Suecia)**\
   <https://www.slu.se/>\
-  InvestigaciÃ³n de referencia en ecologÃ­a y ciencias forestales.
+  Investigación de referencia en ecología y ciencias forestales.
 - **University of Reading (Reino Unido)**\
   <https://www.reading.ac.uk/>\
   Reconocida por sus programas de ciencias vegetales.
 - **University of Florida (Estados Unidos)**\
   <https://www.ufl.edu/>\
-  InvestigaciÃ³n en horticultura, botÃ¡nica tropical y fisiologÃ­a vegetal.
-- **ETH ZÃ¼rich (Suiza)**\
+  Investigación en horticultura, botánica tropical y fisiología vegetal.
+- **ETH Zürich (Suiza)**\
   <https://ethz.ch/en.html>\
-  Referencia europea en biologÃ­a vegetal, genÃ©tica y biotecnologÃ­a.
+  Referencia europea en biología vegetal, genética y biotecnología.
 - **Australian National University (Australia)**\
   <https://www.anu.edu.au/>\
-  InvestigaciÃ³n destacada en biodiversidad y ecologÃ­a vegetal.
+  Investigación destacada en biodiversidad y ecología vegetal.
 
 # ASOCIACIONES
 
 - **Botanical Society of America (BSA)**\
   <https://botany.org/>\
-  La principal sociedad cientÃ­fica de botÃ¡nica de Estados Unidos.
+  La principal sociedad científica de botánica de Estados Unidos.
 - **International Association for Plant Taxonomy (IAPT)**\
   <https://www.iaptglobal.org/>\
-  Autoridad internacional en taxonomÃ­a y nomenclatura vegetal.
+  Autoridad internacional en taxonomía y nomenclatura vegetal.
 - **American Society of Plant Biologists (ASPB)**\
   <https://aspb.org/>\
-  OrganizaciÃ³n lÃ­der en fisiologÃ­a y biologÃ­a molecular de plantas.
+  Organización líder en fisiología y biología molecular de plantas.
 - **Botanic Gardens Conservation International (BGCI)**\
   <https://www.bgci.org/>\
-  Red mundial para la conservaciÃ³n de la diversidad vegetal.
+  Red mundial para la conservación de la diversidad vegetal.
 - **International Society of Arboriculture (ISA)**\
   <https://www.isa-arbor.com/>\
-  Referente en arboricultura y gestiÃ³n del arbolado urbano.
+  Referente en arboricultura y gestión del arbolado urbano.
 - **The Linnean Society of London**\
   <https://www.linnean.org/>\
-  HistÃ³rica sociedad cientÃ­fica dedicada a la taxonomÃ­a y la historia natural.
+  Histórica sociedad científica dedicada a la taxonomía y la historia natural.
 - **Society for Economic Botany (SEB)**\
   <https://www.econbot.org/>\
-  Especializada en plantas Ãºtiles y etnobotÃ¡nica.
+  Especializada en plantas útiles y etnobotánica.
 - **European Botanical and Horticultural Libraries Group (EBHL)**\
   https://www.ebhl.eu/\
-  Red europea de bibliotecas especializadas en botÃ¡nica.
+  Red europea de bibliotecas especializadas en botánica.
 - **International Dendrology Society (IDS)**\
   https://treesandshrubs.org/\
-  OrganizaciÃ³n dedicada al estudio de Ã¡rboles y arbustos.
+  Organización dedicada al estudio de árboles y arbustos.
 - **International Association of Botanical Gardens (IABG)**\
   https://iabg.org/\
-  CooperaciÃ³n internacional entre jardines botÃ¡nicos para investigaciÃ³n y conservaciÃ³n.
+  Cooperación internacional entre jardines botánicos para investigación y conservación.
 
 # NEWSLETTER
 
 - **Kew Science Newsletter**\
   <https://www.kew.org/science>\
-  Novedades sobre investigaciÃ³n y conservaciÃ³n vegetal.
+  Novedades sobre investigación y conservación vegetal.
 - **Botanic Gardens Conservation International (BGCI)**\
   <https://www.bgci.org/>\
-  InformaciÃ³n sobre jardines botÃ¡nicos y biodiversidad.
+  Información sobre jardines botánicos y biodiversidad.
 - **Missouri Botanical Garden Newsletter**\
   <https://www.missouribotanicalgarden.org/>\
-  Noticias cientÃ­ficas y actividades de investigaciÃ³n.
+  Noticias científicas y actividades de investigación.
 - **New York Botanical Garden Newsletter**\
   <https://www.nybg.org/>\
-  Actualidad sobre flora, herbarios y conservaciÃ³n.
+  Actualidad sobre flora, herbarios y conservación.
 - **Botanical Society of America Newsletter**\
   <https://botany.org/>\
-  Noticias de investigaciÃ³n, congresos y publicaciones.
+  Noticias de investigación, congresos y publicaciones.
 - **American Society of Plant Biologists Newsletter**\
   <https://aspb.org/>\
-  InformaciÃ³n sobre fisiologÃ­a vegetal y biologÃ­a molecular.
+  Información sobre fisiología vegetal y biología molecular.
 - **Plant Network Newsletter**\
   <https://plantnetwork.org/>\
-  ConservaciÃ³n de colecciones botÃ¡nicas y jardines.
+  Conservación de colecciones botánicas y jardines.
 - **Royal Horticultural Society Newsletter**\
   <https://www.rhs.org.uk/>\
-  InvestigaciÃ³n aplicada, horticultura y botÃ¡nica.
+  Investigación aplicada, horticultura y botánica.
 - **Flora Iberica Newsletter**\
   <https://www.floraiberica.es/>\
-  Novedades sobre el proyecto cientÃ­fico de la flora ibÃ©rica.
+  Novedades sobre el proyecto científico de la flora ibérica.
 - **Botany One Newsletter**\
   <https://botany.one/>\
-  SelecciÃ³n periÃ³dica de noticias y avances en botÃ¡nica.
+  Selección periódica de noticias y avances en botánica.
 
 # TV
 
@@ -391,436 +391,436 @@ modified: 2026-09-17T10:14:19.806Z
   Referencia mundial en documentales sobre flora, biodiversidad y ecosistemas.
 - **National Geographic**\
   <https://www.nationalgeographic.com/>\
-  Documentales de alta calidad sobre botÃ¡nica, conservaciÃ³n y exploraciÃ³n cientÃ­fica.
+  Documentales de alta calidad sobre botánica, conservación y exploración científica.
 - **PBS Nature**\
   <https://www.pbs.org/wnet/nature/>\
   Serie documental con numerosos episodios dedicados a plantas y ecosistemas.
 - **Smithsonian Channel**\
   <https://www.smithsonianchannel.com/>\
-  Producciones sobre biodiversidad, evoluciÃ³n y ciencias naturales.
-- **NHK World â€“ Science View**\
+  Producciones sobre biodiversidad, evolución y ciencias naturales.
+- **NHK World – Science View**\
   <https://www3.nhk.or.jp/nhkworld/>\
-  Reportajes sobre investigaciÃ³n vegetal, agricultura y biotecnologÃ­a.
+  Reportajes sobre investigación vegetal, agricultura y biotecnología.
 - **DW Documentary**\
   https://www.dw.com/en/dw-documentary/s-36898089\
   Documentales sobre medio ambiente, bosques y biodiversidad.
 - **Arte**\
   <https://www.arte.tv/>\
-  Producciones europeas sobre naturaleza, ecologÃ­a y ciencia.
+  Producciones europeas sobre naturaleza, ecología y ciencia.
 - **Love Nature**\
   <https://lovenature.com/>\
   Canal internacional especializado en vida silvestre y ecosistemas.
 - **Curiosity Stream**\
   <https://curiositystream.com/>\
-  Plataforma con numerosos documentales dedicados a botÃ¡nica y ciencias naturales.
+  Plataforma con numerosos documentales dedicados a botánica y ciencias naturales.
 - **iBiology**\
   <https://www.ibiology.org/>\
-  Conferencias impartidas por investigadores sobre biologÃ­a y fisiologÃ­a vegetal.
+  Conferencias impartidas por investigadores sobre biología y fisiología vegetal.
 
 # RADIO
 
-> Estas emisoras destacan por ofrecer programas sobre botÃ¡nica, biodiversidad, ecologÃ­a, agricultura y ciencias naturales.
+> Estas emisoras destacan por ofrecer programas sobre botánica, biodiversidad, ecología, agricultura y ciencias naturales.
 
-- **BBC Radio 4 â€“ In Our Time (BiologÃ­a y BotÃ¡nica)**\
+- **BBC Radio 4 – In Our Time (Biología y Botánica)**\
   <https://www.bbc.co.uk/programmes/b006qykl>\
-  Episodios dedicados a plantas, evoluciÃ³n y ciencias naturales.
-- **BBC Radio 4 â€“ Inside Science**\
+  Episodios dedicados a plantas, evolución y ciencias naturales.
+- **BBC Radio 4 – Inside Science**\
   <https://www.bbc.co.uk/programmes/b036f7w2>\
-  InvestigaciÃ³n cientÃ­fica con frecuentes contenidos sobre botÃ¡nica.
-- **NPR â€“ Short Wave**\
+  Investigación científica con frecuentes contenidos sobre botánica.
+- **NPR – Short Wave**\
   <https://www.npr.org/podcasts/510351/short-wave>\
-  DivulgaciÃ³n cientÃ­fica con episodios sobre biodiversidad y plantas.
-- **NPR â€“ Science Friday**\
+  Divulgación científica con episodios sobre biodiversidad y plantas.
+- **NPR – Science Friday**\
   <https://www.sciencefriday.com/>\
-  Programa de referencia sobre ciencia, medio ambiente y botÃ¡nica.
-- **CBC Radio â€“ Quirks & Quarks**\
+  Programa de referencia sobre ciencia, medio ambiente y botánica.
+- **CBC Radio – Quirks & Quarks**\
   https://www.cbc.ca/radio/quirks\
-  InvestigaciÃ³n sobre flora, ecologÃ­a y biodiversidad.
-- **ABC Radio National â€“ Ockham's Razor**\
+  Investigación sobre flora, ecología y biodiversidad.
+- **ABC Radio National – Ockham's Razor**\
   <https://www.abc.net.au/listen/radionational>\
-  Conferencias de cientÃ­ficos, incluidos botÃ¡nicos y ecÃ³logos.
-- **Deutschlandfunk â€“ Forschung aktuell**\
+  Conferencias de científicos, incluidos botánicos y ecólogos.
+- **Deutschlandfunk – Forschung aktuell**\
   <https://www.deutschlandfunk.de/>\
-  Actualidad cientÃ­fica sobre investigaciÃ³n vegetal y medio ambiente.
-- **Radio France â€“ La Terre au CarrÃ©**\
+  Actualidad científica sobre investigación vegetal y medio ambiente.
+- **Radio France – La Terre au Carré**\
   <https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre>\
-  Programa sobre naturaleza, biodiversidad y conservaciÃ³n.
-- **RNE â€“ A Hombros de Gigantes**\
+  Programa sobre naturaleza, biodiversidad y conservación.
+- **RNE – A Hombros de Gigantes**\
   <https://www.rtve.es/radio/>\
-  DivulgaciÃ³n cientÃ­fica con contenidos sobre botÃ¡nica y ecologÃ­a.
-- **Voice of America â€“ Science & Health**\
+  Divulgación científica con contenidos sobre botánica y ecología.
+- **Voice of America – Science & Health**\
   <https://www.voanews.com/>\
-  InformaciÃ³n internacional sobre ciencias naturales y medio ambiente.
+  Información internacional sobre ciencias naturales y medio ambiente.
 
 # PRENSA ONLINE
 
 - **Botany One**\
   <https://botany.one/>\
-  Portal internacional especializado en noticias de botÃ¡nica e investigaciÃ³n vegetal.
+  Portal internacional especializado en noticias de botánica e investigación vegetal.
 - **Nature Plants**\
   <https://www.nature.com/nplants/>\
-  PublicaciÃ³n de referencia sobre biologÃ­a y ciencias de las plantas.
+  Publicación de referencia sobre biología y ciencias de las plantas.
 - **New Phytologist Foundation**\
   <https://www.newphytologist.org/>\
-  Noticias y avances en fisiologÃ­a, evoluciÃ³n y ecologÃ­a vegetal.
+  Noticias y avances en fisiología, evolución y ecología vegetal.
 - **Kew Science**\
   <https://www.kew.org/science>\
-  InvestigaciÃ³n y conservaciÃ³n lideradas por Royal Botanic Gardens, Kew.
+  Investigación y conservación lideradas por Royal Botanic Gardens, Kew.
 - **Missouri Botanical Garden**\
   <https://www.missouribotanicalgarden.org/>\
-  DivulgaciÃ³n cientÃ­fica y recursos botÃ¡nicos.
+  Divulgación científica y recursos botánicos.
 - **BGCI News**\
   <https://www.bgci.org/>\
-  InformaciÃ³n internacional sobre jardines botÃ¡nicos y conservaciÃ³n.
+  Información internacional sobre jardines botánicos y conservación.
 - **Plants, People, Planet**\
   https://nph.onlinelibrary.wiley.com/journal/25722612\
   Ciencia, sostenibilidad y sociedad desde la perspectiva de las plantas.
-- **Phys.org â€“ Plants & Animals**\
+- **Phys.org – Plants & Animals**\
   https://phys.org/plants-news/\
-  Noticias de investigaciÃ³n en botÃ¡nica y ecologÃ­a vegetal.
-- **ScienceDaily â€“ Plants & Animals**\
+  Noticias de investigación en botánica y ecología vegetal.
+- **ScienceDaily – Plants & Animals**\
   <https://www.sciencedaily.com/news/plants_animals/>\
-  ResÃºmenes de investigaciones recientes sobre ciencias vegetales.
+  Resúmenes de investigaciones recientes sobre ciencias vegetales.
 - **Flora Iberica**\
   <https://www.floraiberica.es/>\
-  Publicaciones y novedades sobre la flora de la PenÃ­nsula IbÃ©rica.
+  Publicaciones y novedades sobre la flora de la Península Ibérica.
 
 # PRENSA ESCRITA
 
 - **Annals of Botany**\
   <https://academic.oup.com/aob>\
-  Una de las revistas cientÃ­ficas mÃ¡s prestigiosas en botÃ¡nica.
+  Una de las revistas científicas más prestigiosas en botánica.
 - **American Journal of Botany**\
   <https://bsapubs.onlinelibrary.wiley.com/journal/15372197>\
-  PublicaciÃ³n de referencia en investigaciÃ³n botÃ¡nica.
+  Publicación de referencia en investigación botánica.
 - **New Phytologist**\
   <https://nph.onlinelibrary.wiley.com/>\
-  InvestigaciÃ³n de alto impacto en biologÃ­a vegetal.
+  Investigación de alto impacto en biología vegetal.
 - **Plant Physiology**\
   <https://academic.oup.com/plphys>\
-  Referencia internacional en fisiologÃ­a de plantas.
+  Referencia internacional en fisiología de plantas.
 - **The Plant Cell**\
   <https://academic.oup.com/plcell>\
-  Revista lÃ­der en biologÃ­a molecular y celular vegetal.
+  Revista líder en biología molecular y celular vegetal.
 - **The Plant Journal**\
   <https://onlinelibrary.wiley.com/journal/1365313x>\
-  PublicaciÃ³n destacada en genÃ©tica y biotecnologÃ­a vegetal.
+  Publicación destacada en genética y biotecnología vegetal.
 - **Taxon**\
   <https://onlinelibrary.wiley.com/journal/19968175>\
   Revista oficial de la International Association for Plant Taxonomy.
 - **Botanical Journal of the Linnean Society**\
   <https://academic.oup.com/botlinnean>\
-  InvestigaciÃ³n en sistemÃ¡tica y evoluciÃ³n de plantas.
+  Investigación en sistemática y evolución de plantas.
 - **Systematic Botany**\
   <https://www.aspt.net/systematic-botany>\
-  Especializada en taxonomÃ­a y filogenia vegetal.
+  Especializada en taxonomía y filogenia vegetal.
 - **Brittonia**\
   <https://link.springer.com/journal/12228>\
-  Revista cientÃ­fica centrada en flora, taxonomÃ­a y sistemÃ¡tica.
+  Revista científica centrada en flora, taxonomía y sistemática.
 
 # RSS
 
-**Ãmbito investigado:** taxonomÃ­a vegetal, fisiologÃ­a, biologÃ­a molecular de plantas, evoluciÃ³n, ecologÃ­a, horticultura botÃ¡nica, herbarios, jardines botÃ¡nicos y conservaciÃ³n de flora.
+**Ámbito investigado:** taxonomía vegetal, fisiología, biología molecular de plantas, evolución, ecología, horticultura botánica, herbarios, jardines botánicos y conservación de flora.
 
-**Fecha de verificaciÃ³n:** 31 de julio de 2026.
+**Fecha de verificación:** 31 de julio de 2026.
 
-**Criterio:** se priorizan organizaciones botÃ¡nicas, jardines e instituciones cientÃ­ficas, revistas acadÃ©micas y repositorios oficiales. Los preprints se identifican expresamente porque pueden no haber pasado revisiÃ³n por pares.
+**Criterio:** se priorizan organizaciones botánicas, jardines e instituciones científicas, revistas académicas y repositorios oficiales. Los preprints se identifican expresamente porque pueden no haber pasado revisión por pares.
 
 ## Tabla resumen
 
-| CategorÃ­a        | Nombre                                   | OrganizaciÃ³n                               | Idioma  | Tipo                           | Estado |
+| Categoría        | Nombre                                   | Organización                               | Idioma  | Tipo                           | Estado |
 | ---------------- | ---------------------------------------- | ------------------------------------------ | ------- | ------------------------------ | ------ |
-| ðŸŸ¢ Institucional | BGCI News                                | Botanic Gardens Conservation International | InglÃ©s  | ConservaciÃ³n vegetal           | Activo |
-| ðŸŸ¢ Institucional | Global Plant Council                     | Global Plant Council                       | InglÃ©s  | Ciencia vegetal                | Activo |
-| ðŸŸ¢ Institucional | Botanics Stories                         | Royal Botanic Garden Edinburgh             | InglÃ©s  | JardÃ­n botÃ¡nico y herbario     | Activo |
-| ðŸŸ¢ Institucional | CNPS Stories                             | California Native Plant Society            | InglÃ©s  | Flora nativa y conservaciÃ³n    | Activo |
-| ðŸŸ¢ Institucional | SINC Tierra                              | Agencia SINC / FECYT                       | EspaÃ±ol | Noticias cientÃ­ficas           | Activo |
-| ðŸ”µ CientÃ­fico    | Plant Sciences                           | Nature Portfolio                           | InglÃ©s  | InvestigaciÃ³n multidisciplinar | Activo |
-| ðŸ”µ CientÃ­fico    | Nature Plants                            | Nature Portfolio                           | InglÃ©s  | Revista cientÃ­fica             | Activo |
-| ðŸ”µ CientÃ­fico    | Plant Biology                            | bioRxiv / CSHL                             | InglÃ©s  | Preprints                      | Activo |
-| ðŸ”µ CientÃ­fico    | Annals of Botany                         | Oxford University Press                    | InglÃ©s  | ArtÃ­culos cientÃ­ficos          | Activo |
-| ðŸ”µ CientÃ­fico    | Botanical Journal of the Linnean Society | Linnean Society / OUP                      | InglÃ©s  | TaxonomÃ­a y evoluciÃ³n          | Activo |
-| ðŸ”µ CientÃ­fico    | Plant Physiology                         | ASPB / OUP                                 | InglÃ©s  | FisiologÃ­a vegetal             | Activo |
-| ðŸ”µ CientÃ­fico    | The Plant Cell                           | ASPB / OUP                                 | InglÃ©s  | BiologÃ­a molecular vegetal     | Activo |
-| ðŸ”µ CientÃ­fico    | Frontiers in Plant Science               | Frontiers                                  | InglÃ©s  | InvestigaciÃ³n vegetal          | Activo |
-| ðŸ”µ TÃ©cnico       | Sibbaldia                                | Royal Botanic Garden Edinburgh             | InglÃ©s  | Horticultura botÃ¡nica          | Activo |
-| ðŸŸ  Especializado | Botany One                               | Annals of Botany Company                   | InglÃ©s  | Actualidad botÃ¡nica            | Activo |
+| 🟢 Institucional | BGCI News                                | Botanic Gardens Conservation International | Inglés  | Conservación vegetal           | Activo |
+| 🟢 Institucional | Global Plant Council                     | Global Plant Council                       | Inglés  | Ciencia vegetal                | Activo |
+| 🟢 Institucional | Botanics Stories                         | Royal Botanic Garden Edinburgh             | Inglés  | Jardín botánico y herbario     | Activo |
+| 🟢 Institucional | CNPS Stories                             | California Native Plant Society            | Inglés  | Flora nativa y conservación    | Activo |
+| 🟢 Institucional | SINC Tierra                              | Agencia SINC / FECYT                       | Español | Noticias científicas           | Activo |
+| 🔵 Científico    | Plant Sciences                           | Nature Portfolio                           | Inglés  | Investigación multidisciplinar | Activo |
+| 🔵 Científico    | Nature Plants                            | Nature Portfolio                           | Inglés  | Revista científica             | Activo |
+| 🔵 Científico    | Plant Biology                            | bioRxiv / CSHL                             | Inglés  | Preprints                      | Activo |
+| 🔵 Científico    | Annals of Botany                         | Oxford University Press                    | Inglés  | Artículos científicos          | Activo |
+| 🔵 Científico    | Botanical Journal of the Linnean Society | Linnean Society / OUP                      | Inglés  | Taxonomía y evolución          | Activo |
+| 🔵 Científico    | Plant Physiology                         | ASPB / OUP                                 | Inglés  | Fisiología vegetal             | Activo |
+| 🔵 Científico    | The Plant Cell                           | ASPB / OUP                                 | Inglés  | Biología molecular vegetal     | Activo |
+| 🔵 Científico    | Frontiers in Plant Science               | Frontiers                                  | Inglés  | Investigación vegetal          | Activo |
+| 🔵 Técnico       | Sibbaldia                                | Royal Botanic Garden Edinburgh             | Inglés  | Horticultura botánica          | Activo |
+| 🟠 Especializado | Botany One                               | Annals of Botany Company                   | Inglés  | Actualidad botánica            | Activo |
 
 ---
 
-## ðŸŸ¢ RSS oficiales e institucionales
+## 🟢 RSS oficiales e institucionales
 
 ### 1. BGCI News
 
-**OrganizaciÃ³n:** Botanic Gardens Conservation International
-**CategorÃ­a:** Red internacional de jardines botÃ¡nicos
+**Organización:** Botanic Gardens Conservation International
+**Categoría:** Red internacional de jardines botánicos
 **URL RSS:** <https://www.bgci.org/feed/>
 **Formato:** RSS 2.0/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** Noticias, proyectos, conservaciÃ³n, semillas y jardines botÃ¡nicos
+**Tipo de contenido:** Noticias, proyectos, conservación, semillas y jardines botánicos
 **Frecuencia aproximada:** Semanal
 **Estado:** **Activo**
 
-**DescripciÃ³n:** novedades sobre conservaciÃ³n de plantas amenazadas, bancos de semillas, capacitaciÃ³n, planificaciÃ³n de especies y cooperaciÃ³n entre jardines botÃ¡nicos.
+**Descripción:** novedades sobre conservación de plantas amenazadas, bancos de semillas, capacitación, planificación de especies y cooperación entre jardines botánicos.
 
-**Observaciones:** es el canal institucional prioritario para seguir la conservaciÃ³n vegetal desde la red internacional de jardines botÃ¡nicos. BGCI mantenÃ­a noticias publicadas durante julio de 2026. ([Jardines BotÃ¡nicos Internacionales][1])
+**Observaciones:** es el canal institucional prioritario para seguir la conservación vegetal desde la red internacional de jardines botánicos. BGCI mantenía noticias publicadas durante julio de 2026. ([Jardines Botánicos Internacionales][1])
 
 ---
 
 ### 2. Global Plant Council
 
-**OrganizaciÃ³n:** Global Plant Council â€” GPC
-**CategorÃ­a:** OrganizaciÃ³n cientÃ­fica internacional
+**Organización:** Global Plant Council — GPC
+**Categoría:** Organización científica internacional
 **URL RSS:** <https://globalplantcouncil.org/feed/>
 **Formato:** RSS 2.0/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** Ciencia vegetal, agricultura, investigaciÃ³n y eventos
+**Tipo de contenido:** Ciencia vegetal, agricultura, investigación y eventos
 **Frecuencia aproximada:** Semanal o irregular
 **Estado:** **Activo**
 
-**DescripciÃ³n:** noticias y artÃ­culos sobre investigaciÃ³n vegetal, cultivos, sostenibilidad, bioinformÃ¡tica, formaciÃ³n y oportunidades para cientÃ­ficos.
+**Descripción:** noticias y artículos sobre investigación vegetal, cultivos, sostenibilidad, bioinformática, formación y oportunidades para científicos.
 
-**Observaciones:** el GPC reÃºne organizaciones de ciencias vegetales, agrÃ­colas y ambientales de distintos paÃ­ses, por lo que su RSS funciona como un buen canal institucional transversal. ([The Global Plant Council][2])
+**Observaciones:** el GPC reúne organizaciones de ciencias vegetales, agrícolas y ambientales de distintos países, por lo que su RSS funciona como un buen canal institucional transversal. ([The Global Plant Council][2])
 
 ---
 
 ### 3. Botanics Stories
 
-**OrganizaciÃ³n:** Royal Botanic Garden Edinburgh â€” RBGE
-**CategorÃ­a:** JardÃ­n botÃ¡nico y herbario oficial
+**Organización:** Royal Botanic Garden Edinburgh — RBGE
+**Categoría:** Jardín botánico y herbario oficial
 **URL RSS:** <https://stories.rbge.org.uk/feed/>
 **Formato:** RSS 2.0/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Reino Unido e internacional
 **Tipo de contenido:** Herbario, colecciones, expediciones, biblioteca y proyectos
 **Frecuencia aproximada:** Semanal o irregular
 **Estado:** **Activo**
 
-**DescripciÃ³n:** artÃ­culos elaborados por personal y proyectos del RBGE sobre digitalizaciÃ³n de especÃ­menes, colecciones vivas, taxonomÃ­a, ilustraciÃ³n botÃ¡nica y trabajo de campo.
+**Descripción:** artículos elaborados por personal y proyectos del RBGE sobre digitalización de especímenes, colecciones vivas, taxonomía, ilustración botánica y trabajo de campo.
 
-**Observaciones:** aporta una visiÃ³n interna de las actividades de un jardÃ­n botÃ¡nico y herbario cientÃ­fico. El sitio mantiene contenidos sobre la digitalizaciÃ³n de millones de especÃ­menes y sus colecciones bibliogrÃ¡ficas. ([Botanics Stories][3])
+**Observaciones:** aporta una visión interna de las actividades de un jardín botánico y herbario científico. El sitio mantiene contenidos sobre la digitalización de millones de especímenes y sus colecciones bibliográficas. ([Botanics Stories][3])
 
 ---
 
 ### 4. CNPS Stories
 
-**OrganizaciÃ³n:** California Native Plant Society â€” CNPS
-**CategorÃ­a:** Sociedad botÃ¡nica y de conservaciÃ³n
+**Organización:** California Native Plant Society — CNPS
+**Categoría:** Sociedad botánica y de conservación
 **URL RSS:** <https://www.cnps.org/feed>
 **Formato:** RSS 2.0/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** California, Estados Unidos
-**Tipo de contenido:** Flora nativa, conservaciÃ³n, restauraciÃ³n y jardinerÃ­a
+**Tipo de contenido:** Flora nativa, conservación, restauración y jardinería
 **Frecuencia aproximada:** Varias publicaciones al mes
 **Estado:** **Activo**
 
-**DescripciÃ³n:** noticias y artÃ­culos sobre plantas nativas de California, protecciÃ³n de hÃ¡bitats, vegetaciÃ³n, restauraciÃ³n ecolÃ³gica, horticultura y participaciÃ³n ciudadana.
+**Descripción:** noticias y artículos sobre plantas nativas de California, protección de hábitats, vegetación, restauración ecológica, horticultura y participación ciudadana.
 
-**Observaciones:** tiene una cobertura regional, pero es una fuente de alta calidad para flora mediterrÃ¡nea, endemismos, restauraciÃ³n y jardinerÃ­a con especies nativas. Su archivo mantenÃ­a publicaciones durante 2026. ([California Native Plant Society][4])
+**Observaciones:** tiene una cobertura regional, pero es una fuente de alta calidad para flora mediterránea, endemismos, restauración y jardinería con especies nativas. Su archivo mantenía publicaciones durante 2026. ([California Native Plant Society][4])
 
 ---
 
 ### 5. SINC Tierra
 
-**OrganizaciÃ³n:** Agencia SINC / FundaciÃ³n EspaÃ±ola para la Ciencia y la TecnologÃ­a â€” FECYT
-**CategorÃ­a:** Agencia institucional de informaciÃ³n cientÃ­fica
+**Organización:** Agencia SINC / Fundación Española para la Ciencia y la Tecnología — FECYT
+**Categoría:** Agencia institucional de información científica
 **URL RSS:** <https://www.agenciasinc.es/feed/Tierra>
 **Formato:** RSS/XML
-**Idioma:** EspaÃ±ol
-**Cobertura:** EspaÃ±a e internacional
-**Tipo de contenido:** Noticias cientÃ­ficas, biodiversidad, flora y ecologÃ­a
+**Idioma:** Español
+**Cobertura:** España e internacional
+**Tipo de contenido:** Noticias científicas, biodiversidad, flora y ecología
 **Frecuencia aproximada:** Varias publicaciones por semana
 **Estado:** **Activo**
 
-**DescripciÃ³n:** noticias en espaÃ±ol sobre botÃ¡nica, biodiversidad, conservaciÃ³n, ecosistemas, evoluciÃ³n vegetal, paleobotÃ¡nica y efectos ambientales sobre las plantas.
+**Descripción:** noticias en español sobre botánica, biodiversidad, conservación, ecosistemas, evolución vegetal, paleobotánica y efectos ambientales sobre las plantas.
 
-**Observaciones:** no es una revista de investigaciÃ³n primaria, pero es el mejor canal institucional en espaÃ±ol de esta selecciÃ³n para seguir resultados cientÃ­ficos relacionados con plantas. El feed figura en el directorio RSS oficial de SINC. ([Agencia SINC][5])
+**Observaciones:** no es una revista de investigación primaria, pero es el mejor canal institucional en español de esta selección para seguir resultados científicos relacionados con plantas. El feed figura en el directorio RSS oficial de SINC. ([Agencia SINC][5])
 
 ---
 
-## ðŸ”µ RSS cientÃ­ficos y tÃ©cnicos
+## 🔵 RSS científicos y técnicos
 
 ### 6. Plant Sciences
 
-**OrganizaciÃ³n:** Nature Portfolio
-**CategorÃ­a:** Ãndice cientÃ­fico temÃ¡tico
+**Organización:** Nature Portfolio
+**Categoría:** Índice científico temático
 **URL RSS:** <https://www.nature.com/subjects/plant-sciences.rss>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** ArtÃ­culos, revisiones, noticias y comentarios cientÃ­ficos
+**Tipo de contenido:** Artículos, revisiones, noticias y comentarios científicos
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**DescripciÃ³n:** reÃºne contenidos sobre ciencias vegetales publicados en las distintas revistas de Nature Portfolio: genÃ©tica, fisiologÃ­a, ecologÃ­a, evoluciÃ³n, reproducciÃ³n, inmunidad, desarrollo y biotecnologÃ­a.
+**Descripción:** reúne contenidos sobre ciencias vegetales publicados en las distintas revistas de Nature Portfolio: genética, fisiología, ecología, evolución, reproducción, inmunidad, desarrollo y biotecnología.
 
-**Observaciones:** es mÃ¡s amplio que el RSS de una sola revista. La pÃ¡gina temÃ¡tica expone oficialmente el enlace RSS y contenÃ­a nuevas investigaciones publicadas el 31 de julio de 2026. ([nature.com][6])
+**Observaciones:** es más amplio que el RSS de una sola revista. La página temática expone oficialmente el enlace RSS y contenía nuevas investigaciones publicadas el 31 de julio de 2026. ([nature.com][6])
 
 ---
 
 ### 7. Nature Plants
 
-**OrganizaciÃ³n:** Nature Portfolio
-**CategorÃ­a:** Revista cientÃ­fica
+**Organización:** Nature Portfolio
+**Categoría:** Revista científica
 **URL RSS:** <https://www.nature.com/nplants.rss>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** ArtÃ­culos, revisiones, perspectivas y comentarios
+**Tipo de contenido:** Artículos, revisiones, perspectivas y comentarios
 **Frecuencia aproximada:** Semanal
 **Estado:** **Activo**
 
-**DescripciÃ³n:** investigaciÃ³n de alto impacto sobre genÃ©tica vegetal, evoluciÃ³n, fisiologÃ­a, desarrollo, cultivos, ecologÃ­a y relaciones entre plantas y sociedad.
+**Descripción:** investigación de alto impacto sobre genética vegetal, evolución, fisiología, desarrollo, cultivos, ecología y relaciones entre plantas y sociedad.
 
-**Observaciones:** es una fuente mÃ¡s selectiva que el feed temÃ¡tico general de Nature. La revista mantenÃ­a publicaciones recientes sobre desarrollo del endospermo, defensa vegetal y recombinaciÃ³n durante julio de 2026. ([nature.com][6])
+**Observaciones:** es una fuente más selectiva que el feed temático general de Nature. La revista mantenía publicaciones recientes sobre desarrollo del endospermo, defensa vegetal y recombinación durante julio de 2026. ([nature.com][6])
 
 ---
 
-### 8. bioRxiv â€” Plant Biology
+### 8. bioRxiv — Plant Biology
 
-**OrganizaciÃ³n:** bioRxiv / Cold Spring Harbor Laboratory
-**CategorÃ­a:** Repositorio de preprints
+**Organización:** bioRxiv / Cold Spring Harbor Laboratory
+**Categoría:** Repositorio de preprints
 **URL RSS:** <https://connect.biorxiv.org/biorxiv_xml.php?subject=plant_biology>
 **Formato:** Atom/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** Preprints de biologÃ­a vegetal
+**Tipo de contenido:** Preprints de biología vegetal
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**DescripciÃ³n:** manuscritos recientes sobre biologÃ­a molecular, fisiologÃ­a, genÃ©tica, desarrollo, interacciones planta-microorganismo, estrÃ©s y biotecnologÃ­a vegetal.
+**Descripción:** manuscritos recientes sobre biología molecular, fisiología, genética, desarrollo, interacciones planta-microorganismo, estrés y biotecnología vegetal.
 
-**Observaciones:** ofrece gran rapidez, pero sus documentos pueden no haber pasado revisiÃ³n por pares. Debe comprobarse posteriormente si el trabajo fue publicado en una revista cientÃ­fica.
+**Observaciones:** ofrece gran rapidez, pero sus documentos pueden no haber pasado revisión por pares. Debe comprobarse posteriormente si el trabajo fue publicado en una revista científica.
 
 ---
 
-### 9. Annals of Botany â€” Advance Articles
+### 9. Annals of Botany — Advance Articles
 
-**OrganizaciÃ³n:** Annals of Botany Company / Oxford University Press
-**CategorÃ­a:** Revista cientÃ­fica botÃ¡nica
+**Organización:** Annals of Botany Company / Oxford University Press
+**Categoría:** Revista científica botánica
 **URL RSS:** <https://academic.oup.com/rss/site_5260/advanceAccess_3126.xml>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** ArtÃ­culos aceptados, revisiones y comentarios
+**Tipo de contenido:** Artículos aceptados, revisiones y comentarios
 **Frecuencia aproximada:** Varias publicaciones por semana
 **Estado:** **Activo**
 
-**DescripciÃ³n:** investigaciones sobre fisiologÃ­a, ecologÃ­a, evoluciÃ³n, morfologÃ­a, reproducciÃ³n, taxonomÃ­a, genÃ©tica y adaptaciÃ³n de plantas.
+**Descripción:** investigaciones sobre fisiología, ecología, evolución, morfología, reproducción, taxonomía, genética y adaptación de plantas.
 
-**Observaciones:** el feed de artÃ­culos anticipados permite recibir los trabajos antes de su asignaciÃ³n a un nÃºmero. La revista publicÃ³ numerosos estudios nuevos durante julio de 2026. ([OUP Academic][7])
+**Observaciones:** el feed de artículos anticipados permite recibir los trabajos antes de su asignación a un número. La revista publicó numerosos estudios nuevos durante julio de 2026. ([OUP Academic][7])
 
 ---
 
-### 10. Botanical Journal of the Linnean Society â€” Advance Articles
+### 10. Botanical Journal of the Linnean Society — Advance Articles
 
-**OrganizaciÃ³n:** Linnean Society of London / Oxford University Press
-**CategorÃ­a:** Revista cientÃ­fica
+**Organización:** Linnean Society of London / Oxford University Press
+**Categoría:** Revista científica
 **URL RSS:** <https://academic.oup.com/rss/site_5596/advanceAccess_3468.xml>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** TaxonomÃ­a, sistemÃ¡tica, filogenia y evoluciÃ³n
+**Tipo de contenido:** Taxonomía, sistemática, filogenia y evolución
 **Frecuencia aproximada:** Semanal
 **Estado:** **Activo**
 
-**DescripciÃ³n:** investigaciones sobre clasificaciÃ³n, relaciones filogenÃ©ticas, biogeografÃ­a, morfologÃ­a, diversidad y evoluciÃ³n de plantas y hongos.
+**Descripción:** investigaciones sobre clasificación, relaciones filogenéticas, biogeografía, morfología, diversidad y evolución de plantas y hongos.
 
-**Observaciones:** es uno de los feeds mÃ¡s Ãºtiles para botÃ¡nica sistemÃ¡tica y taxonomÃ­a. El endpoint procede directamente de la plataforma oficial de la revista y mantenÃ­a artÃ­culos correspondientes a 2026. ([OUP Academic][8])
+**Observaciones:** es uno de los feeds más útiles para botánica sistemática y taxonomía. El endpoint procede directamente de la plataforma oficial de la revista y mantenía artículos correspondientes a 2026. ([OUP Academic][8])
 
 ---
 
-### 11. Plant Physiology â€” Advance Articles
+### 11. Plant Physiology — Advance Articles
 
-**OrganizaciÃ³n:** American Society of Plant Biologists / Oxford University Press
-**CategorÃ­a:** Revista cientÃ­fica
+**Organización:** American Society of Plant Biologists / Oxford University Press
+**Categoría:** Revista científica
 **URL RSS:** <https://academic.oup.com/rss/site_6323/advanceAccess_4080.xml>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** InvestigaciÃ³n y revisiones
+**Tipo de contenido:** Investigación y revisiones
 **Frecuencia aproximada:** Diaria o varias veces por semana
 **Estado:** **Activo**
 
-**DescripciÃ³n:** trabajos sobre fotosÃ­ntesis, metabolismo, seÃ±alizaciÃ³n, nutriciÃ³n, crecimiento, estrÃ©s, desarrollo y respuestas de las plantas al ambiente.
+**Descripción:** trabajos sobre fotosíntesis, metabolismo, señalización, nutrición, crecimiento, estrés, desarrollo y respuestas de las plantas al ambiente.
 
-**Observaciones:** el canal de artÃ­culos anticipados ofrece una vigilancia mÃ¡s rÃ¡pida que el RSS del nÃºmero actual. La publicaciÃ³n mantenÃ­a nuevos artÃ­culos hasta finales de julio de 2026. ([OUP Academic][9])
+**Observaciones:** el canal de artículos anticipados ofrece una vigilancia más rápida que el RSS del número actual. La publicación mantenía nuevos artículos hasta finales de julio de 2026. ([OUP Academic][9])
 
 ---
 
-### 12. The Plant Cell â€” Advance Articles
+### 12. The Plant Cell — Advance Articles
 
-**OrganizaciÃ³n:** American Society of Plant Biologists / Oxford University Press
-**CategorÃ­a:** Revista cientÃ­fica
+**Organización:** American Society of Plant Biologists / Oxford University Press
+**Categoría:** Revista científica
 **URL RSS:** <https://academic.oup.com/rss/site_6317/advanceAccess_4077.xml>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** BiologÃ­a celular y molecular vegetal
+**Tipo de contenido:** Biología celular y molecular vegetal
 **Frecuencia aproximada:** Varias publicaciones por semana
 **Estado:** **Activo**
 
-**DescripciÃ³n:** investigaciones sobre expresiÃ³n gÃ©nica, epigenÃ©tica, seÃ±alizaciÃ³n, orgÃ¡nulos, desarrollo, inmunidad, genÃ³mica y mecanismos celulares de las plantas.
+**Descripción:** investigaciones sobre expresión génica, epigenética, señalización, orgánulos, desarrollo, inmunidad, genómica y mecanismos celulares de las plantas.
 
-**Observaciones:** es uno de los canales prioritarios para investigaciÃ³n molecular vegetal. La plataforma oficial ofrece RSS para artÃ­culos anticipados y mantenÃ­a contenidos publicados en julio de 2026. ([OUP Academic][10])
+**Observaciones:** es uno de los canales prioritarios para investigación molecular vegetal. La plataforma oficial ofrece RSS para artículos anticipados y mantenía contenidos publicados en julio de 2026. ([OUP Academic][10])
 
 ---
 
 ### 13. Frontiers in Plant Science
 
-**OrganizaciÃ³n:** Frontiers
-**CategorÃ­a:** Revista cientÃ­fica de acceso abierto
+**Organización:** Frontiers
+**Categoría:** Revista científica de acceso abierto
 **URL RSS:** <https://www.frontiersin.org/journals/plant-science/rss>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** ArtÃ­culos cientÃ­ficos y revisiones
+**Tipo de contenido:** Artículos científicos y revisiones
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**DescripciÃ³n:** canal multidisciplinar sobre fisiologÃ­a, genÃ©tica, fitopatologÃ­a, ecologÃ­a, cultivos, biotecnologÃ­a, nutriciÃ³n vegetal y respuestas al estrÃ©s.
+**Descripción:** canal multidisciplinar sobre fisiología, genética, fitopatología, ecología, cultivos, biotecnología, nutrición vegetal y respuestas al estrés.
 
-**Observaciones:** presenta un volumen elevado de publicaciones y estÃ¡ dividido internamente en secciones temÃ¡ticas. La revista publicÃ³ nuevos artÃ­culos el 31 de julio de 2026. ([Frontiers][11])
+**Observaciones:** presenta un volumen elevado de publicaciones y está dividido internamente en secciones temáticas. La revista publicó nuevos artículos el 31 de julio de 2026. ([Frontiers][11])
 
 ---
 
 ### 14. Sibbaldia
 
-**OrganizaciÃ³n:** Royal Botanic Garden Edinburgh
-**CategorÃ­a:** Revista cientÃ­fica y tÃ©cnica
+**Organización:** Royal Botanic Garden Edinburgh
+**Categoría:** Revista científica y técnica
 **URL RSS:** <https://journals.rbge.org.uk/rbgesib/gateway/plugin/WebFeedGatewayPlugin/rss2>
 **Formato:** RSS 2.0
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** Horticultura botÃ¡nica, colecciones vivas y conservaciÃ³n
-**Frecuencia aproximada:** Irregular, segÃºn publicaciÃ³n
+**Tipo de contenido:** Horticultura botánica, colecciones vivas y conservación
+**Frecuencia aproximada:** Irregular, según publicación
 **Estado:** **Activo**
 
-**DescripciÃ³n:** artÃ­culos sobre cultivo de plantas, gestiÃ³n de colecciones vivas, propagaciÃ³n, conservaciÃ³n ex situ, arboricultura y funcionamiento de jardines botÃ¡nicos.
+**Descripción:** artículos sobre cultivo de plantas, gestión de colecciones vivas, propagación, conservación ex situ, arboricultura y funcionamiento de jardines botánicos.
 
-**Observaciones:** aporta una cobertura profesional poco habitual en las revistas de biologÃ­a vegetal. Es una publicaciÃ³n internacional del RBGE y sus contenidos se distribuyen con licencia abierta. ([Revistas del JardÃ­n BotÃ¡nico][12])
+**Observaciones:** aporta una cobertura profesional poco habitual en las revistas de biología vegetal. Es una publicación internacional del RBGE y sus contenidos se distribuyen con licencia abierta. ([Revistas del Jardín Botánico][12])
 
 ---
 
-## ðŸŸ  RSS especializados y de actualidad
+## 🟠 RSS especializados y de actualidad
 
 ### 15. Botany One
 
-**OrganizaciÃ³n:** Annals of Botany Company
-**CategorÃ­a:** Medio botÃ¡nico especializado
+**Organización:** Annals of Botany Company
+**Categoría:** Medio botánico especializado
 **URL RSS:** <https://botany.one/feed/>
 **Formato:** RSS 2.0
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** Noticias, estudios comentados, profesiÃ³n y recursos
+**Tipo de contenido:** Noticias, estudios comentados, profesión y recursos
 **Frecuencia aproximada:** Diaria o varias veces por semana
 **Estado:** **Activo**
 
-**DescripciÃ³n:** reseÃ±as accesibles de investigaciones botÃ¡nicas, noticias de revistas, oportunidades profesionales, comunicaciÃ³n cientÃ­fica y selecciÃ³n semanal de novedades.
+**Descripción:** reseñas accesibles de investigaciones botánicas, noticias de revistas, oportunidades profesionales, comunicación científica y selección semanal de novedades.
 
-**Observaciones:** estÃ¡ gestionado por Annals of Botany Company, una entidad educativa sin Ã¡nimo de lucro cuyo objetivo declarado es promover la botÃ¡nica en todos sus aspectos. ([Botany One][13])
+**Observaciones:** está gestionado por Annals of Botany Company, una entidad educativa sin ánimo de lucro cuyo objetivo declarado es promover la botánica en todos sus aspectos. ([Botany One][13])
 
 ---
 
@@ -828,33 +828,33 @@ modified: 2026-09-17T10:14:19.806Z
 
 ## Royal Botanic Gardens, Kew
 
-Kew mantiene noticias cientÃ­ficas, proyectos, publicaciones y un boletÃ­n especÃ­fico de ciencia, pero no se localizÃ³ un RSS pÃºblico general y estable durante esta revisiÃ³n.
+Kew mantiene noticias científicas, proyectos, publicaciones y un boletín específico de ciencia, pero no se localizó un RSS público general y estable durante esta revisión.
 
-**Alternativa oficial:** boletÃ­n **Kew Science** y secciÃ³n oficial de novedades cientÃ­ficas. ([Jardines BotÃ¡nicos Reales de Kew][14])
+**Alternativa oficial:** boletín **Kew Science** y sección oficial de novedades científicas. ([Jardines Botánicos Reales de Kew][14])
 
-## Real JardÃ­n BotÃ¡nico â€” CSIC
+## Real Jardín Botánico — CSIC
 
-La direcciÃ³n habitual basada en WordPress no respondiÃ³ como un feed pÃºblico verificable. El jardÃ­n mantiene noticias institucionales y cientÃ­ficas activas, pero no se incluye una URL RSS mientras no pueda confirmarse su funcionamiento.
+La dirección habitual basada en WordPress no respondió como un feed público verificable. El jardín mantiene noticias institucionales y científicas activas, pero no se incluye una URL RSS mientras no pueda confirmarse su funcionamiento.
 
-**Alternativa oficial:** secciÃ³n de noticias del Real JardÃ­n BotÃ¡nico-CSIC.
+**Alternativa oficial:** sección de noticias del Real Jardín Botánico-CSIC.
 
 ## New York Botanical Garden
 
-El antiguo feed de **Plant Talk** devolviÃ³ HTTP 403 durante la comprobaciÃ³n, por lo que no puede considerarse actualmente un RSS de acceso pÃºblico fiable.
+El antiguo feed de **Plant Talk** devolvió HTTP 403 durante la comprobación, por lo que no puede considerarse actualmente un RSS de acceso público fiable.
 
 **Alternativa oficial:** archivo de Plant Talk y suscripciones del New York Botanical Garden.
 
-## Plants â€” MDPI
+## Plants — MDPI
 
 **Endpoint localizado:** <https://www.mdpi.com/rss/journal/plants>
 
-La revista sigue activa, pero su servidor devolviÃ³ temporalmente HTTP 429 al comprobar el feed. Queda **pendiente de revalidaciÃ³n** y no se incorpora a la selecciÃ³n principal para evitar declarar operativo un canal que no pudo leerse directamente.
+La revista sigue activa, pero su servidor devolvió temporalmente HTTP 429 al comprobar el feed. Queda **pendiente de revalidación** y no se incorpora a la selección principal para evitar declarar operativo un canal que no pudo leerse directamente.
 
 [1]: https://www.bgci.org/news/ "News | Botanic Gardens Conservation International"
 
 [2]: https://globalplantcouncil.org/ "Home - The Global Plant Council"
 
-[3]: https://stories.rbge.org.uk/ "Botanics Stories â€“ RBGE Personal & Project Stories"
+[3]: https://stories.rbge.org.uk/ "Botanics Stories – RBGE Personal & Project Stories"
 
 [4]: https://www.cnps.org/stories "Stories - California Native Plant Society"
 

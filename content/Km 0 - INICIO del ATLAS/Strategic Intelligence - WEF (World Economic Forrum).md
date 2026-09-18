@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:40:39.245Z
-modified: 2026-09-17T10:13:48.533Z
+modified: 2026-09-18T09:36:19.026Z
 ---
 
-#IA #WEF #FormaciÃ³n
+#IA #WEF #Formación
 
 https://intelligence.weforum.org/topics/a1Gb0000000pTDREA2
 

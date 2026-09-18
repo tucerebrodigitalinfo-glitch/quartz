@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-12T14:35:59.174Z
-modified: 2026-09-17T10:13:54.050Z
+modified: 2026-09-18T09:36:21.220Z
 ---
 
-#FilosofÃ­a #Pensamiento
+#Filosofía #Pensamiento
 
-INDICES: [[FilosofÃ­a (i)]]
+INDICES: [[Filosofía (i)]]
 
 ## [SEP - STANFORD ENCYCLOPIDIA OF PHILOSOFY](https://plato.stanford.edu/index.html)
 
@@ -18,7 +18,7 @@ INDICES: [[FilosofÃ­a (i)]]
 
 # [WIKIPEDIA](https://wikipedia.com/filosofia)
 
-# [Gemini Notebook (Tradiciones y escuelas de la filosofÃ­a india)](https://notebooklm.google.com/notebook/cc0eda28-7559-49b8-b617-c0036bc6527a?authuser=7)
+# [Gemini Notebook (Tradiciones y escuelas de la filosofía india)](https://notebooklm.google.com/notebook/cc0eda28-7559-49b8-b617-c0036bc6527a?authuser=7)
 
 # \[El sistema operativo humano]
 

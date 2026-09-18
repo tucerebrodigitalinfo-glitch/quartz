@@ -1,357 +1,357 @@
 ---
 publish: true
 created: 2026-08-06T05:19:30.571Z
-modified: 2026-09-17T10:14:14.160Z
+modified: 2026-09-18T09:36:33.231Z
 ---
 
-#Ãndices #EducaciÃ³n #FormaciÃ³n
+#Índices #Educación #Formación
 ![[Biblioteca/educacion.jpg]]
-âœ… Enlaces verificados y operativos en la fecha de elaboraciÃ³n del informe. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
 ## [Wikipedia](https://es.wikipedia.org/wiki/Educaci%C3%B3n?wprov=sfla1)
 
 ## WEB
 
-[UNESCO â€“ Education](https://www.unesco.org/en/education) â€“ Portal central de la UNESCO sobre polÃ­ticas educativas, derecho a la educaciÃ³n, profesorado, alfabetizaciÃ³n, inclusiÃ³n, transformaciÃ³n digital y seguimiento del Objetivo de Desarrollo Sostenible 4.
+[UNESCO – Education](https://www.unesco.org/en/education) – Portal central de la UNESCO sobre políticas educativas, derecho a la educación, profesorado, alfabetización, inclusión, transformación digital y seguimiento del Objetivo de Desarrollo Sostenible 4.
 
-[UNESCO Institute for Statistics](https://www.uis.unesco.org/en) â€“ Fuente oficial de estadÃ­sticas internacionales comparables sobre educaciÃ³n, ciencia, cultura y comunicaciÃ³n, con indicadores de acceso, participaciÃ³n, finalizaciÃ³n y aprendizaje.
+[UNESCO Institute for Statistics](https://www.uis.unesco.org/en) – Fuente oficial de estadísticas internacionales comparables sobre educación, ciencia, cultura y comunicación, con indicadores de acceso, participación, finalización y aprendizaje.
 
-[Global Education Monitoring Report](https://www.unesco.org/gem-report/en) â€“ Programa editorial independiente alojado por la UNESCO que supervisa el progreso mundial hacia las metas educativas internacionales y analiza equidad, financiaciÃ³n, tecnologÃ­a y gobernanza.
+[Global Education Monitoring Report](https://www.unesco.org/gem-report/en) – Programa editorial independiente alojado por la UNESCO que supervisa el progreso mundial hacia las metas educativas internacionales y analiza equidad, financiación, tecnología y gobernanza.
 
-[UNESCO International Bureau of Education](https://www.ibe.unesco.org/en) â€“ Instituto especializado en currÃ­culo, aprendizaje y transformaciÃ³n de los sistemas educativos, con documentaciÃ³n tÃ©cnica y marcos para responsables de polÃ­ticas.
+[UNESCO International Bureau of Education](https://www.ibe.unesco.org/en) – Instituto especializado en currículo, aprendizaje y transformación de los sistemas educativos, con documentación técnica y marcos para responsables de políticas.
 
-[International Institute for Educational Planning](https://www.iiep.unesco.org/en) â€“ Instituto de la UNESCO dedicado al planeamiento, la administraciÃ³n y la gestiÃ³n de la educaciÃ³n, con formaciÃ³n, investigaciÃ³n y asistencia tÃ©cnica internacional.
+[International Institute for Educational Planning](https://www.iiep.unesco.org/en) – Instituto de la UNESCO dedicado al planeamiento, la administración y la gestión de la educación, con formación, investigación y asistencia técnica internacional.
 
-[OECD â€“ Education and Skills](https://www.oecd.org/en/topics/education-and-skills.html) â€“ Portal de datos, estudios comparativos y recomendaciones de polÃ­tica educativa de la OECD, incluida su producciÃ³n sobre competencias, profesorado, equidad y aprendizaje permanente.
+[OECD – Education and Skills](https://www.oecd.org/en/topics/education-and-skills.html) – Portal de datos, estudios comparativos y recomendaciones de política educativa de la OECD, incluida su producción sobre competencias, profesorado, equidad y aprendizaje permanente.
 
-[Education Policy Outlook](https://www.oecd.org/en/about/projects/education-policy-outlook.html) â€“ Observatorio comparativo de la OECD sobre prioridades, reformas e implementaciÃ³n de polÃ­ticas educativas desde la primera infancia hasta la educaciÃ³n de adultos.
+[Education Policy Outlook](https://www.oecd.org/en/about/projects/education-policy-outlook.html) – Observatorio comparativo de la OECD sobre prioridades, reformas e implementación de políticas educativas desde la primera infancia hasta la educación de adultos.
 
-[World Bank â€“ Education & Skills](https://www.worldbank.org/ext/en/topic/education) â€“ Portal sobre financiaciÃ³n, aprendizaje fundamental, profesorado, competencias, educaciÃ³n terciaria y fortalecimiento institucional de sistemas educativos.
+[World Bank – Education & Skills](https://www.worldbank.org/ext/en/topic/education) – Portal sobre financiación, aprendizaje fundamental, profesorado, competencias, educación terciaria y fortalecimiento institucional de sistemas educativos.
 
-[World Bank Education Statistics](https://databank.worldbank.org/databases/education) â€“ Base de datos internacional con indicadores sobre escolarizaciÃ³n, progresiÃ³n, finalizaciÃ³n, alfabetizaciÃ³n, docentes, gasto y resultados de evaluaciones educativas.
+[World Bank Education Statistics](https://databank.worldbank.org/databases/education) – Base de datos internacional con indicadores sobre escolarización, progresión, finalización, alfabetización, docentes, gasto y resultados de evaluaciones educativas.
 
-[UNICEF â€“ Education](https://www.unicef.org/education) â€“ InformaciÃ³n, investigaciones y programas sobre acceso, aprendizaje, inclusiÃ³n, educaciÃ³n en emergencias y reducciÃ³n de desigualdades que afectan a niÃ±os y adolescentes.
+[UNICEF – Education](https://www.unicef.org/education) – Información, investigaciones y programas sobre acceso, aprendizaje, inclusión, educación en emergencias y reducción de desigualdades que afectan a niños y adolescentes.
 
-[United Nations â€“ Sustainable Development Goal 4](https://sdgs.un.org/goals/goal4) â€“ PÃ¡gina oficial de Naciones Unidas para el objetivo de garantizar una educaciÃ³n inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje permanente.
+[United Nations – Sustainable Development Goal 4](https://sdgs.un.org/goals/goal4) – Página oficial de Naciones Unidas para el objetivo de garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje permanente.
 
-[Global Partnership for Education](https://www.globalpartnership.org/) â€“ Alianza multilateral especializada en el fortalecimiento y la financiaciÃ³n de sistemas educativos en paÃ­ses de ingresos bajos y afectados por situaciones de fragilidad.
+[Global Partnership for Education](https://www.globalpartnership.org/) – Alianza multilateral especializada en el fortalecimiento y la financiación de sistemas educativos en países de ingresos bajos y afectados por situaciones de fragilidad.
 
-[Education Cannot Wait](https://www.educationcannotwait.org/) â€“ Fondo mundial de Naciones Unidas dedicado a la educaciÃ³n de niÃ±os y jÃ³venes afectados por conflictos armados, desplazamientos, emergencias climÃ¡ticas y crisis prolongadas.
+[Education Cannot Wait](https://www.educationcannotwait.org/) – Fondo mundial de Naciones Unidas dedicado a la educación de niños y jóvenes afectados por conflictos armados, desplazamientos, emergencias climáticas y crisis prolongadas.
 
-[European Commission â€“ Education and Training](https://education.ec.europa.eu/) â€“ Portal de polÃ­ticas y programas educativos de la UniÃ³n Europea, incluidos el Espacio Europeo de EducaciÃ³n, movilidad, competencias, inclusiÃ³n y cooperaciÃ³n institucional.
+[European Commission – Education and Training](https://education.ec.europa.eu/) – Portal de políticas y programas educativos de la Unión Europea, incluidos el Espacio Europeo de Educación, movilidad, competencias, inclusión y cooperación institucional.
 
-[Eurydice](https://eurydice.eacea.ec.europa.eu/) â€“ Red de informaciÃ³n de la ComisiÃ³n Europea que documenta y compara la organizaciÃ³n, legislaciÃ³n y funcionamiento de los sistemas educativos europeos.
+[Eurydice](https://eurydice.eacea.ec.europa.eu/) – Red de información de la Comisión Europea que documenta y compara la organización, legislación y funcionamiento de los sistemas educativos europeos.
 
-[European School Education Platform](https://school-education.ec.europa.eu/) â€“ Entorno europeo para docentes y centros escolares con formaciÃ³n, recursos pedagÃ³gicos, cooperaciÃ³n internacional y acceso a eTwinning.
+[European School Education Platform](https://school-education.ec.europa.eu/) – Entorno europeo para docentes y centros escolares con formación, recursos pedagógicos, cooperación internacional y acceso a eTwinning.
 
-[European Agency for Special Needs and Inclusive Education](https://www.european-agency.org/) â€“ OrganizaciÃ³n intergubernamental dedicada a polÃ­ticas y prÃ¡cticas de educaciÃ³n inclusiva y atenciÃ³n a necesidades educativas especiales.
+[European Agency for Special Needs and Inclusive Education](https://www.european-agency.org/) – Organización intergubernamental dedicada a políticas y prácticas de educación inclusiva y atención a necesidades educativas especiales.
 
-[Ministerio de EducaciÃ³n, FormaciÃ³n Profesional y Deportes](https://www.educacionfpydeportes.gob.es/) â€“ Portal oficial de la AdministraciÃ³n espaÃ±ola sobre legislaciÃ³n, estadÃ­sticas, becas, currÃ­culo, formaciÃ³n profesional, evaluaciÃ³n y recursos educativos.
+[Ministerio de Educación, Formación Profesional y Deportes](https://www.educacionfpydeportes.gob.es/) – Portal oficial de la Administración española sobre legislación, estadísticas, becas, currículo, formación profesional, evaluación y recursos educativos.
 
-[Instituto Nacional de EvaluaciÃ³n Educativa](https://www.educacionfpydeportes.gob.es/inee/portada.html) â€“ Unidad espaÃ±ola responsable de evaluaciones nacionales e internacionales, indicadores educativos y estudios sobre el funcionamiento del sistema.
+[Instituto Nacional de Evaluación Educativa](https://www.educacionfpydeportes.gob.es/inee/portada.html) – Unidad española responsable de evaluaciones nacionales e internacionales, indicadores educativos y estudios sobre el funcionamiento del sistema.
 
-[Instituto Nacional de TecnologÃ­as Educativas y de FormaciÃ³n del Profesorado](https://intef.es/) â€“ Organismo espaÃ±ol especializado en competencia digital docente, formaciÃ³n del profesorado, recursos educativos abiertos y tecnologÃ­a educativa.
+[Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado](https://intef.es/) – Organismo español especializado en competencia digital docente, formación del profesorado, recursos educativos abiertos y tecnología educativa.
 
-[ERIC](https://eric.ed.gov/) â€“ Base bibliogrÃ¡fica del Institute of Education Sciences de Estados Unidos que reÃºne literatura acadÃ©mica, informes y documentaciÃ³n especializada en educaciÃ³n.
+[ERIC](https://eric.ed.gov/) – Base bibliográfica del Institute of Education Sciences de Estados Unidos que reúne literatura académica, informes y documentación especializada en educación.
 
-[Institute of Education Sciences](https://ies.ed.gov/) â€“ Organismo de investigaciÃ³n, estadÃ­stica y evaluaciÃ³n del U.S. Department of Education, responsable de estudios, bases de datos y estÃ¡ndares de evidencia.
+[Institute of Education Sciences](https://ies.ed.gov/) – Organismo de investigación, estadística y evaluación del U.S. Department of Education, responsable de estudios, bases de datos y estándares de evidencia.
 
-[National Center for Education Statistics](https://nces.ed.gov/) â€“ Agencia estadÃ­stica federal estadounidense para educaciÃ³n infantil, escolar, postsecundaria y formaciÃ³n de adultos.
+[National Center for Education Statistics](https://nces.ed.gov/) – Agencia estadística federal estadounidense para educación infantil, escolar, postsecundaria y formación de adultos.
 
-[Australian Education Research Organisation](https://www.edresearch.edu.au/) â€“ Organismo nacional australiano que produce y difunde evidencias aplicables a la enseÃ±anza, el liderazgo escolar y la mejora educativa.
+[Australian Education Research Organisation](https://www.edresearch.edu.au/) – Organismo nacional australiano que produce y difunde evidencias aplicables a la enseñanza, el liderazgo escolar y la mejora educativa.
 
-[Australian Council for Educational Research](https://www.acer.org/) â€“ InstituciÃ³n internacional sin Ã¡nimo de lucro dedicada a evaluaciÃ³n, investigaciÃ³n educativa, desarrollo de instrumentos y mejora de los sistemas de aprendizaje.
+[Australian Council for Educational Research](https://www.acer.org/) – Institución internacional sin ánimo de lucro dedicada a evaluación, investigación educativa, desarrollo de instrumentos y mejora de los sistemas de aprendizaje.
 
-[New Zealand Council for Educational Research](https://www.nzcer.org.nz/) â€“ OrganizaciÃ³n independiente de investigaciÃ³n educativa con estudios sobre currÃ­culo, evaluaciÃ³n, cultura escolar, equidad y aprendizaje en Aotearoa New Zealand.
+[New Zealand Council for Educational Research](https://www.nzcer.org.nz/) – Organización independiente de investigación educativa con estudios sobre currículo, evaluación, cultura escolar, equidad y aprendizaje en Aotearoa New Zealand.
 
-[National Institute of Education, Singapore](https://www.ntu.edu.sg/nie) â€“ Instituto universitario de formaciÃ³n docente e investigaciÃ³n educativa vinculado a Nanyang Technological University y al sistema educativo de Singapur.
+[National Institute of Education, Singapore](https://www.ntu.edu.sg/nie) – Instituto universitario de formación docente e investigación educativa vinculado a Nanyang Technological University y al sistema educativo de Singapur.
 
-[National Council of Educational Research and Training](https://ncert.nic.in/) â€“ Organismo pÃºblico de India dedicado al currÃ­culo, libros de texto, investigaciÃ³n, formaciÃ³n docente y asesoramiento en educaciÃ³n escolar.
+[National Council of Educational Research and Training](https://ncert.nic.in/) – Organismo público de India dedicado al currículo, libros de texto, investigación, formación docente y asesoramiento en educación escolar.
 
-[South African Council for Educators](https://www.sace.org.za/) â€“ Consejo profesional responsable del registro, la Ã©tica y el desarrollo profesional de los educadores en SudÃ¡frica.
+[South African Council for Educators](https://www.sace.org.za/) – Consejo profesional responsable del registro, la ética y el desarrollo profesional de los educadores en Sudáfrica.
 
-[Centro de InvestigaciÃ³n Avanzada en EducaciÃ³n](https://www.ciae.uchile.cl/) â€“ Centro de la Universidad de Chile dedicado a investigaciÃ³n interdisciplinaria sobre polÃ­ticas, docencia, aprendizaje, inclusiÃ³n y mejora escolar.
+[Centro de Investigación Avanzada en Educación](https://www.ciae.uchile.cl/) – Centro de la Universidad de Chile dedicado a investigación interdisciplinaria sobre políticas, docencia, aprendizaje, inclusión y mejora escolar.
 
 ## YOUTUBE
 
-[UNESCO](https://www.youtube.com/@UNESCO) â€“ Canal institucional con conferencias, campaÃ±as, entrevistas y materiales audiovisuales sobre educaciÃ³n, ciencia, cultura, alfabetizaciÃ³n y desarrollo sostenible.
+[UNESCO](https://www.youtube.com/@UNESCO) – Canal institucional con conferencias, campañas, entrevistas y materiales audiovisuales sobre educación, ciencia, cultura, alfabetización y desarrollo sostenible.
 
-[UNICEF](https://www.youtube.com/@UNICEF) â€“ Canal oficial con contenidos sobre infancia, acceso a la educaciÃ³n, inclusiÃ³n, emergencias humanitarias, protecciÃ³n y derechos de niÃ±os y adolescentes.
+[UNICEF](https://www.youtube.com/@UNICEF) – Canal oficial con contenidos sobre infancia, acceso a la educación, inclusión, emergencias humanitarias, protección y derechos de niños y adolescentes.
 
-[OECD](https://www.youtube.com/@OECD) â€“ Canal institucional con presentaciones de informes, debates y anÃ¡lisis sobre polÃ­ticas pÃºblicas, competencias, educaciÃ³n y desarrollo econÃ³mico.
+[OECD](https://www.youtube.com/@OECD) – Canal institucional con presentaciones de informes, debates y análisis sobre políticas públicas, competencias, educación y desarrollo económico.
 
-[World Bank](https://www.youtube.com/@WorldBank) â€“ Canal del Banco Mundial con seminarios, entrevistas y exposiciones sobre capital humano, aprendizaje, financiaciÃ³n y reforma de sistemas educativos.
+[World Bank](https://www.youtube.com/@WorldBank) – Canal del Banco Mundial con seminarios, entrevistas y exposiciones sobre capital humano, aprendizaje, financiación y reforma de sistemas educativos.
 
-[Khan Academy](https://www.youtube.com/@khanacademy) â€“ Canal oficial con lecciones de matemÃ¡ticas, ciencias, economÃ­a, informÃ¡tica, humanidades y preparaciÃ³n acadÃ©mica, vinculado a su plataforma educativa sin Ã¡nimo de lucro.
+[Khan Academy](https://www.youtube.com/@khanacademy) – Canal oficial con lecciones de matemáticas, ciencias, economía, informática, humanidades y preparación académica, vinculado a su plataforma educativa sin ánimo de lucro.
 
-[TED-Ed](https://www.youtube.com/@TEDEd) â€“ Canal educativo de TED que publica lecciones animadas elaboradas con docentes, especialistas, guionistas y profesionales de la animaciÃ³n.
+[TED-Ed](https://www.youtube.com/@TEDEd) – Canal educativo de TED que publica lecciones animadas elaboradas con docentes, especialistas, guionistas y profesionales de la animación.
 
-[Edutopia](https://www.youtube.com/@edutopia) â€“ Canal de la George Lucas Educational Foundation sobre prÃ¡cticas docentes, aprendizaje basado en proyectos, evaluaciÃ³n, convivencia y liderazgo escolar.
+[Edutopia](https://www.youtube.com/@edutopia) – Canal de la George Lucas Educational Foundation sobre prácticas docentes, aprendizaje basado en proyectos, evaluación, convivencia y liderazgo escolar.
 
-[Harvard Graduate School of Education](https://www.youtube.com/@HarvardEducation) â€“ Conferencias, entrevistas y actividades acadÃ©micas sobre polÃ­tica educativa, liderazgo, desarrollo infantil, enseÃ±anza y aprendizaje.
+[Harvard Graduate School of Education](https://www.youtube.com/@HarvardEducation) – Conferencias, entrevistas y actividades académicas sobre política educativa, liderazgo, desarrollo infantil, enseñanza y aprendizaje.
 
-[UCL Institute of Education](https://www.youtube.com/@uclioe) â€“ Canal acadÃ©mico con seminarios, clases pÃºblicas y debates sobre investigaciÃ³n educativa, ciencias sociales, currÃ­culo y formaciÃ³n docente.
+[UCL Institute of Education](https://www.youtube.com/@uclioe) – Canal académico con seminarios, clases públicas y debates sobre investigación educativa, ciencias sociales, currículo y formación docente.
 
-[The Education University of Hong Kong](https://www.youtube.com/@EdUHK) â€“ Canal universitario con contenidos sobre formaciÃ³n del profesorado, innovaciÃ³n pedagÃ³gica e investigaciÃ³n educativa en Asia.
+[The Education University of Hong Kong](https://www.youtube.com/@EdUHK) – Canal universitario con contenidos sobre formación del profesorado, innovación pedagógica e investigación educativa en Asia.
 
 ## PODCAST
 
-[The Harvard EdCast](https://www.gse.harvard.edu/ideas/edcast) â€“ Podcast de Harvard Graduate School of Education con entrevistas sobre aprendizaje, docencia, polÃ­tica educativa, liderazgo y comunidades escolares.
+[The Harvard EdCast](https://www.gse.harvard.edu/ideas/edcast) – Podcast de Harvard Graduate School of Education con entrevistas sobre aprendizaje, docencia, política educativa, liderazgo y comunidades escolares.
 
-[Top Class: The OECD Education Podcast](https://www.oecd.org/en/blogs/2024/08/top-class-the-oecd-education-podcast.html) â€“ Conversaciones de la OECD con investigadores, responsables pÃºblicos y profesionales sobre los principales retos de los sistemas educativos.
+[Top Class: The OECD Education Podcast](https://www.oecd.org/en/blogs/2024/08/top-class-the-oecd-education-podcast.html) – Conversaciones de la OECD con investigadores, responsables públicos y profesionales sobre los principales retos de los sistemas educativos.
 
-[Harvard Education Press Podcast](https://hep.gse.harvard.edu/podcast/) â€“ Entrevistas con autores de obras acadÃ©micas sobre historia, polÃ­tica, administraciÃ³n, desigualdad, currÃ­culo y prÃ¡ctica educativa.
+[Harvard Education Press Podcast](https://hep.gse.harvard.edu/podcast/) – Entrevistas con autores de obras académicas sobre historia, política, administración, desigualdad, currículo y práctica educativa.
 
-[FreshEd](https://freshedpodcast.com/) â€“ Podcast internacional sobre investigaciÃ³n educativa, educaciÃ³n comparada, globalizaciÃ³n, desarrollo y polÃ­ticas pÃºblicas.
+[FreshEd](https://freshedpodcast.com/) – Podcast internacional sobre investigación educativa, educación comparada, globalización, desarrollo y políticas públicas.
 
-[The Education Exchange](https://www.educationnext.org/education-exchange-podcast/) â€“ Programa de Education Next dedicado al anÃ¡lisis de investigaciones, reformas, legislaciÃ³n y resultados de polÃ­ticas educativas.
+[The Education Exchange](https://www.educationnext.org/education-exchange-podcast/) – Programa de Education Next dedicado al análisis de investigaciones, reformas, legislación y resultados de políticas educativas.
 
-[Research in Action](https://ecampus.oregonstate.edu/research/podcast/) â€“ Podcast de Oregon State University centrado en mÃ©todos, trayectorias y aplicaciones de la investigaciÃ³n acadÃ©mica, con atenciÃ³n frecuente a la educaciÃ³n.
+[Research in Action](https://ecampus.oregonstate.edu/research/podcast/) – Podcast de Oregon State University centrado en métodos, trayectorias y aplicaciones de la investigación académica, con atención frecuente a la educación.
 
-[Talking Teachers](https://chartered.college/talking-teachers/) â€“ Podcast del Chartered College of Teaching sobre prÃ¡ctica profesional, investigaciÃ³n, currÃ­culo, bienestar y desarrollo docente.
+[Talking Teachers](https://chartered.college/talking-teachers/) – Podcast del Chartered College of Teaching sobre práctica profesional, investigación, currículo, bienestar y desarrollo docente.
 
-[The Teachersâ€™ Podcast](https://www.teacherspodcast.org/) â€“ Conversaciones con educadores e investigadores sobre enseÃ±anza, aprendizaje, innovaciÃ³n y desarrollo profesional.
+[The Teachers’ Podcast](https://www.teacherspodcast.org/) – Conversaciones con educadores e investigadores sobre enseñanza, aprendizaje, innovación y desarrollo profesional.
 
-[MindShift Podcast](https://www.kqed.org/mindshift/podcast) â€“ ProducciÃ³n de KQED sobre ciencias del aprendizaje, desarrollo infantil, relaciones escolares, tecnologÃ­a y transformaciÃ³n de la enseÃ±anza.
+[MindShift Podcast](https://www.kqed.org/mindshift/podcast) – Producción de KQED sobre ciencias del aprendizaje, desarrollo infantil, relaciones escolares, tecnología y transformación de la enseñanza.
 
-[EducaÃ§Ã£o no Ar](https://www.institutoclaro.org.br/educacao/nossas-novidades/podcasts/) â€“ ProducciÃ³n en portuguÃ©s sobre educaciÃ³n, cultura digital, docencia, innovaciÃ³n pedagÃ³gica y polÃ­ticas educativas en Brasil.
+[Educação no Ar](https://www.institutoclaro.org.br/educacao/nossas-novidades/podcasts/) – Producción en portugués sobre educación, cultura digital, docencia, innovación pedagógica y políticas educativas en Brasil.
 
 ## LIBROS
 
-[Democracy and Education](https://www.gutenberg.org/ebooks/852) â€“ John Dewey. Obra clÃ¡sica sobre educaciÃ³n democrÃ¡tica, experiencia, conocimiento, vida social y relaciÃ³n entre escuela y ciudadanÃ­a.
+[Democracy and Education](https://www.gutenberg.org/ebooks/852) – John Dewey. Obra clásica sobre educación democrática, experiencia, conocimiento, vida social y relación entre escuela y ciudadanía.
 
-[Pedagogy of the Oppressed](https://www.bloomsbury.com/us/pedagogy-of-the-oppressed-9781501314131/) â€“ Paulo Freire. Estudio fundamental sobre educaciÃ³n crÃ­tica, diÃ¡logo, concientizaciÃ³n y relaciones de poder en los procesos de enseÃ±anza.
+[Pedagogy of the Oppressed](https://www.bloomsbury.com/us/pedagogy-of-the-oppressed-9781501314131/) – Paulo Freire. Estudio fundamental sobre educación crítica, diálogo, concientización y relaciones de poder en los procesos de enseñanza.
 
-[The Process of Education](https://www.hup.harvard.edu/books/9780674710016) â€“ Jerome S. Bruner. AnÃ¡lisis del currÃ­culo, la estructura de las disciplinas y las condiciones para favorecer aprendizajes intelectualmente significativos.
+[The Process of Education](https://www.hup.harvard.edu/books/9780674710016) – Jerome S. Bruner. Análisis del currículo, la estructura de las disciplinas y las condiciones para favorecer aprendizajes intelectualmente significativos.
 
-[Mind in Society](https://www.hup.harvard.edu/books/9780674576292) â€“ L. S. Vygotsky. SelecciÃ³n de textos sobre desarrollo de procesos psicolÃ³gicos superiores, mediaciÃ³n cultural y aprendizaje social.
+[Mind in Society](https://www.hup.harvard.edu/books/9780674576292) – L. S. Vygotsky. Selección de textos sobre desarrollo de procesos psicológicos superiores, mediación cultural y aprendizaje social.
 
-[Experience and Education](https://www.simonandschuster.com/books/Experience-And-Education/John-Dewey/9780684838281) â€“ John Dewey. Examen de la experiencia como fundamento educativo y de las limitaciones tanto de la enseÃ±anza tradicional como de ciertas interpretaciones de la educaciÃ³n progresista.
+[Experience and Education](https://www.simonandschuster.com/books/Experience-And-Education/John-Dewey/9780684838281) – John Dewey. Examen de la experiencia como fundamento educativo y de las limitaciones tanto de la enseñanza tradicional como de ciertas interpretaciones de la educación progresista.
 
-[The Culture of Education](https://www.hup.harvard.edu/books/9780674179530) â€“ Jerome S. Bruner. ReflexiÃ³n sobre la relaciÃ³n entre aprendizaje, cultura, construcciÃ³n de significado, identidad e instituciones escolares.
+[The Culture of Education](https://www.hup.harvard.edu/books/9780674179530) – Jerome S. Bruner. Reflexión sobre la relación entre aprendizaje, cultura, construcción de significado, identidad e instituciones escolares.
 
-[Visible Learning](https://www.routledge.com/Visible-Learning-A-Synthesis-of-Over-800-Meta-Analyses-Relating-to-Achievement/Hattie/p/book/9780415476188) â€“ John Hattie. SÃ­ntesis de metaanÃ¡lisis sobre factores relacionados con el rendimiento y las condiciones que influyen en la enseÃ±anza y el aprendizaje.
+[Visible Learning](https://www.routledge.com/Visible-Learning-A-Synthesis-of-Over-800-Meta-Analyses-Relating-to-Achievement/Hattie/p/book/9780415476188) – John Hattie. Síntesis de metaanálisis sobre factores relacionados con el rendimiento y las condiciones que influyen en la enseñanza y el aprendizaje.
 
-[How People Learn II](https://nap.nationalacademies.org/catalog/24783/how-people-learn-ii-learners-contexts-and-cultures) â€“ National Academies of Sciences, Engineering, and Medicine. RevisiÃ³n interdisciplinaria de conocimientos sobre aprendizaje, motivaciÃ³n, cultura, contexto y diseÃ±o de entornos educativos.
+[How People Learn II](https://nap.nationalacademies.org/catalog/24783/how-people-learn-ii-learners-contexts-and-cultures) – National Academies of Sciences, Engineering, and Medicine. Revisión interdisciplinaria de conocimientos sobre aprendizaje, motivación, cultura, contexto y diseño de entornos educativos.
 
-[The Cambridge Handbook of the Learning Sciences](https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/8B6B1D459A6AD649D0C7E9E8F266D5E3) â€“ R. Keith Sawyer, editor. Obra colectiva sobre ciencias del aprendizaje, cogniciÃ³n, colaboraciÃ³n, tecnologÃ­a, diseÃ±o pedagÃ³gico y aprendizaje en contextos formales e informales.
+[The Cambridge Handbook of the Learning Sciences](https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/8B6B1D459A6AD649D0C7E9E8F266D5E3) – R. Keith Sawyer, editor. Obra colectiva sobre ciencias del aprendizaje, cognición, colaboración, tecnología, diseño pedagógico y aprendizaje en contextos formales e informales.
 
-[The Handbook of Education Policy Research](https://www.routledge.com/Handbook-of-Education-Policy-Research/Sykes-Schneider-Plank/p/book/9780415989923) â€“ Gary Sykes, Barbara Schneider y David N. Plank, editores. Referencia sobre formulaciÃ³n, implementaciÃ³n, evaluaciÃ³n y anÃ¡lisis polÃ­tico de las reformas educativas.
+[The Handbook of Education Policy Research](https://www.routledge.com/Handbook-of-Education-Policy-Research/Sykes-Schneider-Plank/p/book/9780415989923) – Gary Sykes, Barbara Schneider y David N. Plank, editores. Referencia sobre formulación, implementación, evaluación y análisis político de las reformas educativas.
 
-[International Handbook of Comparative Education](https://link.springer.com/referencework/10.1007/978-1-4020-6403-6) â€“ Robert Cowen y Andreas M. Kazamias, editores. Obra de referencia sobre historia, teorÃ­as, mÃ©todos y problemas de la educaciÃ³n comparada internacional.
+[International Handbook of Comparative Education](https://link.springer.com/referencework/10.1007/978-1-4020-6403-6) – Robert Cowen y Andreas M. Kazamias, editores. Obra de referencia sobre historia, teorías, métodos y problemas de la educación comparada internacional.
 
-[The Routledge International Handbook of Education, Religion and Values](https://www.routledge.com/The-Routledge-International-Handbook-of-Education-Religion-and-Values/de-Souza-Durka-Engebretson-Jackson-McGrady/p/book/9780415813808) â€“ Estudio internacional de las relaciones entre educaciÃ³n, religiones, ciudadanÃ­a, Ã©tica, valores y diversidad cultural.
+[The Routledge International Handbook of Education, Religion and Values](https://www.routledge.com/The-Routledge-International-Handbook-of-Education-Religion-and-Values/de-Souza-Durka-Engebretson-Jackson-McGrady/p/book/9780415813808) – Estudio internacional de las relaciones entre educación, religiones, ciudadanía, ética, valores y diversidad cultural.
 
-[Teaching to Transgress](https://www.routledge.com/Teaching-to-Transgress-Education-as-the-Practice-of-Freedom/hooks/p/book/9780415908085) â€“ bell hooks. Ensayos sobre pedagogÃ­a crÃ­tica, participaciÃ³n, libertad, raza, gÃ©nero y transformaciÃ³n del aula.
+[Teaching to Transgress](https://www.routledge.com/Teaching-to-Transgress-Education-as-the-Practice-of-Freedom/hooks/p/book/9780415908085) – bell hooks. Ensayos sobre pedagogía crítica, participación, libertad, raza, género y transformación del aula.
 
-[Deschooling Society](https://www.marfabook.com/products/deschooling-society) â€“ Ivan Illich. CrÃ­tica histÃ³rica de la escolarizaciÃ³n institucional y anÃ¡lisis de alternativas basadas en redes abiertas de aprendizaje.
+[Deschooling Society](https://www.marfabook.com/products/deschooling-society) – Ivan Illich. Crítica histórica de la escolarización institucional y análisis de alternativas basadas en redes abiertas de aprendizaje.
 
-[Why Knowledge Matters](https://www.hepg.org/hep-home/books/why-knowledge-matters) â€“ E. D. Hirsch Jr. ArgumentaciÃ³n sobre currÃ­culo, conocimientos compartidos, comprensiÃ³n lectora, desigualdad y coherencia educativa.
+[Why Knowledge Matters](https://www.hepg.org/hep-home/books/why-knowledge-matters) – E. D. Hirsch Jr. Argumentación sobre currículo, conocimientos compartidos, comprensión lectora, desigualdad y coherencia educativa.
 
-[The Death and Life of the Great American School System](https://www.basicbooks.com/titles/diane-ravitch/the-death-and-life-of-the-great-american-school-system/9780465036585/) â€“ Diane Ravitch. RevisiÃ³n crÃ­tica de la rendiciÃ³n de cuentas basada en pruebas, la elecciÃ³n escolar y determinadas reformas de mercado.
+[The Death and Life of the Great American School System](https://www.basicbooks.com/titles/diane-ravitch/the-death-and-life-of-the-great-american-school-system/9780465036585/) – Diane Ravitch. Revisión crítica de la rendición de cuentas basada en pruebas, la elección escolar y determinadas reformas de mercado.
 
-[Education and the Significance of Life](https://store.kfoundation.org/books/education-and-the-significance-of-life) â€“ J. Krishnamurti. ReflexiÃ³n filosÃ³fica sobre formaciÃ³n integral, libertad, inteligencia, competencia y finalidad de la educaciÃ³n.
+[Education and the Significance of Life](https://store.kfoundation.org/books/education-and-the-significance-of-life) – J. Krishnamurti. Reflexión filosófica sobre formación integral, libertad, inteligencia, competencia y finalidad de la educación.
 
-[Reimagining Our Futures Together](https://unesdoc.unesco.org/ark:/48223/pf0000379707) â€“ International Commission on the Futures of Education. Informe de la UNESCO que propone un nuevo contrato social para la educaciÃ³n basado en cooperaciÃ³n, inclusiÃ³n y bienes comunes.
+[Reimagining Our Futures Together](https://unesdoc.unesco.org/ark:/48223/pf0000379707) – International Commission on the Futures of Education. Informe de la UNESCO que propone un nuevo contrato social para la educación basado en cooperación, inclusión y bienes comunes.
 
-[Global Education Monitoring Report](https://www.unesco.org/gem-report/en/publications) â€“ Serie de informes de referencia sobre el cumplimiento del ODS 4 y los principales problemas internacionales de acceso, equidad, calidad, tecnologÃ­a y financiaciÃ³n.
+[Global Education Monitoring Report](https://www.unesco.org/gem-report/en/publications) – Serie de informes de referencia sobre el cumplimiento del ODS 4 y los principales problemas internacionales de acceso, equidad, calidad, tecnología y financiación.
 
-[Education at a Glance 2025](https://www.oecd.org/en/publications/education-at-a-glance-2025_1c0d9c79-en.html) â€“ Informe comparativo de la OECD sobre estructuras, acceso, resultados, profesorado, financiaciÃ³n y organizaciÃ³n de los sistemas educativos.
+[Education at a Glance 2025](https://www.oecd.org/en/publications/education-at-a-glance-2025_1c0d9c79-en.html) – Informe comparativo de la OECD sobre estructuras, acceso, resultados, profesorado, financiación y organización de los sistemas educativos.
 
 ## REVISTAS
 
-[Review of Educational Research](https://journals.sagepub.com/home/rer) â€“ Revista de la American Educational Research Association especializada en revisiones crÃ­ticas, integraciones conceptuales y sÃ­ntesis de investigaciÃ³n educativa.
+[Review of Educational Research](https://journals.sagepub.com/home/rer) – Revista de la American Educational Research Association especializada en revisiones críticas, integraciones conceptuales y síntesis de investigación educativa.
 
-[Educational Researcher](https://journals.sagepub.com/home/edr) â€“ PublicaciÃ³n de la American Educational Research Association que presenta investigaciones, debates metodolÃ³gicos y anÃ¡lisis relevantes para la comunidad educativa.
+[Educational Researcher](https://journals.sagepub.com/home/edr) – Publicación de la American Educational Research Association que presenta investigaciones, debates metodológicos y análisis relevantes para la comunidad educativa.
 
-[American Educational Research Journal](https://journals.sagepub.com/home/aer) â€“ Revista multidisciplinaria de investigaciÃ³n empÃ­rica y teÃ³rica sobre enseÃ±anza, aprendizaje, polÃ­tica, organizaciÃ³n y contextos educativos.
+[American Educational Research Journal](https://journals.sagepub.com/home/aer) – Revista multidisciplinaria de investigación empírica y teórica sobre enseñanza, aprendizaje, política, organización y contextos educativos.
 
-[Harvard Educational Review](https://www.hepg.org/her-home/home) â€“ Revista acadÃ©mica editada en Harvard Graduate School of Education sobre polÃ­ticas, teorÃ­a, prÃ¡ctica, desigualdad y cambio educativo.
+[Harvard Educational Review](https://www.hepg.org/her-home/home) – Revista académica editada en Harvard Graduate School of Education sobre políticas, teoría, práctica, desigualdad y cambio educativo.
 
-[Comparative Education Review](https://www.journals.uchicago.edu/journals/cer/about) â€“ Revista oficial de la Comparative and International Education Society dedicada al anÃ¡lisis comparado de sistemas, polÃ­ticas y procesos educativos.
+[Comparative Education Review](https://www.journals.uchicago.edu/journals/cer/about) – Revista oficial de la Comparative and International Education Society dedicada al análisis comparado de sistemas, políticas y procesos educativos.
 
-[British Educational Research Journal](https://bera-journals.onlinelibrary.wiley.com/journal/14693518) â€“ Revista de la British Educational Research Association con estudios empÃ­ricos, revisiones y debates metodolÃ³gicos de alcance internacional.
+[British Educational Research Journal](https://bera-journals.onlinelibrary.wiley.com/journal/14693518) – Revista de la British Educational Research Association con estudios empíricos, revisiones y debates metodológicos de alcance internacional.
 
-[British Journal of Educational Technology](https://bera-journals.onlinelibrary.wiley.com/journal/14678535) â€“ PublicaciÃ³n acadÃ©mica sobre tecnologÃ­a educativa, aprendizaje digital, diseÃ±o pedagÃ³gico y relaciÃ³n entre innovaciÃ³n tecnolÃ³gica y prÃ¡ctica docente.
+[British Journal of Educational Technology](https://bera-journals.onlinelibrary.wiley.com/journal/14678535) – Publicación académica sobre tecnología educativa, aprendizaje digital, diseño pedagógico y relación entre innovación tecnológica y práctica docente.
 
-[Teaching and Teacher Education](https://www.sciencedirect.com/journal/teaching-and-teacher-education) â€“ Revista internacional de investigaciÃ³n sobre formaciÃ³n inicial, desarrollo profesional, identidad, conocimiento y prÃ¡ctica del profesorado.
+[Teaching and Teacher Education](https://www.sciencedirect.com/journal/teaching-and-teacher-education) – Revista internacional de investigación sobre formación inicial, desarrollo profesional, identidad, conocimiento y práctica del profesorado.
 
-[International Journal of Educational Development](https://www.sciencedirect.com/journal/international-journal-of-educational-development) â€“ Revista sobre educaciÃ³n, desarrollo econÃ³mico y social, polÃ­ticas pÃºblicas, desigualdad y cooperaciÃ³n internacional.
+[International Journal of Educational Development](https://www.sciencedirect.com/journal/international-journal-of-educational-development) – Revista sobre educación, desarrollo económico y social, políticas públicas, desigualdad y cooperación internacional.
 
-[Revista de EducaciÃ³n](https://www.educacionfpydeportes.gob.es/revista-de-educacion/inicio.html) â€“ PublicaciÃ³n cientÃ­fica del Ministerio de EducaciÃ³n espaÃ±ol sobre investigaciÃ³n, polÃ­ticas, historia y evaluaciÃ³n educativa.
+[Revista de Educación](https://www.educacionfpydeportes.gob.es/revista-de-educacion/inicio.html) – Publicación científica del Ministerio de Educación español sobre investigación, políticas, historia y evaluación educativa.
 
 ## MUSEOS
 
-[Museo de la EducaciÃ³n Gabriela Mistral](https://www.museodelaeducacion.gob.cl/) â€“ Museo pÃºblico chileno dedicado a la historia de la educaciÃ³n, la cultura escolar, el patrimonio pedagÃ³gico y la memoria del profesorado.
+[Museo de la Educación Gabriela Mistral](https://www.museodelaeducacion.gob.cl/) – Museo público chileno dedicado a la historia de la educación, la cultura escolar, el patrimonio pedagógico y la memoria del profesorado.
 
-[Museo de la EducaciÃ³n de la Universidad del PaÃ­s Vasco](https://www.ehu.eus/es/web/museoeducacion/home) â€“ Museo universitario que conserva y estudia patrimonio escolar, materiales didÃ¡cticos, documentaciÃ³n y memoria educativa del PaÃ­s Vasco.
+[Museo de la Educación de la Universidad del País Vasco](https://www.ehu.eus/es/web/museoeducacion/home) – Museo universitario que conserva y estudia patrimonio escolar, materiales didácticos, documentación y memoria educativa del País Vasco.
 
-[Museum of Education â€“ University of Padua](https://educazione.musei.unipd.it/en/) â€“ ColecciÃ³n universitaria italiana sobre historia escolar, infancia, vida familiar, juego, materiales pedagÃ³gicos y cultura educativa de los siglos XIX y XX.
+[Museum of Education – University of Padua](https://educazione.musei.unipd.it/en/) – Colección universitaria italiana sobre historia escolar, infancia, vida familiar, juego, materiales pedagógicos y cultura educativa de los siglos XIX y XX.
 
-[MusÃ©e national de lâ€™Ã‰ducation](https://www.reseau-canope.fr/musee/) â€“ Museo francÃ©s perteneciente a RÃ©seau CanopÃ©, especializado en historia de la escuela, infancia, currÃ­culo, libros de texto y prÃ¡cticas pedagÃ³gicas.
+[Musée national de l’Éducation](https://www.reseau-canope.fr/musee/) – Museo francés perteneciente a Réseau Canopé, especializado en historia de la escuela, infancia, currículo, libros de texto y prácticas pedagógicas.
 
-[Schulmuseum NÃ¼rnberg](https://museen.nuernberg.de/school-museum/) â€“ Museo alemÃ¡n centrado en la evoluciÃ³n de la escuela, la enseÃ±anza, la vida cotidiana del alumnado y la materialidad del aula.
+[Schulmuseum Nürnberg](https://museen.nuernberg.de/school-museum/) – Museo alemán centrado en la evolución de la escuela, la enseñanza, la vida cotidiana del alumnado y la materialidad del aula.
 
-[British Schools Museum](https://britishschoolsmuseum.org.uk/) â€“ Museo instalado en un conjunto escolar histÃ³rico de Inglaterra que documenta la educaciÃ³n elemental y los sistemas de enseÃ±anza de los siglos XIX y XX.
+[British Schools Museum](https://britishschoolsmuseum.org.uk/) – Museo instalado en un conjunto escolar histórico de Inglaterra que documenta la educación elemental y los sistemas de enseñanza de los siglos XIX y XX.
 
-[Australian National Museum of Education](https://www.une.edu.au/connect/culture-and-arts/national-museum-of-education) â€“ Museo de la University of New England que conserva archivos, objetos y colecciones relativos a la historia de la educaciÃ³n australiana.
+[Australian National Museum of Education](https://www.une.edu.au/connect/culture-and-arts/national-museum-of-education) – Museo de la University of New England que conserva archivos, objetos y colecciones relativos a la historia de la educación australiana.
 
-[Black Mountain College Museum + Arts Center](https://www.blackmountaincollege.org/) â€“ Centro dedicado al legado del Black Mountain College y a su modelo experimental de educaciÃ³n interdisciplinaria en artes, diseÃ±o y humanidades.
+[Black Mountain College Museum + Arts Center](https://www.blackmountaincollege.org/) – Centro dedicado al legado del Black Mountain College y a su modelo experimental de educación interdisciplinaria en artes, diseño y humanidades.
 
-[Museum of Teaching and Learning](https://www.motal.org/) â€“ OrganizaciÃ³n museÃ­stica estadounidense que documenta la historia, las prÃ¡cticas y las transformaciones de la enseÃ±anza y el aprendizaje.
+[Museum of Teaching and Learning](https://www.motal.org/) – Organización museística estadounidense que documenta la historia, las prácticas y las transformaciones de la enseñanza y el aprendizaje.
 
-[National Education Museum](https://www.naermuseet.no/en/the-national-education-museum/) â€“ Museo noruego dedicado al desarrollo histÃ³rico de la escuela, el trabajo docente y las experiencias educativas de la poblaciÃ³n.
+[National Education Museum](https://www.naermuseet.no/en/the-national-education-museum/) – Museo noruego dedicado al desarrollo histórico de la escuela, el trabajo docente y las experiencias educativas de la población.
 
 ## UNIVERSIDADES
 
-[Harvard Graduate School of Education](https://www.gse.harvard.edu/) â€“ Facultad de Harvard University especializada en investigaciÃ³n, formaciÃ³n profesional y posgrados sobre aprendizaje, liderazgo, polÃ­tica y desarrollo humano.
+[Harvard Graduate School of Education](https://www.gse.harvard.edu/) – Facultad de Harvard University especializada en investigación, formación profesional y posgrados sobre aprendizaje, liderazgo, política y desarrollo humano.
 
-[Stanford Graduate School of Education](https://ed.stanford.edu/) â€“ Centro universitario de investigaciÃ³n y formaciÃ³n en ciencias del aprendizaje, polÃ­tica educativa, tecnologÃ­as, currÃ­culo, profesorado y desigualdad.
+[Stanford Graduate School of Education](https://ed.stanford.edu/) – Centro universitario de investigación y formación en ciencias del aprendizaje, política educativa, tecnologías, currículo, profesorado y desigualdad.
 
-[UCL Institute of Education](https://www.ucl.ac.uk/ioe/) â€“ Facultad de University College London dedicada a educaciÃ³n y ciencias sociales, con investigaciÃ³n sobre polÃ­ticas, desarrollo, currÃ­culo, evaluaciÃ³n y formaciÃ³n docente.
+[UCL Institute of Education](https://www.ucl.ac.uk/ioe/) – Facultad de University College London dedicada a educación y ciencias sociales, con investigación sobre políticas, desarrollo, currículo, evaluación y formación docente.
 
-[Teachers College, Columbia University](https://www.tc.columbia.edu/) â€“ Escuela universitaria de posgrado centrada en educaciÃ³n, psicologÃ­a, salud, liderazgo, desarrollo humano y polÃ­ticas sociales.
+[Teachers College, Columbia University](https://www.tc.columbia.edu/) – Escuela universitaria de posgrado centrada en educación, psicología, salud, liderazgo, desarrollo humano y políticas sociales.
 
-[University of Oxford â€“ Department of Education](https://www.education.ox.ac.uk/) â€“ Departamento dedicado a investigaciÃ³n y formaciÃ³n avanzada en aprendizaje, lingÃ¼Ã­stica aplicada, educaciÃ³n superior, polÃ­ticas y desarrollo infantil.
+[University of Oxford – Department of Education](https://www.education.ox.ac.uk/) – Departamento dedicado a investigación y formación avanzada en aprendizaje, lingüística aplicada, educación superior, políticas y desarrollo infantil.
 
-[University of Cambridge â€“ Faculty of Education](https://www.educ.cam.ac.uk/) â€“ Facultad que desarrolla investigaciÃ³n y programas sobre profesorado, infancia, artes, lenguaje, equidad, liderazgo y educaciÃ³n internacional.
+[University of Cambridge – Faculty of Education](https://www.educ.cam.ac.uk/) – Facultad que desarrolla investigación y programas sobre profesorado, infancia, artes, lenguaje, equidad, liderazgo y educación internacional.
 
-[Faculty of Education â€“ University of Melbourne](https://education.unimelb.edu.au/) â€“ Facultad australiana orientada a formaciÃ³n de posgrado e investigaciÃ³n sobre docencia, liderazgo, polÃ­ticas y mejora educativa.
+[Faculty of Education – University of Melbourne](https://education.unimelb.edu.au/) – Facultad australiana orientada a formación de posgrado e investigación sobre docencia, liderazgo, políticas y mejora educativa.
 
-[Faculty of Education â€“ The University of Hong Kong](https://web.edu.hku.hk/) â€“ Facultad asiÃ¡tica con investigaciÃ³n y programas sobre lenguaje, aprendizaje, polÃ­ticas, ciencias de la informaciÃ³n y desarrollo profesional docente.
+[Faculty of Education – The University of Hong Kong](https://web.edu.hku.hk/) – Facultad asiática con investigación y programas sobre lenguaje, aprendizaje, políticas, ciencias de la información y desarrollo profesional docente.
 
-[Faculty of Education â€“ The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/faculties/education.html) â€“ Facultad dedicada a formaciÃ³n de educadores, investigaciÃ³n interdisciplinaria y asesoramiento sobre polÃ­ticas y sistemas escolares.
+[Faculty of Education – The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/faculties/education.html) – Facultad dedicada a formación de educadores, investigación interdisciplinaria y asesoramiento sobre políticas y sistemas escolares.
 
-[Faculty of Education â€“ University of Pretoria](https://www.up.ac.za/faculty-of-education) â€“ Facultad sudafricana con docencia e investigaciÃ³n en formaciÃ³n de profesores, liderazgo, psicologÃ­a educativa, humanidades y educaciÃ³n cientÃ­fica.
+[Faculty of Education – University of Pretoria](https://www.up.ac.za/faculty-of-education) – Facultad sudafricana con docencia e investigación en formación de profesores, liderazgo, psicología educativa, humanidades y educación científica.
 
 ## ASOCIACIONES
 
-[Education International](https://www.ei-ie.org/) â€“ FederaciÃ³n mundial de sindicatos y organizaciones del personal educativo que trabaja sobre derechos profesionales, condiciones laborales y educaciÃ³n pÃºblica.
+[Education International](https://www.ei-ie.org/) – Federación mundial de sindicatos y organizaciones del personal educativo que trabaja sobre derechos profesionales, condiciones laborales y educación pública.
 
-[American Educational Research Association](https://www.aera.net/) â€“ AsociaciÃ³n cientÃ­fica internacional dedicada al avance, difusiÃ³n y aplicaciÃ³n de la investigaciÃ³n educativa.
+[American Educational Research Association](https://www.aera.net/) – Asociación científica internacional dedicada al avance, difusión y aplicación de la investigación educativa.
 
-[British Educational Research Association](https://www.bera.ac.uk/) â€“ AsociaciÃ³n profesional britÃ¡nica que promueve investigaciÃ³n educativa, publicaciones cientÃ­ficas, formaciÃ³n y estÃ¡ndares Ã©ticos.
+[British Educational Research Association](https://www.bera.ac.uk/) – Asociación profesional británica que promueve investigación educativa, publicaciones científicas, formación y estándares éticos.
 
-[European Educational Research Association](https://eera-ecer.de/) â€“ FederaciÃ³n de asociaciones y redes europeas de investigaciÃ³n educativa responsable de la European Conference on Educational Research.
+[European Educational Research Association](https://eera-ecer.de/) – Federación de asociaciones y redes europeas de investigación educativa responsable de la European Conference on Educational Research.
 
-[Comparative and International Education Society](https://cies.us/) â€“ AsociaciÃ³n acadÃ©mica para el estudio comparado e internacional de sistemas, polÃ­ticas, culturas y procesos educativos.
+[Comparative and International Education Society](https://cies.us/) – Asociación académica para el estudio comparado e internacional de sistemas, políticas, culturas y procesos educativos.
 
-[World Council of Comparative Education Societies](https://wcces-online.org/) â€“ OrganizaciÃ³n internacional que agrupa sociedades nacionales y regionales dedicadas a la educaciÃ³n comparada.
+[World Council of Comparative Education Societies](https://wcces-online.org/) – Organización internacional que agrupa sociedades nacionales y regionales dedicadas a la educación comparada.
 
-[Association for the Study of Higher Education](https://www.ashe.ws/) â€“ AsociaciÃ³n acadÃ©mica especializada en investigaciÃ³n sobre educaciÃ³n superior, instituciones, polÃ­ticas, profesorado y estudiantes.
+[Association for the Study of Higher Education](https://www.ashe.ws/) – Asociación académica especializada en investigación sobre educación superior, instituciones, políticas, profesorado y estudiantes.
 
-[International Association for the Evaluation of Educational Achievement](https://www.iea.nl/) â€“ Cooperativa internacional de instituciones de investigaciÃ³n responsable de evaluaciones comparativas como TIMSS, PIRLS e ICCS.
+[International Association for the Evaluation of Educational Achievement](https://www.iea.nl/) – Cooperativa internacional de instituciones de investigación responsable de evaluaciones comparativas como TIMSS, PIRLS e ICCS.
 
-[Association for Educational Communications and Technology](https://www.aect.org/) â€“ AsociaciÃ³n profesional dedicada a tecnologÃ­a educativa, diseÃ±o instruccional, investigaciÃ³n y mejora de los procesos de aprendizaje.
+[Association for Educational Communications and Technology](https://www.aect.org/) – Asociación profesional dedicada a tecnología educativa, diseño instruccional, investigación y mejora de los procesos de aprendizaje.
 
-[International Society for Technology in Education](https://iste.org/) â€“ OrganizaciÃ³n profesional centrada en el uso pedagÃ³gico de la tecnologÃ­a, competencia digital, liderazgo e innovaciÃ³n educativa.
+[International Society for Technology in Education](https://iste.org/) – Organización profesional centrada en el uso pedagógico de la tecnología, competencia digital, liderazgo e innovación educativa.
 
 ## NEWSLETTER
 
-[IIEP-UNESCO Newsletters](https://www.iiep.unesco.org/en/subscribe) â€“ Boletines sobre planeamiento, gestiÃ³n, financiaciÃ³n, crisis educativas, igualdad de gÃ©nero y polÃ­ticas comparadas.
+[IIEP-UNESCO Newsletters](https://www.iiep.unesco.org/en/subscribe) – Boletines sobre planeamiento, gestión, financiación, crisis educativas, igualdad de género y políticas comparadas.
 
-[OECD Education and Skills Newsletter](https://www.oecd.org/en/about/newsletters.html) â€“ Actualizaciones sobre investigaciones, indicadores, eventos y anÃ¡lisis internacionales de polÃ­tica educativa.
+[OECD Education and Skills Newsletter](https://www.oecd.org/en/about/newsletters.html) – Actualizaciones sobre investigaciones, indicadores, eventos y análisis internacionales de política educativa.
 
-[Edutopia Newsletters](https://www.edutopia.org/newsletters/) â€“ SelecciÃ³n temÃ¡tica de artÃ­culos y vÃ­deos sobre prÃ¡ctica docente, tecnologÃ­a, evaluaciÃ³n, investigaciÃ³n y gestiÃ³n del aula.
+[Edutopia Newsletters](https://www.edutopia.org/newsletters/) – Selección temática de artículos y vídeos sobre práctica docente, tecnología, evaluación, investigación y gestión del aula.
 
-[Education Week Newsletters](https://www.edweek.org/newsletters) â€“ Boletines especializados sobre polÃ­tica educativa, liderazgo escolar, profesorado, currÃ­culo, tecnologÃ­a y actualidad de la educaciÃ³n estadounidense.
+[Education Week Newsletters](https://www.edweek.org/newsletters) – Boletines especializados sobre política educativa, liderazgo escolar, profesorado, currículo, tecnología y actualidad de la educación estadounidense.
 
-[Inside Higher Ed Newsletters](https://www.insidehighered.com/newsletters) â€“ InformaciÃ³n periÃ³dica sobre universidades, gestiÃ³n institucional, profesorado, estudiantes, admisiones y polÃ­ticas de educaciÃ³n superior.
+[Inside Higher Ed Newsletters](https://www.insidehighered.com/newsletters) – Información periódica sobre universidades, gestión institucional, profesorado, estudiantes, admisiones y políticas de educación superior.
 
-[Times Higher Education Newsletters](https://www.timeshighereducation.com/newsletters) â€“ Boletines sobre enseÃ±anza universitaria, investigaciÃ³n, gobernanza, internacionalizaciÃ³n y polÃ­ticas de educaciÃ³n superior.
+[Times Higher Education Newsletters](https://www.timeshighereducation.com/newsletters) – Boletines sobre enseñanza universitaria, investigación, gobernanza, internacionalización y políticas de educación superior.
 
-[The Hechinger Report Newsletters](https://hechingerreport.org/newsletters/) â€“ Selecciones de periodismo especializado sobre desigualdad, innovaciÃ³n, primera infancia, enseÃ±anza y educaciÃ³n superior.
+[The Hechinger Report Newsletters](https://hechingerreport.org/newsletters/) – Selecciones de periodismo especializado sobre desigualdad, innovación, primera infancia, enseñanza y educación superior.
 
-[Brookings Education Newsletter](https://www.brookings.edu/newsletters/) â€“ Actualizaciones de investigaciÃ³n y anÃ¡lisis de polÃ­ticas sobre aprendizaje, desarrollo, desigualdad y sistemas educativos.
+[Brookings Education Newsletter](https://www.brookings.edu/newsletters/) – Actualizaciones de investigación y análisis de políticas sobre aprendizaje, desarrollo, desigualdad y sistemas educativos.
 
-[Education Endowment Foundation News Alerts](https://educationendowmentfoundation.org.uk/newsletter-sign-up) â€“ InformaciÃ³n sobre evaluaciones, revisiones de evidencia y recursos para mejorar la enseÃ±anza y reducir desigualdades escolares.
+[Education Endowment Foundation News Alerts](https://educationendowmentfoundation.org.uk/newsletter-sign-up) – Información sobre evaluaciones, revisiones de evidencia y recursos para mejorar la enseñanza y reducir desigualdades escolares.
 
-[UNESCO Global Education Monitoring Report Newsletter](https://www.unesco.org/gem-report/en/newsletter) â€“ Comunicaciones sobre nuevos informes, anÃ¡lisis temÃ¡ticos, perfiles nacionales, datos y seguimiento internacional del ODS 4.
+[UNESCO Global Education Monitoring Report Newsletter](https://www.unesco.org/gem-report/en/newsletter) – Comunicaciones sobre nuevos informes, análisis temáticos, perfiles nacionales, datos y seguimiento internacional del ODS 4.
 
 ## TV
 
-[PBS LearningMedia](https://www.pbslearningmedia.org/) â€“ Plataforma educativa del sistema pÃºblico estadounidense PBS con vÃ­deos, documentos y actividades curriculares procedentes de producciones audiovisuales pÃºblicas.
+[PBS LearningMedia](https://www.pbslearningmedia.org/) – Plataforma educativa del sistema público estadounidense PBS con vídeos, documentos y actividades curriculares procedentes de producciones audiovisuales públicas.
 
-[France 4 â€“ Okoo](https://www.france.tv/france-4/) â€“ Canal pÃºblico francÃ©s con programaciÃ³n infantil, cultural y educativa y contenidos asociados a la plataforma France TÃ©lÃ©visions.
+[France 4 – Okoo](https://www.france.tv/france-4/) – Canal público francés con programación infantil, cultural y educativa y contenidos asociados a la plataforma France Télévisions.
 
-[ARTE](https://www.arte.tv/) â€“ Canal pÃºblico cultural franco-alemÃ¡n con documentales y programas sobre ciencia, historia, sociedad, artes y conocimiento.
+[ARTE](https://www.arte.tv/) – Canal público cultural franco-alemán con documentales y programas sobre ciencia, historia, sociedad, artes y conocimiento.
 
-[TV UNAM](https://tv.unam.mx/) â€“ Canal de la Universidad Nacional AutÃ³noma de MÃ©xico con programaciÃ³n cientÃ­fica, humanÃ­stica, cultural y educativa.
+[TV UNAM](https://tv.unam.mx/) – Canal de la Universidad Nacional Autónoma de México con programación científica, humanística, cultural y educativa.
 
-[Canal Encuentro](https://www.encuentro.gob.ar/) â€“ SeÃ±al pÃºblica educativa y cultural argentina con series, documentales y materiales vinculados a historia, ciencia, ciudadanÃ­a y escuela.
+[Canal Encuentro](https://www.encuentro.gob.ar/) – Señal pública educativa y cultural argentina con series, documentales y materiales vinculados a historia, ciencia, ciudadanía y escuela.
 
-[Canal IPE](https://www.canalipe.gob.pe/) â€“ Canal pÃºblico peruano dirigido a niÃ±os y jÃ³venes con programaciÃ³n cultural, educativa, cientÃ­fica y ciudadana.
+[Canal IPE](https://www.canalipe.gob.pe/) – Canal público peruano dirigido a niños y jóvenes con programación cultural, educativa, científica y ciudadana.
 
-[SescTV](https://sesctv.org.br/) â€“ Canal cultural brasileÃ±o con producciones sobre artes, sociedad, educaciÃ³n, pensamiento y patrimonio.
+[SescTV](https://sesctv.org.br/) – Canal cultural brasileño con producciones sobre artes, sociedad, educación, pensamiento y patrimonio.
 
-[Doordarshan PM eVIDYA](https://pmevidya.education.gov.in/) â€“ Iniciativa pÃºblica india que integra canales televisivos y recursos digitales para apoyar la educaciÃ³n escolar y la formaciÃ³n a distancia.
+[Doordarshan PM eVIDYA](https://pmevidya.education.gov.in/) – Iniciativa pública india que integra canales televisivos y recursos digitales para apoyar la educación escolar y la formación a distancia.
 
-[ABC Education](https://www.abc.net.au/education) â€“ Servicio educativo de la Australian Broadcasting Corporation con producciones y recursos audiovisuales para estudiantes y docentes.
+[ABC Education](https://www.abc.net.au/education) – Servicio educativo de la Australian Broadcasting Corporation con producciones y recursos audiovisuales para estudiantes y docentes.
 
-[TV Escola](https://www.gov.br/mec/pt-br) â€“ Referencia histÃ³rica de televisiÃ³n educativa brasileÃ±a cuyos materiales y funciones han sido integrados progresivamente en los servicios y plataformas del MinistÃ©rio da EducaÃ§Ã£o.
+[TV Escola](https://www.gov.br/mec/pt-br) – Referencia histórica de televisión educativa brasileña cuyos materiales y funciones han sido integrados progresivamente en los servicios y plataformas del Ministério da Educação.
 
 ## RADIO
 
-[BBC Radio 4](https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm) â€“ Emisora pÃºblica britÃ¡nica con documentales, debates, historia, ciencia, filosofÃ­a, literatura y programas de divulgaciÃ³n.
+[BBC Radio 4](https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm) – Emisora pública británica con documentales, debates, historia, ciencia, filosofía, literatura y programas de divulgación.
 
-[BBC World Service](https://www.bbc.co.uk/sounds/play/live:bbc_world_service) â€“ Servicio internacional de radio con noticias, anÃ¡lisis, ciencia, cultura y contenidos educativos para audiencias mundiales.
+[BBC World Service](https://www.bbc.co.uk/sounds/play/live:bbc_world_service) – Servicio internacional de radio con noticias, análisis, ciencia, cultura y contenidos educativos para audiencias mundiales.
 
-[Radio UNAM](https://www.radio.unam.mx/) â€“ Emisora de la Universidad Nacional AutÃ³noma de MÃ©xico con producciÃ³n acadÃ©mica, cultural, cientÃ­fica y humanÃ­stica.
+[Radio UNAM](https://www.radio.unam.mx/) – Emisora de la Universidad Nacional Autónoma de México con producción académica, cultural, científica y humanística.
 
-[Radio EducaciÃ³n](https://radioeducacion.edu.mx/) â€“ Emisora pÃºblica mexicana especializada en cultura, educaciÃ³n, artes, memoria sonora y divulgaciÃ³n.
+[Radio Educación](https://radioeducacion.edu.mx/) – Emisora pública mexicana especializada en cultura, educación, artes, memoria sonora y divulgación.
 
-[Radio Universidad de Chile](https://radio.uchile.cl/) â€“ Medio universitario que difunde informaciÃ³n, anÃ¡lisis, cultura, ciencia y debates sobre asuntos pÃºblicos y educativos.
+[Radio Universidad de Chile](https://radio.uchile.cl/) – Medio universitario que difunde información, análisis, cultura, ciencia y debates sobre asuntos públicos y educativos.
 
-[UNED Radio](https://canal.uned.es/) â€“ ProducciÃ³n radiofÃ³nica de la Universidad Nacional de EducaciÃ³n a Distancia con clases, entrevistas y programas acadÃ©micos de mÃºltiples disciplinas.
+[UNED Radio](https://canal.uned.es/) – Producción radiofónica de la Universidad Nacional de Educación a Distancia con clases, entrevistas y programas académicos de múltiples disciplinas.
 
-[ABC Radio National](https://www.abc.net.au/listen/radionational) â€“ Servicio pÃºblico australiano con programas sobre ciencia, sociedad, historia, filosofÃ­a, cultura y educaciÃ³n.
+[ABC Radio National](https://www.abc.net.au/listen/radionational) – Servicio público australiano con programas sobre ciencia, sociedad, historia, filosofía, cultura y educación.
 
-[Deutsche Welle â€“ Deutsch lernen](https://learngerman.dw.com/) â€“ Servicio de la radiodifusora pÃºblica internacional alemana que combina audio, vÃ­deo y cursos estructurados para el aprendizaje del alemÃ¡n.
+[Deutsche Welle – Deutsch lernen](https://learngerman.dw.com/) – Servicio de la radiodifusora pública internacional alemana que combina audio, vídeo y cursos estructurados para el aprendizaje del alemán.
 
-[RFI Savoirs](https://savoirs.rfi.fr/) â€“ Recursos radiofÃ³nicos y pedagÃ³gicos de Radio France Internationale para enseÃ±anza de francÃ©s, comprensiÃ³n del mundo y educaciÃ³n mediÃ¡tica.
+[RFI Savoirs](https://savoirs.rfi.fr/) – Recursos radiofónicos y pedagógicos de Radio France Internationale para enseñanza de francés, comprensión del mundo y educación mediática.
 
-[SBS Learn](https://www.sbs.com.au/learn/) â€“ Servicio educativo de la radiodifusora pÃºblica multicultural australiana con materiales audiovisuales sobre lenguas, culturas, historia y ciudadanÃ­a.
+[SBS Learn](https://www.sbs.com.au/learn/) – Servicio educativo de la radiodifusora pública multicultural australiana con materiales audiovisuales sobre lenguas, culturas, historia y ciudadanía.
 
 ## PRENSA ONLINE
 
-[Education Week](https://www.edweek.org/) â€“ Medio especializado en polÃ­ticas escolares, profesorado, currÃ­culo, liderazgo, evaluaciÃ³n y tecnologÃ­a educativa.
+[Education Week](https://www.edweek.org/) – Medio especializado en políticas escolares, profesorado, currículo, liderazgo, evaluación y tecnología educativa.
 
-[The Hechinger Report](https://hechingerreport.org/) â€“ OrganizaciÃ³n periodÃ­stica sin Ã¡nimo de lucro centrada en desigualdad, innovaciÃ³n, educaciÃ³n infantil, escolar y universitaria.
+[The Hechinger Report](https://hechingerreport.org/) – Organización periodística sin ánimo de lucro centrada en desigualdad, innovación, educación infantil, escolar y universitaria.
 
-[Chalkbeat](https://www.chalkbeat.org/) â€“ Red periodÃ­stica sin Ã¡nimo de lucro dedicada a escuelas pÃºblicas, comunidades educativas y efectos locales de las polÃ­ticas.
+[Chalkbeat](https://www.chalkbeat.org/) – Red periodística sin ánimo de lucro dedicada a escuelas públicas, comunidades educativas y efectos locales de las políticas.
 
-[Inside Higher Ed](https://www.insidehighered.com/) â€“ PublicaciÃ³n digital sobre universidades, empleo acadÃ©mico, administraciÃ³n, estudiantes, polÃ­ticas y enseÃ±anza superior.
+[Inside Higher Ed](https://www.insidehighered.com/) – Publicación digital sobre universidades, empleo académico, administración, estudiantes, políticas y enseñanza superior.
 
-[Times Higher Education](https://www.timeshighereducation.com/) â€“ Medio especializado en educaciÃ³n superior, investigaciÃ³n, gestiÃ³n universitaria e internacionalizaciÃ³n.
+[Times Higher Education](https://www.timeshighereducation.com/) – Medio especializado en educación superior, investigación, gestión universitaria e internacionalización.
 
-[University World News](https://www.universityworldnews.com/) â€“ PublicaciÃ³n internacional sobre educaciÃ³n superior, movilidad, ciencia, gobernanza y polÃ­ticas universitarias.
+[University World News](https://www.universityworldnews.com/) – Publicación internacional sobre educación superior, movilidad, ciencia, gobernanza y políticas universitarias.
 
-[EdSurge](https://www.edsurge.com/) â€“ Medio dedicado a tecnologÃ­a educativa, aprendizaje digital, enseÃ±anza, innovaciÃ³n y empresas del sector.
+[EdSurge](https://www.edsurge.com/) – Medio dedicado a tecnología educativa, aprendizaje digital, enseñanza, innovación y empresas del sector.
 
-[Edutopia](https://www.edutopia.org/) â€“ PublicaciÃ³n de la George Lucas Educational Foundation sobre metodologÃ­as, gestiÃ³n del aula, investigaciÃ³n y desarrollo profesional.
+[Edutopia](https://www.edutopia.org/) – Publicación de la George Lucas Educational Foundation sobre metodologías, gestión del aula, investigación y desarrollo profesional.
 
-[Agencia SINC â€“ EducaciÃ³n](https://www.agenciasinc.es/) â€“ Agencia pÃºblica espaÃ±ola de informaciÃ³n cientÃ­fica que publica contenidos Ãºtiles para enseÃ±anza, divulgaciÃ³n y alfabetizaciÃ³n cientÃ­fica.
+[Agencia SINC – Educación](https://www.agenciasinc.es/) – Agencia pública española de información científica que publica contenidos útiles para enseñanza, divulgación y alfabetización científica.
 
-[El Diario de la EducaciÃ³n](https://eldiariodelaeducacion.com/) â€“ PublicaciÃ³n digital espaÃ±ola especializada en polÃ­tica educativa, profesiÃ³n docente, innovaciÃ³n, equidad y comunidad escolar.
+[El Diario de la Educación](https://eldiariodelaeducacion.com/) – Publicación digital española especializada en política educativa, profesión docente, innovación, equidad y comunidad escolar.
 
 ## PRENSA ESCRITA
 
-[Times Educational Supplement](https://www.tes.com/magazine) â€“ Revista profesional britÃ¡nica sobre escuelas, docencia, liderazgo, currÃ­culo, empleo y polÃ­ticas educativas.
+[Times Educational Supplement](https://www.tes.com/magazine) – Revista profesional británica sobre escuelas, docencia, liderazgo, currículo, empleo y políticas educativas.
 
-[Education Week](https://www.edweek.org/products/education-week-print-edition) â€“ EdiciÃ³n impresa del medio estadounidense especializado en educaciÃ³n primaria y secundaria, polÃ­tica pÃºblica y profesiÃ³n docente.
+[Education Week](https://www.edweek.org/products/education-week-print-edition) – Edición impresa del medio estadounidense especializado en educación primaria y secundaria, política pública y profesión docente.
 
-[Times Higher Education](https://www.timeshighereducation.com/) â€“ PublicaciÃ³n periÃ³dica britÃ¡nica centrada en universidades, investigaciÃ³n, gestiÃ³n acadÃ©mica y educaciÃ³n superior internacional.
+[Times Higher Education](https://www.timeshighereducation.com/) – Publicación periódica británica centrada en universidades, investigación, gestión académica y educación superior internacional.
 
-[The Chronicle of Higher Education](https://www.chronicle.com/) â€“ PeriÃ³dico especializado en educaciÃ³n superior, vida acadÃ©mica, polÃ­ticas universitarias, profesorado y administraciÃ³n institucional.
+[The Chronicle of Higher Education](https://www.chronicle.com/) – Periódico especializado en educación superior, vida académica, políticas universitarias, profesorado y administración institucional.
 
-[Phi Delta Kappan](https://kappanonline.org/) â€“ Revista profesional sobre educaciÃ³n pÃºblica, investigaciÃ³n aplicada, polÃ­tica escolar y prÃ¡ctica docente.
+[Phi Delta Kappan](https://kappanonline.org/) – Revista profesional sobre educación pública, investigación aplicada, política escolar y práctica docente.
 
-[Educational Leadership](https://www.ascd.org/el) â€“ Revista de ASCD dirigida a docentes y responsables escolares, con monogrÃ¡ficos sobre currÃ­culo, evaluaciÃ³n, inclusiÃ³n y liderazgo.
+[Educational Leadership](https://www.ascd.org/el) – Revista de ASCD dirigida a docentes y responsables escolares, con monográficos sobre currículo, evaluación, inclusión y liderazgo.
 
-[Learning and Teaching](https://www.berghahnjournals.com/view/journals/latiss/latiss-overview.xml) â€“ Revista interdisciplinaria sobre enseÃ±anza y aprendizaje en educaciÃ³n superior, culturas acadÃ©micas y prÃ¡cticas institucionales.
+[Learning and Teaching](https://www.berghahnjournals.com/view/journals/latiss/latiss-overview.xml) – Revista interdisciplinaria sobre enseñanza y aprendizaje en educación superior, culturas académicas y prácticas institucionales.
 
-[Cuadernos de PedagogÃ­a](https://www.cuadernosdepedagogia.com/) â€“ PublicaciÃ³n profesional espaÃ±ola dedicada a innovaciÃ³n, currÃ­culo, organizaciÃ³n escolar, formaciÃ³n docente y experiencias educativas.
+[Cuadernos de Pedagogía](https://www.cuadernosdepedagogia.com/) – Publicación profesional española dedicada a innovación, currículo, organización escolar, formación docente y experiencias educativas.
 
-[Magisterio](https://www.magisnet.com/) â€“ PublicaciÃ³n espaÃ±ola de informaciÃ³n educativa con cobertura de legislaciÃ³n, centros, profesorado, administraciÃ³n y comunidad escolar.
+[Magisterio](https://www.magisnet.com/) – Publicación española de información educativa con cobertura de legislación, centros, profesorado, administración y comunidad escolar.
 
-[Revista Iberoamericana de EducaciÃ³n](https://rieoei.org/RIE) â€“ PublicaciÃ³n de la OrganizaciÃ³n de Estados Iberoamericanos sobre investigaciÃ³n, polÃ­ticas, experiencias y cooperaciÃ³n educativa en el espacio iberoamericano.
+[Revista Iberoamericana de Educación](https://rieoei.org/RIE) – Publicación de la Organización de Estados Iberoamericanos sobre investigación, políticas, experiencias y cooperación educativa en el espacio iberoamericano.

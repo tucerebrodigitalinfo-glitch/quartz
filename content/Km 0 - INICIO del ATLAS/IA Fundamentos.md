@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-12T14:37:05.212Z
-modified: 2026-09-17T10:13:52.406Z
+modified: 2026-09-18T09:36:20.735Z
 ---
 
-#IA #FormaciÃ³n #Bases #Wikipedia
+#IA #Formación #Bases #Wikipedia
 
-[[QuÃ© es la IA]]
+[[Qué es la IA]]
 [[Grandes preguntas]]
 
 ### [[IA, VisualMind.App]]
 
-### [[AI, Aprendizaje AutomÃ¡tico]]
+### [[AI, Aprendizaje Automático]]
 
 https://es.wikipedia.org/wiki/Aprendizaje\_autom%C3%A1tico?wprov=sfla1
 

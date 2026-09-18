@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-06T05:19:18.042Z
-modified: 2026-09-17T10:14:18.119Z
+modified: 2026-09-18T09:36:35.235Z
 ---
 
-#Ãndices #IA #LLM
+#Índices #IA #LLM
 
 ![[Biblioteca/claude2.jpg]]
 
-âœ… SelecciÃ³n elaborada priorizando recursos oficiales, acadÃ©micos e institucionales siempre que ha sido posible. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Selección elaborada priorizando recursos oficiales, académicos e institucionales siempre que ha sido posible. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
 ---
 
@@ -22,11 +22,11 @@ Plataforma oficial para utilizar los modelos Claude mediante interfaz web, aplic
 
 ## 2. [Anthropic Research](https://www.anthropic.com/research?utm_source=chatgpt.com)
 
-Publicaciones cientÃ­ficas, interpretabilidad, alineamiento, seguridad de IA, economÃ­a y comportamiento de modelos. ([Anthropic](https://www.anthropic.com/research?utm_source=chatgpt.com "Research"))
+Publicaciones científicas, interpretabilidad, alineamiento, seguridad de IA, economía y comportamiento de modelos. ([Anthropic](https://www.anthropic.com/research?utm_source=chatgpt.com "Research"))
 
 ## 3. [Anthropic Docs](https://docs.anthropic.com/?utm_source=chatgpt.com)
 
-DocumentaciÃ³n oficial de la API, SDK, herramientas, modelos, ejemplos e integraciÃ³n.
+Documentación oficial de la API, SDK, herramientas, modelos, ejemplos e integración.
 
 ## 4. [Claude Help Center](https://support.claude.com/?utm_source=chatgpt.com)
 
@@ -42,19 +42,19 @@ Lanzamientos, investigaciones y anuncios corporativos.
 
 ## 7. [Anthropic Institute](https://www.anthropic.com/institute?utm_source=chatgpt.com)
 
-InvestigaciÃ³n sobre impactos sociales, econÃ³micos y de gobernanza de la IA avanzada. ([Anthropic](https://www.anthropic.com/institute?utm_source=chatgpt.com "The Anthropic Institute"))
+Investigación sobre impactos sociales, económicos y de gobernanza de la IA avanzada. ([Anthropic](https://www.anthropic.com/institute?utm_source=chatgpt.com "The Anthropic Institute"))
 
 ## 8. [Claude API Console](https://console.anthropic.com/?utm_source=chatgpt.com)
 
-GestiÃ³n de claves API, proyectos y uso de modelos Claude.
+Gestión de claves API, proyectos y uso de modelos Claude.
 
 ## 9. [Anthropic GitHub](https://github.com/anthropics?utm_source=chatgpt.com)
 
-SDK, ejemplos, herramientas y proyectos de cÃ³digo abierto relacionados con Claude.
+SDK, ejemplos, herramientas y proyectos de código abierto relacionados con Claude.
 
 ## 10. [Anthropic Economic Index](https://www.anthropic.com/economic-index?utm_source=chatgpt.com)
 
-Estudios sobre adopciÃ³n, productividad e impacto econÃ³mico de la IA.
+Estudios sobre adopción, productividad e impacto económico de la IA.
 
 # YOUTUBE
 
@@ -62,39 +62,39 @@ Estudios sobre adopciÃ³n, productividad e impacto econÃ³mico de la IA.
 
 - **Tipo:** Canal oficial
 
-- **PaÃ­s:** Estados Unidos
+- **País:** Estados Unidos
 
 - **Acceso:** Gratuito
 
-- **DescripciÃ³n:** Presentaciones de Claude, investigaciones y demostraciones. ([YouTube](https://www.youtube.com/%40anthropic-ai?utm_source=chatgpt.com "Anthropic"))
+- **Descripción:** Presentaciones de Claude, investigaciones y demostraciones. ([YouTube](https://www.youtube.com/%40anthropic-ai?utm_source=chatgpt.com "Anthropic"))
 
 # LIBROS
 
-Aunque Anthropic todavÃ­a no dispone de una bibliografÃ­a extensa propia, estos son los libros fundamentales para comprender la filosofÃ­a y la tecnologÃ­a detrÃ¡s de Claude:
+Aunque Anthropic todavía no dispone de una bibliografía extensa propia, estos son los libros fundamentales para comprender la filosofía y la tecnología detrás de Claude:
 
-1. _Machines of Loving Grace_ â€” Dario Amodei (ensayo).
+1. _Machines of Loving Grace_ — Dario Amodei (ensayo).
 
-2. _Human Compatible_ â€” Stuart Russell.
+2. _Human Compatible_ — Stuart Russell.
 
-3. _The Alignment Problem_ â€” Brian Christian.
+3. _The Alignment Problem_ — Brian Christian.
 
-4. _Artificial Intelligence: A Modern Approach_ â€” Russell & Norvig.
+4. _Artificial Intelligence: A Modern Approach_ — Russell & Norvig.
 
-5. _Deep Learning_ â€” Goodfellow, Bengio y Courville.
+5. _Deep Learning_ — Goodfellow, Bengio y Courville.
 
-6. _Rebooting AI_ â€” Marcus & Davis.
+6. _Rebooting AI_ — Marcus & Davis.
 
-7. _Life 3.0_ â€” Max Tegmark.
+7. _Life 3.0_ — Max Tegmark.
 
-8. _Atlas of AI_ â€” Kate Crawford.
+8. _Atlas of AI_ — Kate Crawford.
 
-9. _The Master Algorithm_ â€” Pedro Domingos.
+9. _The Master Algorithm_ — Pedro Domingos.
 
-10. _Architects of Intelligence_ â€” Martin Ford.
+10. _Architects of Intelligence_ — Martin Ford.
 
-## ### ARTÃCULOS CIENTÃFICOS FUNDAMENTALES DE ANTHROPIC
+## ### ARTÍCULOS CIENTÍFICOS FUNDAMENTALES DE ANTHROPIC
 
-Son la documentaciÃ³n tÃ©cnica mÃ¡s importante para comprender Claude.
+Son la documentación técnica más importante para comprender Claude.
 
 - Constitutional AI
 
@@ -122,7 +122,7 @@ Todos disponibles desde:
 
 ---
 
-# TECNOLOGÃAS PRINCIPALES
+# TECNOLOGÍAS PRINCIPALES
 
 - Claude Haiku
 
@@ -156,7 +156,7 @@ Todos disponibles desde:
 
 ---
 
-# DOCUMENTACIÃ“N PARA DESARROLLADORES
+# DOCUMENTACIÓN PARA DESARROLLADORES
 
 ## Oficial
 
@@ -184,7 +184,7 @@ Todos disponibles desde:
 
 - Nicholas Carlini
 
-- Chris Olah (investigaciÃ³n en interpretabilidad; colaboraciones histÃ³ricas en el Ã¡mbito)
+- Chris Olah (investigación en interpretabilidad; colaboraciones históricas en el ámbito)
 
 ---
 
@@ -212,11 +212,11 @@ Todos disponibles desde:
 
 La familia Claude se organiza en distintas gamas:
 
-- **Haiku:** mÃ¡xima velocidad y bajo coste.
+- **Haiku:** máxima velocidad y bajo coste.
 
 - **Sonnet:** equilibrio entre razonamiento, velocidad y precio.
 
-- **Opus:** mÃ¡xima capacidad para investigaciÃ³n, programaciÃ³n y razonamiento complejo. ([Anthropic](https://www.anthropic.com/?utm_source=chatgpt.com "Home \ Anthropic"))
+- **Opus:** máxima capacidad para investigación, programación y razonamiento complejo. ([Anthropic](https://www.anthropic.com/?utm_source=chatgpt.com "Home \ Anthropic"))
 
 ---
 
@@ -224,25 +224,25 @@ La familia Claude se organiza en distintas gamas:
 
 - Ventanas de contexto muy amplias.
 
-- Excelente rendimiento en programaciÃ³n.
+- Excelente rendimiento en programación.
 
-- AnÃ¡lisis de documentos largos.
+- Análisis de documentos largos.
 
-- ComprensiÃ³n de PDF.
+- Comprensión de PDF.
 
-- Procesamiento de imÃ¡genes.
+- Procesamiento de imágenes.
 
-- EjecuciÃ³n mediante herramientas.
+- Ejecución mediante herramientas.
 
 - Agentes multi-paso.
 
-- InvestigaciÃ³n web con citas.
+- Investigación web con citas.
 
-- IntegraciÃ³n mediante MCP.
+- Integración mediante MCP.
 
-- AutomatizaciÃ³n empresarial.
+- Automatización empresarial.
 
-- GeneraciÃ³n de artefactos reutilizables.
+- Generación de artefactos reutilizables.
 
 - Desarrollo asistido con Claude Code. ([Anthropic](https://www.anthropic.com/engineering/multi-agent-research-system?utm_source=chatgpt.com "How we built our multi-agent research system"))
 

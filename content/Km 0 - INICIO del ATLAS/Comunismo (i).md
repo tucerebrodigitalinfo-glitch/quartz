@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-01T09:13:48.316Z
-modified: 2026-09-17T10:14:41.125Z
+modified: 2026-09-18T09:36:54.149Z
 ---
 
-#Comunismo #PolÃ­tica #Sociedad#Ãndices
+#Comunismo #Política #Sociedad#Índices
 
 ![Image](https://images.openai.com/static-rsc-4/eITu2HLo_bhKJOptlhIaDKbxrFCRNGGGmE_HeEbJY5uvVzLpeATY7VrUmBIt_t0ZWFolRIm-ZU2A9np_fuOQTsLqWHTGWF1rAIiO4grn6YFYOgeWFi4NpWkY_5aprKmHECGkFHubY5A1-Mq4iFJWEW-zTr2-7peGwt2wl-MHL5mfEDywOmpL-zM8ywJrQM4r?purpose=fullsize)
 
@@ -16,296 +16,296 @@ modified: 2026-09-17T10:14:41.125Z
 
 # COMUNISMO
 
-âœ… SelecciÃ³n elaborada priorizando recursos oficiales, acadÃ©micos e institucionales siempre que ha sido posible. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Selección elaborada priorizando recursos oficiales, académicos e institucionales siempre que ha sido posible. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
 # [Wikipedia](https://es.wikipedia.org/wiki/Comunismo)
 
 # WEB
 
-[Marxists Internet Archive](https://www.marxists.org/) â€“ Archivo digital multilingÃ¼e de fuentes primarias y secundarias sobre marxismo, comunismo, socialismo y movimientos obreros. Incluye obras de Marx, Engels, Lenin, Trotsky y numerosos autores y organizaciones histÃ³ricas. ([Archivo Marxista](https://www.marxists.org/?utm_source=chatgpt.com "Marxists Internet Archive"))
+[Marxists Internet Archive](https://www.marxists.org/) – Archivo digital multilingüe de fuentes primarias y secundarias sobre marxismo, comunismo, socialismo y movimientos obreros. Incluye obras de Marx, Engels, Lenin, Trotsky y numerosos autores y organizaciones históricas. ([Archivo Marxista](https://www.marxists.org/?utm_source=chatgpt.com "Marxists Internet Archive"))
 
-[Stanford Encyclopedia of Philosophy â€” Karl Marx](https://plato.stanford.edu/entries/marx/) â€“ ArtÃ­culo acadÃ©mico de referencia para estudiar el pensamiento filosÃ³fico, histÃ³rico, econÃ³mico y polÃ­tico de Marx y su concepciÃ³n del comunismo.
+[Stanford Encyclopedia of Philosophy — Karl Marx](https://plato.stanford.edu/entries/marx/) – Artículo académico de referencia para estudiar el pensamiento filosófico, histórico, económico y político de Marx y su concepción del comunismo.
 
-[Cold War International History Project](https://www.wilsoncenter.org/program/cold-war-international-history-project) â€“ Proyecto del Wilson Center dedicado a publicar documentaciÃ³n histÃ³rica procedente de archivos de los diferentes bloques de la Guerra FrÃ­a, con abundantes materiales sobre la URSS y el movimiento comunista internacional. ([Wilson Center](https://www.wilsoncenter.org/program/cold-war-international-history-project?utm_source=chatgpt.com "Cold War International History Project | Wilson Center"))
+[Cold War International History Project](https://www.wilsoncenter.org/program/cold-war-international-history-project) – Proyecto del Wilson Center dedicado a publicar documentación histórica procedente de archivos de los diferentes bloques de la Guerra Fría, con abundantes materiales sobre la URSS y el movimiento comunista internacional. ([Wilson Center](https://www.wilsoncenter.org/program/cold-war-international-history-project?utm_source=chatgpt.com "Cold War International History Project | Wilson Center"))
 
-[Wilson Center Digital Archive](https://digitalarchive.wilsoncenter.org/) â€“ Archivo documental internacional con fuentes primarias sobre Guerra FrÃ­a, relaciones sino-soviÃ©ticas, Corea, Vietnam, Cuba y los partidos y Estados comunistas.
+[Wilson Center Digital Archive](https://digitalarchive.wilsoncenter.org/) – Archivo documental internacional con fuentes primarias sobre Guerra Fría, relaciones sino-soviéticas, Corea, Vietnam, Cuba y los partidos y Estados comunistas.
 
-[Hoover Institution â€” Communism Collections](https://www.hoover.org/library-archives/collections/communism) â€“ Colecciones archivÃ­sticas sobre Estados y partidos comunistas, Comintern, trotskismo y organizaciones anticomunistas; incluye copias de documentaciÃ³n soviÃ©tica. ([Hoover Institution](https://www.hoover.org/library-archives/collections/communism?utm_source=chatgpt.com "Communism | Hoover Institution"))
+[Hoover Institution — Communism Collections](https://www.hoover.org/library-archives/collections/communism) – Colecciones archivísticas sobre Estados y partidos comunistas, Comintern, trotskismo y organizaciones anticomunistas; incluye copias de documentación soviética. ([Hoover Institution](https://www.hoover.org/library-archives/collections/communism?utm_source=chatgpt.com "Communism | Hoover Institution"))
 
-[Hoover Institution â€” Russia and Eurasia Collection](https://www.hoover.org/library-archives/collections/history/russia-eurasia) â€“ Fondo especializado en revoluciÃ³n rusa, comunismo de guerra, colectivizaciÃ³n, terror, planificaciÃ³n econÃ³mica, Comintern y polÃ­tica exterior soviÃ©tica. ([Hoover Institution](https://www.hoover.org/library-archives/collections/history/russia-eurasia?utm_source=chatgpt.com "History of the Collection: Russia and Eurasia | Hoover Institution"))
+[Hoover Institution — Russia and Eurasia Collection](https://www.hoover.org/library-archives/collections/history/russia-eurasia) – Fondo especializado en revolución rusa, comunismo de guerra, colectivización, terror, planificación económica, Comintern y política exterior soviética. ([Hoover Institution](https://www.hoover.org/library-archives/collections/history/russia-eurasia?utm_source=chatgpt.com "History of the Collection: Russia and Eurasia | Hoover Institution"))
 
-[Library of Congress â€” Russian Collections](https://guides.loc.gov/russian-collections) â€“ GuÃ­a de una de las principales colecciones de materiales rusos fuera de Rusia, especialmente sÃ³lida para historia, polÃ­tica, economÃ­a y publicaciones de Ã©poca soviÃ©tica. ([GuÃ­as de InvestigaciÃ³n](https://guides.loc.gov/russian-collections?utm_source=chatgpt.com "Introduction - Russian Collections at the Library of Congress: An Overview - Research Guides at Library of Congress"))
+[Library of Congress — Russian Collections](https://guides.loc.gov/russian-collections) – Guía de una de las principales colecciones de materiales rusos fuera de Rusia, especialmente sólida para historia, política, economía y publicaciones de época soviética. ([Guías de Investigación](https://guides.loc.gov/russian-collections?utm_source=chatgpt.com "Introduction - Russian Collections at the Library of Congress: An Overview - Research Guides at Library of Congress"))
 
-[Library of Congress â€” Revelations from the Russian Archives](https://guides.loc.gov/russian-collections/library-of-congress-publications/revelations) â€“ DocumentaciÃ³n procedente de archivos anteriormente secretos del Partido Comunista y del Estado soviÃ©tico, incorporada a una exposiciÃ³n histÃ³rica de la Library of Congress. ([GuÃ­as de InvestigaciÃ³n](https://guides.loc.gov/russian-collections/library-of-congress-publications/revelations?utm_source=chatgpt.com "Revelations from the Russian Archives: Exhibit Publications from the Library of Congress - Russian Collections at the Library of Congress: An Overview - Research Guides at Library of Congress"))
+[Library of Congress — Revelations from the Russian Archives](https://guides.loc.gov/russian-collections/library-of-congress-publications/revelations) – Documentación procedente de archivos anteriormente secretos del Partido Comunista y del Estado soviético, incorporada a una exposición histórica de la Library of Congress. ([Guías de Investigación](https://guides.loc.gov/russian-collections/library-of-congress-publications/revelations?utm_source=chatgpt.com "Revelations from the Russian Archives: Exhibit Publications from the Library of Congress - Russian Collections at the Library of Congress: An Overview - Research Guides at Library of Congress"))
 
-[International Institute of Social History](https://iisg.amsterdam/) â€“ Instituto de investigaciÃ³n y archivo de Ãmsterdam con colecciones internacionales fundamentales sobre movimiento obrero, marxismo, socialismo, comunismo, anarquismo y movimientos sociales.
+[International Institute of Social History](https://iisg.amsterdam/) – Instituto de investigación y archivo de Ámsterdam con colecciones internacionales fundamentales sobre movimiento obrero, marxismo, socialismo, comunismo, anarquismo y movimientos sociales.
 
-[Marx Memorial Library & Workersâ€™ School](https://www.marx-memorial-library.org.uk/) â€“ Biblioteca y archivo londinense especializado en Marx, marxismo, historia laboral, sindicalismo, Brigadas Internacionales y movimientos socialistas y comunistas.
+[Marx Memorial Library & Workers’ School](https://www.marx-memorial-library.org.uk/) – Biblioteca y archivo londinense especializado en Marx, marxismo, historia laboral, sindicalismo, Brigadas Internacionales y movimientos socialistas y comunistas.
 
-[Deutsches Historisches Museum](https://www.dhm.de/en/) â€“ Museo histÃ³rico alemÃ¡n con documentaciÃ³n y exposiciones sobre revoluciÃ³n, RepÃºblica de Weimar, divisiÃ³n alemana y experiencia socialista de la DDR. Su propia historia institucional estÃ¡ ligada al antiguo Museum fÃ¼r Deutsche Geschichte de Alemania Oriental. ([Deutsches Historisches Museum (DHM)](https://www.dhm.de/en/museum/history-and-architecture/history/?utm_source=chatgpt.com "History - Deutsches Historisches Museum"))
+[Deutsches Historisches Museum](https://www.dhm.de/en/) – Museo histórico alemán con documentación y exposiciones sobre revolución, República de Weimar, división alemana y experiencia socialista de la DDR. Su propia historia institucional está ligada al antiguo Museum für Deutsche Geschichte de Alemania Oriental. ([Deutsches Historisches Museum (DHM)](https://www.dhm.de/en/museum/history-and-architecture/history/?utm_source=chatgpt.com "History - Deutsches Historisches Museum"))
 
-[Bundesstiftung Aufarbeitung](https://www.bundesstiftung-aufarbeitung.de/) â€“ FundaciÃ³n federal alemana dedicada al estudio y documentaciÃ³n de la dictadura del SED, la DDR, la divisiÃ³n alemana y la historia comparada del comunismo europeo.
+[Bundesstiftung Aufarbeitung](https://www.bundesstiftung-aufarbeitung.de/) – Fundación federal alemana dedicada al estudio y documentación de la dictadura del SED, la DDR, la división alemana y la historia comparada del comunismo europeo.
 
-[Bundesarchiv](https://www.bundesarchiv.de/) â€“ Archivo Federal de Alemania; conserva documentaciÃ³n estatal, audiovisual y polÃ­tica fundamental para investigar la DDR, el SED y la Alemania dividida.
+[Bundesarchiv](https://www.bundesarchiv.de/) – Archivo Federal de Alemania; conserva documentación estatal, audiovisual y política fundamental para investigar la DDR, el SED y la Alemania dividida.
 
-[Open Society Archives â€” Blinken OSA Archivum](https://osaarchivum.org/) â€“ Archivo de Central European University especializado en Guerra FrÃ­a, comunismo, propaganda, derechos humanos y Europa Central y Oriental.
+[Open Society Archives — Blinken OSA Archivum](https://osaarchivum.org/) – Archivo de Central European University especializado en Guerra Fría, comunismo, propaganda, derechos humanos y Europa Central y Oriental.
 
-[National Security Archive](https://nsarchive.gwu.edu/) â€“ Centro de documentaciÃ³n de George Washington University que publica documentos desclasificados sobre Guerra FrÃ­a, Cuba, URSS, China, Europa Oriental y polÃ­tica exterior estadounidense.
+[National Security Archive](https://nsarchive.gwu.edu/) – Centro de documentación de George Washington University que publica documentos desclasificados sobre Guerra Fría, Cuba, URSS, China, Europa Oriental y política exterior estadounidense.
 
-[National Archives â€” United States](https://www.archives.gov/) â€“ Archivo nacional estadounidense con documentaciÃ³n gubernamental sobre comunismo, Guerra FrÃ­a, espionaje, macartismo, polÃ­tica exterior y relaciones con Estados comunistas.
+[National Archives — United States](https://www.archives.gov/) – Archivo nacional estadounidense con documentación gubernamental sobre comunismo, Guerra Fría, espionaje, macartismo, política exterior y relaciones con Estados comunistas.
 
-[The National Archives â€” United Kingdom](https://www.nationalarchives.gov.uk/) â€“ Fondos oficiales britÃ¡nicos Ãºtiles para investigar el Communist Party of Great Britain, inteligencia, Guerra FrÃ­a, URSS, China y descolonizaciÃ³n.
+[The National Archives — United Kingdom](https://www.nationalarchives.gov.uk/) – Fondos oficiales británicos útiles para investigar el Communist Party of Great Britain, inteligencia, Guerra Fría, URSS, China y descolonización.
 
-[Russian and East European Studies â€” University of Oxford](https://www.rees.ox.ac.uk/) â€“ Centro interdisciplinar para el estudio de Rusia, la URSS, Europa Oriental y Eurasia desde la historia, polÃ­tica, sociologÃ­a, economÃ­a y relaciones internacionales. ([rees.ox.ac.uk](https://www.rees.ox.ac.uk/?utm_source=chatgpt.com "Home | Russian and East European Studies"))
+[Russian and East European Studies — University of Oxford](https://www.rees.ox.ac.uk/) – Centro interdisciplinar para el estudio de Rusia, la URSS, Europa Oriental y Eurasia desde la historia, política, sociología, economía y relaciones internacionales. ([rees.ox.ac.uk](https://www.rees.ox.ac.uk/?utm_source=chatgpt.com "Home | Russian and East European Studies"))
 
-[UCL School of Slavonic & East European Studies](https://www.ucl.ac.uk/arts-humanities/ssees) â€“ Centro universitario especializado en Europa Central y Oriental, Rusia, los paÃ­ses bÃ¡lticos, CÃ¡ucaso y Asia Central, con importantes recursos para historia del socialismo de Estado. ([University College London](https://www.ucl.ac.uk/arts-humanities/ssees?utm_source=chatgpt.com "UCL School of Slavonic & East European Studies (SSEES) | Faculty of Arts and Humanities"))
+[UCL School of Slavonic & East European Studies](https://www.ucl.ac.uk/arts-humanities/ssees) – Centro universitario especializado en Europa Central y Oriental, Rusia, los países bálticos, Cáucaso y Asia Central, con importantes recursos para historia del socialismo de Estado. ([University College London](https://www.ucl.ac.uk/arts-humanities/ssees?utm_source=chatgpt.com "UCL School of Slavonic & East European Studies (SSEES) | Faculty of Arts and Humanities"))
 
-[Center for Russian, East European and Eurasian Studies â€” Stanford University](https://creees.stanford.edu/) â€“ Centro interdisciplinar cuyos antecedentes institucionales incluyen explÃ­citamente los estudios sobre comunismo y Europa Oriental. ([creees.stanford.edu](https://creees.stanford.edu/about/history-mission?utm_source=chatgpt.com "History & Mission | Center for Russian, East European and Eurasian Studies"))
+[Center for Russian, East European and Eurasian Studies — Stanford University](https://creees.stanford.edu/) – Centro interdisciplinar cuyos antecedentes institucionales incluyen explícitamente los estudios sobre comunismo y Europa Oriental. ([creees.stanford.edu](https://creees.stanford.edu/about/history-mission?utm_source=chatgpt.com "History & Mission | Center for Russian, East European and Eurasian Studies"))
 
-[Institute of Slavic, East European, and Eurasian Studies â€” UC Berkeley](https://iseees.berkeley.edu/) â€“ Instituto dedicado a investigaciÃ³n y docencia sobre Europa Oriental y el antiguo espacio soviÃ©tico, con amplios recursos bibliogrÃ¡ficos especializados. ([iseees.berkeley.edu](https://iseees.berkeley.edu/history-and-mission?utm_source=chatgpt.com "History and Mission | Institute of Slavic, East European, and Eurasian Studies"))
+[Institute of Slavic, East European, and Eurasian Studies — UC Berkeley](https://iseees.berkeley.edu/) – Instituto dedicado a investigación y docencia sobre Europa Oriental y el antiguo espacio soviético, con amplios recursos bibliográficos especializados. ([iseees.berkeley.edu](https://iseees.berkeley.edu/history-and-mission?utm_source=chatgpt.com "History and Mission | Institute of Slavic, East European, and Eurasian Studies"))
 
-[Centre for European and Eurasian Studies â€” University of Toronto](https://munkschool.utoronto.ca/cees) â€“ Centro interdisciplinar para Europa Central y Oriental, Rusia, CÃ¡ucaso y Asia Central, heredero de una larga tradiciÃ³n canadiense de estudios soviÃ©ticos. ([munkschool.utoronto.ca](https://munkschool.utoronto.ca/cees?utm_source=chatgpt.com "Centre for European and Eurasian Studies (CEES) | The Munk School"))
+[Centre for European and Eurasian Studies — University of Toronto](https://munkschool.utoronto.ca/cees) – Centro interdisciplinar para Europa Central y Oriental, Rusia, Cáucaso y Asia Central, heredero de una larga tradición canadiense de estudios soviéticos. ([munkschool.utoronto.ca](https://munkschool.utoronto.ca/cees?utm_source=chatgpt.com "Centre for European and Eurasian Studies (CEES) | The Munk School"))
 
-[Cambridge Core](https://www.cambridge.org/core/) â€“ Plataforma acadÃ©mica de Cambridge University Press que alberga monografÃ­as y revistas esenciales para la investigaciÃ³n del comunismo, entre ellas _The Cambridge History of Communism_ y _The China Quarterly_. ([Cambridge University Press](https://www.cambridge.org/core/series/cambridge-history-of-communism/0399F87881C31D61C89C961E62A2DDEC?utm_source=chatgpt.com "The Cambridge History of Communism"))
+[Cambridge Core](https://www.cambridge.org/core/) – Plataforma académica de Cambridge University Press que alberga monografías y revistas esenciales para la investigación del comunismo, entre ellas _The Cambridge History of Communism_ y _The China Quarterly_. ([Cambridge University Press](https://www.cambridge.org/core/series/cambridge-history-of-communism/0399F87881C31D61C89C961E62A2DDEC?utm_source=chatgpt.com "The Cambridge History of Communism"))
 
-[University of California Press â€” Communist and Post-Communist Studies](https://online.ucpress.edu/cpcs) â€“ Portal de la revista acadÃ©mica especializada en sociedades y Estados comunistas y poscomunistas de Europa, Eurasia, Asia, Ãfrica y AmÃ©rica Latina. ([University of California Press](https://online.ucpress.edu/cpcs?utm_source=chatgpt.com "Communist and Post-Communist Studies | University of California Press"))
+[University of California Press — Communist and Post-Communist Studies](https://online.ucpress.edu/cpcs) – Portal de la revista académica especializada en sociedades y Estados comunistas y poscomunistas de Europa, Eurasia, Asia, África y América Latina. ([University of California Press](https://online.ucpress.edu/cpcs?utm_source=chatgpt.com "Communist and Post-Communist Studies | University of California Press"))
 
-[DDR Museum â€” Collection](https://www.ddr-museum.de/en) â€“ ColecciÃ³n material y documental sobre la vida cotidiana, Estado, economÃ­a, educaciÃ³n, propaganda y aparato polÃ­tico de la RepÃºblica DemocrÃ¡tica Alemana. ([DDR Museum](https://www.ddr-museum.de/en?utm_source=chatgpt.com "Hands-on history in the heart of Berlin | DDR Museum"))
+[DDR Museum — Collection](https://www.ddr-museum.de/en) – Colección material y documental sobre la vida cotidiana, Estado, economía, educación, propaganda y aparato político de la República Democrática Alemana. ([DDR Museum](https://www.ddr-museum.de/en?utm_source=chatgpt.com "Hands-on history in the heart of Berlin | DDR Museum"))
 
-[Victims of Communism Memorial Foundation](https://victimsofcommunism.org/) â€“ FundaciÃ³n estadounidense orientada al estudio, documentaciÃ³n y memoria de las vÃ­ctimas de regÃ­menes comunistas; su enfoque institucional es explÃ­citamente crÃ­tico con el comunismo. ([Victims of Communism Memorial Foundation](https://victimsofcommunism.org/?utm_source=chatgpt.com "Victims of Communism Memorial Foundation | Keep the flame of liberty alive"))
+[Victims of Communism Memorial Foundation](https://victimsofcommunism.org/) – Fundación estadounidense orientada al estudio, documentación y memoria de las víctimas de regímenes comunistas; su enfoque institucional es explícitamente crítico con el comunismo. ([Victims of Communism Memorial Foundation](https://victimsofcommunism.org/?utm_source=chatgpt.com "Victims of Communism Memorial Foundation | Keep the flame of liberty alive"))
 
 # YOUTUBE
 
-[Wilson Center](https://www.youtube.com/%40WilsonCenter) â€“ Canal institucional con conferencias, entrevistas y materiales del Cold War International History Project sobre URSS, China, Cuba, Europa Oriental y Guerra FrÃ­a.
+[Wilson Center](https://www.youtube.com/%40WilsonCenter) – Canal institucional con conferencias, entrevistas y materiales del Cold War International History Project sobre URSS, China, Cuba, Europa Oriental y Guerra Fría.
 
-[Hoover Institution](https://www.youtube.com/%40HooverInstitution) â€“ Conferencias y entrevistas de historiadores y especialistas; especialmente Ãºtil como complemento audiovisual de Hoover Library & Archives.
+[Hoover Institution](https://www.youtube.com/%40HooverInstitution) – Conferencias y entrevistas de historiadores y especialistas; especialmente útil como complemento audiovisual de Hoover Library & Archives.
 
-[Marx Memorial Library](https://www.youtube.com/%40MarxMemorialLibrary) â€“ Conferencias y actividades relacionadas con Marx, Engels, movimiento obrero, socialismo y tradiciones marxistas.
+[Marx Memorial Library](https://www.youtube.com/%40MarxMemorialLibrary) – Conferencias y actividades relacionadas con Marx, Engels, movimiento obrero, socialismo y tradiciones marxistas.
 
-[London School of Economics and Political Science](https://www.youtube.com/%40LSE) â€“ Canal universitario con conferencias sobre Marx, economÃ­a polÃ­tica, socialismo, revoluciÃ³n, Rusia, China y pensamiento polÃ­tico.
+[London School of Economics and Political Science](https://www.youtube.com/%40LSE) – Canal universitario con conferencias sobre Marx, economía política, socialismo, revolución, Rusia, China y pensamiento político.
 
-[UCL](https://www.youtube.com/%40UCLTV) â€“ Canal institucional donde aparecen actividades de UCL SSEES y especialistas en Rusia, Europa Oriental, socialismo y poscomunismo.
+[UCL](https://www.youtube.com/%40UCLTV) – Canal institucional donde aparecen actividades de UCL SSEES y especialistas en Rusia, Europa Oriental, socialismo y poscomunismo.
 
-[YaleCourses](https://www.youtube.com/%40YaleCourses) â€“ Cursos universitarios abiertos; incluye materiales acadÃ©micos sobre historia europea, filosofÃ­a polÃ­tica y procesos revolucionarios relevantes para contextualizar el comunismo.
+[YaleCourses](https://www.youtube.com/%40YaleCourses) – Cursos universitarios abiertos; incluye materiales académicos sobre historia europea, filosofía política y procesos revolucionarios relevantes para contextualizar el comunismo.
 
-[Gresham College](https://www.youtube.com/%40GreshamCollege) â€“ Conferencias acadÃ©micas abiertas sobre Marx, revoluciÃ³n rusa, UniÃ³n SoviÃ©tica, Guerra FrÃ­a e historia polÃ­tica contemporÃ¡nea.
+[Gresham College](https://www.youtube.com/%40GreshamCollege) – Conferencias académicas abiertas sobre Marx, revolución rusa, Unión Soviética, Guerra Fría e historia política contemporánea.
 
-[Victims of Communism Memorial Foundation](https://www.youtube.com/%40VoCommunism) â€“ Testimonios, conferencias y documentaciÃ³n audiovisual sobre experiencias bajo regÃ­menes comunistas desde la perspectiva institucional de la fundaciÃ³n.
+[Victims of Communism Memorial Foundation](https://www.youtube.com/%40VoCommunism) – Testimonios, conferencias y documentación audiovisual sobre experiencias bajo regímenes comunistas desde la perspectiva institucional de la fundación.
 
 # PODCAST
 
-[In Our Time](https://www.bbc.co.uk/programmes/b006qykl) â€“ Programa de BBC Radio 4 con episodios acadÃ©micos dedicados a Marx, revoluciÃ³n rusa, bolchevismo, Guerra FrÃ­a y conceptos fundamentales de historia polÃ­tica e intelectual.
+[In Our Time](https://www.bbc.co.uk/programmes/b006qykl) – Programa de BBC Radio 4 con episodios académicos dedicados a Marx, revolución rusa, bolchevismo, Guerra Fría y conceptos fundamentales de historia política e intelectual.
 
-[Late Night Live](https://www.abc.net.au/listen/programs/latenightlive) â€“ Programa de ABC Radio National con entrevistas extensas a historiadores y especialistas sobre comunismo soviÃ©tico, China, Europa Oriental y movimientos comunistas. Su archivo incluye programas especÃ­ficos sobre estos temas. ([ABC News](https://www.abc.net.au/listen/programs/latenightlive/the-african-american-communist-who-found-fame-and-freedom-in-th/13625312?utm_source=chatgpt.com "The \"reddest of the blacks\" who died in the gulags of the Soviet Union: Lovett Fort-Whiteman - ABC listen"))
+[Late Night Live](https://www.abc.net.au/listen/programs/latenightlive) – Programa de ABC Radio National con entrevistas extensas a historiadores y especialistas sobre comunismo soviético, China, Europa Oriental y movimientos comunistas. Su archivo incluye programas específicos sobre estos temas. ([ABC News](https://www.abc.net.au/listen/programs/latenightlive/the-african-american-communist-who-found-fame-and-freedom-in-th/13625312?utm_source=chatgpt.com "The \"reddest of the blacks\" who died in the gulags of the Soviet Union: Lovett Fort-Whiteman - ABC listen"))
 
-[New Books Network](https://newbooksnetwork.com/) â€“ Red internacional de podcasts acadÃ©micos con entrevistas a autores de monografÃ­as sobre marxismo, comunismo, URSS, China, Guerra FrÃ­a e historia laboral.
+[New Books Network](https://newbooksnetwork.com/) – Red internacional de podcasts académicos con entrevistas a autores de monografías sobre marxismo, comunismo, URSS, China, Guerra Fría e historia laboral.
 
-[Verso Podcast](https://www.versobooks.com/blogs/news) â€“ Conversaciones vinculadas al catÃ¡logo intelectual de Verso sobre marxismo, teorÃ­a polÃ­tica, capitalismo, socialismo y comunismo contemporÃ¡neo.
+[Verso Podcast](https://www.versobooks.com/blogs/news) – Conversaciones vinculadas al catálogo intelectual de Verso sobre marxismo, teoría política, capitalismo, socialismo y comunismo contemporáneo.
 
-[The Dig](https://thedigradio.com/) â€“ Podcast de entrevistas extensas sobre historia, economÃ­a polÃ­tica, marxismo y movimientos de izquierda, con participaciÃ³n habitual de investigadores universitarios.
+[The Dig](https://thedigradio.com/) – Podcast de entrevistas extensas sobre historia, economía política, marxismo y movimientos de izquierda, con participación habitual de investigadores universitarios.
 
-[Working Class History](https://workingclasshistory.com/podcast/) â€“ Podcast documental dedicado a historia obrera, revoluciones, antifascismo, sindicalismo y organizaciones socialistas y comunistas internacionales.
+[Working Class History](https://workingclasshistory.com/podcast/) – Podcast documental dedicado a historia obrera, revoluciones, antifascismo, sindicalismo y organizaciones socialistas y comunistas internacionales.
 
 # LIBROS
 
-[The Cambridge History of Communism](https://www.cambridge.org/core/series/cambridge-history-of-communism/0399F87881C31D61C89C961E62A2DDEC) â€“ Obra colectiva en tres volÃºmenes coordinada por especialistas internacionales. Estudia el comunismo mundial desde sus orÃ­genes hasta las transformaciones posteriores a la Guerra FrÃ­a. ([Cambridge University Press](https://www.cambridge.org/core/series/cambridge-history-of-communism/0399F87881C31D61C89C961E62A2DDEC?utm_source=chatgpt.com "The Cambridge History of Communism"))
+[The Cambridge History of Communism](https://www.cambridge.org/core/series/cambridge-history-of-communism/0399F87881C31D61C89C961E62A2DDEC) – Obra colectiva en tres volúmenes coordinada por especialistas internacionales. Estudia el comunismo mundial desde sus orígenes hasta las transformaciones posteriores a la Guerra Fría. ([Cambridge University Press](https://www.cambridge.org/core/series/cambridge-history-of-communism/0399F87881C31D61C89C961E62A2DDEC?utm_source=chatgpt.com "The Cambridge History of Communism"))
 
-[The Cambridge History of Communism, Volume 1: World Revolution and Socialism in One Country 1917â€“1941](https://www.cambridge.org/core/books/cambridge-history-of-communism/B9C5FA2BB979884CAC7E9EFEB6B70439) â€“ Volumen editado por Silvio Pons y Stephen A. Smith sobre revoluciÃ³n rusa, instituciones soviÃ©ticas, Comintern y expansiÃ³n internacional del comunismo. ([Cambridge University Press](https://www.cambridge.org/core/books/cambridge-history-of-communism/B9C5FA2BB979884CAC7E9EFEB6B70439?utm_source=chatgpt.com "The Cambridge History of Communism"))
+[The Cambridge History of Communism, Volume 1: World Revolution and Socialism in One Country 1917–1941](https://www.cambridge.org/core/books/cambridge-history-of-communism/B9C5FA2BB979884CAC7E9EFEB6B70439) – Volumen editado por Silvio Pons y Stephen A. Smith sobre revolución rusa, instituciones soviéticas, Comintern y expansión internacional del comunismo. ([Cambridge University Press](https://www.cambridge.org/core/books/cambridge-history-of-communism/B9C5FA2BB979884CAC7E9EFEB6B70439?utm_source=chatgpt.com "The Cambridge History of Communism"))
 
-[The Cambridge History of Communism, Volume 2: The Socialist Camp and World Power 1941â€“1960s](https://www.cambridge.org/core/books/cambridge-history-of-communism/cambridge-history-of-communism/15B6431C4C6E6B765CC6C438CC0EFB6E) â€“ Estudia la transformaciÃ³n del comunismo en sistema internacional tras la Segunda Guerra Mundial y la formaciÃ³n del bloque socialista. ([Cambridge University Press](https://www.cambridge.org/core/books/cambridge-history-of-communism/cambridge-history-of-communism/15B6431C4C6E6B765CC6C438CC0EFB6E?utm_source=chatgpt.com "The Cambridge History of Communism - The Cambridge History of Communism"))
+[The Cambridge History of Communism, Volume 2: The Socialist Camp and World Power 1941–1960s](https://www.cambridge.org/core/books/cambridge-history-of-communism/cambridge-history-of-communism/15B6431C4C6E6B765CC6C438CC0EFB6E) – Estudia la transformación del comunismo en sistema internacional tras la Segunda Guerra Mundial y la formación del bloque socialista. ([Cambridge University Press](https://www.cambridge.org/core/books/cambridge-history-of-communism/cambridge-history-of-communism/15B6431C4C6E6B765CC6C438CC0EFB6E?utm_source=chatgpt.com "The Cambridge History of Communism - The Cambridge History of Communism"))
 
-[The Cambridge History of Communism, Volume 3: Endgames? Late Communism in Global Perspective, 1968 to the Present](https://www.cambridge.org/core/books/cambridge-history-of-communism/cambridge-history-of-communism/FDFA50D6D4A1F76EE40BF9728DC49AF6) â€“ Analiza el comunismo tardÃ­o, su crisis, el colapso soviÃ©tico, China y las transformaciones posteriores a 1989â€“1991. ([Cambridge University Press](https://www.cambridge.org/core/books/cambridge-history-of-communism/cambridge-history-of-communism/FDFA50D6D4A1F76EE40BF9728DC49AF6?utm_source=chatgpt.com "The Cambridge History of Communism - The Cambridge History of Communism"))
+[The Cambridge History of Communism, Volume 3: Endgames? Late Communism in Global Perspective, 1968 to the Present](https://www.cambridge.org/core/books/cambridge-history-of-communism/cambridge-history-of-communism/FDFA50D6D4A1F76EE40BF9728DC49AF6) – Analiza el comunismo tardío, su crisis, el colapso soviético, China y las transformaciones posteriores a 1989–1991. ([Cambridge University Press](https://www.cambridge.org/core/books/cambridge-history-of-communism/cambridge-history-of-communism/FDFA50D6D4A1F76EE40BF9728DC49AF6?utm_source=chatgpt.com "The Cambridge History of Communism - The Cambridge History of Communism"))
 
-[The Communist Manifesto â€” Karl Marx y Friedrich Engels](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) â€“ Texto fundacional de 1848 de la tradiciÃ³n comunista marxista; fuente primaria indispensable para estudiar sus conceptos de clase, revoluciÃ³n y transformaciÃ³n histÃ³rica.
+[The Communist Manifesto — Karl Marx y Friedrich Engels](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) – Texto fundacional de 1848 de la tradición comunista marxista; fuente primaria indispensable para estudiar sus conceptos de clase, revolución y transformación histórica.
 
-[Principios del comunismo â€” Friedrich Engels](https://www.marxists.org/espanol/m-e/1840s/47-princi.htm) â€“ Proyecto programÃ¡tico de Engels de 1847 que antecediÃ³ directamente al _Manifiesto del Partido Comunista_. ([Archivo Marxista](https://www.marxists.org/espanol/m-e/1840s/47-princi.htm?utm_source=chatgpt.com "Engels (1847): Principios del comunismo."))
+[Principios del comunismo — Friedrich Engels](https://www.marxists.org/espanol/m-e/1840s/47-princi.htm) – Proyecto programático de Engels de 1847 que antecedió directamente al _Manifiesto del Partido Comunista_. ([Archivo Marxista](https://www.marxists.org/espanol/m-e/1840s/47-princi.htm?utm_source=chatgpt.com "Engels (1847): Principios del comunismo."))
 
-[Capital, Volume I â€” Karl Marx](https://www.marxists.org/archive/marx/works/1867-c1/) â€“ Principal obra de crÃ­tica de la economÃ­a polÃ­tica de Marx y referencia fundamental para comprender valor, mercancÃ­a, capital, explotaciÃ³n y acumulaciÃ³n.
+[Capital, Volume I — Karl Marx](https://www.marxists.org/archive/marx/works/1867-c1/) – Principal obra de crítica de la economía política de Marx y referencia fundamental para comprender valor, mercancía, capital, explotación y acumulación.
 
-[The State and Revolution â€” V. I. Lenin](https://www.penguinrandomhouse.com/books/733953/the-state-and-revolution-by-vladimir-lenin/) â€“ Texto de 1917 en el que Lenin sistematiza su interpretaciÃ³n del Estado, la revoluciÃ³n y la transiciÃ³n al comunismo. EdiciÃ³n de Verso. ([Penguin Random House](https://www.penguinrandomhouse.com/books/733953/the-state-and-revolution-by-vladimir-lenin/?utm_source=chatgpt.com "The State and Revolution by V. I. Lenin: 9781804292846 | PenguinRandomHouse.com: Books"))
+[The State and Revolution — V. I. Lenin](https://www.penguinrandomhouse.com/books/733953/the-state-and-revolution-by-vladimir-lenin/) – Texto de 1917 en el que Lenin sistematiza su interpretación del Estado, la revolución y la transición al comunismo. Edición de Verso. ([Penguin Random House](https://www.penguinrandomhouse.com/books/733953/the-state-and-revolution-by-vladimir-lenin/?utm_source=chatgpt.com "The State and Revolution by V. I. Lenin: 9781804292846 | PenguinRandomHouse.com: Books"))
 
-[El Estado y la revoluciÃ³n â€” V. I. Lenin](https://www.marxists.org/espanol/lenin/obras/1910s/estyrev/) â€“ EdiciÃ³n digital en espaÃ±ol de una de las principales fuentes primarias del leninismo. ([Archivo Marxista](https://www.marxists.org/espanol/lenin/obras/1910s/estyrev/?utm_source=chatgpt.com "V. I. Lenin (1917): El Estado y la revoluciÃ³n."))
+[El Estado y la revolución — V. I. Lenin](https://www.marxists.org/espanol/lenin/obras/1910s/estyrev/) – Edición digital en español de una de las principales fuentes primarias del leninismo. ([Archivo Marxista](https://www.marxists.org/espanol/lenin/obras/1910s/estyrev/?utm_source=chatgpt.com "V. I. Lenin (1917): El Estado y la revolución."))
 
-[The Russian Revolution â€” Sheila Fitzpatrick](https://academic.oup.com/book/47739) â€“ SÃ­ntesis acadÃ©mica sobre 1917, guerra civil, NEP, ascenso de Stalin y transformaciÃ³n revolucionaria soviÃ©tica, publicada por Oxford University Press. ([OUP Academic](https://academic.oup.com/book/47739?utm_source=chatgpt.com "The Russian Revolution | Oxford Academic"))
+[The Russian Revolution — Sheila Fitzpatrick](https://academic.oup.com/book/47739) – Síntesis académica sobre 1917, guerra civil, NEP, ascenso de Stalin y transformación revolucionaria soviética, publicada por Oxford University Press. ([OUP Academic](https://academic.oup.com/book/47739?utm_source=chatgpt.com "The Russian Revolution | Oxford Academic"))
 
-[Everyday Stalinism â€” Sheila Fitzpatrick](https://academic.oup.com/book/47328) â€“ Estudio de historia social sobre vida cotidiana, escasez, burocracia, vigilancia, purgas y estrategias de supervivencia en la URSS de los aÃ±os treinta. ([OUP Academic](https://academic.oup.com/book/47328?utm_source=chatgpt.com "Everyday Stalinism: Ordinary Life in Extraordinary Times: Soviet Russia in the 1930s | Oxford Academic"))
+[Everyday Stalinism — Sheila Fitzpatrick](https://academic.oup.com/book/47328) – Estudio de historia social sobre vida cotidiana, escasez, burocracia, vigilancia, purgas y estrategias de supervivencia en la URSS de los años treinta. ([OUP Academic](https://academic.oup.com/book/47328?utm_source=chatgpt.com "Everyday Stalinism: Ordinary Life in Extraordinary Times: Soviet Russia in the 1930s | Oxford Academic"))
 
-[Magnetic Mountain: Stalinism as a Civilization â€” Stephen Kotkin](https://www.ucpress.edu/book/9780520208230/magnetic-mountain) â€“ InvestigaciÃ³n archivÃ­stica sobre Magnitogorsk que analiza la industrializaciÃ³n y la construcciÃ³n social y cultural del estalinismo. ([University of California Press](https://www.ucpress.edu/book/9780520208230/magnetic-mountain?utm_source=chatgpt.com "Magnetic Mountain by Stephen Kotkin - Paper - University of California Press"))
+[Magnetic Mountain: Stalinism as a Civilization — Stephen Kotkin](https://www.ucpress.edu/book/9780520208230/magnetic-mountain) – Investigación archivística sobre Magnitogorsk que analiza la industrialización y la construcción social y cultural del estalinismo. ([University of California Press](https://www.ucpress.edu/book/9780520208230/magnetic-mountain?utm_source=chatgpt.com "Magnetic Mountain by Stephen Kotkin - Paper - University of California Press"))
 
-[The Soviet Century â€” Moshe Lewin](https://www.versobooks.com/products/1929-the-soviet-century) â€“ Historia interpretativa de las instituciones, sociedad, burocracia y transformaciones estructurales de la UniÃ³n SoviÃ©tica. ([Verso](https://www.versobooks.com/products/1929-the-soviet-century?utm_source=chatgpt.com "The Soviet Century | Verso Books"))
+[The Soviet Century — Moshe Lewin](https://www.versobooks.com/products/1929-the-soviet-century) – Historia interpretativa de las instituciones, sociedad, burocracia y transformaciones estructurales de la Unión Soviética. ([Verso](https://www.versobooks.com/products/1929-the-soviet-century?utm_source=chatgpt.com "The Soviet Century | Verso Books"))
 
-[The Cultural Revolution: A People's History, 1962â€“1976 â€” Frank DikÃ¶tter](https://www.bloomsbury.com/uk/cultural-revolution-9781408856512/) â€“ Estudio basado en documentaciÃ³n archivÃ­stica sobre la RevoluciÃ³n Cultural china y sus efectos sociales y polÃ­ticos. ([bloomsbury.com](https://www.bloomsbury.com/uk/cultural-revolution-9781408856512/?utm_source=chatgpt.com "The Cultural Revolution: A People's History, 1962â€”1976: Frank DikÃ¶tter: Bloomsbury Publishing - Bloomsbury"))
+[The Cultural Revolution: A People's History, 1962–1976 — Frank Dikötter](https://www.bloomsbury.com/uk/cultural-revolution-9781408856512/) – Estudio basado en documentación archivística sobre la Revolución Cultural china y sus efectos sociales y políticos. ([bloomsbury.com](https://www.bloomsbury.com/uk/cultural-revolution-9781408856512/?utm_source=chatgpt.com "The Cultural Revolution: A People's History, 1962—1976: Frank Dikötter: Bloomsbury Publishing - Bloomsbury"))
 
-[Documenting Communism â€” Charles G. Palm](https://www.hoover.org/research/documenting-communism-hoover-project-microfilm-and-publish-soviet-archives) â€“ Historia del proyecto de Hoover Institution para microfilmar millones de pÃ¡ginas procedentes de archivos del Partido Comunista soviÃ©tico y del Estado de la URSS. ([Hoover Institution](https://www.hoover.org/research/documenting-communism-hoover-project-microfilm-and-publish-soviet-archives?utm_source=chatgpt.com "Documenting Communism: The Hoover Project to Microfilm and Publish the Soviet Archives | Hoover Institution Documenting Communism: The Hoover Project to Microfilm and Publish the Soviet Archives"))
+[Documenting Communism — Charles G. Palm](https://www.hoover.org/research/documenting-communism-hoover-project-microfilm-and-publish-soviet-archives) – Historia del proyecto de Hoover Institution para microfilmar millones de páginas procedentes de archivos del Partido Comunista soviético y del Estado de la URSS. ([Hoover Institution](https://www.hoover.org/research/documenting-communism-hoover-project-microfilm-and-publish-soviet-archives?utm_source=chatgpt.com "Documenting Communism: The Hoover Project to Microfilm and Publish the Soviet Archives | Hoover Institution Documenting Communism: The Hoover Project to Microfilm and Publish the Soviet Archives"))
 
-[After Leaning to One Side: China and Its Allies in the Cold War â€” Shen Zhihua y Li Danhui](https://www.wilsoncenter.org/book/after-leaning-to-one-side-china-and-its-allies-the-cold-war) â€“ InvestigaciÃ³n sobre la alianza sino-soviÃ©tica y las tensiones internas del movimiento comunista internacional entre 1949 y 1973. ([Wilson Center](https://www.wilsoncenter.org/book/after-leaning-to-one-side-china-and-its-allies-the-cold-war?utm_source=chatgpt.com "After Leaning to One Side: China and Its Allies in the Cold War | Wilson Center"))
+[After Leaning to One Side: China and Its Allies in the Cold War — Shen Zhihua y Li Danhui](https://www.wilsoncenter.org/book/after-leaning-to-one-side-china-and-its-allies-the-cold-war) – Investigación sobre la alianza sino-soviética y las tensiones internas del movimiento comunista internacional entre 1949 y 1973. ([Wilson Center](https://www.wilsoncenter.org/book/after-leaning-to-one-side-china-and-its-allies-the-cold-war?utm_source=chatgpt.com "After Leaning to One Side: China and Its Allies in the Cold War | Wilson Center"))
 
 # REVISTAS
 
-[Communist and Post-Communist Studies](https://online.ucpress.edu/cpcs) â€“ Revista internacional revisada por pares sobre historia y actualidad de sociedades comunistas y poscomunistas de Europa, Eurasia, Asia, Ãfrica y AmÃ©rica Latina. ([University of California Press](https://online.ucpress.edu/cpcs?utm_source=chatgpt.com "Communist and Post-Communist Studies | University of California Press"))
+[Communist and Post-Communist Studies](https://online.ucpress.edu/cpcs) – Revista internacional revisada por pares sobre historia y actualidad de sociedades comunistas y poscomunistas de Europa, Eurasia, Asia, África y América Latina. ([University of California Press](https://online.ucpress.edu/cpcs?utm_source=chatgpt.com "Communist and Post-Communist Studies | University of California Press"))
 
-[Slavic Review](https://www.cambridge.org/core/journals/slavic-review) â€“ Revista acadÃ©mica interdisciplinar fundamental para Rusia, Eurasia y Europa Oriental; su archivo se remonta a publicaciones precursoras de la dÃ©cada de 1940. ([Cambridge University Press](https://www.cambridge.org/core/journals/slavic-review/all-issues?utm_source=chatgpt.com "Slavic Review | Slavic Review | Cambridge Core"))
+[Slavic Review](https://www.cambridge.org/core/journals/slavic-review) – Revista académica interdisciplinar fundamental para Rusia, Eurasia y Europa Oriental; su archivo se remonta a publicaciones precursoras de la década de 1940. ([Cambridge University Press](https://www.cambridge.org/core/journals/slavic-review/all-issues?utm_source=chatgpt.com "Slavic Review | Slavic Review | Cambridge Core"))
 
-[Europe-Asia Studies](https://www.tandfonline.com/journals/ceas20) â€“ Publicada desde 1949 â€”hasta 1993 como \_Soviet Studies\_â€”, estudia historia, polÃ­tica, sociedad y economÃ­a de antiguos y actuales paÃ­ses comunistas. ([Taylor & Francis Online](https://www.tandfonline.com/journals/ceas20?utm_source=chatgpt.com "Europe-Asia Studies | Journal | Taylor & Francis Online"))
+[Europe-Asia Studies](https://www.tandfonline.com/journals/ceas20) – Publicada desde 1949 —hasta 1993 como _Soviet Studies_—, estudia historia, política, sociedad y economía de antiguos y actuales países comunistas. ([Taylor & Francis Online](https://www.tandfonline.com/journals/ceas20?utm_source=chatgpt.com "Europe-Asia Studies | Journal | Taylor & Francis Online"))
 
-[Cold War History](https://www.tandfonline.com/journals/fcwh20) â€“ Revista especializada en historia global de la Guerra FrÃ­a, basada en investigaciÃ³n con fuentes primarias y con especial atenciÃ³n a Europa y al Sur Global. ([Taylor & Francis Online](https://www.tandfonline.com/journals/fcwh20?utm_source=chatgpt.com "Cold War History | Journal | Taylor & Francis Online"))
+[Cold War History](https://www.tandfonline.com/journals/fcwh20) – Revista especializada en historia global de la Guerra Fría, basada en investigación con fuentes primarias y con especial atención a Europa y al Sur Global. ([Taylor & Francis Online](https://www.tandfonline.com/journals/fcwh20?utm_source=chatgpt.com "Cold War History | Journal | Taylor & Francis Online"))
 
-[Revolutionary Russia](https://www.tandfonline.com/journals/frvr20) â€“ Revista interdisciplinar especializada en el periodo revolucionario ruso aproximadamente entre 1880 y 1932. ([Taylor & Francis Online](https://www.tandfonline.com/journals/frvr20?utm_source=chatgpt.com "Revolutionary Russia | Journal | Taylor & Francis Online"))
+[Revolutionary Russia](https://www.tandfonline.com/journals/frvr20) – Revista interdisciplinar especializada en el periodo revolucionario ruso aproximadamente entre 1880 y 1932. ([Taylor & Francis Online](https://www.tandfonline.com/journals/frvr20?utm_source=chatgpt.com "Revolutionary Russia | Journal | Taylor & Francis Online"))
 
-[Journal of Cold War Studies](https://direct.mit.edu/jcws) â€“ Revista acadÃ©mica de MIT Press centrada en investigaciÃ³n histÃ³rica sobre la Guerra FrÃ­a, con presencia constante de estudios sobre URSS, Europa Oriental, China y comunismo internacional.
+[Journal of Cold War Studies](https://direct.mit.edu/jcws) – Revista académica de MIT Press centrada en investigación histórica sobre la Guerra Fría, con presencia constante de estudios sobre URSS, Europa Oriental, China y comunismo internacional.
 
-[The China Quarterly](https://www.cambridge.org/core/journals/china-quarterly) â€“ Revista revisada por pares sobre China contemporÃ¡nea que integra polÃ­tica, sociedad, historia, derecho, economÃ­a, cultura y estudios del Partido Comunista Chino. ([Cambridge University Press](https://www.cambridge.org/core/journals/china-quarterly?utm_source=chatgpt.com "The China Quarterly | Cambridge Core"))
+[The China Quarterly](https://www.cambridge.org/core/journals/china-quarterly) – Revista revisada por pares sobre China contemporánea que integra política, sociedad, historia, derecho, economía, cultura y estudios del Partido Comunista Chino. ([Cambridge University Press](https://www.cambridge.org/core/journals/china-quarterly?utm_source=chatgpt.com "The China Quarterly | Cambridge Core"))
 
-[The Russian Review](https://onlinelibrary.wiley.com/journal/14679434) â€“ Revista interdisciplinar sobre historia, cultura, sociedad y polÃ­tica rusa y soviÃ©tica.
+[The Russian Review](https://onlinelibrary.wiley.com/journal/14679434) – Revista interdisciplinar sobre historia, cultura, sociedad y política rusa y soviética.
 
-[Twentieth Century Communism](https://www.lwbooks.co.uk/twentieth-century-communism) â€“ Revista especializada en la historia internacional del comunismo durante el siglo XX, con atenciÃ³n a partidos, movimientos, cultura polÃ­tica y redes transnacionales.
+[Twentieth Century Communism](https://www.lwbooks.co.uk/twentieth-century-communism) – Revista especializada en la historia internacional del comunismo durante el siglo XX, con atención a partidos, movimientos, cultura política y redes transnacionales.
 
 # MUSEOS
 
-[Museum of Communism â€” Prague](https://muzeumkomunismu.cz/en/) â€“ Museo dedicado a Checoslovaquia entre 1948 y 1989: vida cotidiana, polÃ­tica, economÃ­a, educaciÃ³n, propaganda, censura, policÃ­a secreta, procesos polÃ­ticos y campos de trabajo. ([muzeumkomunismu.cz](https://muzeumkomunismu.cz/en/about/?utm_source=chatgpt.com "Muzeum komunismu | About the museum | TÃ©mÄ›Å™ 1500m2 autentickÃ© atmosfÃ©ry doby"))
+[Museum of Communism — Prague](https://muzeumkomunismu.cz/en/) – Museo dedicado a Checoslovaquia entre 1948 y 1989: vida cotidiana, política, economía, educación, propaganda, censura, policía secreta, procesos políticos y campos de trabajo. ([muzeumkomunismu.cz](https://muzeumkomunismu.cz/en/about/?utm_source=chatgpt.com "Muzeum komunismu | About the museum | Téměř 1500m2 autentické atmosféry doby"))
 
-[DDR Museum](https://www.ddr-museum.de/en) â€“ Museo berlinÃ©s dedicado a la vida cotidiana y estructuras sociales y polÃ­ticas de la RepÃºblica DemocrÃ¡tica Alemana; conserva una extensa colecciÃ³n de objetos de la DDR. ([DDR Museum](https://www.ddr-museum.de/en?utm_source=chatgpt.com "Hands-on history in the heart of Berlin | DDR Museum"))
+[DDR Museum](https://www.ddr-museum.de/en) – Museo berlinés dedicado a la vida cotidiana y estructuras sociales y políticas de la República Democrática Alemana; conserva una extensa colección de objetos de la DDR. ([DDR Museum](https://www.ddr-museum.de/en?utm_source=chatgpt.com "Hands-on history in the heart of Berlin | DDR Museum"))
 
-[Deutsches Historisches Museum](https://www.dhm.de/en/) â€“ Museo nacional de historia alemana con fondos fundamentales para estudiar marxismo-leninismo, DDR, divisiÃ³n alemana y Guerra FrÃ­a. ([Deutsches Historisches Museum (DHM)](https://www.dhm.de/en/museum/history-and-architecture/history/?utm_source=chatgpt.com "History - Deutsches Historisches Museum"))
+[Deutsches Historisches Museum](https://www.dhm.de/en/) – Museo nacional de historia alemana con fondos fundamentales para estudiar marxismo-leninismo, DDR, división alemana y Guerra Fría. ([Deutsches Historisches Museum (DHM)](https://www.dhm.de/en/museum/history-and-architecture/history/?utm_source=chatgpt.com "History - Deutsches Historisches Museum"))
 
-[Museum of the Occupation of Latvia](https://okupacijasmuzejs.lv/en) â€“ Museo de Riga dedicado a las ocupaciones soviÃ©tica y nazi de Letonia y a la represiÃ³n, resistencia, deportaciones y recuperaciÃ³n de la independencia. ([Museo de la OcupaciÃ³n de Letonia](https://okupacijasmuzejs.lv/en?utm_source=chatgpt.com "Museum of the Occupation of Latvia"))
+[Museum of the Occupation of Latvia](https://okupacijasmuzejs.lv/en) – Museo de Riga dedicado a las ocupaciones soviética y nazi de Letonia y a la represión, resistencia, deportaciones y recuperación de la independencia. ([Museo de la Ocupación de Letonia](https://okupacijasmuzejs.lv/en?utm_source=chatgpt.com "Museum of the Occupation of Latvia"))
 
-[Victims of Communism Museum](https://vocmuseum.org/) â€“ Museo de Washington dedicado a la historia y vÃ­ctimas de regÃ­menes comunistas; presenta una interpretaciÃ³n explÃ­citamente crÃ­tica del comunismo. ([VOC Museum](https://vocmuseum.org/?utm_source=chatgpt.com "Home - VOC Museum"))
+[Victims of Communism Museum](https://vocmuseum.org/) – Museo de Washington dedicado a la historia y víctimas de regímenes comunistas; presenta una interpretación explícitamente crítica del comunismo. ([VOC Museum](https://vocmuseum.org/?utm_source=chatgpt.com "Home - VOC Museum"))
 
-[Red History Museum](https://redhistorymuseum.com/) â€“ Museo de Dubrovnik centrado en la vida cotidiana de la Croacia socialista dentro de Yugoslavia entre 1945 y 1991. ([Red History Museum -](https://redhistorymuseum.com/?utm_source=chatgpt.com "Home - Red History Museum"))
+[Red History Museum](https://redhistorymuseum.com/) – Museo de Dubrovnik centrado en la vida cotidiana de la Croacia socialista dentro de Yugoslavia entre 1945 y 1991. ([Red History Museum -](https://redhistorymuseum.com/?utm_source=chatgpt.com "Home - Red History Museum"))
 
-[European Solidarity Centre](https://ecs.gda.pl/) â€“ InstituciÃ³n museÃ­stica y documental de GdaÅ„sk dedicada a SolidarnoÅ›Ä‡, oposiciÃ³n democrÃ¡tica, sociedad civil y caÃ­da de los regÃ­menes comunistas de Europa Central y Oriental.
+[European Solidarity Centre](https://ecs.gda.pl/) – Institución museística y documental de Gdańsk dedicada a Solidarność, oposición democrática, sociedad civil y caída de los regímenes comunistas de Europa Central y Oriental.
 
-[House of Terror Museum](https://www.terrorhaza.hu/en) â€“ Museo de Budapest dedicado a las dictaduras nazi y comunista en HungrÃ­a, incluyendo la policÃ­a polÃ­tica y la represiÃ³n durante el rÃ©gimen comunista.
+[House of Terror Museum](https://www.terrorhaza.hu/en) – Museo de Budapest dedicado a las dictaduras nazi y comunista en Hungría, incluyendo la policía política y la represión durante el régimen comunista.
 
-[Genocide and Resistance Research Centre of Lithuania â€” Museum of Occupations and Freedom Fights](https://www.genocid.lt/muziejus/en/) â€“ Museo instalado en la antigua sede de organismos represivos soviÃ©ticos y nazis en Vilnius; documenta ocupaciÃ³n, deportaciones, resistencia y KGB.
+[Genocide and Resistance Research Centre of Lithuania — Museum of Occupations and Freedom Fights](https://www.genocid.lt/muziejus/en/) – Museo instalado en la antigua sede de organismos represivos soviéticos y nazis en Vilnius; documenta ocupación, deportaciones, resistencia y KGB.
 
-[Memorial of the Victims of Communism and of the Resistance â€” Sighet](https://www.memorialsighet.ro/) â€“ Museo y centro documental rumano instalado en la antigua prisiÃ³n de Sighet, dedicado a represiÃ³n polÃ­tica, encarcelamiento y resistencia bajo el comunismo.
+[Memorial of the Victims of Communism and of the Resistance — Sighet](https://www.memorialsighet.ro/) – Museo y centro documental rumano instalado en la antigua prisión de Sighet, dedicado a represión política, encarcelamiento y resistencia bajo el comunismo.
 
 # UNIVERSIDADES
 
-[University of Oxford â€” Russian and East European Studies](https://www.rees.ox.ac.uk/) â€“ Programa interdisciplinar dedicado a Rusia, Europa Oriental y Eurasia, con formaciÃ³n especÃ­fica en historia de Rusia, URSS y Europa Oriental del siglo XX. ([rees.ox.ac.uk](https://www.rees.ox.ac.uk/?utm_source=chatgpt.com "Home | Russian and East European Studies"))
+[University of Oxford — Russian and East European Studies](https://www.rees.ox.ac.uk/) – Programa interdisciplinar dedicado a Rusia, Europa Oriental y Eurasia, con formación específica en historia de Rusia, URSS y Europa Oriental del siglo XX. ([rees.ox.ac.uk](https://www.rees.ox.ac.uk/?utm_source=chatgpt.com "Home | Russian and East European Studies"))
 
-[University College London â€” School of Slavonic & East European Studies](https://www.ucl.ac.uk/arts-humanities/ssees) â€“ Uno de los principales centros internacionales para el estudio histÃ³rico, polÃ­tico, econÃ³mico y cultural de Europa Oriental y el antiguo espacio soviÃ©tico. ([University College London](https://www.ucl.ac.uk/arts-humanities/ssees?utm_source=chatgpt.com "UCL School of Slavonic & East European Studies (SSEES) | Faculty of Arts and Humanities"))
+[University College London — School of Slavonic & East European Studies](https://www.ucl.ac.uk/arts-humanities/ssees) – Uno de los principales centros internacionales para el estudio histórico, político, económico y cultural de Europa Oriental y el antiguo espacio soviético. ([University College London](https://www.ucl.ac.uk/arts-humanities/ssees?utm_source=chatgpt.com "UCL School of Slavonic & East European Studies (SSEES) | Faculty of Arts and Humanities"))
 
-[Stanford University â€” Center for Russian, East European and Eurasian Studies](https://creees.stanford.edu/) â€“ Centro interdisciplinar fundado institucionalmente a partir del antiguo Committee for Russian, East European and Communist Studies. ([creees.stanford.edu](https://creees.stanford.edu/about/history-mission?utm_source=chatgpt.com "History & Mission | Center for Russian, East European and Eurasian Studies"))
+[Stanford University — Center for Russian, East European and Eurasian Studies](https://creees.stanford.edu/) – Centro interdisciplinar fundado institucionalmente a partir del antiguo Committee for Russian, East European and Communist Studies. ([creees.stanford.edu](https://creees.stanford.edu/about/history-mission?utm_source=chatgpt.com "History & Mission | Center for Russian, East European and Eurasian Studies"))
 
-[University of California, Berkeley â€” Institute of Slavic, East European, and Eurasian Studies](https://iseees.berkeley.edu/) â€“ Centro de investigaciÃ³n y formaciÃ³n sobre Europa Oriental y la antigua URSS, con importantes colecciones bibliogrÃ¡ficas regionales. ([iseees.berkeley.edu](https://iseees.berkeley.edu/history-and-mission?utm_source=chatgpt.com "History and Mission | Institute of Slavic, East European, and Eurasian Studies"))
+[University of California, Berkeley — Institute of Slavic, East European, and Eurasian Studies](https://iseees.berkeley.edu/) – Centro de investigación y formación sobre Europa Oriental y la antigua URSS, con importantes colecciones bibliográficas regionales. ([iseees.berkeley.edu](https://iseees.berkeley.edu/history-and-mission?utm_source=chatgpt.com "History and Mission | Institute of Slavic, East European, and Eurasian Studies"))
 
-[University of Toronto â€” Centre for European and Eurasian Studies](https://munkschool.utoronto.ca/cees) â€“ Centro canadiense interdisciplinar para Europa Central y Oriental, Rusia, CÃ¡ucaso y Asia Central. ([munkschool.utoronto.ca](https://munkschool.utoronto.ca/cees?utm_source=chatgpt.com "Centre for European and Eurasian Studies (CEES) | The Munk School"))
+[University of Toronto — Centre for European and Eurasian Studies](https://munkschool.utoronto.ca/cees) – Centro canadiense interdisciplinar para Europa Central y Oriental, Rusia, Cáucaso y Asia Central. ([munkschool.utoronto.ca](https://munkschool.utoronto.ca/cees?utm_source=chatgpt.com "Centre for European and Eurasian Studies (CEES) | The Munk School"))
 
-[Harvard University â€” Davis Center for Russian and Eurasian Studies](https://daviscenter.fas.harvard.edu/) â€“ Centro interdisciplinar especializado en Rusia y Eurasia, relevante para historia soviÃ©tica, Guerra FrÃ­a, nacionalidades y transformaciones postsoviÃ©ticas.
+[Harvard University — Davis Center for Russian and Eurasian Studies](https://daviscenter.fas.harvard.edu/) – Centro interdisciplinar especializado en Rusia y Eurasia, relevante para historia soviética, Guerra Fría, nacionalidades y transformaciones postsoviéticas.
 
-[London School of Economics and Political Science â€” International History](https://www.lse.ac.uk/International-History) â€“ Departamento con una sÃ³lida tradiciÃ³n investigadora sobre Guerra FrÃ­a, comunismo internacional, URSS, China y relaciones Este-Oeste.
+[London School of Economics and Political Science — International History](https://www.lse.ac.uk/International-History) – Departamento con una sólida tradición investigadora sobre Guerra Fría, comunismo internacional, URSS, China y relaciones Este-Oeste.
 
-[SOAS University of London â€” China Institute](https://www.soas.ac.uk/china-institute) â€“ Centro interdisciplinar para el estudio de China, incluido el desarrollo histÃ³rico y contemporÃ¡neo del Partido Comunista Chino y del Estado de la RepÃºblica Popular.
+[SOAS University of London — China Institute](https://www.soas.ac.uk/china-institute) – Centro interdisciplinar para el estudio de China, incluido el desarrollo histórico y contemporáneo del Partido Comunista Chino y del Estado de la República Popular.
 
-[Australian National University â€” Australian Centre on China in the World](https://ciw.anu.edu.au/) â€“ Centro australiano especializado en China contemporÃ¡nea e histÃ³rica, Ãºtil para investigar el maoÃ­smo, el Partido Comunista Chino y las transformaciones posteriores a Mao.
+[Australian National University — Australian Centre on China in the World](https://ciw.anu.edu.au/) – Centro australiano especializado en China contemporánea e histórica, útil para investigar el maoísmo, el Partido Comunista Chino y las transformaciones posteriores a Mao.
 
 # ASOCIACIONES
 
-[Association for Slavic, East European, and Eurasian Studies](https://www.aseees.org/) â€“ Principal asociaciÃ³n acadÃ©mica norteamericana dedicada a Rusia, Europa Oriental y Eurasia; organiza congresos, publicaciones y recursos de investigaciÃ³n.
+[Association for Slavic, East European, and Eurasian Studies](https://www.aseees.org/) – Principal asociación académica norteamericana dedicada a Rusia, Europa Oriental y Eurasia; organiza congresos, publicaciones y recursos de investigación.
 
-[British Association for Slavonic & East European Studies](https://basees.org/) â€“ AsociaciÃ³n acadÃ©mica britÃ¡nica dedicada a estudios sobre Rusia, Europa Central y Oriental y Eurasia.
+[British Association for Slavonic & East European Studies](https://basees.org/) – Asociación académica británica dedicada a estudios sobre Rusia, Europa Central y Oriental y Eurasia.
 
-[International Council for Central and East European Studies](https://www.iccees.org/) â€“ OrganizaciÃ³n internacional que conecta asociaciones nacionales y especialistas en Europa Central y Oriental, Rusia y Eurasia.
+[International Council for Central and East European Studies](https://www.iccees.org/) – Organización internacional que conecta asociaciones nacionales y especialistas en Europa Central y Oriental, Rusia y Eurasia.
 
-[Study Group on the Russian Revolution](https://www.studygroup.org.uk/) â€“ Red acadÃ©mica especializada en revoluciÃ³n rusa; estÃ¡ vinculada a la revista _Revolutionary Russia_.
+[Study Group on the Russian Revolution](https://www.studygroup.org.uk/) – Red académica especializada en revolución rusa; está vinculada a la revista _Revolutionary Russia_.
 
-[Socialist History Society](https://www.socialisthistorysociety.co.uk/) â€“ AsociaciÃ³n dedicada al estudio histÃ³rico de movimientos socialistas, comunistas y obreros, principalmente britÃ¡nicos e internacionales.
+[Socialist History Society](https://www.socialisthistorysociety.co.uk/) – Asociación dedicada al estudio histórico de movimientos socialistas, comunistas y obreros, principalmente británicos e internacionales.
 
-[Society for Historians of American Foreign Relations](https://shafr.org/) â€“ AsociaciÃ³n acadÃ©mica relevante para estudiar la Guerra FrÃ­a, contenciÃ³n del comunismo y relaciones de Estados Unidos con la URSS, China, Cuba y otros Estados socialistas.
+[Society for Historians of American Foreign Relations](https://shafr.org/) – Asociación académica relevante para estudiar la Guerra Fría, contención del comunismo y relaciones de Estados Unidos con la URSS, China, Cuba y otros Estados socialistas.
 
-[Association for Asian Studies](https://www.asianstudies.org/) â€“ AsociaciÃ³n acadÃ©mica internacional de referencia para Asia, con investigaciÃ³n sobre comunismo chino, vietnamita, coreano y movimientos revolucionarios asiÃ¡ticos.
+[Association for Asian Studies](https://www.asianstudies.org/) – Asociación académica internacional de referencia para Asia, con investigación sobre comunismo chino, vietnamita, coreano y movimientos revolucionarios asiáticos.
 
-[International Institute of Social History](https://iisg.amsterdam/) â€“ Instituto y comunidad internacional de investigaciÃ³n que mantiene importantes redes cientÃ­ficas y documentales sobre historia obrera, socialismo, marxismo y comunismo.
+[International Institute of Social History](https://iisg.amsterdam/) – Instituto y comunidad internacional de investigación que mantiene importantes redes científicas y documentales sobre historia obrera, socialismo, marxismo y comunismo.
 
 # NEWSLETTER
 
-[Cold War International History Project](https://www.wilsoncenter.org/program/cold-war-international-history-project) â€“ El Wilson Center permite suscribirse a novedades sobre investigaciÃ³n, documentos, archivos y publicaciones de historia internacional de la Guerra FrÃ­a. ([Wilson Center](https://www.wilsoncenter.org/program/cold-war-international-history-project?utm_source=chatgpt.com "Cold War International History Project | Wilson Center"))
+[Cold War International History Project](https://www.wilsoncenter.org/program/cold-war-international-history-project) – El Wilson Center permite suscribirse a novedades sobre investigación, documentos, archivos y publicaciones de historia internacional de la Guerra Fría. ([Wilson Center](https://www.wilsoncenter.org/program/cold-war-international-history-project?utm_source=chatgpt.com "Cold War International History Project | Wilson Center"))
 
-[Centre for European and Eurasian Studies Newsletter](https://munkschool.utoronto.ca/cees) â€“ BoletÃ­n del CEES de University of Toronto con seminarios, publicaciones, actividades y convocatorias relacionadas con Europa y Eurasia. ([munkschool.utoronto.ca](https://munkschool.utoronto.ca/cees?utm_source=chatgpt.com "Centre for European and Eurasian Studies (CEES) | The Munk School"))
+[Centre for European and Eurasian Studies Newsletter](https://munkschool.utoronto.ca/cees) – Boletín del CEES de University of Toronto con seminarios, publicaciones, actividades y convocatorias relacionadas con Europa y Eurasia. ([munkschool.utoronto.ca](https://munkschool.utoronto.ca/cees?utm_source=chatgpt.com "Centre for European and Eurasian Studies (CEES) | The Munk School"))
 
-[UCL SSEES Newsletter](https://www.ucl.ac.uk/arts-humanities/ssees) â€“ InformaciÃ³n periÃ³dica del centro sobre investigaciones, publicaciones y actividades acadÃ©micas relacionadas con Europa Oriental, Rusia y Eurasia.
+[UCL SSEES Newsletter](https://www.ucl.ac.uk/arts-humanities/ssees) – Información periódica del centro sobre investigaciones, publicaciones y actividades académicas relacionadas con Europa Oriental, Rusia y Eurasia.
 
-[Stanford CREEES](https://creees.stanford.edu/) â€“ Comunicaciones institucionales sobre seminarios, conferencias, investigaciÃ³n y recursos acadÃ©micos de estudios rusos, europeos orientales y euroasiÃ¡ticos.
+[Stanford CREEES](https://creees.stanford.edu/) – Comunicaciones institucionales sobre seminarios, conferencias, investigación y recursos académicos de estudios rusos, europeos orientales y euroasiáticos.
 
-[UC Berkeley ISEEES](https://iseees.berkeley.edu/) â€“ Boletines y comunicaciones acadÃ©micas del instituto sobre investigaciÃ³n, cursos, conferencias y publicaciones de estudios eslavos y euroasiÃ¡ticos.
+[UC Berkeley ISEEES](https://iseees.berkeley.edu/) – Boletines y comunicaciones académicas del instituto sobre investigación, cursos, conferencias y publicaciones de estudios eslavos y euroasiáticos.
 
-[ASEEES NewsNet](https://www.aseees.org/news-events/aseees-newsnet/) â€“ PublicaciÃ³n de la Association for Slavic, East European, and Eurasian Studies con noticias profesionales, ensayos, bibliografÃ­a y novedades del campo.
+[ASEEES NewsNet](https://www.aseees.org/news-events/aseees-newsnet/) – Publicación de la Association for Slavic, East European, and Eurasian Studies con noticias profesionales, ensayos, bibliografía y novedades del campo.
 
-[Hoover Library & Archives](https://www.hoover.org/library-archives) â€“ Actualizaciones sobre nuevas colecciones, fondos abiertos, proyectos de digitalizaciÃ³n y documentaciÃ³n sobre comunismo, Rusia, China y Guerra FrÃ­a.
+[Hoover Library & Archives](https://www.hoover.org/library-archives) – Actualizaciones sobre nuevas colecciones, fondos abiertos, proyectos de digitalización y documentación sobre comunismo, Rusia, China y Guerra Fría.
 
-[Marx Memorial Library](https://www.marx-memorial-library.org.uk/) â€“ Comunicaciones sobre conferencias, cursos, colecciones y actividades relacionadas con marxismo e historia del movimiento obrero.
+[Marx Memorial Library](https://www.marx-memorial-library.org.uk/) – Comunicaciones sobre conferencias, cursos, colecciones y actividades relacionadas con marxismo e historia del movimiento obrero.
 
 # TV
 
-[ARTE](https://www.arte.tv/) â€“ Canal cultural pÃºblico franco-alemÃ¡n con documentales histÃ³ricos sobre URSS, Europa Oriental, Guerra FrÃ­a, China y movimientos polÃ­ticos del siglo XX; mantiene contenidos especÃ­ficos sobre comunismo. ([ARTE](https://www.arte.tv/en/videos/106006-000-A/arte-reportage/?utm_source=chatgpt.com "ARTE Reportage - Russia: Communist Comeback - Watch the full documentary | ARTE in English"))
+[ARTE](https://www.arte.tv/) – Canal cultural público franco-alemán con documentales históricos sobre URSS, Europa Oriental, Guerra Fría, China y movimientos políticos del siglo XX; mantiene contenidos específicos sobre comunismo. ([ARTE](https://www.arte.tv/en/videos/106006-000-A/arte-reportage/?utm_source=chatgpt.com "ARTE Reportage - Russia: Communist Comeback - Watch the full documentary | ARTE in English"))
 
-[BBC](https://www.bbc.com/) â€“ Servicio pÃºblico britÃ¡nico con extensa producciÃ³n documental y archivos periodÃ­sticos sobre Marx, revoluciÃ³n rusa, UniÃ³n SoviÃ©tica, China, Cuba y Guerra FrÃ­a.
+[BBC](https://www.bbc.com/) – Servicio público británico con extensa producción documental y archivos periodísticos sobre Marx, revolución rusa, Unión Soviética, China, Cuba y Guerra Fría.
 
-[Deutsche Welle](https://www.dw.com/) â€“ Medio pÃºblico internacional alemÃ¡n con documentales y reportajes sobre DDR, muro de BerlÃ­n, Europa Oriental, China y legado del comunismo.
+[Deutsche Welle](https://www.dw.com/) – Medio público internacional alemán con documentales y reportajes sobre DDR, muro de Berlín, Europa Oriental, China y legado del comunismo.
 
-[France 24](https://www.france24.com/) â€“ Canal internacional francÃ©s con informaciÃ³n y anÃ¡lisis sobre China, Cuba, Vietnam, Corea del Norte y memoria del comunismo europeo.
+[France 24](https://www.france24.com/) – Canal internacional francés con información y análisis sobre China, Cuba, Vietnam, Corea del Norte y memoria del comunismo europeo.
 
-[PBS](https://www.pbs.org/) â€“ Red pÃºblica estadounidense que ofrece documentales histÃ³ricos sobre revoluciÃ³n rusa, Guerra FrÃ­a, China, Vietnam y polÃ­tica estadounidense frente al comunismo.
+[PBS](https://www.pbs.org/) – Red pública estadounidense que ofrece documentales históricos sobre revolución rusa, Guerra Fría, China, Vietnam y política estadounidense frente al comunismo.
 
-[RTVE](https://www.rtve.es/play/) â€“ Archivo audiovisual de la radiotelevisiÃ³n pÃºblica espaÃ±ola con documentales, reportajes y programas histÃ³ricos sobre comunismo espaÃ±ol e internacional, URSS, China y Guerra FrÃ­a.
+[RTVE](https://www.rtve.es/play/) – Archivo audiovisual de la radiotelevisión pública española con documentales, reportajes y programas históricos sobre comunismo español e internacional, URSS, China y Guerra Fría.
 
-[ABC Australia](https://www.abc.net.au/) â€“ RadiotelevisiÃ³n pÃºblica australiana con amplio archivo sobre comunismo asiÃ¡tico, China, Indonesia y Guerra FrÃ­a en Asia-PacÃ­fico. ([ABC News](https://www.abc.net.au/news/topic/communism?utm_source=chatgpt.com "Communism - Topic - ABC News"))
+[ABC Australia](https://www.abc.net.au/) – Radiotelevisión pública australiana con amplio archivo sobre comunismo asiático, China, Indonesia y Guerra Fría en Asia-Pacífico. ([ABC News](https://www.abc.net.au/news/topic/communism?utm_source=chatgpt.com "Communism - Topic - ABC News"))
 
 # RADIO
 
-[BBC Radio 4](https://www.bbc.co.uk/radio4) â€“ Emisora pÃºblica britÃ¡nica que produce espacios acadÃ©micos como _In Our Time_, con programas sobre Marx, revoluciÃ³n, Rusia, pensamiento polÃ­tico y Guerra FrÃ­a.
+[BBC Radio 4](https://www.bbc.co.uk/radio4) – Emisora pública británica que produce espacios académicos como _In Our Time_, con programas sobre Marx, revolución, Rusia, pensamiento político y Guerra Fría.
 
-[ABC Radio National](https://www.abc.net.au/listen/radionational) â€“ Emisora cultural pÃºblica australiana; _Late Night Live_ mantiene un archivo especialmente Ãºtil sobre comunismo, China, URSS y Guerra FrÃ­a. ([ABC News](https://www.abc.net.au/listen/programs/latenightlive/the-african-american-communist-who-found-fame-and-freedom-in-th/13625312?utm_source=chatgpt.com "The \"reddest of the blacks\" who died in the gulags of the Soviet Union: Lovett Fort-Whiteman - ABC listen"))
+[ABC Radio National](https://www.abc.net.au/listen/radionational) – Emisora cultural pública australiana; _Late Night Live_ mantiene un archivo especialmente útil sobre comunismo, China, URSS y Guerra Fría. ([ABC News](https://www.abc.net.au/listen/programs/latenightlive/the-african-american-communist-who-found-fame-and-freedom-in-th/13625312?utm_source=chatgpt.com "The \"reddest of the blacks\" who died in the gulags of the Soviet Union: Lovett Fort-Whiteman - ABC listen"))
 
-[France Culture](https://www.radiofrance.fr/franceculture) â€“ Emisora cultural pÃºblica francesa con programas histÃ³ricos y filosÃ³ficos sobre Marx, marxismo, revoluciÃ³n rusa, URSS y movimientos comunistas.
+[France Culture](https://www.radiofrance.fr/franceculture) – Emisora cultural pública francesa con programas históricos y filosóficos sobre Marx, marxismo, revolución rusa, URSS y movimientos comunistas.
 
-[Deutschlandfunk](https://www.deutschlandfunk.de/) â€“ Radio pÃºblica alemana con documentaciÃ³n y anÃ¡lisis histÃ³rico sobre DDR, SED, divisiÃ³n alemana, UniÃ³n SoviÃ©tica y Europa Oriental.
+[Deutschlandfunk](https://www.deutschlandfunk.de/) – Radio pública alemana con documentación y análisis histórico sobre DDR, SED, división alemana, Unión Soviética y Europa Oriental.
 
-[Radio Prague International](https://english.radio.cz/) â€“ Servicio internacional de Czech Radio con archivos y programas histÃ³ricos sobre Checoslovaquia comunista, Primavera de Praga, Carta 77 y RevoluciÃ³n de Terciopelo.
+[Radio Prague International](https://english.radio.cz/) – Servicio internacional de Czech Radio con archivos y programas históricos sobre Checoslovaquia comunista, Primavera de Praga, Carta 77 y Revolución de Terciopelo.
 
-[Polskie Radio](https://www.polskieradio.pl/) â€“ RadiodifusiÃ³n pÃºblica polaca con documentaciÃ³n sobre RepÃºblica Popular de Polonia, SolidarnoÅ›Ä‡, bloque soviÃ©tico y transiciÃ³n de 1989.
+[Polskie Radio](https://www.polskieradio.pl/) – Radiodifusión pública polaca con documentación sobre República Popular de Polonia, Solidarność, bloque soviético y transición de 1989.
 
 # PRENSA ONLINE
 
-[The Guardian](https://www.theguardian.com/) â€“ Archivo periodÃ­stico internacional con abundante cobertura histÃ³rica y contemporÃ¡nea sobre comunismo, marxismo, URSS, China, Cuba y Europa Oriental.
+[The Guardian](https://www.theguardian.com/) – Archivo periodístico internacional con abundante cobertura histórica y contemporánea sobre comunismo, marxismo, URSS, China, Cuba y Europa Oriental.
 
-[The New York Times](https://www.nytimes.com/) â€“ Archivo histÃ³rico especialmente valioso para estudiar la percepciÃ³n internacional de la revoluciÃ³n rusa, URSS, China, Cuba y Guerra FrÃ­a.
+[The New York Times](https://www.nytimes.com/) – Archivo histórico especialmente valioso para estudiar la percepción internacional de la revolución rusa, URSS, China, Cuba y Guerra Fría.
 
-[Le Monde](https://www.lemonde.fr/) â€“ Diario francÃ©s con un extenso archivo sobre Parti communiste franÃ§ais, marxismo europeo, URSS, China y transformaciones postsoviÃ©ticas.
+[Le Monde](https://www.lemonde.fr/) – Diario francés con un extenso archivo sobre Parti communiste français, marxismo europeo, URSS, China y transformaciones postsoviéticas.
 
-[EL PAÃS](https://elpais.com/) â€“ Archivo de prensa en espaÃ±ol con cobertura del PCE, transiciÃ³n espaÃ±ola, URSS, Cuba, China y movimientos comunistas latinoamericanos.
+[EL PAÍS](https://elpais.com/) – Archivo de prensa en español con cobertura del PCE, transición española, URSS, Cuba, China y movimientos comunistas latinoamericanos.
 
-[ABC News Australia](https://www.abc.net.au/news/topic/communism) â€“ PÃ¡gina temÃ¡tica de la radiotelevisiÃ³n pÃºblica australiana que reÃºne noticias y anÃ¡lisis clasificados especÃ­ficamente bajo el tema Â«CommunismÂ». ([ABC News](https://www.abc.net.au/news/topic/communism?utm_source=chatgpt.com "Communism - Topic - ABC News"))
+[ABC News Australia](https://www.abc.net.au/news/topic/communism) – Página temática de la radiotelevisión pública australiana que reúne noticias y análisis clasificados específicamente bajo el tema «Communism». ([ABC News](https://www.abc.net.au/news/topic/communism?utm_source=chatgpt.com "Communism - Topic - ABC News"))
 
-[South China Morning Post](https://www.scmp.com/) â€“ PublicaciÃ³n de Hong Kong especialmente Ãºtil para el seguimiento contemporÃ¡neo del Partido Comunista Chino, sus instituciones, polÃ­tica e historia.
+[South China Morning Post](https://www.scmp.com/) – Publicación de Hong Kong especialmente útil para el seguimiento contemporáneo del Partido Comunista Chino, sus instituciones, política e historia.
 
-[Foreign Affairs](https://www.foreignaffairs.com/) â€“ Revista de relaciones internacionales cuyo archivo constituye una fuente importante para estudiar la Guerra FrÃ­a, URSS, China, Cuba y polÃ­tica occidental frente al comunismo.
+[Foreign Affairs](https://www.foreignaffairs.com/) – Revista de relaciones internacionales cuyo archivo constituye una fuente importante para estudiar la Guerra Fría, URSS, China, Cuba y política occidental frente al comunismo.
 
-[Foreign Policy](https://foreignpolicy.com/) â€“ PublicaciÃ³n especializada en relaciones internacionales con anÃ¡lisis sobre China, Corea del Norte, Cuba, Rusia y legado geopolÃ­tico de la Guerra FrÃ­a.
+[Foreign Policy](https://foreignpolicy.com/) – Publicación especializada en relaciones internacionales con análisis sobre China, Corea del Norte, Cuba, Rusia y legado geopolítico de la Guerra Fría.
 
-[The Conversation](https://theconversation.com/) â€“ Plataforma de divulgaciÃ³n acadÃ©mica donde investigadores universitarios publican anÃ¡lisis sobre marxismo, comunismo, historia soviÃ©tica, China y Europa Oriental.
+[The Conversation](https://theconversation.com/) – Plataforma de divulgación académica donde investigadores universitarios publican análisis sobre marxismo, comunismo, historia soviética, China y Europa Oriental.
 
 # PRENSA ESCRITA
 
-[The New York Times](https://www.nytimes.com/) â€“ Diario estadounidense cuyo archivo histÃ³rico permite seguir prÃ¡cticamente toda la evoluciÃ³n del comunismo internacional desde la revoluciÃ³n bolchevique hasta la actualidad.
+[The New York Times](https://www.nytimes.com/) – Diario estadounidense cuyo archivo histórico permite seguir prácticamente toda la evolución del comunismo internacional desde la revolución bolchevique hasta la actualidad.
 
-[The Guardian](https://www.theguardian.com/) â€“ PeriÃ³dico britÃ¡nico con un archivo de gran utilidad para historia polÃ­tica, movimiento obrero, marxismo, UniÃ³n SoviÃ©tica, China y comunismo europeo.
+[The Guardian](https://www.theguardian.com/) – Periódico británico con un archivo de gran utilidad para historia política, movimiento obrero, marxismo, Unión Soviética, China y comunismo europeo.
 
-[Le Monde](https://www.lemonde.fr/) â€“ Diario francÃ©s de referencia para estudiar el comunismo francÃ©s y europeo, la Guerra FrÃ­a, descolonizaciÃ³n, URSS y China.
+[Le Monde](https://www.lemonde.fr/) – Diario francés de referencia para estudiar el comunismo francés y europeo, la Guerra Fría, descolonización, URSS y China.
 
-[EL PAÃS](https://elpais.com/) â€“ Diario espaÃ±ol especialmente relevante para estudiar comunismo, eurocomunismo, Partido Comunista de EspaÃ±a, transiciÃ³n democrÃ¡tica y relaciones con Cuba, URSS y China.
+[EL PAÍS](https://elpais.com/) – Diario español especialmente relevante para estudiar comunismo, eurocomunismo, Partido Comunista de España, transición democrática y relaciones con Cuba, URSS y China.
 
-[Frankfurter Allgemeine Zeitung](https://www.faz.net/) â€“ Diario alemÃ¡n con amplio archivo sobre la DDR, divisiÃ³n alemana, bloque soviÃ©tico y evoluciÃ³n polÃ­tica de Europa Central y Oriental.
+[Frankfurter Allgemeine Zeitung](https://www.faz.net/) – Diario alemán con amplio archivo sobre la DDR, división alemana, bloque soviético y evolución política de Europa Central y Oriental.
 
-[Die Zeit](https://www.zeit.de/) â€“ Semanario alemÃ¡n con ensayos, reportajes y archivo histÃ³rico sobre marxismo, DDR, UniÃ³n SoviÃ©tica, revoluciÃ³n y memoria del comunismo.
+[Die Zeit](https://www.zeit.de/) – Semanario alemán con ensayos, reportajes y archivo histórico sobre marxismo, DDR, Unión Soviética, revolución y memoria del comunismo.
 
-[The Times](https://www.thetimes.com/) â€“ PeriÃ³dico britÃ¡nico cuyo archivo histÃ³rico permite investigar revoluciÃ³n rusa, movimiento comunista britÃ¡nico, URSS, Guerra FrÃ­a y relaciones internacionales.
+[The Times](https://www.thetimes.com/) – Periódico británico cuyo archivo histórico permite investigar revolución rusa, movimiento comunista británico, URSS, Guerra Fría y relaciones internacionales.
 
-[The Washington Post](https://www.washingtonpost.com/) â€“ Diario estadounidense con extensa documentaciÃ³n periodÃ­stica sobre polÃ­tica anticomunista estadounidense, Guerra FrÃ­a, UniÃ³n SoviÃ©tica, China, Cuba y Europa Oriental.
+[The Washington Post](https://www.washingtonpost.com/) – Diario estadounidense con extensa documentación periodística sobre política anticomunista estadounidense, Guerra Fría, Unión Soviética, China, Cuba y Europa Oriental.
 
-[The Economist](https://www.economist.com/) â€“ Semanario internacional con un archivo histÃ³rico de anÃ¡lisis sobre economÃ­a soviÃ©tica, planificaciÃ³n central, China, reformas econÃ³micas y colapso del bloque socialista.
+[The Economist](https://www.economist.com/) – Semanario internacional con un archivo histórico de análisis sobre economía soviética, planificación central, China, reformas económicas y colapso del bloque socialista.
 
-[Nikkei Asia](https://asia.nikkei.com/) â€“ PublicaciÃ³n asiÃ¡tica especialmente Ãºtil para estudiar las dimensiones econÃ³micas y polÃ­ticas contemporÃ¡neas de China, Vietnam y otros Estados gobernados por partidos comunistas.
+[Nikkei Asia](https://asia.nikkei.com/) – Publicación asiática especialmente útil para estudiar las dimensiones económicas y políticas contemporáneas de China, Vietnam y otros Estados gobernados por partidos comunistas.

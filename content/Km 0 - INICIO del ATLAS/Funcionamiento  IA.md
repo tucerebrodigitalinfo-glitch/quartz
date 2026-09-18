@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:36:09.788Z
-modified: 2026-09-17T10:13:53.920Z
+modified: 2026-09-18T09:36:21.139Z
 ---
 
 #IA #LLM #Funcionamiento
@@ -14,9 +14,9 @@ modified: 2026-09-17T10:13:53.920Z
 
 [[Machine Learning]]
 
-### [[N1066 De la BiologÃ­a al Ãlgebra, CÃ³mo Aprenden las Redes Neuronales]]
+### [[N1066 De la Biología al Álgebra, Cómo Aprenden las Redes Neuronales]]
 
-[[N1006 CÃ³mo funciona una IA por dentro]]
+[[N1006 Cómo funciona una IA por dentro]]
 
 ### [[El Mecanismo Invisible]]
 

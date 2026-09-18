@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-06T05:20:00.589Z
-modified: 2026-09-17T10:14:03.883Z
+modified: 2026-09-18T09:36:24.455Z
 ---
 
-#Ãndices
+#Índices

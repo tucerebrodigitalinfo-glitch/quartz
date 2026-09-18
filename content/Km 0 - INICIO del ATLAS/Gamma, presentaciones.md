@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-02T18:33:47.597Z
-modified: 2026-09-17T10:14:41.760Z
+modified: 2026-09-18T09:36:54.609Z
 ---
 
-#IA #Presentaciones #DiseÃ±o #Infografias #PPT
+#IA #Presentaciones #Diseño #Infografias #PPT
 
 ![[Biblioteca/Pasted image 20260902203537.png]]
 

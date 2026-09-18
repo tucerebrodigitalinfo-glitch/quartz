@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:38:37.155Z
-modified: 2026-09-17T10:13:50.537Z
+modified: 2026-09-18T09:36:19.967Z
 ---
 
-#IA #LLM #Funcionamiento #Notebook  #IngenierÃ­a
+#IA #LLM #Funcionamiento #Notebook  #Ingeniería
 
 Lo que ocurre dentro de una IA cuando le preguntas algo - (YouTube)
 
@@ -19,24 +19,24 @@ Lo que ocurre dentro de una IA cuando le preguntas algo - (YouTube)
 ### [Gemini Notebook](https://notebooklm.google.com/notebook/abb72b92-d902-49e3-bec3-40dc30299b64?authuser=6)
 
 ![[Biblioteca/N1006a FUNCIONAMIENTO INTERNO DE LA IA.png]]
-â€”â€”â€”â€”â€”â€”â€”â€”
+————————
 [[N1008 El Mecanismo Invisible (LLM)]]
 ![[Biblioteca/N1008 The_Invisible_Mechanism.pdf]]
 
-Fuente: VÃ­deo de YouTube
-Formato: ðŸŽ¥ VÃ­deo
-Etiquetas: [[InteligenciaArtificial]] [[RedesNeuronales]] [[LLMs (i)]] [[Tokens]] [[AprendizajeAutomÃ¡tico]]
+Fuente: Vídeo de YouTube
+Formato: 🎥 Vídeo
+Etiquetas: [[InteligenciaArtificial]] [[RedesNeuronales]] [[LLMs (i)]] [[Tokens]] [[AprendizajeAutomático]]
 Fecha: 2026-06-20
 
-ðŸ“ Resumen Principal
-ExplicaciÃ³n visual de lo que ocurre "detrÃ¡s de la pantalla" al interactuar con una IA. Muestra el proceso interno que transforma una simple pregunta (prompt) en una respuesta compleja, revelando la mecÃ¡nica de los modelos de lenguaje.
+📝 Resumen Principal
+Explicación visual de lo que ocurre "detrás de la pantalla" al interactuar con una IA. Muestra el proceso interno que transforma una simple pregunta (prompt) en una respuesta compleja, revelando la mecánica de los modelos de lenguaje.
 
-ðŸ”‘ Conceptos Clave
-â¦ TokenizaciÃ³n: La IA no lee palabras, las rompe en fragmentos numÃ©ricos (tokens) para poder calcularlas matemÃ¡ticamente.
-â¦ Redes Neuronales: La arquitectura por capas que filtra la informaciÃ³n, buscando patrones y conexiones aprendidas durante su entrenamiento.
-â¦ AnÃ¡lisis de Contexto: CÃ³mo la IA logra interpretar quÃ© le estamos pidiendo basÃ¡ndose en el historial de nuestra conversaciÃ³n.
-â¦ PredicciÃ³n estadÃ­stica: La IA no "piensa" la respuesta entera; va prediciendo y calculando cuÃ¡l es la siguiente mejor palabra de forma secuencial.
-â¦ Â¿Por quÃ© alucina o se equivoca?: Al basarse en probabilidades y no en "conocimiento puro", a veces la matemÃ¡tica le sugiere palabras que suenan muy bien juntas, pero que son un dato falso.
-ðŸ§  Mis reflexiones (Cerebro Digital)
-â¦ Con estas imÃ¡genes he podido ver y entender por primera vez cÃ³mo es la IA "por dentro" realmente.
-â¦ \[Nota: AÃ±adir aquÃ­ quÃ© esquema visual del vÃ­deo me ha resultado mÃ¡s Ãºtil]
+🔑 Conceptos Clave
+⦁ Tokenización: La IA no lee palabras, las rompe en fragmentos numéricos (tokens) para poder calcularlas matemáticamente.
+⦁ Redes Neuronales: La arquitectura por capas que filtra la información, buscando patrones y conexiones aprendidas durante su entrenamiento.
+⦁ Análisis de Contexto: Cómo la IA logra interpretar qué le estamos pidiendo basándose en el historial de nuestra conversación.
+⦁ Predicción estadística: La IA no "piensa" la respuesta entera; va prediciendo y calculando cuál es la siguiente mejor palabra de forma secuencial.
+⦁ ¿Por qué alucina o se equivoca?: Al basarse en probabilidades y no en "conocimiento puro", a veces la matemática le sugiere palabras que suenan muy bien juntas, pero que son un dato falso.
+🧠 Mis reflexiones (Cerebro Digital)
+⦁ Con estas imágenes he podido ver y entender por primera vez cómo es la IA "por dentro" realmente.
+⦁ \[Nota: Añadir aquí qué esquema visual del vídeo me ha resultado más útil]

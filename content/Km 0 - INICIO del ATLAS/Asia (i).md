@@ -1,108 +1,108 @@
 ---
 publish: true
 created: 2026-08-06T05:19:01.025Z
-modified: 2026-09-17T10:14:21.683Z
+modified: 2026-09-18T09:36:38.145Z
 ---
 
-#Ãndices #GeografÃ­a
+#Índices #Geografía
 
 ![Image](https://images.openai.com/static-rsc-4/KA48X_kiAkrhzy6JvVMe24QvrYPBqxeDMw8SzRmy--s9nGfQsNNDSFpM9sFtxWaNT8awOLqubDEBkHeT9cOj96TqhKu5Gl9eFJskhsKWofLMcsWpkKE90QiyPu_l3jFqQQyJBOJ0ALoJQ3h8SzUVfbO3zAnKOwn-syO_Kl_001EzEemlfDKl8AQ6vfkrxy-r?purpose=fullsize)
 
-âœ… **Enlaces comprobados y operativos el 21 de julio de 2026.** Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ **Enlaces comprobados y operativos el 21 de julio de 2026.** Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
 ## [WIKIPEDIA: Asia](https://es.wikipedia.org/wiki/Asia?wprov=sfla1)
 
 # WEB
 
-- **Asian Development Bank (ADB)** â€” [https://www.adb.org](https://www.adb.org/)\
-  Principal instituciÃ³n financiera para el desarrollo de Asia y el PacÃ­fico.
+- **Asian Development Bank (ADB)** — [https://www.adb.org](https://www.adb.org/)\
+  Principal institución financiera para el desarrollo de Asia y el Pacífico.
 
-- **United Nations ESCAP** â€” [https://www.unescap.org](https://www.unescap.org/)\
-  ComisiÃ³n EconÃ³mica y Social de las Naciones Unidas para Asia y el PacÃ­fico.
+- **United Nations ESCAP** — [https://www.unescap.org](https://www.unescap.org/)\
+  Comisión Económica y Social de las Naciones Unidas para Asia y el Pacífico.
 
-- **ASEAN** â€” [https://asean.org](https://asean.org/)\
-  OrganizaciÃ³n de Naciones del Sudeste AsiÃ¡tico.
+- **ASEAN** — [https://asean.org](https://asean.org/)\
+  Organización de Naciones del Sudeste Asiático.
 
-- **SAARC** â€” [https://saarc-sec.org](https://saarc-sec.org/)\
-  AsociaciÃ³n para la CooperaciÃ³n Regional del Asia Meridional.
+- **SAARC** — [https://saarc-sec.org](https://saarc-sec.org/)\
+  Asociación para la Cooperación Regional del Asia Meridional.
 
-- **Shanghai Cooperation Organisation (SCO)** â€” [https://eng.sectsco.org](https://eng.sectsco.org/)\
-  OrganizaciÃ³n regional sobre cooperaciÃ³n polÃ­tica, econÃ³mica y seguridad.
+- **Shanghai Cooperation Organisation (SCO)** — [https://eng.sectsco.org](https://eng.sectsco.org/)\
+  Organización regional sobre cooperación política, económica y seguridad.
 
-- **Asia Society** â€” [https://asiasociety.org](https://asiasociety.org/)\
-  Excelente instituciÃ³n dedicada a cultura, polÃ­tica, economÃ­a y educaciÃ³n asiÃ¡tica.
+- **Asia Society** — [https://asiasociety.org](https://asiasociety.org/)\
+  Excelente institución dedicada a cultura, política, economía y educación asiática.
 
-- **Asia Foundation** â€” [https://asiafoundation.org](https://asiafoundation.org/)\
-  Desarrollo, gobernanza, educaciÃ³n y cooperaciÃ³n internacional.
+- **Asia Foundation** — [https://asiafoundation.org](https://asiafoundation.org/)\
+  Desarrollo, gobernanza, educación y cooperación internacional.
 
-- **East-West Center** â€” [https://www.eastwestcenter.org](https://www.eastwestcenter.org/)\
-  Centro de investigaciÃ³n y cooperaciÃ³n entre Asia y Estados Unidos.
+- **East-West Center** — [https://www.eastwestcenter.org](https://www.eastwestcenter.org/)\
+  Centro de investigación y cooperación entre Asia y Estados Unidos.
 
-- **Asia Research Institute (National University of Singapore)** â€” [https://ari.nus.edu.sg](https://ari.nus.edu.sg/)\
-  Uno de los mejores centros de investigaciÃ³n sobre Asia.
+- **Asia Research Institute (National University of Singapore)** — [https://ari.nus.edu.sg](https://ari.nus.edu.sg/)\
+  Uno de los mejores centros de investigación sobre Asia.
 
-- **Asia Centre (Bangkok)** â€” [https://asiacentre.org](https://asiacentre.org/)\
+- **Asia Centre (Bangkok)** — [https://asiacentre.org](https://asiacentre.org/)\
   Democracia, derechos humanos y desarrollo regional.
 
-- **Japan Foundation** â€” <https://www.jpf.go.jp/e/>\
-  Cultura japonesa, idioma y cooperaciÃ³n internacional.
+- **Japan Foundation** — <https://www.jpf.go.jp/e/>\
+  Cultura japonesa, idioma y cooperación internacional.
 
-- **China Institute** â€” [https://chinainstitute.org](https://chinainstitute.org/)\
+- **China Institute** — [https://chinainstitute.org](https://chinainstitute.org/)\
   Historia, cultura y sociedad china.
 
-- **Korea Foundation** â€” <https://www.kf.or.kr/eng>\
+- **Korea Foundation** — <https://www.kf.or.kr/eng>\
   Cultura y relaciones internacionales de Corea.
 
-- **India Foundation** â€” [https://indiafoundation.in](https://indiafoundation.in/)\
-  GeopolÃ­tica, economÃ­a y relaciones internacionales.
+- **India Foundation** — [https://indiafoundation.in](https://indiafoundation.in/)\
+  Geopolítica, economía y relaciones internacionales.
 
-- **Asian Historical Architecture** â€” [https://www.orientalarchitecture.com](https://www.orientalarchitecture.com/)\
-  Base de datos de patrimonio arquitectÃ³nico asiÃ¡tico.
+- **Asian Historical Architecture** — [https://www.orientalarchitecture.com](https://www.orientalarchitecture.com/)\
+  Base de datos de patrimonio arquitectónico asiático.
 
-- **Encyclopaedia Britannica â€“ Asia** â€” <https://www.britannica.com/place/Asia>\
-  Referencia histÃ³rica y geogrÃ¡fica.
+- **Encyclopaedia Britannica – Asia** — <https://www.britannica.com/place/Asia>\
+  Referencia histórica y geográfica.
 
-- **National Geographic â€“ Asia** â€” <https://www.nationalgeographic.com/travel/destination/asia>\
-  GeografÃ­a, naturaleza y cultura.
+- **National Geographic – Asia** — <https://www.nationalgeographic.com/travel/destination/asia>\
+  Geografía, naturaleza y cultura.
 
-- **UNESCO Asia-Pacific** â€” <https://www.unesco.org/en/fieldoffice/bangkok>\
-  EducaciÃ³n, patrimonio y ciencia.
+- **UNESCO Asia-Pacific** — <https://www.unesco.org/en/fieldoffice/bangkok>\
+  Educación, patrimonio y ciencia.
 
-- **World Bank Asia** â€” <https://www.worldbank.org/en/region/eap>\
-  EconomÃ­a y desarrollo regional.
+- **World Bank Asia** — <https://www.worldbank.org/en/region/eap>\
+  Economía y desarrollo regional.
 
-- **OECD Asia-Pacific** â€” <https://www.oecd.org/asia-pacific/>\
-  EconomÃ­a, innovaciÃ³n y polÃ­ticas pÃºblicas.
+- **OECD Asia-Pacific** — <https://www.oecd.org/asia-pacific/>\
+  Economía, innovación y políticas públicas.
 
-- **Asian Infrastructure Investment Bank** â€” [https://www.aiib.org](https://www.aiib.org/)\
+- **Asian Infrastructure Investment Bank** — [https://www.aiib.org](https://www.aiib.org/)\
   Infraestructura y desarrollo.
 
-- **Asian Productivity Organization** â€” [https://www.apo-tokyo.org](https://www.apo-tokyo.org/)\
-  InnovaciÃ³n y competitividad.
+- **Asian Productivity Organization** — [https://www.apo-tokyo.org](https://www.apo-tokyo.org/)\
+  Innovación y competitividad.
 
-- **Asian Development Outlook** â€” <https://www.adb.org/publications/series/asian-development-outlook>\
-  Informes econÃ³micos de referencia.
+- **Asian Development Outlook** — <https://www.adb.org/publications/series/asian-development-outlook>\
+  Informes económicos de referencia.
 
-- **AsiaNews** â€” [https://www.asianews.it](https://www.asianews.it/)\
-  Actualidad polÃ­tica, religiosa y social.
+- **AsiaNews** — [https://www.asianews.it](https://www.asianews.it/)\
+  Actualidad política, religiosa y social.
 
-- **Asia Times** â€” [https://asiatimes.com](https://asiatimes.com/)\
-  GeopolÃ­tica y economÃ­a asiÃ¡tica.
+- **Asia Times** — [https://asiatimes.com](https://asiatimes.com/)\
+  Geopolítica y economía asiática.
 
-- **Silk Road Briefing** â€” [https://www.silkroadbriefing.com](https://www.silkroadbriefing.com/)\
-  Comercio e inversiÃ³n en Asia.
+- **Silk Road Briefing** — [https://www.silkroadbriefing.com](https://www.silkroadbriefing.com/)\
+  Comercio e inversión en Asia.
 
-- **ThinkChina** â€” [https://www.thinkchina.sg](https://www.thinkchina.sg/)\
-  AnÃ¡lisis sobre China y Asia.
+- **ThinkChina** — [https://www.thinkchina.sg](https://www.thinkchina.sg/)\
+  Análisis sobre China y Asia.
 
-- **ISEAS â€“ Yusof Ishak Institute** â€” [https://www.iseas.edu.sg](https://www.iseas.edu.sg/)\
-  Uno de los mayores centros de estudios del Sudeste AsiÃ¡tico.
+- **ISEAS – Yusof Ishak Institute** — [https://www.iseas.edu.sg](https://www.iseas.edu.sg/)\
+  Uno de los mayores centros de estudios del Sudeste Asiático.
 
-- **Observer Research Foundation** â€” [https://www.orfonline.org](https://www.orfonline.org/)\
+- **Observer Research Foundation** — [https://www.orfonline.org](https://www.orfonline.org/)\
   Think tank de referencia en India.
 
-- **Asia-Pacific Centre of Education for International Understanding** â€” [https://www.unescoapceiu.org](https://www.unescoapceiu.org/)\
-  EducaciÃ³n y cooperaciÃ³n internacional.
+- **Asia-Pacific Centre of Education for International Understanding** — [https://www.unescoapceiu.org](https://www.unescoapceiu.org/)\
+  Educación y cooperación internacional.
 
 ---
 
@@ -110,15 +110,15 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **Asian Development Bank**\
   <https://www.youtube.com/@AsianDevelopmentBank>\
-  EconomÃ­a, infraestructuras y desarrollo.
+  Economía, infraestructuras y desarrollo.
 
 - **Asia Society**\
   <https://www.youtube.com/@AsiaSociety>\
-  Cultura, polÃ­tica y economÃ­a asiÃ¡tica.
+  Cultura, política y economía asiática.
 
 - **Japan House**\
   <https://www.youtube.com/@JapanHouse>\
-  Cultura, innovaciÃ³n y diseÃ±o japonÃ©s.
+  Cultura, innovación y diseño japonés.
 
 - **CNA (Channel News Asia)**\
   <https://www.youtube.com/@channelnewsasia>\
@@ -134,11 +134,11 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **CGTN**\
   <https://www.youtube.com/@CGTN>\
-  InformaciÃ³n y documentales sobre China y Asia.
+  Información y documentales sobre China y Asia.
 
 - **DW Asia**\
   <https://www.youtube.com/@dwnews>\
-  Cobertura internacional con numerosos reportajes asiÃ¡ticos.
+  Cobertura internacional con numerosos reportajes asiáticos.
 
 - **National Geographic Asia**\
   <https://www.youtube.com/@NatGeo>\
@@ -146,37 +146,37 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **Asian Boss**\
   <https://www.youtube.com/@AsianBoss>\
-  Entrevistas sociales y culturales en numerosos paÃ­ses asiÃ¡ticos.
+  Entrevistas sociales y culturales en numerosos países asiáticos.
 
 # PODCAST
 
 - **The Asia Chessboard**\
   <https://www.csis.org/podcasts/asia-chessboard>\
-  GeopolÃ­tica, seguridad y relaciones internacionales en Asia.
+  Geopolítica, seguridad y relaciones internacionales en Asia.
 
 - **Asia Rising** (La Trobe Asia)\
   <https://www.latrobe.edu.au/asia/podcast>\
-  Entrevistas con especialistas sobre polÃ­tica, economÃ­a y sociedad asiÃ¡ticas.
+  Entrevistas con especialistas sobre política, economía y sociedad asiáticas.
 
 - **Asia Matters Podcast**\
   <https://www.asiamattersforamerica.org/podcast>\
-  Actualidad polÃ­tica, comercio y cooperaciÃ³n internacional.
+  Actualidad política, comercio y cooperación internacional.
 
 - **Asia Insight** (The Straits Times)\
   <https://www.straitstimes.com/multimedia/podcasts>\
-  AnÃ¡lisis de los principales acontecimientos del continente.
+  Análisis de los principales acontecimientos del continente.
 
 - **The Diplomat Podcast**\
   <https://thediplomat.com/podcast/>\
-  Uno de los podcasts mÃ¡s influyentes sobre geopolÃ­tica asiÃ¡tica.
+  Uno de los podcasts más influyentes sobre geopolítica asiática.
 
 - **ChinaPower Podcast** (CSIS)\
   <https://www.csis.org/podcasts/chinapower>\
-  EconomÃ­a, polÃ­tica exterior y evoluciÃ³n de China.
+  Economía, política exterior y evolución de China.
 
 - **East Asia Forum Podcast**\
   <https://eastasiaforum.org/category/podcast/>\
-  EconomÃ­a, integraciÃ³n regional y polÃ­tica internacional.
+  Economía, integración regional y política internacional.
 
 - **The Little Red Podcast**\
   <https://www.buzzsprout.com/179901>\
@@ -192,62 +192,62 @@ modified: 2026-09-17T10:14:21.683Z
 
 # LIBROS
 
-- **A History of Asia â€” Rhoads Murphey**\
-  Uno de los manuales universitarios mÃ¡s completos sobre la historia del continente.
+- **A History of Asia — Rhoads Murphey**\
+  Uno de los manuales universitarios más completos sobre la historia del continente.
 
-- **The Penguin History of Modern Asia â€” Rhoads Murphey**\
-  Excelente visiÃ³n de la Asia contemporÃ¡nea.
+- **The Penguin History of Modern Asia — Rhoads Murphey**\
+  Excelente visión de la Asia contemporánea.
 
-- **Asia's Cauldron â€” Robert D. Kaplan**\
-  GeopolÃ­tica del mar de China Meridional y del Indo-PacÃ­fico.
+- **Asia's Cauldron — Robert D. Kaplan**\
+  Geopolítica del mar de China Meridional y del Indo-Pacífico.
 
-- **The Silk Roads â€” Peter Frankopan**\
-  Nueva interpretaciÃ³n de la historia mundial desde Asia.
+- **The Silk Roads — Peter Frankopan**\
+  Nueva interpretación de la historia mundial desde Asia.
 
-- **The New Silk Roads â€” Peter Frankopan**\
+- **The New Silk Roads — Peter Frankopan**\
   Asia como eje del siglo XXI.
 
-- **Prisoners of Geography â€” Tim Marshall**\
-  Incluye excelentes capÃ­tulos dedicados a Asia.
+- **Prisoners of Geography — Tim Marshall**\
+  Incluye excelentes capítulos dedicados a Asia.
 
-- **The Future is Asian â€” Parag Khanna**\
-  Referencia sobre el ascenso econÃ³mico y estratÃ©gico del continente.
+- **The Future is Asian — Parag Khanna**\
+  Referencia sobre el ascenso económico y estratégico del continente.
 
-- **The Asian Renaissance â€” Anwar Ibrahim**\
-  ReflexiÃ³n sobre identidad y modernizaciÃ³n asiÃ¡tica.
+- **The Asian Renaissance — Anwar Ibrahim**\
+  Reflexión sobre identidad y modernización asiática.
 
-- **Asia's New Geopolitics â€” Michael Green**\
+- **Asia's New Geopolitics — Michael Green**\
   Estrategia y equilibrio de poder en Asia.
 
-- **Destined for War â€” Graham Allison**\
+- **Destined for War — Graham Allison**\
   Rivalidad entre Estados Unidos y China.
 
-- **The Search for Modern China â€” Jonathan D. Spence**\
+- **The Search for Modern China — Jonathan D. Spence**\
   Historia moderna de China.
 
-- **India After Gandhi â€” Ramachandra Guha**\
+- **India After Gandhi — Ramachandra Guha**\
   Historia de la India independiente.
 
-- **Japan: A Modern History â€” James L. McClain**\
-  Obra de referencia sobre JapÃ³n.
+- **Japan: A Modern History — James L. McClain**\
+  Obra de referencia sobre Japón.
 
-- **The Making of Modern Korea â€” Adrian Buzo**\
-  Historia contemporÃ¡nea coreana.
+- **The Making of Modern Korea — Adrian Buzo**\
+  Historia contemporánea coreana.
 
-- **A History of Southeast Asia â€” Arthur Cotterell**\
-  Excelente introducciÃ³n regional.
+- **A History of Southeast Asia — Arthur Cotterell**\
+  Excelente introducción regional.
 
-- **The ASEAN Miracle â€” Kishore Mahbubani & Jeffery Sng**\
-  Desarrollo econÃ³mico del Sudeste AsiÃ¡tico.
+- **The ASEAN Miracle — Kishore Mahbubani & Jeffery Sng**\
+  Desarrollo económico del Sudeste Asiático.
 
-- **The Wonder That Was India â€” A. L. Basham**\
-  ClÃ¡sico sobre la civilizaciÃ³n india.
+- **The Wonder That Was India — A. L. Basham**\
+  Clásico sobre la civilización india.
 
-- **The Genius of China â€” Robert Temple**\
-  Grandes aportaciones cientÃ­ficas chinas.
+- **The Genius of China — Robert Temple**\
+  Grandes aportaciones científicas chinas.
 
-- **The Cambridge History of Asia** _(colecciÃ³n)_\
-  Una de las obras acadÃ©micas mÃ¡s prestigiosas sobre el continente.
+- **The Cambridge History of Asia** _(colección)_\
+  Una de las obras académicas más prestigiosas sobre el continente.
 
 - **The Oxford Handbook of Asian History**\
   Manual universitario multidisciplinar de referencia.
@@ -256,19 +256,19 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **Journal of Asian Studies**\
   <https://www.cambridge.org/core/journals/journal-of-asian-studies>\
-  La revista acadÃ©mica mÃ¡s prestigiosa sobre Asia.
+  La revista académica más prestigiosa sobre Asia.
 
 - **Modern Asian Studies**\
   <https://www.cambridge.org/core/journals/modern-asian-studies>\
-  Historia, polÃ­tica y sociedad.
+  Historia, política y sociedad.
 
 - **Asian Survey**\
   <https://online.ucpress.edu/as>\
-  Referencia sobre polÃ­tica contemporÃ¡nea.
+  Referencia sobre política contemporánea.
 
 - **Pacific Affairs**\
   <https://pacificaffairs.ubc.ca/>\
-  EconomÃ­a, relaciones internacionales y sociedad.
+  Economía, relaciones internacionales y sociedad.
 
 - **Contemporary Southeast Asia**\
   <https://www.rsis.edu.sg/publication/csa/>\
@@ -276,15 +276,15 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **Asian Affairs**\
   <https://www.tandfonline.com/journals/raaf20>\
-  Historia, cultura y polÃ­tica.
+  Historia, cultura y política.
 
 - **China Quarterly**\
   <https://www.cambridge.org/core/journals/china-quarterly>\
-  Principal revista acadÃ©mica sobre China.
+  Principal revista académica sobre China.
 
 - **Journal of Contemporary Asia**\
   <https://www.tandfonline.com/journals/rjoc20>\
-  EconomÃ­a polÃ­tica y desarrollo.
+  Economía política y desarrollo.
 
 - **Asian Perspective**\
   <https://muse.jhu.edu/journal/173>\
@@ -292,17 +292,17 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **East Asian Science, Technology and Society**\
   <https://read.dukeupress.edu/easts>\
-  Ciencia, innovaciÃ³n y sociedad asiÃ¡tica.
+  Ciencia, innovación y sociedad asiática.
 
 # MUSEOS
 
 - **National Museum of China (China)**\
   <https://en.chnmuseum.cn/>\
-  Uno de los mayores museos del mundo; historia y civilizaciÃ³n china desde la prehistoria hasta la actualidad.
+  Uno de los mayores museos del mundo; historia y civilización china desde la prehistoria hasta la actualidad.
 
-- **Tokyo National Museum (JapÃ³n)**\
+- **Tokyo National Museum (Japón)**\
   <https://www.tnm.jp/?lang=en>\
-  Principal museo japonÃ©s de arqueologÃ­a, arte e historia.
+  Principal museo japonés de arqueología, arte e historia.
 
 - **National Museum of Korea (Corea del Sur)**\
   <https://www.museum.go.kr/site/eng/home>\
@@ -310,31 +310,31 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **National Museum of India (India)**\
   <https://nationalmuseumindia.gov.in/>\
-  Amplias colecciones arqueolÃ³gicas, artÃ­sticas y culturales del subcontinente indio.
+  Amplias colecciones arqueológicas, artísticas y culturales del subcontinente indio.
 
 - **Asian Civilisations Museum (Singapur)**\
   <https://www.nhb.gov.sg/acm>\
-  Uno de los mejores museos dedicados a las civilizaciones asiÃ¡ticas y las rutas comerciales.
+  Uno de los mejores museos dedicados a las civilizaciones asiáticas y las rutas comerciales.
 
 - **Shanghai Museum (China)**\
   <https://www.shanghaimuseum.net/>\
-  Destacado por sus colecciones de bronces, cerÃ¡micas, caligrafÃ­a y arte clÃ¡sico chino.
+  Destacado por sus colecciones de bronces, cerámicas, caligrafía y arte clásico chino.
 
-- **National Palace Museum (TaiwÃ¡n)**\
+- **National Palace Museum (Taiwán)**\
   <https://www.npm.gov.tw/>\
   Alberga una de las mayores colecciones de arte imperial chino.
 
 - **Museum of Islamic Art (Catar)**\
   <https://mia.org.qa/>\
-  Referencia mundial del arte islÃ¡mico de Asia, Oriente Medio y Ãfrica.
+  Referencia mundial del arte islámico de Asia, Oriente Medio y África.
 
 - **Hong Kong Palace Museum**\
   <https://www.hkpm.org.hk/>\
-  Importante colecciÃ³n de arte y patrimonio de la civilizaciÃ³n china.
+  Importante colección de arte y patrimonio de la civilización china.
 
-- **Louvre Abu Dhabi (Emiratos Ãrabes Unidos)**\
+- **Louvre Abu Dhabi (Emiratos Árabes Unidos)**\
   <https://www.louvreabudhabi.ae/>\
-  Museo universal con una destacada representaciÃ³n de las culturas asiÃ¡ticas.
+  Museo universal con una destacada representación de las culturas asiáticas.
 
 # UNIVERSIDADES
 
@@ -344,19 +344,19 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **Tsinghua University (China)**\
   <https://www.tsinghua.edu.cn/en/>\
-  Referencia mundial en ingenierÃ­a, ciencia y tecnologÃ­a.
+  Referencia mundial en ingeniería, ciencia y tecnología.
 
 - **Peking University (China)**\
   <https://english.pku.edu.cn/>\
-  LÃ­der en humanidades, ciencias sociales y relaciones internacionales.
+  Líder en humanidades, ciencias sociales y relaciones internacionales.
 
-- **University of Tokyo (JapÃ³n)**\
+- **University of Tokyo (Japón)**\
   <https://www.u-tokyo.ac.jp/en/>\
   La universidad japonesa con mayor prestigio internacional.
 
-- **Kyoto University (JapÃ³n)**\
+- **Kyoto University (Japón)**\
   <https://www.kyoto-u.ac.jp/en>\
-  InvestigaciÃ³n de excelencia en ciencias y humanidades.
+  Investigación de excelencia en ciencias y humanidades.
 
 - **Seoul National University (Corea del Sur)**\
   <https://en.snu.ac.kr/>\
@@ -364,83 +364,83 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **Nanyang Technological University (Singapur)**\
   <https://www.ntu.edu.sg/>\
-  Destaca en ingenierÃ­a, IA, robÃ³tica y sostenibilidad.
+  Destaca en ingeniería, IA, robótica y sostenibilidad.
 
 - **Indian Institute of Science (India)**\
   <https://iisc.ac.in/>\
-  La instituciÃ³n cientÃ­fica mÃ¡s prestigiosa de la India.
+  La institución científica más prestigiosa de la India.
 
 - **The University of Hong Kong**\
   <https://www.hku.hk/>\
-  Referencia internacional en medicina, economÃ­a y derecho.
+  Referencia internacional en medicina, economía y derecho.
 
 - **KAIST (Corea del Sur)**\
   <https://www.kaist.ac.kr/>\
-  Universidad lÃ­der en innovaciÃ³n tecnolÃ³gica.
+  Universidad líder en innovación tecnológica.
 
 # ASOCIACIONES
 
 - **ASEAN**\
   <https://asean.org/>\
-  Principal organizaciÃ³n polÃ­tica y econÃ³mica del Sudeste AsiÃ¡tico.
+  Principal organización política y económica del Sudeste Asiático.
 
 - **SAARC**\
   <https://saarc-sec.org/>\
-  CooperaciÃ³n regional del Asia Meridional.
+  Cooperación regional del Asia Meridional.
 
 - **Shanghai Cooperation Organisation (SCO)**\
   <https://eng.sectsco.org/>\
-  Seguridad, economÃ­a y cooperaciÃ³n euroasiÃ¡tica.
+  Seguridad, economía y cooperación euroasiática.
 
 - **Asia Society**\
   <https://asiasociety.org/>\
-  InstituciÃ³n internacional dedicada al conocimiento de Asia.
+  Institución internacional dedicada al conocimiento de Asia.
 
 - **Asia Foundation**\
   <https://asiafoundation.org/>\
-  Desarrollo, gobernanza y cooperaciÃ³n.
+  Desarrollo, gobernanza y cooperación.
 
 - **Asian Productivity Organization**\
   <https://www.apo-tokyo.org/>\
-  InnovaciÃ³n y productividad empresarial.
+  Innovación y productividad empresarial.
 
 - **Asian Federation of Biotechnology**\
   <https://www.afob.org/>\
-  CooperaciÃ³n cientÃ­fica en biotecnologÃ­a.
+  Cooperación científica en biotecnología.
 
 - **Association of Pacific Rim Universities (APRU)**\
   <https://apru.org/>\
-  Red de las principales universidades del PacÃ­fico.
+  Red de las principales universidades del Pacífico.
 
 - **Asian Federation of Engineering Organizations**\
   <https://www.afeo.org/>\
-  IngenierÃ­a, innovaciÃ³n y desarrollo tecnolÃ³gico.
+  Ingeniería, innovación y desarrollo tecnológico.
 
 - **Asia-Pacific Economic Cooperation (APEC)**\
   <https://www.apec.org/>\
-  CooperaciÃ³n econÃ³mica entre las economÃ­as del PacÃ­fico.
+  Cooperación económica entre las economías del Pacífico.
 
 # NEWSLETTER
 
 - **Asia Society Newsletter**\
   <https://asiasociety.org/newsletters>\
-  Cultura, polÃ­tica y economÃ­a.
+  Cultura, política y economía.
 
 - **Asian Development Bank Newsletter**\
   <https://www.adb.org/newsletters>\
-  Desarrollo econÃ³mico y social.
+  Desarrollo económico y social.
 
 - **East Asia Forum Newsletter**\
   <https://eastasiaforum.org/>\
-  Excelente anÃ¡lisis econÃ³mico y polÃ­tico.
+  Excelente análisis económico y político.
 
 - **The Diplomat Newsletter**\
   <https://thediplomat.com/subscribe/>\
-  GeopolÃ­tica asiÃ¡tica.
+  Geopolítica asiática.
 
 - **Asia Times Newsletter**\
   <https://asiatimes.com/newsletters/>\
-  EconomÃ­a y actualidad internacional.
+  Economía y actualidad internacional.
 
 - **ThinkChina Newsletter**\
   <https://www.thinkchina.sg/>\
@@ -448,25 +448,25 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **ISEAS Newsletter**\
   <https://www.iseas.edu.sg/>\
-  InvestigaciÃ³n sobre ASEAN y el Sudeste AsiÃ¡tico.
+  Investigación sobre ASEAN y el Sudeste Asiático.
 
 - **ORF Newsletter**\
   <https://www.orfonline.org/>\
-  PolÃ­tica internacional y estrategia.
+  Política internacional y estrategia.
 
 - **CSIS Asia Program Newsletter**\
   <https://www.csis.org/programs/asia-program>\
-  Seguridad y geopolÃ­tica.
+  Seguridad y geopolítica.
 
 - **Asia Research News**\
   <https://www.asiaresearchnews.com/>\
-  Ciencia e innovaciÃ³n en Asia.
+  Ciencia e innovación en Asia.
 
 # TV
 
 - **NHK World-Japan**\
   <https://www3.nhk.or.jp/nhkworld/>\
-  Canal internacional de JapÃ³n con documentales, ciencia, cultura y actualidad.
+  Canal internacional de Japón con documentales, ciencia, cultura y actualidad.
 
 - **Channel NewsAsia (CNA)**\
   <https://www.channelnewsasia.com/>\
@@ -474,23 +474,23 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **Arirang TV**\
   <https://www.arirang.com/>\
-  TelevisiÃ³n internacional de Corea del Sur dedicada a cultura, tecnologÃ­a y actualidad.
+  Televisión internacional de Corea del Sur dedicada a cultura, tecnología y actualidad.
 
 - **CGTN**\
   <https://www.cgtn.com/>\
-  Canal internacional chino con informaciÃ³n econÃ³mica, polÃ­tica y cultural.
+  Canal internacional chino con información económica, política y cultural.
 
 - **CCTV-4**\
   <https://tv.cctv.com/cctv4/>\
-  Canal internacional en chino con contenidos histÃ³ricos y culturales.
+  Canal internacional en chino con contenidos históricos y culturales.
 
 - **DD India**\
   <https://prasarbharati.gov.in/>\
-  TelevisiÃ³n pÃºblica internacional de la India.
+  Televisión pública internacional de la India.
 
 - **TV5MONDE Asie**\
   <https://apac.tv5monde.com/>\
-  ProgramaciÃ³n cultural con amplia cobertura del continente asiÃ¡tico.
+  Programación cultural con amplia cobertura del continente asiático.
 
 - **Al Jazeera English**\
   <https://www.aljazeera.com/>\
@@ -498,21 +498,21 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **KBS World**\
   <https://world.kbs.co.kr/>\
-  InformaciÃ³n, cultura y documentales sobre Corea.
+  Información, cultura y documentales sobre Corea.
 
 - **Phoenix TV**\
   <https://www.ifeng.com/>\
-  InformaciÃ³n y anÃ¡lisis sobre China y Asia.
+  Información y análisis sobre China y Asia.
 
 # RADIO
 
 - **NHK Radio Japan**\
   <https://www3.nhk.or.jp/nhkworld/>\
-  InformaciÃ³n internacional y cultura japonesa.
+  Información internacional y cultura japonesa.
 
 - **All India Radio**\
   <https://prasarbharati.gov.in/>\
-  La principal emisora pÃºblica de la India.
+  La principal emisora pública de la India.
 
 - **KBS World Radio**\
   <https://world.kbs.co.kr/>\
@@ -520,15 +520,15 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **China National Radio**\
   <http://www.cnr.cn/>\
-  Una de las mayores redes radiofÃ³nicas de Asia.
+  Una de las mayores redes radiofónicas de Asia.
 
 - **Radio Taiwan International**\
   <https://en.rti.org.tw/>\
-  Cultura, polÃ­tica y sociedad taiwanesas.
+  Cultura, política y sociedad taiwanesas.
 
 - **ABC Radio Australia**\
   <https://www.abc.net.au/radio-australia/>\
-  Gran cobertura del PacÃ­fico y Asia.
+  Gran cobertura del Pacífico y Asia.
 
 - **Mediacorp Radio (Singapur)**\
   <https://www.mediacorp.sg/>\
@@ -536,29 +536,29 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **Voice of Vietnam**\
   <https://vovworld.vn/>\
-  InformaciÃ³n internacional y cultura vietnamita.
+  Información internacional y cultura vietnamita.
 
 - **Radio Thailand World Service**\
   <https://thainews.prd.go.th/>\
-  InformaciÃ³n oficial y actualidad.
+  Información oficial y actualidad.
 
 - **Radio Free Asia**\
   <https://www.rfa.org/>\
-  InformaciÃ³n y anÃ¡lisis sobre numerosos paÃ­ses asiÃ¡ticos.
+  Información y análisis sobre numerosos países asiáticos.
 
 # PRENSA ONLINE
 
 - **The Diplomat**\
   <https://thediplomat.com/>\
-  La referencia internacional sobre geopolÃ­tica asiÃ¡tica.
+  La referencia internacional sobre geopolítica asiática.
 
 - **Nikkei Asia**\
   <https://asia.nikkei.com/>\
-  EconomÃ­a, innovaciÃ³n y negocios.
+  Economía, innovación y negocios.
 
 - **Asia Times**\
   <https://asiatimes.com/>\
-  PolÃ­tica, economÃ­a y relaciones internacionales.
+  Política, economía y relaciones internacionales.
 
 - **South China Morning Post**\
   <https://www.scmp.com/>\
@@ -566,37 +566,37 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **The Japan Times**\
   <https://www.japantimes.co.jp/>\
-  Referencia sobre JapÃ³n y Asia Oriental.
+  Referencia sobre Japón y Asia Oriental.
 
 - **The Straits Times**\
   <https://www.straitstimes.com/>\
-  Principal periÃ³dico de Singapur con cobertura asiÃ¡tica.
+  Principal periódico de Singapur con cobertura asiática.
 
 - **The Korea Herald**\
   <https://www.koreaherald.com/>\
-  EconomÃ­a, tecnologÃ­a y polÃ­tica coreanas.
+  Economía, tecnología y política coreanas.
 
 - **Bangkok Post**\
   <https://www.bangkokpost.com/>\
-  Referencia del Sudeste AsiÃ¡tico.
+  Referencia del Sudeste Asiático.
 
 - **The Hindu**\
   <https://www.thehindu.com/>\
-  Uno de los periÃ³dicos mÃ¡s prestigiosos de la India.
+  Uno de los periódicos más prestigiosos de la India.
 
 - **Jakarta Post**\
   <https://www.thejakartapost.com/>\
-  Actualidad polÃ­tica, econÃ³mica y social de Indonesia y ASEAN.
+  Actualidad política, económica y social de Indonesia y ASEAN.
 
 # PRENSA ESCRITA
 
 - **The Japan Times**\
   <https://www.japantimes.co.jp/>\
-  Diario histÃ³rico japonÃ©s de referencia internacional.
+  Diario histórico japonés de referencia internacional.
 
 - **South China Morning Post**\
   <https://www.scmp.com/>\
-  Uno de los periÃ³dicos mÃ¡s influyentes de Asia.
+  Uno de los periódicos más influyentes de Asia.
 
 - **The Straits Times**\
   <https://www.straitstimes.com/>\
@@ -604,50 +604,50 @@ modified: 2026-09-17T10:14:21.683Z
 
 - **The Hindu**\
   <https://www.thehindu.com/>\
-  Referencia periodÃ­stica de la India desde 1878.
+  Referencia periodística de la India desde 1878.
 
 - **Yomiuri Shimbun**\
   <https://www.yomiuri.co.jp/>\
-  Uno de los periÃ³dicos con mayor circulaciÃ³n del mundo.
+  Uno de los periódicos con mayor circulación del mundo.
 
 - **Asahi Shimbun**\
   <https://www.asahi.com/>\
-  Diario japonÃ©s de enorme prestigio.
+  Diario japonés de enorme prestigio.
 
 - **China Daily**\
   <https://www.chinadaily.com.cn/>\
-  Principal diario internacional chino en inglÃ©s.
+  Principal diario internacional chino en inglés.
 
 - **The Korea Times**\
   <https://www.koreatimes.co.kr/>\
-  Diario histÃ³rico de Corea del Sur.
+  Diario histórico de Corea del Sur.
 
 - **Bangkok Post**\
   <https://www.bangkokpost.com/>\
-  PublicaciÃ³n de referencia en Tailandia.
+  Publicación de referencia en Tailandia.
 
 - **Philippine Daily Inquirer**\
   <https://www.inquirer.net/>\
-  Uno de los periÃ³dicos mÃ¡s influyentes del Sudeste AsiÃ¡tico.
+  Uno de los periódicos más influyentes del Sudeste Asiático.
 
 # RSS
 
-InvestigaciÃ³n centrada en Asia como regiÃ³n geogrÃ¡fica y geopolÃ­tica: economÃ­a, desarrollo, relaciones internacionales, polÃ­tica pÃºblica y actualidad regional.
+Investigación centrada en Asia como región geográfica y geopolítica: economía, desarrollo, relaciones internacionales, política pública y actualidad regional.
 
 Tabla resumen
 
-CategorÃ­a	Nombre	OrganizaciÃ³n	Idioma	Tipo	Frecuencia	Estado
+Categoría	Nombre	Organización	Idioma	Tipo	Frecuencia	Estado
 
-ðŸŸ¢ Oficial	ADB News	Asian Development Bank	InglÃ©s	Noticias y comunicados	Diaria	Activo
-ðŸŸ¢ Oficial	AIIB News	Asian Infrastructure Investment Bank	InglÃ©s	Noticias institucionales	Semanal	Activo
-ðŸŸ¢ Oficial	AIIB Blog	Asian Infrastructure Investment Bank	InglÃ©s	AnÃ¡lisis y proyectos	Irregular	Activo
-ðŸŸ¢ Oficial	AIIB Projects Approved	Asian Infrastructure Investment Bank	InglÃ©s	Proyectos aprobados	Irregular	Activo
-ðŸŸ¢ Institucional	APF Canada	Asia Pacific Foundation of Canada	InglÃ©s	InvestigaciÃ³n y anÃ¡lisis	Semanal	Activo
-ðŸ”µ CientÃ­fico	ADB Institute Publications	Asian Development Bank Institute	InglÃ©s	Estudios y documentos	Semanal	Activo
-ðŸ”µ CientÃ­fico	East Asia Forum	Australian National University	InglÃ©s	EconomÃ­a y polÃ­tica pÃºblica	Diaria	Activo
-ðŸŸ  Especializado	FULCRUM	ISEASâ€“Yusof Ishak Institute	InglÃ©s	Sudeste AsiÃ¡tico	Varias veces por semana	Activo
-ðŸŸ  Actualidad	Nikkei Asia	Nikkei Inc.	InglÃ©s	EconomÃ­a y negocios	Diaria	Activo
-ðŸŸ  Actualidad	The Diplomat	The Diplomat	InglÃ©s	GeopolÃ­tica y seguridad	Diaria	Activo
+🟢 Oficial	ADB News	Asian Development Bank	Inglés	Noticias y comunicados	Diaria	Activo
+🟢 Oficial	AIIB News	Asian Infrastructure Investment Bank	Inglés	Noticias institucionales	Semanal	Activo
+🟢 Oficial	AIIB Blog	Asian Infrastructure Investment Bank	Inglés	Análisis y proyectos	Irregular	Activo
+🟢 Oficial	AIIB Projects Approved	Asian Infrastructure Investment Bank	Inglés	Proyectos aprobados	Irregular	Activo
+🟢 Institucional	APF Canada	Asia Pacific Foundation of Canada	Inglés	Investigación y análisis	Semanal	Activo
+🔵 Científico	ADB Institute Publications	Asian Development Bank Institute	Inglés	Estudios y documentos	Semanal	Activo
+🔵 Científico	East Asia Forum	Australian National University	Inglés	Economía y política pública	Diaria	Activo
+🟠 Especializado	FULCRUM	ISEAS–Yusof Ishak Institute	Inglés	Sudeste Asiático	Varias veces por semana	Activo
+🟠 Actualidad	Nikkei Asia	Nikkei Inc.	Inglés	Economía y negocios	Diaria	Activo
+🟠 Actualidad	The Diplomat	The Diplomat	Inglés	Geopolítica y seguridad	Diaria	Activo
 
 ---
 
@@ -655,131 +655,131 @@ CategorÃ­a	Nombre	OrganizaciÃ³n	Idioma	Tipo	Frecuencia	Estado
 
 ADB News
 
-OrganizaciÃ³n: Asian Development Bank â€” ADB
-CategorÃ­a: Organismo financiero internacional
+Organización: Asian Development Bank — ADB
+Categoría: Organismo financiero internacional
 URL RSS: https://www.adb.org/rss
 Formato: RSS
-Idioma: InglÃ©s
-Cobertura: Asia y el PacÃ­fico
-Tipo de contenido: Noticias, comunicados, proyectos, desarrollo econÃ³mico y publicaciones
+Idioma: Inglés
+Cobertura: Asia y el Pacífico
+Tipo de contenido: Noticias, comunicados, proyectos, desarrollo económico y publicaciones
 Frecuencia aproximada: Diaria
 Estado: Activo
 
-DescripciÃ³n: PÃ¡gina oficial desde la que el Banco AsiÃ¡tico de Desarrollo distribuye sus canales RSS. Es una de las fuentes prioritarias para seguir desarrollo, economÃ­a, infraestructura, clima y polÃ­ticas pÃºblicas en Asia.
+Descripción: Página oficial desde la que el Banco Asiático de Desarrollo distribuye sus canales RSS. Es una de las fuentes prioritarias para seguir desarrollo, economía, infraestructura, clima y políticas públicas en Asia.
 
-Observaciones: ADB mantiene publicaciones y comunicados recientes en julio de 2026. La organizaciÃ³n proporciona distintos canales temÃ¡ticos desde su Ã­ndice RSS, por lo que conviene seleccionar dentro de esa pÃ¡gina el feed de noticias o publicaciones segÃºn el uso previsto.
+Observaciones: ADB mantiene publicaciones y comunicados recientes en julio de 2026. La organización proporciona distintos canales temáticos desde su índice RSS, por lo que conviene seleccionar dentro de esa página el feed de noticias o publicaciones según el uso previsto.
 
 ---
 
 AIIB News
 
-OrganizaciÃ³n: Asian Infrastructure Investment Bank â€” AIIB
-CategorÃ­a: Banco multilateral oficial
+Organización: Asian Infrastructure Investment Bank — AIIB
+Categoría: Banco multilateral oficial
 URL RSS: https://www.aiib.org/en/rss/aiib-news-rss.xml
 Formato: RSS/XML
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Asia y mundial
 Tipo de contenido: Noticias, comunicados y actividad institucional
 Frecuencia aproximada: Semanal
 Estado: Activo
 
-DescripciÃ³n: Feed oficial de noticias del Banco AsiÃ¡tico de InversiÃ³n en Infraestructura.
+Descripción: Feed oficial de noticias del Banco Asiático de Inversión en Infraestructura.
 
-Observaciones: La URL estÃ¡ enlazada directamente desde el Ã­ndice RSS oficial de AIIB. El endpoint devuelve contenido XML y es pÃºblico.
+Observaciones: La URL está enlazada directamente desde el índice RSS oficial de AIIB. El endpoint devuelve contenido XML y es público.
 
 ---
 
 AIIB Blog
 
-OrganizaciÃ³n: Asian Infrastructure Investment Bank â€” AIIB
-CategorÃ­a: Banco multilateral oficial
+Organización: Asian Infrastructure Investment Bank — AIIB
+Categoría: Banco multilateral oficial
 URL RSS: https://www.aiib.org/en/rss/aiib-blogs-rss.xml
 Formato: RSS/XML
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Asia y mundial
-Tipo de contenido: Blog, anÃ¡lisis de infraestructura, sostenibilidad y financiaciÃ³n
+Tipo de contenido: Blog, análisis de infraestructura, sostenibilidad y financiación
 Frecuencia aproximada: Irregular
 Estado: Activo
 
-DescripciÃ³n: Canal oficial para artÃ­culos explicativos y anÃ¡lisis publicados por AIIB.
+Descripción: Canal oficial para artículos explicativos y análisis publicados por AIIB.
 
-Observaciones: Complementa al feed de noticias con contenido mÃ¡s analÃ­tico. La URL aparece en el directorio RSS oficial del banco y responde como feed pÃºblico.
+Observaciones: Complementa al feed de noticias con contenido más analítico. La URL aparece en el directorio RSS oficial del banco y responde como feed público.
 
 ---
 
 AIIB Projects Approved
 
-OrganizaciÃ³n: Asian Infrastructure Investment Bank â€” AIIB
-CategorÃ­a: Proyectos oficiales
+Organización: Asian Infrastructure Investment Bank — AIIB
+Categoría: Proyectos oficiales
 URL RSS: https://www.aiib.org/en/rss/aiib-projects-approved-rss.xml
 Formato: RSS/XML
-Idioma: InglÃ©s
-Cobertura: Asia y paÃ­ses miembros
+Idioma: Inglés
+Cobertura: Asia y países miembros
 Tipo de contenido: Proyectos de infraestructura aprobados
 Frecuencia aproximada: Irregular
 Estado: Activo
 
-DescripciÃ³n: Feed especializado en nuevos proyectos aprobados por AIIB.
+Descripción: Feed especializado en nuevos proyectos aprobados por AIIB.
 
-Observaciones: Particularmente valioso para vigilancia econÃ³mica, infraestructuras, energÃ­a, transporte y financiaciÃ³n internacional. El servidor devuelve text/xml, confirmando que se trata de un feed XML pÃºblico.
+Observaciones: Particularmente valioso para vigilancia económica, infraestructuras, energía, transporte y financiación internacional. El servidor devuelve text/xml, confirmando que se trata de un feed XML público.
 
 ---
 
 ## RSS INSTITUCIONALES
 
-Asia Pacific Foundation of Canada â€” Feed principal
+Asia Pacific Foundation of Canada — Feed principal
 
-OrganizaciÃ³n: Asia Pacific Foundation of Canada
-CategorÃ­a: InstituciÃ³n de investigaciÃ³n y polÃ­tica pÃºblica
+Organización: Asia Pacific Foundation of Canada
+Categoría: Institución de investigación y política pública
 URL RSS: https://www.asiapacific.ca/feeds/all
 Formato: RSS/XML
-Idioma: InglÃ©s
-Cobertura: Asia-PacÃ­fico, con perspectiva canadiense
-Tipo de contenido: Informes, anÃ¡lisis, estudios, comentarios y noticias institucionales
+Idioma: Inglés
+Cobertura: Asia-Pacífico, con perspectiva canadiense
+Tipo de contenido: Informes, análisis, estudios, comentarios y noticias institucionales
 Frecuencia aproximada: Semanal
 Estado: Activo
 
-DescripciÃ³n: Feed general de una instituciÃ³n especializada en las relaciones econÃ³micas, polÃ­ticas y sociales entre CanadÃ¡ y Asia.
+Descripción: Feed general de una institución especializada en las relaciones económicas, políticas y sociales entre Canadá y Asia.
 
-Observaciones: La propia instituciÃ³n mantiene un directorio RSS con canales generales y temÃ¡ticos sobre Asia del Norte, Asia del Sur, Sudeste AsiÃ¡tico, estrategia, economÃ­a y transformaciÃ³n digital. El feed principal estÃ¡ enlazado oficialmente y responde como XML.
+Observaciones: La propia institución mantiene un directorio RSS con canales generales y temáticos sobre Asia del Norte, Asia del Sur, Sudeste Asiático, estrategia, economía y transformación digital. El feed principal está enlazado oficialmente y responde como XML.
 
 ---
 
-## RSS CIENTÃFICOS Y TÃ‰CNICOS
+## RSS CIENTÍFICOS Y TÉCNICOS
 
 ADB Institute Publications
 
-OrganizaciÃ³n: Asian Development Bank Institute â€” ADBI
-CategorÃ­a: InvestigaciÃ³n econÃ³mica y polÃ­tica pÃºblica
+Organización: Asian Development Bank Institute — ADBI
+Categoría: Investigación económica y política pública
 URL RSS: https://www.adb.org/adbi/publications/rss
 Formato: RSS
-Idioma: InglÃ©s
-Cobertura: Asia y el PacÃ­fico
+Idioma: Inglés
+Cobertura: Asia y el Pacífico
 Tipo de contenido: Documentos de trabajo, estudios, libros e informes
 Frecuencia aproximada: Semanal
 Estado: Activo
 
-DescripciÃ³n: Canal de publicaciones del instituto de investigaciÃ³n del Banco AsiÃ¡tico de Desarrollo.
+Descripción: Canal de publicaciones del instituto de investigación del Banco Asiático de Desarrollo.
 
-Observaciones: Es una de las mejores fuentes cientÃ­ficas y tÃ©cnicas sobre economÃ­a asiÃ¡tica, comercio, integraciÃ³n, desarrollo, ciudades, clima y polÃ­ticas pÃºblicas. ADBI publicÃ³ varios trabajos durante julio de 2026 y enlaza expresamente su canal â€œPublications RSSâ€.
+Observaciones: Es una de las mejores fuentes científicas y técnicas sobre economía asiática, comercio, integración, desarrollo, ciudades, clima y políticas públicas. ADBI publicó varios trabajos durante julio de 2026 y enlaza expresamente su canal “Publications RSS”.
 
 ---
 
 East Asia Forum
 
-OrganizaciÃ³n: Crawford School of Public Policy, Australian National University
-CategorÃ­a: Universidad / anÃ¡lisis acadÃ©mico
+Organización: Crawford School of Public Policy, Australian National University
+Categoría: Universidad / análisis académico
 URL RSS: https://eastasiaforum.org/feed/
 Formato: RSS 2.0
-Idioma: InglÃ©s
-Cobertura: Asia oriental, meridional y Asia-PacÃ­fico
-Tipo de contenido: EconomÃ­a, polÃ­tica, comercio, relaciones internacionales y seguridad
+Idioma: Inglés
+Cobertura: Asia oriental, meridional y Asia-Pacífico
+Tipo de contenido: Economía, política, comercio, relaciones internacionales y seguridad
 Frecuencia aproximada: Diaria
 Estado: Activo
 
-DescripciÃ³n: Plataforma acadÃ©mica de anÃ¡lisis regional mantenida desde la Australian National University.
+Descripción: Plataforma académica de análisis regional mantenida desde la Australian National University.
 
-Observaciones: Publica contribuciones de investigadores, economistas y especialistas en polÃ­tica pÃºblica. Se comprobÃ³ actividad durante 2026 y la estructura WordPress dispone de feeds pÃºblicos para el contenido y los autores.
+Observaciones: Publica contribuciones de investigadores, economistas y especialistas en política pública. Se comprobó actividad durante 2026 y la estructura WordPress dispone de feeds públicos para el contenido y los autores.
 
 ---
 
@@ -787,19 +787,19 @@ Observaciones: Publica contribuciones de investigadores, economistas y especiali
 
 FULCRUM
 
-OrganizaciÃ³n: ISEASâ€“Yusof Ishak Institute
-CategorÃ­a: Centro de investigaciÃ³n especializado
+Organización: ISEAS–Yusof Ishak Institute
+Categoría: Centro de investigación especializado
 URL RSS: https://fulcrum.sg/feed/
 Formato: RSS 2.0
-Idioma: InglÃ©s
-Cobertura: Sudeste AsiÃ¡tico
-Tipo de contenido: PolÃ­tica, economÃ­a, sociedad, diplomacia y seguridad
+Idioma: Inglés
+Cobertura: Sudeste Asiático
+Tipo de contenido: Política, economía, sociedad, diplomacia y seguridad
 Frecuencia aproximada: Varias veces por semana
 Estado: Activo
 
-DescripciÃ³n: PublicaciÃ³n de anÃ¡lisis del instituto pÃºblico de investigaciÃ³n ISEAS, con sede en Singapur.
+Descripción: Publicación de análisis del instituto público de investigación ISEAS, con sede en Singapur.
 
-Observaciones: Es especialmente Ãºtil para ASEAN, Indonesia, Malasia, Singapur, Vietnam, Myanmar, Tailandia y relaciones Chinaâ€“Sudeste AsiÃ¡tico. El endpoint /feed/ respondiÃ³ correctamente como feed, y existen publicaciones recientes durante 2026.
+Observaciones: Es especialmente útil para ASEAN, Indonesia, Malasia, Singapur, Vietnam, Myanmar, Tailandia y relaciones China–Sudeste Asiático. El endpoint /feed/ respondió correctamente como feed, y existen publicaciones recientes durante 2026.
 
 ---
 
@@ -807,62 +807,62 @@ Observaciones: Es especialmente Ãºtil para ASEAN, Indonesia, Malasia, Singapur
 
 Nikkei Asia
 
-OrganizaciÃ³n: Nikkei Inc.
-CategorÃ­a: Prensa econÃ³mica especializada
+Organización: Nikkei Inc.
+Categoría: Prensa económica especializada
 URL RSS: https://info.asia.nikkei.com/rss
 Formato: RSS/XML
-Idioma: InglÃ©s
+Idioma: Inglés
 Cobertura: Asia
-Tipo de contenido: EconomÃ­a, empresas, mercados, polÃ­tica y tecnologÃ­a
+Tipo de contenido: Economía, empresas, mercados, política y tecnología
 Frecuencia aproximada: Diaria
 Estado: Activo
 
-DescripciÃ³n: Ãndice RSS oficial de Nikkei Asia, uno de los medios econÃ³micos mÃ¡s especializados en la regiÃ³n.
+Descripción: Índice RSS oficial de Nikkei Asia, uno de los medios económicos más especializados en la región.
 
-Observaciones: La pÃ¡gina oficial confirma que los feeds proporcionan titulares actualizados y estÃ¡n destinados al uso personal en lectores RSS. Parte de los artÃ­culos puede requerir suscripciÃ³n.
+Observaciones: La página oficial confirma que los feeds proporcionan titulares actualizados y están destinados al uso personal en lectores RSS. Parte de los artículos puede requerir suscripción.
 
 ---
 
 The Diplomat
 
-OrganizaciÃ³n: The Diplomat
-CategorÃ­a: Medio especializado
+Organización: The Diplomat
+Categoría: Medio especializado
 URL RSS: https://thediplomat.com/feed/
 Formato: RSS 2.0
-Idioma: InglÃ©s
-Cobertura: Asia-PacÃ­fico
-Tipo de contenido: GeopolÃ­tica, defensa, diplomacia, economÃ­a y sociedad
+Idioma: Inglés
+Cobertura: Asia-Pacífico
+Tipo de contenido: Geopolítica, defensa, diplomacia, economía y sociedad
 Frecuencia aproximada: Diaria
 Estado: Activo, aunque protegido frente a algunas comprobaciones automatizadas
 
-DescripciÃ³n: Medio centrado exclusivamente en la actualidad y las relaciones internacionales de Asia-PacÃ­fico.
+Descripción: Medio centrado exclusivamente en la actualidad y las relaciones internacionales de Asia-Pacífico.
 
-Observaciones: El servidor impide algunas solicitudes automatizadas con HTTP 403, pero el feed general continÃºa siendo reconocido pÃºblicamente. TambiÃ©n existen feeds regionales para Asia oriental, Asia meridional y Sudeste AsiÃ¡tico.
+Observaciones: El servidor impide algunas solicitudes automatizadas con HTTP 403, pero el feed general continúa siendo reconocido públicamente. También existen feeds regionales para Asia oriental, Asia meridional y Sudeste Asiático.
 
 ---
 
-## SelecciÃ³n prioritaria
+## Selección prioritaria
 
-Para un lector RSS general sobre Asia, la combinaciÃ³n mÃ¡s equilibrada serÃ­a:
+Para un lector RSS general sobre Asia, la combinación más equilibrada sería:
 
-1. ADB News â€” informaciÃ³n econÃ³mica e institucional.
+1. ADB News — información económica e institucional.
 
-2. AIIB News â€” infraestructura y financiaciÃ³n.
+2. AIIB News — infraestructura y financiación.
 
-3. East Asia Forum â€” anÃ¡lisis acadÃ©mico.
+3. East Asia Forum — análisis académico.
 
-4. FULCRUM â€” Sudeste AsiÃ¡tico.
+4. FULCRUM — Sudeste Asiático.
 
-5. Nikkei Asia â€” economÃ­a y empresas.
+5. Nikkei Asia — economía y empresas.
 
-6. The Diplomat â€” geopolÃ­tica y seguridad.
+6. The Diplomat — geopolítica y seguridad.
 
-7. APF Canada â€” informes y polÃ­tica regional.
+7. APF Canada — informes y política regional.
 
 ## Organizaciones relevantes sin feed general confirmado
 
-ASEAN: no se localizÃ³ un feed general claramente mantenido por la SecretarÃ­a de ASEAN. El ASEAN Specialised Meteorological Centre sÃ­ conserva RSS relacionados con meteorologÃ­a, incendios y contaminaciÃ³n transfronteriza, pero su cobertura es demasiado especÃ­fica para representar al conjunto de Asia.
+ASEAN: no se localizó un feed general claramente mantenido por la Secretaría de ASEAN. El ASEAN Specialised Meteorological Centre sí conserva RSS relacionados con meteorología, incendios y contaminación transfronteriza, pero su cobertura es demasiado específica para representar al conjunto de Asia.
 
-UN ESCAP: mantiene una producciÃ³n regular y oficial sobre Asia-PacÃ­fico, pero no se confirmÃ³ un endpoint RSS general pÃºblico y actual durante esta investigaciÃ³n. La alternativa es seguir directamente su portal de noticias y publicaciones.
+UN ESCAP: mantiene una producción regular y oficial sobre Asia-Pacífico, pero no se confirmó un endpoint RSS general público y actual durante esta investigación. La alternativa es seguir directamente su portal de noticias y publicaciones.
 
-Asia Society: publica anÃ¡lisis y pÃ³dcast recientes sobre Asia, pero los RSS identificados corresponden principalmente a programas de audio concretos, no a un canal general de noticias o investigaciÃ³n.
+Asia Society: publica análisis y pódcast recientes sobre Asia, pero los RSS identificados corresponden principalmente a programas de audio concretos, no a un canal general de noticias o investigación.

@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-17T09:45:11.957Z
-modified: 2026-09-17T10:14:28.140Z
+modified: 2026-09-18T09:36:43.543Z
 ---
 
-#Brasil #PolÃ­tica #Socialismo
+#Brasil #Política #Socialismo
 
 ![[Biblioteca/Pasted image 20260819142614.png]]
 

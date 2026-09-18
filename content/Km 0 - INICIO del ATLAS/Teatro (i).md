@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-06T05:20:30.604Z
-modified: 2026-09-17T10:14:06.687Z
+modified: 2026-09-18T09:36:26.749Z
 ---
 
-#Ãndices #Teatro
+#Índices #Teatro
 
 # [Wikipedia](https://es.wikipedia.org/wiki/Teatro?wprov=sfla1)
 
@@ -16,302 +16,302 @@ modified: 2026-09-17T10:14:06.687Z
 
 # TEATRO
 
-âœ… Enlaces verificados y operativos en la fecha de elaboraciÃ³n del informe. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
 # WEB
 
-[International Theatre Institute â€” ITI](https://www.iti-worldwide.org/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n internacional de artes escÃ©nicas fundada en 1948 por especialistas en teatro y danza junto con UNESCO. Mantiene centros nacionales, redes profesionales, proyectos educativos y el World Theatre Day; constituye una referencia institucional fundamental para una perspectiva internacional del teatro. ([Instituto Internacional de Teatro](https://www.iti-worldwide.org/es/goals.html?utm_source=chatgpt.com "Instituto Internacional del Teatro ITI"))
+[International Theatre Institute — ITI](https://www.iti-worldwide.org/?utm_source=chatgpt.com) – Organización internacional de artes escénicas fundada en 1948 por especialistas en teatro y danza junto con UNESCO. Mantiene centros nacionales, redes profesionales, proyectos educativos y el World Theatre Day; constituye una referencia institucional fundamental para una perspectiva internacional del teatro. ([Instituto Internacional de Teatro](https://www.iti-worldwide.org/es/goals.html?utm_source=chatgpt.com "Instituto Internacional del Teatro ITI"))
 
-[World Theatre Day â€” International Theatre Institute](https://www.iti-worldwide.org/worldtheatreday.html?utm_source=chatgpt.com) â€“ Proyecto internacional celebrado cada 27 de marzo desde 1962. Su archivo de mensajes constituye una fuente Ãºtil para estudiar discursos contemporÃ¡neos sobre funciÃ³n social, estÃ©tica y polÃ­tica del teatro.
+[World Theatre Day — International Theatre Institute](https://www.iti-worldwide.org/worldtheatreday.html?utm_source=chatgpt.com) – Proyecto internacional celebrado cada 27 de marzo desde 1962. Su archivo de mensajes constituye una fuente útil para estudiar discursos contemporáneos sobre función social, estética y política del teatro.
 
-[Centre for Documentation of the Performing Arts and Music â€” Teatro.es / CDAEM](https://www.teatro.es/?utm_source=chatgpt.com) â€“ Centro documental del Instituto Nacional de las Artes EscÃ©nicas y de la MÃºsica del Ministerio de Cultura de EspaÃ±a. ReÃºne documentaciÃ³n histÃ³rica y contemporÃ¡nea sobre teatro, profesionales, estrenos, compaÃ±Ã­as, festivales y producciÃ³n escÃ©nica espaÃ±ola. ([Teatro](https://www.teatro.es/es/conocenos/contacto?set_language=es\&utm_source=chatgpt.com "Contacto â€” Teatro.es"))
+[Centre for Documentation of the Performing Arts and Music — Teatro.es / CDAEM](https://www.teatro.es/?utm_source=chatgpt.com) – Centro documental del Instituto Nacional de las Artes Escénicas y de la Música del Ministerio de Cultura de España. Reúne documentación histórica y contemporánea sobre teatro, profesionales, estrenos, compañías, festivales y producción escénica española. ([Teatro](https://www.teatro.es/es/conocenos/contacto?set_language=es\&utm_source=chatgpt.com "Contacto — Teatro.es"))
 
-[CatÃ¡logo Integrado â€” CDAEM](https://www.teatro.es/catalogo-integrado?utm_source=chatgpt.com) â€“ Base documental especializada con fotografÃ­as, vÃ­deos, audios, programas, carteles, prensa, manuscritos, caricaturas y dossiers de compaÃ±Ã­as. El sistema relaciona los documentos con espectÃ¡culos y profesionales y permite investigaciÃ³n transversal sobre la escena espaÃ±ola. ([Teatro](https://www.teatro.es/es/catalogo/general_1?utm_source=chatgpt.com "CatÃ¡logo de documentos â€” Teatro.es"))
+[Catálogo Integrado — CDAEM](https://www.teatro.es/catalogo-integrado?utm_source=chatgpt.com) – Base documental especializada con fotografías, vídeos, audios, programas, carteles, prensa, manuscritos, caricaturas y dossiers de compañías. El sistema relaciona los documentos con espectáculos y profesionales y permite investigación transversal sobre la escena española. ([Teatro](https://www.teatro.es/es/catalogo/general_1?utm_source=chatgpt.com "Catálogo de documentos — Teatro.es"))
 
-[Base de datos de Estrenos â€” CDAEM](https://www.teatro.es/estrenos-teatro?utm_source=chatgpt.com) â€“ Registro de aproximadamente 35.000 estrenos realizados en EspaÃ±a desde 1939, consultables por espectÃ¡culo, compaÃ±Ã­a, autorÃ­a, profesionales y fecha, con documentaciÃ³n audiovisual y grÃ¡fica asociada cuando estÃ¡ disponible. ([Teatro](https://www.teatro.es/efemerides/estrenos-teatro?utm_source=chatgpt.com "Estrenos de teatro, Obras de teatro y Festivales | CDAEM Â· Teatro EspaÃ±ol"))
+[Base de datos de Estrenos — CDAEM](https://www.teatro.es/estrenos-teatro?utm_source=chatgpt.com) – Registro de aproximadamente 35.000 estrenos realizados en España desde 1939, consultables por espectáculo, compañía, autoría, profesionales y fecha, con documentación audiovisual y gráfica asociada cuando está disponible. ([Teatro](https://www.teatro.es/efemerides/estrenos-teatro?utm_source=chatgpt.com "Estrenos de teatro, Obras de teatro y Festivales | CDAEM · Teatro Español"))
 
-[Theatre & Performance â€” Victoria and Albert Museum](https://www.vam.ac.uk/collections/theatre-performance?utm_source=chatgpt.com) â€“ ColecciÃ³n nacional britÃ¡nica de artes escÃ©nicas. Documenta teatro, danza, Ã³pera, circo, marionetas, comedia, teatro musical, vestuario y escenografÃ­a mediante objetos, libros, manuscritos, fotografÃ­as, archivos y grabaciones. ([Victoria and Albert Museum](https://www.vam.ac.uk/collections/theatre-performance?utm_source=chatgpt.com "Theatre & Performance â€“ Explore the Collections Â· V\&A"))
+[Theatre & Performance — Victoria and Albert Museum](https://www.vam.ac.uk/collections/theatre-performance?utm_source=chatgpt.com) – Colección nacional británica de artes escénicas. Documenta teatro, danza, ópera, circo, marionetas, comedia, teatro musical, vestuario y escenografía mediante objetos, libros, manuscritos, fotografías, archivos y grabaciones. ([Victoria and Albert Museum](https://www.vam.ac.uk/collections/theatre-performance?utm_source=chatgpt.com "Theatre & Performance – Explore the Collections · V\&A"))
 
-[Theatre & Performance Archives â€” V\&A](https://www.vam.ac.uk/info/theatre-performance-archives?utm_source=chatgpt.com) â€“ Archivo especializado en compaÃ±Ã­as, teatros, actores, directores, diseÃ±adores y organismos culturales. Conserva diarios, correspondencia, manuscritos, fotografÃ­as, documentaciÃ³n empresarial, diseÃ±os y materiales de producciÃ³n. ([Victoria and Albert Museum](https://www.vam.ac.uk/info/theatre-performance-archives?utm_source=chatgpt.com "Theatre & Performance Archives Â· V\&A"))
+[Theatre & Performance Archives — V\&A](https://www.vam.ac.uk/info/theatre-performance-archives?utm_source=chatgpt.com) – Archivo especializado en compañías, teatros, actores, directores, diseñadores y organismos culturales. Conserva diarios, correspondencia, manuscritos, fotografías, documentación empresarial, diseños y materiales de producción. ([Victoria and Albert Museum](https://www.vam.ac.uk/info/theatre-performance-archives?utm_source=chatgpt.com "Theatre & Performance Archives · V\&A"))
 
-[National Video Archive of Performance â€” V\&A](https://www.vam.ac.uk/info/theatre-performance-archives?utm_source=chatgpt.com) â€“ Archivo audiovisual de representaciones en vivo iniciado en 1992. Conserva mÃ¡s de 400 registros completos de producciones teatrales para investigaciÃ³n y estudio de interpretaciÃ³n, direcciÃ³n y diseÃ±o escÃ©nico. ([Victoria and Albert Museum](https://www.vam.ac.uk/info/theatre-performance-archives?utm_source=chatgpt.com "Theatre & Performance Archives Â· V\&A"))
+[National Video Archive of Performance — V\&A](https://www.vam.ac.uk/info/theatre-performance-archives?utm_source=chatgpt.com) – Archivo audiovisual de representaciones en vivo iniciado en 1992. Conserva más de 400 registros completos de producciones teatrales para investigación y estudio de interpretación, dirección y diseño escénico. ([Victoria and Albert Museum](https://www.vam.ac.uk/info/theatre-performance-archives?utm_source=chatgpt.com "Theatre & Performance Archives · V\&A"))
 
-[National Theatre Archive](https://catalogue.nationaltheatre.org.uk/?utm_source=chatgpt.com) â€“ Archivo institucional del National Theatre britÃ¡nico. Conserva documentaciÃ³n creativa, tÃ©cnica y administrativa de sus producciones desde 1963, con guiones de direcciÃ³n, fotografÃ­as, vestuario, programas, crÃ­ticas, registros audiovisuales e informes de escena.
+[National Theatre Archive](https://catalogue.nationaltheatre.org.uk/?utm_source=chatgpt.com) – Archivo institucional del National Theatre británico. Conserva documentación creativa, técnica y administrativa de sus producciones desde 1963, con guiones de dirección, fotografías, vestuario, programas, críticas, registros audiovisuales e informes de escena.
 
-[National Theatre](https://www.nationaltheatre.org.uk/?utm_source=chatgpt.com) â€“ InstituciÃ³n teatral britÃ¡nica de referencia para producciÃ³n, dramaturgia contemporÃ¡nea, clÃ¡sicos, investigaciÃ³n, educaciÃ³n y documentaciÃ³n del proceso escÃ©nico.
+[National Theatre](https://www.nationaltheatre.org.uk/?utm_source=chatgpt.com) – Institución teatral británica de referencia para producción, dramaturgia contemporánea, clásicos, investigación, educación y documentación del proceso escénico.
 
-[Royal Shakespeare Company](https://www.rsc.org.uk/?utm_source=chatgpt.com) â€“ CompaÃ±Ã­a dedicada especialmente a Shakespeare y a dramaturgia clÃ¡sica y contemporÃ¡nea. Su portal reÃºne informaciÃ³n de producciones, archivos educativos, entrevistas, recursos pedagÃ³gicos y documentaciÃ³n sobre interpretaciÃ³n y direcciÃ³n.
+[Royal Shakespeare Company](https://www.rsc.org.uk/?utm_source=chatgpt.com) – Compañía dedicada especialmente a Shakespeare y a dramaturgia clásica y contemporánea. Su portal reúne información de producciones, archivos educativos, entrevistas, recursos pedagógicos y documentación sobre interpretación y dirección.
 
-[Shakespeare's Globe](https://www.shakespearesglobe.com/?utm_source=chatgpt.com) â€“ Teatro, centro de investigaciÃ³n y espacio educativo dedicado a Shakespeare y a las prÃ¡cticas escÃ©nicas de los siglos XVI y XVII. Combina producciÃ³n contemporÃ¡nea, investigaciÃ³n histÃ³rica, documentaciÃ³n arquitectÃ³nica y formaciÃ³n.
+[Shakespeare's Globe](https://www.shakespearesglobe.com/?utm_source=chatgpt.com) – Teatro, centro de investigación y espacio educativo dedicado a Shakespeare y a las prácticas escénicas de los siglos XVI y XVII. Combina producción contemporánea, investigación histórica, documentación arquitectónica y formación.
 
-[Billy Rose Theatre Division â€” New York Public Library](https://www.nypl.org/locations/lpa/billy-rose-theatre-division?utm_source=chatgpt.com) â€“ Uno de los archivos teatrales mÃ¡s extensos del mundo. Conserva archivos personales e institucionales, fotografÃ­as, carteles, programas, crÃ­tica, guiones, grabaciones y el Theatre on Film and Tape Archive. ([Biblioteca PÃºblica de Nueva York](https://www.nypl.org/locations/lpa/billy-rose-theatre-division?utm_source=chatgpt.com "Billy Rose Theatre Division | The New York Public Library"))
+[Billy Rose Theatre Division — New York Public Library](https://www.nypl.org/locations/lpa/billy-rose-theatre-division?utm_source=chatgpt.com) – Uno de los archivos teatrales más extensos del mundo. Conserva archivos personales e institucionales, fotografías, carteles, programas, crítica, guiones, grabaciones y el Theatre on Film and Tape Archive. ([Biblioteca Pública de Nueva York](https://www.nypl.org/locations/lpa/billy-rose-theatre-division?utm_source=chatgpt.com "Billy Rose Theatre Division | The New York Public Library"))
 
-[Billy Rose Theatre Division â€” Digital Collections](https://digitalcollections.nypl.org/divisions/billy-rose-theatre-division?utm_source=chatgpt.com) â€“ Acceso digital a materiales seleccionados de los fondos teatrales de NYPL, especialmente Ãºtil para iconografÃ­a, producciÃ³n estadounidense y documentaciÃ³n de Broadway y Off-Broadway. ([Colecciones Digitales de NYPL](https://digitalcollections.nypl.org/divisions/billy-rose-theatre-division?utm_source=chatgpt.com "Billy Rose Theatre Division - NYPL Digital Collections"))
+[Billy Rose Theatre Division — Digital Collections](https://digitalcollections.nypl.org/divisions/billy-rose-theatre-division?utm_source=chatgpt.com) – Acceso digital a materiales seleccionados de los fondos teatrales de NYPL, especialmente útil para iconografía, producción estadounidense y documentación de Broadway y Off-Broadway. ([Colecciones Digitales de NYPL](https://digitalcollections.nypl.org/divisions/billy-rose-theatre-division?utm_source=chatgpt.com "Billy Rose Theatre Division - NYPL Digital Collections"))
 
-[DÃ©partement des Arts du spectacle â€” BibliothÃ¨que nationale de France](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com) â€“ Departamento especializado de la BnF que conserva teatro, danza, circo, marionetas, mimo, cabaret y otros espectÃ¡culos. Sus fondos comprenden manuscritos, maquetas, vestuario, fotografÃ­as, carteles, grabaciones, programas, archivos personales e institucionales. ([BnF - Site institutionnel](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com "DÃ©partement des Arts du spectacle | BnF - Site institutionnel"))
+[Département des Arts du spectacle — Bibliothèque nationale de France](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com) – Departamento especializado de la BnF que conserva teatro, danza, circo, marionetas, mimo, cabaret y otros espectáculos. Sus fondos comprenden manuscritos, maquetas, vestuario, fotografías, carteles, grabaciones, programas, archivos personales e institucionales. ([BnF - Site institutionnel](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com "Département des Arts du spectacle | BnF - Site institutionnel"))
 
-[Harvard Theatre Collection](https://library.harvard.edu/libraries/houghton?utm_source=chatgpt.com) â€“ Colecciones teatrales de Houghton Library dedicadas a historia del teatro, dramaturgia, actores, directores, escenografÃ­a, danza y entretenimiento, con materiales impresos, manuscritos, fotografÃ­as y archivos personales.
+[Harvard Theatre Collection](https://library.harvard.edu/libraries/houghton?utm_source=chatgpt.com) – Colecciones teatrales de Houghton Library dedicadas a historia del teatro, dramaturgia, actores, directores, escenografía, danza y entretenimiento, con materiales impresos, manuscritos, fotografías y archivos personales.
 
-[HowlRound Theatre Commons](https://howlround.com/?utm_source=chatgpt.com) â€“ Plataforma internacional de conocimiento teatral alojada en Emerson College. Publica debates, ensayos, transmisiones, podcasts y documentaciÃ³n sobre dramaturgia, prÃ¡cticas escÃ©nicas, gestiÃ³n, accesibilidad, justicia cultural y nuevas formas teatrales.
+[HowlRound Theatre Commons](https://howlround.com/?utm_source=chatgpt.com) – Plataforma internacional de conocimiento teatral alojada en Emerson College. Publica debates, ensayos, transmisiones, podcasts y documentación sobre dramaturgia, prácticas escénicas, gestión, accesibilidad, justicia cultural y nuevas formas teatrales.
 
-[Theatre Communications Group â€” TCG](https://www.tcg.org/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n nacional del teatro profesional sin Ã¡nimo de lucro en Estados Unidos. Trabaja con teatros, universidades y profesionales y desarrolla investigaciÃ³n sectorial, publicaciones, congresos, dramaturgia y programas de cooperaciÃ³n internacional. ([tcg.org](https://tcg.org/Web/?utm_source=chatgpt.com "Home"))
+[Theatre Communications Group — TCG](https://www.tcg.org/?utm_source=chatgpt.com) – Organización nacional del teatro profesional sin ánimo de lucro en Estados Unidos. Trabaja con teatros, universidades y profesionales y desarrolla investigación sectorial, publicaciones, congresos, dramaturgia y programas de cooperación internacional. ([tcg.org](https://tcg.org/Web/?utm_source=chatgpt.com "Home"))
 
-[ComÃ©die-FranÃ§aise](https://www.comedie-francaise.fr/?utm_source=chatgpt.com) â€“ InstituciÃ³n teatral francesa fundada en 1680. Su actividad y archivo permiten estudiar repertorio, compaÃ±Ã­a estable, historia de la interpretaciÃ³n francesa, dramaturgia clÃ¡sica y conservaciÃ³n del patrimonio teatral.
+[Comédie-Française](https://www.comedie-francaise.fr/?utm_source=chatgpt.com) – Institución teatral francesa fundada en 1680. Su actividad y archivo permiten estudiar repertorio, compañía estable, historia de la interpretación francesa, dramaturgia clásica y conservación del patrimonio teatral.
 
-[National Theatre of Japan](https://www.ntj.jac.go.jp/english/?utm_source=chatgpt.com) â€“ InstituciÃ³n japonesa para preservaciÃ³n, transmisiÃ³n y representaciÃ³n de formas teatrales tradicionales, entre ellas kabuki, bunraku y otras artes escÃ©nicas clÃ¡sicas.
+[National Theatre of Japan](https://www.ntj.jac.go.jp/english/?utm_source=chatgpt.com) – Institución japonesa para preservación, transmisión y representación de formas teatrales tradicionales, entre ellas kabuki, bunraku y otras artes escénicas clásicas.
 
-[Teatro Nacional Cervantes](https://www.teatrocervantes.gob.ar/?utm_source=chatgpt.com) â€“ Teatro nacional de Argentina y uno de los principales organismos pÃºblicos de producciÃ³n y difusiÃ³n teatral latinoamericana. Conserva programaciÃ³n, materiales educativos, publicaciones y documentaciÃ³n de producciones.
+[Teatro Nacional Cervantes](https://www.teatrocervantes.gob.ar/?utm_source=chatgpt.com) – Teatro nacional de Argentina y uno de los principales organismos públicos de producción y difusión teatral latinoamericana. Conserva programación, materiales educativos, publicaciones y documentación de producciones.
 
-[Sydney Theatre Company](https://www.sydneytheatre.com.au/?utm_source=chatgpt.com) â€“ CompaÃ±Ã­a australiana de referencia con producciÃ³n de repertorio clÃ¡sico y contemporÃ¡neo, dramaturgia australiana y programas especÃ­ficos de educaciÃ³n teatral. Su actividad educativa permanece documentada mediante recursos y programas escolares. ([Sydney Theatre Company](https://www.sydneytheatre.com.au/-/media/project/sydney-theatre-company/sydney-theatre-company/education/forms/2025_education_booking-form_digital.pdf?hash=8CF72AE47BB684B23D02FF62C599FB6A\&rev=b418a77debbb47ba8528304560ba9913\&utm_source=chatgpt.com "2025 STC EDUCATION"))
+[Sydney Theatre Company](https://www.sydneytheatre.com.au/?utm_source=chatgpt.com) – Compañía australiana de referencia con producción de repertorio clásico y contemporáneo, dramaturgia australiana y programas específicos de educación teatral. Su actividad educativa permanece documentada mediante recursos y programas escolares. ([Sydney Theatre Company](https://www.sydneytheatre.com.au/-/media/project/sydney-theatre-company/sydney-theatre-company/education/forms/2025_education_booking-form_digital.pdf?hash=8CF72AE47BB684B23D02FF62C599FB6A\&rev=b418a77debbb47ba8528304560ba9913\&utm_source=chatgpt.com "2025 STC EDUCATION"))
 
-[Market Theatre](https://markettheatre.co.za/?utm_source=chatgpt.com) â€“ InstituciÃ³n sudafricana histÃ³ricamente vinculada al teatro polÃ­tico y a la dramaturgia contra el apartheid. Su programaciÃ³n contemporÃ¡nea mantiene atenciÃ³n a nuevas voces sudafricanas y africanas.
+[Market Theatre](https://markettheatre.co.za/?utm_source=chatgpt.com) – Institución sudafricana históricamente vinculada al teatro político y a la dramaturgia contra el apartheid. Su programación contemporánea mantiene atención a nuevas voces sudafricanas y africanas.
 
-[Theatrecrafts.com](https://www.theatrecrafts.com/?utm_source=chatgpt.com) â€“ Recurso tÃ©cnico especializado sobre terminologÃ­a escÃ©nica, iluminaciÃ³n, tramoya, sonido, maquinaria, seguridad, producciÃ³n y arquitectura teatral. Especialmente Ãºtil para estudiantes y tÃ©cnicos.
+[Theatrecrafts.com](https://www.theatrecrafts.com/?utm_source=chatgpt.com) – Recurso técnico especializado sobre terminología escénica, iluminación, tramoya, sonido, maquinaria, seguridad, producción y arquitectura teatral. Especialmente útil para estudiantes y técnicos.
 
 # YOUTUBE
 
-[National Theatre â€” YouTube](https://www.youtube.com/@NationalTheatre?utm_source=chatgpt.com) â€“ Canal institucional con entrevistas, ensayos, anÃ¡lisis de direcciÃ³n, interpretaciÃ³n, escenografÃ­a, escritura teatral y documentaciÃ³n de producciones.
+[National Theatre — YouTube](https://www.youtube.com/@NationalTheatre?utm_source=chatgpt.com) – Canal institucional con entrevistas, ensayos, análisis de dirección, interpretación, escenografía, escritura teatral y documentación de producciones.
 
-[Royal Shakespeare Company â€” YouTube](https://www.youtube.com/@thersc?utm_source=chatgpt.com) â€“ Contenidos sobre Shakespeare, ensayo, voz, movimiento, direcciÃ³n, diseÃ±o y actividades educativas de la compaÃ±Ã­a.
+[Royal Shakespeare Company — YouTube](https://www.youtube.com/@thersc?utm_source=chatgpt.com) – Contenidos sobre Shakespeare, ensayo, voz, movimiento, dirección, diseño y actividades educativas de la compañía.
 
-[Shakespeare's Globe â€” YouTube](https://www.youtube.com/@ShakespearesGlobe?utm_source=chatgpt.com) â€“ Conferencias, interpretaciÃ³n de Shakespeare, reconstrucciÃ³n histÃ³rica, investigaciÃ³n de prÃ¡cticas escÃ©nicas y materiales pedagÃ³gicos.
+[Shakespeare's Globe — YouTube](https://www.youtube.com/@ShakespearesGlobe?utm_source=chatgpt.com) – Conferencias, interpretación de Shakespeare, reconstrucción histórica, investigación de prácticas escénicas y materiales pedagógicos.
 
-[Victoria and Albert Museum â€” YouTube](https://www.youtube.com/@vamuseum?utm_source=chatgpt.com) â€“ Incluye documentaciÃ³n de la colecciÃ³n Theatre & Performance, conservaciÃ³n de vestuario, escenografÃ­a, historia teatral y patrimonio de las artes escÃ©nicas.
+[Victoria and Albert Museum — YouTube](https://www.youtube.com/@vamuseum?utm_source=chatgpt.com) – Incluye documentación de la colección Theatre & Performance, conservación de vestuario, escenografía, historia teatral y patrimonio de las artes escénicas.
 
-[HowlRound Theatre Commons â€” YouTube](https://www.youtube.com/@HowlRound?utm_source=chatgpt.com) â€“ Archivo audiovisual de conversaciones, simposios y encuentros internacionales sobre creaciÃ³n teatral, dramaturgia, polÃ­ticas culturales y prÃ¡cticas contemporÃ¡neas.
+[HowlRound Theatre Commons — YouTube](https://www.youtube.com/@HowlRound?utm_source=chatgpt.com) – Archivo audiovisual de conversaciones, simposios y encuentros internacionales sobre creación teatral, dramaturgia, políticas culturales y prácticas contemporáneas.
 
-[Theatre Communications Group â€” YouTube](https://www.youtube.com/@TCGTheatre?utm_source=chatgpt.com) â€“ Conferencias, World Theatre Day, encuentros profesionales, dramaturgia y debates sobre el ecosistema teatral estadounidense.
+[Theatre Communications Group — YouTube](https://www.youtube.com/@TCGTheatre?utm_source=chatgpt.com) – Conferencias, World Theatre Day, encuentros profesionales, dramaturgia y debates sobre el ecosistema teatral estadounidense.
 
-[ComÃ©die-FranÃ§aise â€” YouTube](https://www.youtube.com/@comediefrancaise?utm_source=chatgpt.com) â€“ Archivo audiovisual oficial sobre repertorio, actores, autores, puesta en escena e historia de la compaÃ±Ã­a.
+[Comédie-Française — YouTube](https://www.youtube.com/@comediefrancaise?utm_source=chatgpt.com) – Archivo audiovisual oficial sobre repertorio, actores, autores, puesta en escena e historia de la compañía.
 
-[Teatro Nacional Cervantes â€” YouTube](https://www.youtube.com/@TeatroNacionalCervantes?utm_source=chatgpt.com) â€“ Producciones, entrevistas, actividades formativas y documentaciÃ³n del teatro pÃºblico argentino.
+[Teatro Nacional Cervantes — YouTube](https://www.youtube.com/@TeatroNacionalCervantes?utm_source=chatgpt.com) – Producciones, entrevistas, actividades formativas y documentación del teatro público argentino.
 
-[UNAM Teatro â€” YouTube](https://www.youtube.com/@TeatroUNAM?utm_source=chatgpt.com) â€“ ProducciÃ³n y reflexiÃ³n teatral vinculada a la Universidad Nacional AutÃ³noma de MÃ©xico, con entrevistas, coloquios, festivales y registros de la escena mexicana.
+[UNAM Teatro — YouTube](https://www.youtube.com/@TeatroUNAM?utm_source=chatgpt.com) – Producción y reflexión teatral vinculada a la Universidad Nacional Autónoma de México, con entrevistas, coloquios, festivales y registros de la escena mexicana.
 
 # PODCAST
 
-[HowlRound Theatre Commons Podcasts](https://howlround.com/podcasts?utm_source=chatgpt.com) â€“ ColecciÃ³n de series y conversaciones sobre dramaturgia, crÃ­tica, pedagogÃ­a, historia, accesibilidad, teatro comunitario y prÃ¡cticas escÃ©nicas internacionales.
+[HowlRound Theatre Commons Podcasts](https://howlround.com/podcasts?utm_source=chatgpt.com) – Colección de series y conversaciones sobre dramaturgia, crítica, pedagogía, historia, accesibilidad, teatro comunitario y prácticas escénicas internacionales.
 
-[American Theatre â€” Podcasts](https://www.americantheatre.org/category/podcasts/?utm_source=chatgpt.com) â€“ ProducciÃ³n sonora de _American Theatre_ con entrevistas a dramaturgos, directores, actores y responsables de instituciones de la escena estadounidense. La publicaciÃ³n combina cobertura diaria con audio y vÃ­deo. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
+[American Theatre — Podcasts](https://www.americantheatre.org/category/podcasts/?utm_source=chatgpt.com) – Producción sonora de _American Theatre_ con entrevistas a dramaturgos, directores, actores y responsables de instituciones de la escena estadounidense. La publicación combina cobertura diaria con audio y vídeo. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
 
-[National Theatre â€” Podcasts](https://www.nationaltheatre.org.uk/learn-explore/?utm_source=chatgpt.com) â€“ Conversaciones y materiales de audio vinculados a autores, direcciÃ³n, interpretaciÃ³n y procesos creativos del National Theatre.
+[National Theatre — Podcasts](https://www.nationaltheatre.org.uk/learn-explore/?utm_source=chatgpt.com) – Conversaciones y materiales de audio vinculados a autores, dirección, interpretación y procesos creativos del National Theatre.
 
-[Entendre le thÃ©Ã¢tre â€” BibliothÃ¨que nationale de France](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com) â€“ Proyecto sonoro del DÃ©partement des Arts du spectacle dedicado a explorar el teatro francÃ©s del siglo XX mediante documentaciÃ³n y archivos de sonido. ([BnF - Site institutionnel](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com "DÃ©partement des Arts du spectacle | BnF - Site institutionnel"))
+[Entendre le théâtre — Bibliothèque nationale de France](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com) – Proyecto sonoro del Département des Arts du spectacle dedicado a explorar el teatro francés del siglo XX mediante documentación y archivos de sonido. ([BnF - Site institutionnel](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com "Département des Arts du spectacle | BnF - Site institutionnel"))
 
-[Shakespeare Unlimited â€” Folger Shakespeare Library](https://www.folger.edu/podcasts/shakespeare-unlimited/?utm_source=chatgpt.com) â€“ Podcast acadÃ©mico sobre Shakespeare, dramaturgia, prÃ¡cticas escÃ©nicas, traducciÃ³n, historia cultural y recepciÃ³n global.
+[Shakespeare Unlimited — Folger Shakespeare Library](https://www.folger.edu/podcasts/shakespeare-unlimited/?utm_source=chatgpt.com) – Podcast académico sobre Shakespeare, dramaturgia, prácticas escénicas, traducción, historia cultural y recepción global.
 
-[The Theatre Podcast with Alan Seales](https://thetheatrepodcast.com/?utm_source=chatgpt.com) â€“ Entrevistas de larga duraciÃ³n con profesionales de Broadway y otros Ã¡mbitos del teatro estadounidense, Ãºtiles para documentar trayectorias profesionales y procesos de producciÃ³n.
+[The Theatre Podcast with Alan Seales](https://thetheatrepodcast.com/?utm_source=chatgpt.com) – Entrevistas de larga duración con profesionales de Broadway y otros ámbitos del teatro estadounidense, útiles para documentar trayectorias profesionales y procesos de producción.
 
-[BBC Arts & Ideas / Theatre-related audio](https://www.bbc.co.uk/sounds?utm_source=chatgpt.com) â€“ Archivo radiofÃ³nico y de podcast de la BBC con entrevistas a dramaturgos, actores, directores, crÃ­ticos y especialistas en historia teatral.
+[BBC Arts & Ideas / Theatre-related audio](https://www.bbc.co.uk/sounds?utm_source=chatgpt.com) – Archivo radiofónico y de podcast de la BBC con entrevistas a dramaturgos, actores, directores, críticos y especialistas en historia teatral.
 
 # LIBROS
 
-[Theatre Histories: An Introduction â€” Tobin Nellhaus, Daphne P. Lei, Tamara Underiner y Patricia Ybarra](https://www.routledge.com/Theatre-Histories-An-Introduction/Nellhaus-Lei-Underiner-Ybarra/p/book/9781032027906?utm_source=chatgpt.com) â€“ Routledge, 4.Âª ediciÃ³n, 2024. Historia global del teatro y la performance con mayor cobertura de Asia oriental y AmÃ©rica Latina, estudios de caso y atenciÃ³n explÃ­cita a historiografÃ­a y contextos sociales. ([Routledge](https://www.routledge.com/Theatre-Histories-An-Introduction/Nellhaus-Lei-Underiner-Ybarra/p/book/9781032027906?utm_source=chatgpt.com "Theatre Histories: An Introduction - 4th Edition - Tobin Nellhaus - Da"))
+[Theatre Histories: An Introduction — Tobin Nellhaus, Daphne P. Lei, Tamara Underiner y Patricia Ybarra](https://www.routledge.com/Theatre-Histories-An-Introduction/Nellhaus-Lei-Underiner-Ybarra/p/book/9781032027906?utm_source=chatgpt.com) – Routledge, 4.ª edición, 2024. Historia global del teatro y la performance con mayor cobertura de Asia oriental y América Latina, estudios de caso y atención explícita a historiografía y contextos sociales. ([Routledge](https://www.routledge.com/Theatre-Histories-An-Introduction/Nellhaus-Lei-Underiner-Ybarra/p/book/9781032027906?utm_source=chatgpt.com "Theatre Histories: An Introduction - 4th Edition - Tobin Nellhaus - Da"))
 
-[The Empty Space â€” Peter Brook](https://www.penguin.co.uk/books/13520/the-empty-space-by-peter-brook/9780141189222?utm_source=chatgpt.com) â€“ Texto fundamental de teorÃ­a y prÃ¡ctica teatral. Brook distingue diferentes modos de teatro y reflexiona sobre interpretaciÃ³n, direcciÃ³n, espacio, pÃºblico y capacidad del acontecimiento escÃ©nico para renovarse. ([Penguin](https://www.penguin.co.uk/books/13520/the-empty-space-by-peter-brook/9780141189222?utm_source=chatgpt.com "The Empty Space"))
+[The Empty Space — Peter Brook](https://www.penguin.co.uk/books/13520/the-empty-space-by-peter-brook/9780141189222?utm_source=chatgpt.com) – Texto fundamental de teoría y práctica teatral. Brook distingue diferentes modos de teatro y reflexiona sobre interpretación, dirección, espacio, público y capacidad del acontecimiento escénico para renovarse. ([Penguin](https://www.penguin.co.uk/books/13520/the-empty-space-by-peter-brook/9780141189222?utm_source=chatgpt.com "The Empty Space"))
 
-[An Actor Prepares â€” Constantin Stanislavski](https://www.bloomsbury.com/uk/actor-prepares-9781780938431/?utm_source=chatgpt.com) â€“ Obra clÃ¡sica sobre preparaciÃ³n actoral y sistema Stanislavski: acciÃ³n, imaginaciÃ³n, objetivos, concentraciÃ³n, memoria emotiva, comunicaciÃ³n y construcciÃ³n interna del papel. ([Bloomsbury](https://www.bloomsbury.com/uk/actor-prepares-9781780937335/?utm_source=chatgpt.com "An Actor Prepares: : Bloomsbury Revelations Constantin Stanislavski Bloomsbury Academic - Bloomsbury"))
+[An Actor Prepares — Constantin Stanislavski](https://www.bloomsbury.com/uk/actor-prepares-9781780938431/?utm_source=chatgpt.com) – Obra clásica sobre preparación actoral y sistema Stanislavski: acción, imaginación, objetivos, concentración, memoria emotiva, comunicación y construcción interna del papel. ([Bloomsbury](https://www.bloomsbury.com/uk/actor-prepares-9781780937335/?utm_source=chatgpt.com "An Actor Prepares: : Bloomsbury Revelations Constantin Stanislavski Bloomsbury Academic - Bloomsbury"))
 
-[Building a Character â€” Constantin Stanislavski](https://www.bloomsbury.com/?utm_source=chatgpt.com) â€“ Segundo gran volumen asociado al sistema de Stanislavski, centrado en recursos fÃ­sicos y expresivos: voz, cuerpo, tempo, ritmo, caracterizaciÃ³n y acciÃ³n escÃ©nica.
+[Building a Character — Constantin Stanislavski](https://www.bloomsbury.com/?utm_source=chatgpt.com) – Segundo gran volumen asociado al sistema de Stanislavski, centrado en recursos físicos y expresivos: voz, cuerpo, tempo, ritmo, caracterización y acción escénica.
 
-[Creating a Role â€” Constantin Stanislavski](https://www.bloomsbury.com/?utm_source=chatgpt.com) â€“ Completa la trilogÃ­a tradicional en inglÃ©s dedicada al sistema del director ruso y examina el trabajo del actor desde el anÃ¡lisis de texto hasta la elaboraciÃ³n progresiva del personaje.
+[Creating a Role — Constantin Stanislavski](https://www.bloomsbury.com/?utm_source=chatgpt.com) – Completa la trilogía tradicional en inglés dedicada al sistema del director ruso y examina el trabajo del actor desde el análisis de texto hasta la elaboración progresiva del personaje.
 
-[Towards a Poor Theatre â€” Jerzy Grotowski](https://www.routledge.com/?utm_source=chatgpt.com) â€“ RecopilaciÃ³n esencial sobre el laboratorio teatral de Grotowski, la relaciÃ³n actor-espectador, disciplina fÃ­sica y vocal y reducciÃ³n del espectÃ¡culo a sus componentes humanos fundamentales.
+[Towards a Poor Theatre — Jerzy Grotowski](https://www.routledge.com/?utm_source=chatgpt.com) – Recopilación esencial sobre el laboratorio teatral de Grotowski, la relación actor-espectador, disciplina física y vocal y reducción del espectáculo a sus componentes humanos fundamentales.
 
-[Theatre of the Oppressed â€” Augusto Boal](https://www.plutobooks.com/?utm_source=chatgpt.com) â€“ Obra central para comprender el desarrollo del teatro participativo de Boal, sus relaciones con pedagogÃ­a, polÃ­tica y transformaciÃ³n social y el concepto de espectador activo.
+[Theatre of the Oppressed — Augusto Boal](https://www.plutobooks.com/?utm_source=chatgpt.com) – Obra central para comprender el desarrollo del teatro participativo de Boal, sus relaciones con pedagogía, política y transformación social y el concepto de espectador activo.
 
-[The Director's Craft: A Handbook for the Theatre â€” Katie Mitchell](https://www.routledge.com/?utm_source=chatgpt.com) â€“ Manual de direcciÃ³n escÃ©nica centrado en anÃ¡lisis de texto, preparaciÃ³n de ensayos, trabajo con actores, construcciÃ³n de acciones, espacio y organizaciÃ³n del proceso creativo.
+[The Director's Craft: A Handbook for the Theatre — Katie Mitchell](https://www.routledge.com/?utm_source=chatgpt.com) – Manual de dirección escénica centrado en análisis de texto, preparación de ensayos, trabajo con actores, construcción de acciones, espacio y organización del proceso creativo.
 
-[What Is Scenography? â€” Pamela Howard](https://www.routledge.com/?utm_source=chatgpt.com) â€“ IntroducciÃ³n al concepto de escenografÃ­a entendido como integraciÃ³n de espacio, intÃ©rpretes, texto, investigaciÃ³n, arte visual y espectadores. La bibliografÃ­a actual de Routledge mantiene esta obra dentro de sus referencias esenciales de diseÃ±o teatral. ([Routledge](https://www.routledge.com/rsc/downloads/Theatre__Performance_Spring_2026_GBP.pdf?utm_source=chatgpt.com "Routledge
+[What Is Scenography? — Pamela Howard](https://www.routledge.com/?utm_source=chatgpt.com) – Introducción al concepto de escenografía entendido como integración de espacio, intérpretes, texto, investigación, arte visual y espectadores. La bibliografía actual de Routledge mantiene esta obra dentro de sus referencias esenciales de diseño teatral. ([Routledge](https://www.routledge.com/rsc/downloads/Theatre__Performance_Spring_2026_GBP.pdf?utm_source=chatgpt.com "Routledge
 Theatre and Performance
 Textbook Catalog"))
 
-[Theatre and Performance Design: A Reader in Scenography â€” Jane Collins y Andrew Nisbet, eds.](https://www.routledge.com/?utm_source=chatgpt.com) â€“ AntologÃ­a de escritos teÃ³ricos e histÃ³ricos sobre espacio, cuerpo, mirada, escenografÃ­a y diseÃ±o de performance, con textos de Appia, Meyerhold, Svoboda, Barthes y otros autores. ([Routledge](https://www.routledge.com/rsc/downloads/Theatre__Performance_Spring_2026_GBP.pdf?utm_source=chatgpt.com "Routledge
+[Theatre and Performance Design: A Reader in Scenography — Jane Collins y Andrew Nisbet, eds.](https://www.routledge.com/?utm_source=chatgpt.com) – Antología de escritos teóricos e históricos sobre espacio, cuerpo, mirada, escenografía y diseño de performance, con textos de Appia, Meyerhold, Svoboda, Barthes y otros autores. ([Routledge](https://www.routledge.com/rsc/downloads/Theatre__Performance_Spring_2026_GBP.pdf?utm_source=chatgpt.com "Routledge
 Theatre and Performance
 Textbook Catalog"))
 
-[The Dramatic Imagination â€” Robert Edmond Jones](https://press.princeton.edu/?utm_source=chatgpt.com) â€“ Texto clÃ¡sico de diseÃ±o teatral estadounidense sobre escenografÃ­a, iluminaciÃ³n y relaciÃ³n entre imaginaciÃ³n visual y acciÃ³n dramÃ¡tica.
+[The Dramatic Imagination — Robert Edmond Jones](https://press.princeton.edu/?utm_source=chatgpt.com) – Texto clásico de diseño teatral estadounidense sobre escenografía, iluminación y relación entre imaginación visual y acción dramática.
 
-[The Cambridge Introduction to Theatre Studies â€” Christopher B. Balme](https://www.cambridge.org/?utm_source=chatgpt.com) â€“ IntroducciÃ³n acadÃ©mica a conceptos, mÃ©todos y campos principales de los estudios teatrales: representaciÃ³n, texto, cuerpo, espacio, pÃºblico, historiografÃ­a e instituciones.
+[The Cambridge Introduction to Theatre Studies — Christopher B. Balme](https://www.cambridge.org/?utm_source=chatgpt.com) – Introducción académica a conceptos, métodos y campos principales de los estudios teatrales: representación, texto, cuerpo, espacio, público, historiografía e instituciones.
 
-[The Routledge Companion to Theatre and Performance](https://www.routledge.com/?utm_source=chatgpt.com) â€“ Volumen de consulta multidisciplinar sobre teorÃ­a de la performance, direcciÃ³n, actuaciÃ³n, dramaturgia, espacio, identidad, polÃ­tica y metodologÃ­as contemporÃ¡neas.
+[The Routledge Companion to Theatre and Performance](https://www.routledge.com/?utm_source=chatgpt.com) – Volumen de consulta multidisciplinar sobre teoría de la performance, dirección, actuación, dramaturgia, espacio, identidad, política y metodologías contemporáneas.
 
-[A Dictionary of Theatre Anthropology: The Secret Art of the Performer â€” Eugenio Barba y Nicola Savarese](https://www.routledge.com/?utm_source=chatgpt.com) â€“ Obra comparativa sobre principios corporales y energÃ©ticos de la interpretaciÃ³n en distintas tradiciones escÃ©nicas de Europa y Asia.
+[A Dictionary of Theatre Anthropology: The Secret Art of the Performer — Eugenio Barba y Nicola Savarese](https://www.routledge.com/?utm_source=chatgpt.com) – Obra comparativa sobre principios corporales y energéticos de la interpretación en distintas tradiciones escénicas de Europa y Asia.
 
-[The Oxford Illustrated History of Theatre â€” John Russell Brown, ed.](https://global.oup.com/academic/?utm_source=chatgpt.com) â€“ Historia ilustrada que aborda tradiciones occidentales y no occidentales, arquitectura, dramaturgia, actores, direcciÃ³n y transformaciÃ³n histÃ³rica del espectÃ¡culo teatral.
+[The Oxford Illustrated History of Theatre — John Russell Brown, ed.](https://global.oup.com/academic/?utm_source=chatgpt.com) – Historia ilustrada que aborda tradiciones occidentales y no occidentales, arquitectura, dramaturgia, actores, dirección y transformación histórica del espectáculo teatral.
 
 # REVISTAS
 
-[Theatre Research International](https://www.cambridge.org/core/journals/theatre-research-international?utm_source=chatgpt.com) â€“ Revista acadÃ©mica de la International Federation for Theatre Research. Publica estudios sobre prÃ¡cticas teatrales en sus contextos sociales, culturales e histÃ³ricos y busca reflejar enfoques de diferentes regiones del mundo. ([Cambridge University Press](https://www.cambridge.org/core/membership/iftr?utm_source=chatgpt.com "International Federation for Theatre Research"))
+[Theatre Research International](https://www.cambridge.org/core/journals/theatre-research-international?utm_source=chatgpt.com) – Revista académica de la International Federation for Theatre Research. Publica estudios sobre prácticas teatrales en sus contextos sociales, culturales e históricos y busca reflejar enfoques de diferentes regiones del mundo. ([Cambridge University Press](https://www.cambridge.org/core/membership/iftr?utm_source=chatgpt.com "International Federation for Theatre Research"))
 
-[TDR: The Drama Review](https://direct.mit.edu/dram?utm_source=chatgpt.com) â€“ Revista interdisciplinaria de referencia sobre performance, teatro experimental, ritual, danza, activismo, cultura popular y teorÃ­a de las artes vivas.
+[TDR: The Drama Review](https://direct.mit.edu/dram?utm_source=chatgpt.com) – Revista interdisciplinaria de referencia sobre performance, teatro experimental, ritual, danza, activismo, cultura popular y teoría de las artes vivas.
 
-[Theatre Journal](https://www.press.jhu.edu/journals/theatre-journal?utm_source=chatgpt.com) â€“ PublicaciÃ³n acadÃ©mica de Johns Hopkins University Press sobre historia teatral, dramaturgia, performance, teorÃ­a, crÃ­tica y prÃ¡cticas escÃ©nicas.
+[Theatre Journal](https://www.press.jhu.edu/journals/theatre-journal?utm_source=chatgpt.com) – Publicación académica de Johns Hopkins University Press sobre historia teatral, dramaturgia, performance, teoría, crítica y prácticas escénicas.
 
-[Theatre Survey](https://www.cambridge.org/core/journals/theatre-survey?utm_source=chatgpt.com) â€“ Revista de la American Society for Theatre Research dedicada a historia del teatro y performance, archivos, historiografÃ­a y estudios culturales.
+[Theatre Survey](https://www.cambridge.org/core/journals/theatre-survey?utm_source=chatgpt.com) – Revista de la American Society for Theatre Research dedicada a historia del teatro y performance, archivos, historiografía y estudios culturales.
 
-[New Theatre Quarterly](https://www.cambridge.org/core/journals/new-theatre-quarterly?utm_source=chatgpt.com) â€“ Revista internacional que combina anÃ¡lisis acadÃ©mico con cuestiones de producciÃ³n, interpretaciÃ³n, dramaturgia, direcciÃ³n y polÃ­ticas teatrales.
+[New Theatre Quarterly](https://www.cambridge.org/core/journals/new-theatre-quarterly?utm_source=chatgpt.com) – Revista internacional que combina análisis académico con cuestiones de producción, interpretación, dramaturgia, dirección y políticas teatrales.
 
-[Asian Theatre Journal](https://uhpress.hawaii.edu/title/atj/?utm_source=chatgpt.com) â€“ PublicaciÃ³n especializada en tradiciones teatrales y prÃ¡cticas contemporÃ¡neas de Asia, con anÃ¡lisis histÃ³ricos, traducciones, reseÃ±as y estudios de performance.
+[Asian Theatre Journal](https://uhpress.hawaii.edu/title/atj/?utm_source=chatgpt.com) – Publicación especializada en tradiciones teatrales y prácticas contemporáneas de Asia, con análisis históricos, traducciones, reseñas y estudios de performance.
 
-[Modern Drama](https://utppublishing.com/journal/md?utm_source=chatgpt.com) â€“ Revista acadÃ©mica dedicada al teatro moderno y contemporÃ¡neo, con investigaciÃ³n sobre dramaturgia, producciÃ³n, teorÃ­a y recepciÃ³n desde finales del siglo XIX.
+[Modern Drama](https://utppublishing.com/journal/md?utm_source=chatgpt.com) – Revista académica dedicada al teatro moderno y contemporáneo, con investigación sobre dramaturgia, producción, teoría y recepción desde finales del siglo XIX.
 
-[Contemporary Theatre Review](https://www.tandfonline.com/journals/gctr20?utm_source=chatgpt.com) â€“ Revista internacional sobre prÃ¡cticas teatrales y performativas contemporÃ¡neas, combinando investigaciÃ³n acadÃ©mica, entrevistas, documentaciÃ³n y crÃ­tica.
+[Contemporary Theatre Review](https://www.tandfonline.com/journals/gctr20?utm_source=chatgpt.com) – Revista internacional sobre prácticas teatrales y performativas contemporáneas, combinando investigación académica, entrevistas, documentación y crítica.
 
-[Performance Research](https://www.tandfonline.com/journals/rprs20?utm_source=chatgpt.com) â€“ PublicaciÃ³n interdisciplinaria dedicada a performance, prÃ¡cticas artÃ­sticas, teorÃ­a, experimentaciÃ³n, cuerpo, espacio y tecnologÃ­as escÃ©nicas.
+[Performance Research](https://www.tandfonline.com/journals/rprs20?utm_source=chatgpt.com) – Publicación interdisciplinaria dedicada a performance, prácticas artísticas, teoría, experimentación, cuerpo, espacio y tecnologías escénicas.
 
-[American Theatre](https://www.americantheatre.org/?utm_source=chatgpt.com) â€“ Revista de Theatre Communications Group fundada en 1984 y dedicada al teatro profesional estadounidense sin Ã¡nimo de lucro, con cobertura de artistas, dramaturgia, tendencias, legislaciÃ³n cultural y contexto internacional. Desde 2023 su ediciÃ³n impresa es trimestral. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
+[American Theatre](https://www.americantheatre.org/?utm_source=chatgpt.com) – Revista de Theatre Communications Group fundada en 1984 y dedicada al teatro profesional estadounidense sin ánimo de lucro, con cobertura de artistas, dramaturgia, tendencias, legislación cultural y contexto internacional. Desde 2023 su edición impresa es trimestral. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
 
 # MUSEOS
 
-[V\&A Theatre & Performance Collections](https://www.vam.ac.uk/collections/theatre-performance?utm_source=chatgpt.com) â€“ ColecciÃ³n museÃ­stica y documental de referencia para vestuario, escenografÃ­a, carteles, fotografÃ­as, manuscritos y archivos de teatro britÃ¡nico. Sus fondos se iniciaron institucionalmente en la dÃ©cada de 1920. ([Victoria and Albert Museum](https://www.vam.ac.uk/collections/theatre-performance?utm_source=chatgpt.com "Theatre & Performance â€“ Explore the Collections Â· V\&A"))
+[V\&A Theatre & Performance Collections](https://www.vam.ac.uk/collections/theatre-performance?utm_source=chatgpt.com) – Colección museística y documental de referencia para vestuario, escenografía, carteles, fotografías, manuscritos y archivos de teatro británico. Sus fondos se iniciaron institucionalmente en la década de 1920. ([Victoria and Albert Museum](https://www.vam.ac.uk/collections/theatre-performance?utm_source=chatgpt.com "Theatre & Performance – Explore the Collections · V\&A"))
 
-[BibliothÃ¨que nationale de France â€” MusÃ©e et DÃ©partement des Arts du spectacle](https://www.bnf.fr/fr/musee-expositions-editions-au-departement-des-arts-du-spectacle?utm_source=chatgpt.com) â€“ ExposiciÃ³n y conservaciÃ³n de materiales teatrales procedentes de las colecciones de la BnF, incluidos vestuario, dibujos, maquetas, carteles y documentaciÃ³n de autores y compaÃ±Ã­as. ([BnF - Site institutionnel](https://www.bnf.fr/fr/musee-expositions-editions-au-departement-des-arts-du-spectacle?utm_source=chatgpt.com "MusÃ©e, expositions, Ã©ditions au DÃ©partement des Arts du spectacle | BnF - Site institutionnel"))
+[Bibliothèque nationale de France — Musée et Département des Arts du spectacle](https://www.bnf.fr/fr/musee-expositions-editions-au-departement-des-arts-du-spectacle?utm_source=chatgpt.com) – Exposición y conservación de materiales teatrales procedentes de las colecciones de la BnF, incluidos vestuario, dibujos, maquetas, carteles y documentación de autores y compañías. ([BnF - Site institutionnel](https://www.bnf.fr/fr/musee-expositions-editions-au-departement-des-arts-du-spectacle?utm_source=chatgpt.com "Musée, expositions, éditions au Département des Arts du spectacle | BnF - Site institutionnel"))
 
-[Museu de les Arts EscÃ¨niques â€” Institut del Teatre](https://www.institutdelteatre.cat/ca/mae.htm?utm_source=chatgpt.com) â€“ Museo y centro de documentaciÃ³n de Barcelona dedicado a teatro, danza, circo y otras artes escÃ©nicas, con archivos personales, escenografÃ­a, figurines, fotografÃ­as, indumentaria y programas.
+[Museu de les Arts Escèniques — Institut del Teatre](https://www.institutdelteatre.cat/ca/mae.htm?utm_source=chatgpt.com) – Museo y centro de documentación de Barcelona dedicado a teatro, danza, circo y otras artes escénicas, con archivos personales, escenografía, figurines, fotografías, indumentaria y programas.
 
-[CNCS â€” Centre national du costume et de la scÃ¨ne](https://cncs.fr/?utm_source=chatgpt.com) â€“ Museo francÃ©s especializado en vestuario y escenografÃ­a teatral, operÃ­stica y de danza. Mantiene vÃ­nculos documentales con la BnF y otras instituciones patrimoniales francesas. ([BnF - Site institutionnel](https://www.bnf.fr/fr/histoire-et-missions-du-departement-des-arts-du-spectacle?utm_source=chatgpt.com "Histoire et missions du dÃ©partement des Arts du spectacle | BnF - Site institutionnel"))
+[CNCS — Centre national du costume et de la scène](https://cncs.fr/?utm_source=chatgpt.com) – Museo francés especializado en vestuario y escenografía teatral, operística y de danza. Mantiene vínculos documentales con la BnF y otras instituciones patrimoniales francesas. ([BnF - Site institutionnel](https://www.bnf.fr/fr/histoire-et-missions-du-departement-des-arts-du-spectacle?utm_source=chatgpt.com "Histoire et missions du département des Arts du spectacle | BnF - Site institutionnel"))
 
-[Theatre Collection â€” New York Public Library for the Performing Arts](https://www.nypl.org/locations/lpa/billy-rose-theatre-division?utm_source=chatgpt.com) â€“ Archivo-museo de referencia sobre teatro estadounidense con objetos, documentaciÃ³n grÃ¡fica, archivos personales y fondos audiovisuales. ([Biblioteca PÃºblica de Nueva York](https://www.nypl.org/locations/lpa/billy-rose-theatre-division?utm_source=chatgpt.com "Billy Rose Theatre Division | The New York Public Library"))
+[Theatre Collection — New York Public Library for the Performing Arts](https://www.nypl.org/locations/lpa/billy-rose-theatre-division?utm_source=chatgpt.com) – Archivo-museo de referencia sobre teatro estadounidense con objetos, documentación gráfica, archivos personales y fondos audiovisuales. ([Biblioteca Pública de Nueva York](https://www.nypl.org/locations/lpa/billy-rose-theatre-division?utm_source=chatgpt.com "Billy Rose Theatre Division | The New York Public Library"))
 
-[Folger Shakespeare Library](https://www.folger.edu/?utm_source=chatgpt.com) â€“ Biblioteca, museo y centro de investigaciÃ³n dedicado a Shakespeare y la cultura moderna temprana. Sus colecciones impresas y teatrales son fundamentales para historia del texto dramÃ¡tico y de la representaciÃ³n.
+[Folger Shakespeare Library](https://www.folger.edu/?utm_source=chatgpt.com) – Biblioteca, museo y centro de investigación dedicado a Shakespeare y la cultura moderna temprana. Sus colecciones impresas y teatrales son fundamentales para historia del texto dramático y de la representación.
 
-[The Globe Exhibition and Shakespeare's Globe](https://www.shakespearesglobe.com/?utm_source=chatgpt.com) â€“ InterpretaciÃ³n patrimonial del teatro isabelino basada en reconstrucciÃ³n arquitectÃ³nica, investigaciÃ³n de fuentes y prÃ¡ctica escÃ©nica.
+[The Globe Exhibition and Shakespeare's Globe](https://www.shakespearesglobe.com/?utm_source=chatgpt.com) – Interpretación patrimonial del teatro isabelino basada en reconstrucción arquitectónica, investigación de fuentes y práctica escénica.
 
 # UNIVERSIDADES
 
-[Royal Central School of Speech and Drama, University of London](https://www.cssd.ac.uk/?utm_source=chatgpt.com) â€“ InstituciÃ³n especializada en interpretaciÃ³n, direcciÃ³n, dramaturgia, diseÃ±o, producciÃ³n, voz, movimiento y estudios de performance, con investigaciÃ³n de posgrado y prÃ¡ctica profesional.
+[Royal Central School of Speech and Drama, University of London](https://www.cssd.ac.uk/?utm_source=chatgpt.com) – Institución especializada en interpretación, dirección, dramaturgia, diseño, producción, voz, movimiento y estudios de performance, con investigación de posgrado y práctica profesional.
 
-[David Geffen School of Drama at Yale University](https://www.drama.yale.edu/?utm_source=chatgpt.com) â€“ Escuela estadounidense de referencia para interpretaciÃ³n, direcciÃ³n, dramaturgia, diseÃ±o, dramaturgia literaria, gestiÃ³n y producciÃ³n teatral.
+[David Geffen School of Drama at Yale University](https://www.drama.yale.edu/?utm_source=chatgpt.com) – Escuela estadounidense de referencia para interpretación, dirección, dramaturgia, diseño, dramaturgia literaria, gestión y producción teatral.
 
-[Tisch School of the Arts â€” New York University](https://tisch.nyu.edu/drama.html?utm_source=chatgpt.com) â€“ Departamento de Drama con formaciÃ³n en actuaciÃ³n, direcciÃ³n, diseÃ±o, teatro experimental y producciÃ³n, situado dentro de uno de los principales ecosistemas teatrales internacionales.
+[Tisch School of the Arts — New York University](https://tisch.nyu.edu/drama.html?utm_source=chatgpt.com) – Departamento de Drama con formación en actuación, dirección, diseño, teatro experimental y producción, situado dentro de uno de los principales ecosistemas teatrales internacionales.
 
-[Harvard University â€” Theatre, Dance & Media](https://tdm.fas.harvard.edu/?utm_source=chatgpt.com) â€“ Programa interdisciplinar que estudia creaciÃ³n escÃ©nica, performance, danza, medios y teorÃ­a junto con prÃ¡ctica artÃ­stica.
+[Harvard University — Theatre, Dance & Media](https://tdm.fas.harvard.edu/?utm_source=chatgpt.com) – Programa interdisciplinar que estudia creación escénica, performance, danza, medios y teoría junto con práctica artística.
 
-[University of Warwick â€” Theatre and Performance Studies](https://warwick.ac.uk/fac/arts/scapvc/theatre/?utm_source=chatgpt.com) â€“ Centro britÃ¡nico de investigaciÃ³n y enseÃ±anza en historia teatral, performance, dramaturgia, cultura polÃ­tica, festivales y prÃ¡cticas contemporÃ¡neas.
+[University of Warwick — Theatre and Performance Studies](https://warwick.ac.uk/fac/arts/scapvc/theatre/?utm_source=chatgpt.com) – Centro británico de investigación y enseñanza en historia teatral, performance, dramaturgia, cultura política, festivales y prácticas contemporáneas.
 
-[Real Escuela Superior de Arte DramÃ¡tico â€” RESAD](https://www.resad.es/?utm_source=chatgpt.com) â€“ Centro superior pÃºblico espaÃ±ol especializado en interpretaciÃ³n, direcciÃ³n escÃ©nica, dramaturgia, escenografÃ­a y estudios teatrales.
+[Real Escuela Superior de Arte Dramático — RESAD](https://www.resad.es/?utm_source=chatgpt.com) – Centro superior público español especializado en interpretación, dirección escénica, dramaturgia, escenografía y estudios teatrales.
 
-[Centro Universitario de Teatro â€” Universidad Nacional AutÃ³noma de MÃ©xico](https://www.cut.unam.mx/?utm_source=chatgpt.com) â€“ InstituciÃ³n universitaria mexicana de formaciÃ³n e investigaciÃ³n teatral con tradiciÃ³n en actuaciÃ³n, direcciÃ³n, dramaturgia y producciÃ³n.
+[Centro Universitario de Teatro — Universidad Nacional Autónoma de México](https://www.cut.unam.mx/?utm_source=chatgpt.com) – Institución universitaria mexicana de formación e investigación teatral con tradición en actuación, dirección, dramaturgia y producción.
 
-[University of Cape Town â€” Centre for Theatre, Dance & Performance Studies](https://humanities.uct.ac.za/ctdps?utm_source=chatgpt.com) â€“ Centro sudafricano para investigaciÃ³n y prÃ¡ctica de teatro, danza y performance, particularmente relevante para tradiciones africanas, estudios poscoloniales y creaciÃ³n contemporÃ¡nea.
+[University of Cape Town — Centre for Theatre, Dance & Performance Studies](https://humanities.uct.ac.za/ctdps?utm_source=chatgpt.com) – Centro sudafricano para investigación y práctica de teatro, danza y performance, particularmente relevante para tradiciones africanas, estudios poscoloniales y creación contemporánea.
 
-[National Institute of Dramatic Art â€” NIDA](https://www.nida.edu.au/?utm_source=chatgpt.com) â€“ InstituciÃ³n australiana especializada en actuaciÃ³n, direcciÃ³n, escritura, diseÃ±o, producciÃ³n tÃ©cnica y gestiÃ³n de artes escÃ©nicas.
+[National Institute of Dramatic Art — NIDA](https://www.nida.edu.au/?utm_source=chatgpt.com) – Institución australiana especializada en actuación, dirección, escritura, diseño, producción técnica y gestión de artes escénicas.
 
-[Shanghai Theatre Academy](https://en.sta.edu.cn/?utm_source=chatgpt.com) â€“ Universidad china especializada en teatro, Ã³pera, direcciÃ³n, interpretaciÃ³n, escenografÃ­a, televisiÃ³n, danza y formaciÃ³n escÃ©nica.
+[Shanghai Theatre Academy](https://en.sta.edu.cn/?utm_source=chatgpt.com) – Universidad china especializada en teatro, ópera, dirección, interpretación, escenografía, televisión, danza y formación escénica.
 
 # ASOCIACIONES
 
-[International Federation for Theatre Research â€” IFTR](https://iftr.org/?utm_source=chatgpt.com) â€“ FederaciÃ³n internacional creada para facilitar cooperaciÃ³n entre investigadores de teatro y performance mediante congresos, grupos de trabajo y publicaciones. Publica _Theatre Research International_. ([Cambridge University Press](https://www.cambridge.org/core/membership/iftr?utm_source=chatgpt.com "International Federation for Theatre Research"))
+[International Federation for Theatre Research — IFTR](https://iftr.org/?utm_source=chatgpt.com) – Federación internacional creada para facilitar cooperación entre investigadores de teatro y performance mediante congresos, grupos de trabajo y publicaciones. Publica _Theatre Research International_. ([Cambridge University Press](https://www.cambridge.org/core/membership/iftr?utm_source=chatgpt.com "International Federation for Theatre Research"))
 
-[International Theatre Institute â€” ITI](https://www.iti-worldwide.org/?utm_source=chatgpt.com) â€“ Red mundial asociada histÃ³ricamente a UNESCO y dedicada a intercambio internacional, educaciÃ³n, cooperaciÃ³n, libertad artÃ­stica y desarrollo de las artes escÃ©nicas. ([Instituto Internacional de Teatro](https://www.iti-worldwide.org/es/goals.html?utm_source=chatgpt.com "Instituto Internacional del Teatro ITI"))
+[International Theatre Institute — ITI](https://www.iti-worldwide.org/?utm_source=chatgpt.com) – Red mundial asociada históricamente a UNESCO y dedicada a intercambio internacional, educación, cooperación, libertad artística y desarrollo de las artes escénicas. ([Instituto Internacional de Teatro](https://www.iti-worldwide.org/es/goals.html?utm_source=chatgpt.com "Instituto Internacional del Teatro ITI"))
 
-[Theatre Communications Group â€” TCG](https://www.tcg.org/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n estadounidense de servicio al teatro profesional sin Ã¡nimo de lucro, con redes de teatros, publicaciones, investigaciÃ³n y programas de apoyo. ([tcg.org](https://tcg.org/Web/Web/About-Us/Who-We-Are/Who-We-Are.aspx?utm_source=chatgpt.com "Who We Are"))
+[Theatre Communications Group — TCG](https://www.tcg.org/?utm_source=chatgpt.com) – Organización estadounidense de servicio al teatro profesional sin ánimo de lucro, con redes de teatros, publicaciones, investigación y programas de apoyo. ([tcg.org](https://tcg.org/Web/Web/About-Us/Who-We-Are/Who-We-Are.aspx?utm_source=chatgpt.com "Who We Are"))
 
-[Theatre Library Association â€” TLA](https://www.tla-online.org/?utm_source=chatgpt.com) â€“ AsociaciÃ³n fundada en 1937 para bibliotecarios, archiveros, conservadores e investigadores de teatro y artes escÃ©nicas. Promueve adquisiciÃ³n, catalogaciÃ³n, acceso, preservaciÃ³n y uso Ã©tico de materiales de performance. ([AsociaciÃ³n Americana de Bibliotecas](https://www.ala.org/aboutala/affiliates/affiliates/tla?utm_source=chatgpt.com "Theater Library Association | ALA"))
+[Theatre Library Association — TLA](https://www.tla-online.org/?utm_source=chatgpt.com) – Asociación fundada en 1937 para bibliotecarios, archiveros, conservadores e investigadores de teatro y artes escénicas. Promueve adquisición, catalogación, acceso, preservación y uso ético de materiales de performance. ([Asociación Americana de Bibliotecas](https://www.ala.org/aboutala/affiliates/affiliates/tla?utm_source=chatgpt.com "Theater Library Association | ALA"))
 
-[SIBMAS â€” International Association of Libraries, Museums, Archives and Documentation Centres of the Performing Arts](https://www.sibmas.org/?utm_source=chatgpt.com) â€“ Red internacional especializada en patrimonio documental de teatro y artes escÃ©nicas, integrada por bibliotecas, archivos, museos e instituciones de investigaciÃ³n.
+[SIBMAS — International Association of Libraries, Museums, Archives and Documentation Centres of the Performing Arts](https://www.sibmas.org/?utm_source=chatgpt.com) – Red internacional especializada en patrimonio documental de teatro y artes escénicas, integrada por bibliotecas, archivos, museos e instituciones de investigación.
 
-[American Society for Theatre Research â€” ASTR](https://www.astr.org/?utm_source=chatgpt.com) â€“ AsociaciÃ³n acadÃ©mica de estudios teatrales y de performance con congresos, publicaciones y premios de investigaciÃ³n.
+[American Society for Theatre Research — ASTR](https://www.astr.org/?utm_source=chatgpt.com) – Asociación académica de estudios teatrales y de performance con congresos, publicaciones y premios de investigación.
 
-[Association for Theatre in Higher Education â€” ATHE](https://www.athe.org/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n orientada a docencia, investigaciÃ³n y prÃ¡ctica teatral en educaciÃ³n superior, con grupos especializados y conferencias profesionales.
+[Association for Theatre in Higher Education — ATHE](https://www.athe.org/?utm_source=chatgpt.com) – Organización orientada a docencia, investigación y práctica teatral en educación superior, con grupos especializados y conferencias profesionales.
 
-[International Organization of Scenographers, Theatre Architects and Technicians â€” OISTAT](https://www.oistat.org/?utm_source=chatgpt.com) â€“ Red mundial dedicada a escenografÃ­a, arquitectura teatral, tecnologÃ­a, diseÃ±o, educaciÃ³n y prÃ¡ctica tÃ©cnica de las artes escÃ©nicas.
+[International Organization of Scenographers, Theatre Architects and Technicians — OISTAT](https://www.oistat.org/?utm_source=chatgpt.com) – Red mundial dedicada a escenografía, arquitectura teatral, tecnología, diseño, educación y práctica técnica de las artes escénicas.
 
-[International Association of Theatre Critics â€” IATC/AICT](https://aict-iatc.org/?utm_source=chatgpt.com) â€“ AsociaciÃ³n internacional vinculada histÃ³ricamente a UNESCO que agrupa crÃ­ticos teatrales y promueve formaciÃ³n, reflexiÃ³n crÃ­tica y cooperaciÃ³n internacional.
+[International Association of Theatre Critics — IATC/AICT](https://aict-iatc.org/?utm_source=chatgpt.com) – Asociación internacional vinculada históricamente a UNESCO que agrupa críticos teatrales y promueve formación, reflexión crítica y cooperación internacional.
 
-[International Amateur Theatre Association â€” AITA/IATA](https://www.aitaiata.net/?utm_source=chatgpt.com) â€“ OrganizaciÃ³n internacional dedicada al teatro amateur y comunitario, festivales, intercambio y formaciÃ³n escÃ©nica.
+[International Amateur Theatre Association — AITA/IATA](https://www.aitaiata.net/?utm_source=chatgpt.com) – Organización internacional dedicada al teatro amateur y comunitario, festivales, intercambio y formación escénica.
 
 # NEWSLETTER
 
-[International Theatre Institute â€” Newsletter](https://www.iti-worldwide.org/?utm_source=chatgpt.com) â€“ BoletÃ­n sobre World Theatre Day, congresos, centros nacionales, proyectos internacionales y actividades de artes escÃ©nicas. El propio ITI ofrece suscripciÃ³n a un boletÃ­n digital. ([Instituto Internacional de Teatro](https://www.iti-worldwide.org/es/goals.html?utm_source=chatgpt.com "Instituto Internacional del Teatro ITI"))
+[International Theatre Institute — Newsletter](https://www.iti-worldwide.org/?utm_source=chatgpt.com) – Boletín sobre World Theatre Day, congresos, centros nacionales, proyectos internacionales y actividades de artes escénicas. El propio ITI ofrece suscripción a un boletín digital. ([Instituto Internacional de Teatro](https://www.iti-worldwide.org/es/goals.html?utm_source=chatgpt.com "Instituto Internacional del Teatro ITI"))
 
-[HowlRound Theatre Commons â€” Newsletter](https://howlround.com/?utm_source=chatgpt.com) â€“ Actualizaciones sobre ensayos, transmisiones, podcasts, convocatorias y conversaciones internacionales del sector teatral.
+[HowlRound Theatre Commons — Newsletter](https://howlround.com/?utm_source=chatgpt.com) – Actualizaciones sobre ensayos, transmisiones, podcasts, convocatorias y conversaciones internacionales del sector teatral.
 
-[Theatre Communications Group â€” Newsletter](https://www.tcg.org/?utm_source=chatgpt.com) â€“ InformaciÃ³n profesional sobre congresos, ayudas, publicaciones, investigaciones y novedades del teatro estadounidense.
+[Theatre Communications Group — Newsletter](https://www.tcg.org/?utm_source=chatgpt.com) – Información profesional sobre congresos, ayudas, publicaciones, investigaciones y novedades del teatro estadounidense.
 
-[American Theatre â€” Newsletter](https://www.americantheatre.org/?utm_source=chatgpt.com) â€“ BoletÃ­n editorial de la revista con noticias, entrevistas, anÃ¡lisis del sector y contenido diario. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
+[American Theatre — Newsletter](https://www.americantheatre.org/?utm_source=chatgpt.com) – Boletín editorial de la revista con noticias, entrevistas, análisis del sector y contenido diario. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
 
-[V\&A Theatre & Performance Blog](https://www.vam.ac.uk/blog/museum-life/theatre-and-performance?utm_source=chatgpt.com) â€“ Actualizaciones del equipo de archivo sobre adquisiciones, catalogaciÃ³n, conservaciÃ³n, investigaciÃ³n y acceso a los fondos teatrales. ([Victoria and Albert Museum](https://www.vam.ac.uk/blog/museum-life/theatre-and-performance?utm_source=chatgpt.com "Theatre and Performance Archives â€¢ V\&A Blog"))
+[V\&A Theatre & Performance Blog](https://www.vam.ac.uk/blog/museum-life/theatre-and-performance?utm_source=chatgpt.com) – Actualizaciones del equipo de archivo sobre adquisiciones, catalogación, conservación, investigación y acceso a los fondos teatrales. ([Victoria and Albert Museum](https://www.vam.ac.uk/blog/museum-life/theatre-and-performance?utm_source=chatgpt.com "Theatre and Performance Archives • V\&A Blog"))
 
-[CDAEM / Teatro.es â€” Actualidad](https://www.teatro.es/?utm_source=chatgpt.com) â€“ Canal de novedades de uno de los principales centros de documentaciÃ³n teatral en espaÃ±ol, con publicaciones, bases de datos, efemÃ©rides y actividades.
+[CDAEM / Teatro.es — Actualidad](https://www.teatro.es/?utm_source=chatgpt.com) – Canal de novedades de uno de los principales centros de documentación teatral en español, con publicaciones, bases de datos, efemérides y actividades.
 
-[Royal Shakespeare Company â€” Newsletter](https://www.rsc.org.uk/?utm_source=chatgpt.com) â€“ InformaciÃ³n sobre repertorio, producciÃ³n, recursos educativos, giras y actividades de la compaÃ±Ã­a.
+[Royal Shakespeare Company — Newsletter](https://www.rsc.org.uk/?utm_source=chatgpt.com) – Información sobre repertorio, producción, recursos educativos, giras y actividades de la compañía.
 
-[National Theatre â€” Newsletter](https://www.nationaltheatre.org.uk/?utm_source=chatgpt.com) â€“ Actualizaciones sobre producciones, National Theatre Live, educaciÃ³n y materiales documentales.
+[National Theatre — Newsletter](https://www.nationaltheatre.org.uk/?utm_source=chatgpt.com) – Actualizaciones sobre producciones, National Theatre Live, educación y materiales documentales.
 
 # TV
 
-[National Theatre at Home](https://www.ntathome.com/?utm_source=chatgpt.com) â€“ Plataforma audiovisual bajo demanda del National Theatre para producciones teatrales completas y material complementario; constituye una de las principales vÃ­as actuales de acceso domÃ©stico a teatro filmado.
+[National Theatre at Home](https://www.ntathome.com/?utm_source=chatgpt.com) – Plataforma audiovisual bajo demanda del National Theatre para producciones teatrales completas y material complementario; constituye una de las principales vías actuales de acceso doméstico a teatro filmado.
 
-[National Theatre Live](https://www.ntlive.com/?utm_source=chatgpt.com) â€“ Programa de retransmisiÃ³n de producciones teatrales a cines internacionales, iniciado por el National Theatre para ampliar el acceso a representaciones escÃ©nicas.
+[National Theatre Live](https://www.ntlive.com/?utm_source=chatgpt.com) – Programa de retransmisión de producciones teatrales a cines internacionales, iniciado por el National Theatre para ampliar el acceso a representaciones escénicas.
 
-[PBS Great Performances](https://www.pbs.org/wnet/gperf/?utm_source=chatgpt.com) â€“ Serie de televisiÃ³n pÃºblica estadounidense con teatro, musicales, Ã³pera, danza y otros espectÃ¡culos filmados, ademÃ¡s de documentales sobre producciÃ³n escÃ©nica.
+[PBS Great Performances](https://www.pbs.org/wnet/gperf/?utm_source=chatgpt.com) – Serie de televisión pública estadounidense con teatro, musicales, ópera, danza y otros espectáculos filmados, además de documentales sobre producción escénica.
 
-[BBC Arts](https://www.bbc.co.uk/arts?utm_source=chatgpt.com) â€“ ProducciÃ³n cultural de la BBC con documentales, entrevistas, retransmisiones y archivo histÃ³rico relacionado con teatro britÃ¡nico e internacional.
+[BBC Arts](https://www.bbc.co.uk/arts?utm_source=chatgpt.com) – Producción cultural de la BBC con documentales, entrevistas, retransmisiones y archivo histórico relacionado con teatro británico e internacional.
 
-[BBC Shakespeare Archive](https://www.bbc.co.uk/archive/?utm_source=chatgpt.com) â€“ Archivo audiovisual de la BBC que permite estudiar interpretaciones televisivas de Shakespeare y documentaciÃ³n sobre actores, directores y adaptaciones.
+[BBC Shakespeare Archive](https://www.bbc.co.uk/archive/?utm_source=chatgpt.com) – Archivo audiovisual de la BBC que permite estudiar interpretaciones televisivas de Shakespeare y documentación sobre actores, directores y adaptaciones.
 
-[ARTE Concert](https://www.arte.tv/en/arte-concert/?utm_source=chatgpt.com) â€“ Plataforma cultural franco-alemana que programa teatro, danza, Ã³pera, performance y festivales europeos.
+[ARTE Concert](https://www.arte.tv/en/arte-concert/?utm_source=chatgpt.com) – Plataforma cultural franco-alemana que programa teatro, danza, ópera, performance y festivales europeos.
 
-[medici.tv](https://www.medici.tv/?utm_source=chatgpt.com) â€“ Plataforma especializada en artes escÃ©nicas audiovisuales. Aunque predomina la mÃºsica clÃ¡sica y la Ã³pera, su catÃ¡logo resulta pertinente para teatro musical, direcciÃ³n escÃ©nica y cruces entre disciplinas.
+[medici.tv](https://www.medici.tv/?utm_source=chatgpt.com) – Plataforma especializada en artes escénicas audiovisuales. Aunque predomina la música clásica y la ópera, su catálogo resulta pertinente para teatro musical, dirección escénica y cruces entre disciplinas.
 
-[Teatro.es â€” Obras en streaming](https://www.teatro.es/?utm_source=chatgpt.com) â€“ El CDAEM ofrece una selecciÃ³n de audios y vÃ­deos completos procedentes de su archivo teatral, destinados a investigaciÃ³n, educaciÃ³n y consulta profesional. ([Teatro](https://www.teatro.es/es/catalogo/general_1?utm_source=chatgpt.com "CatÃ¡logo de documentos â€” Teatro.es"))
+[Teatro.es — Obras en streaming](https://www.teatro.es/?utm_source=chatgpt.com) – El CDAEM ofrece una selección de audios y vídeos completos procedentes de su archivo teatral, destinados a investigación, educación y consulta profesional. ([Teatro](https://www.teatro.es/es/catalogo/general_1?utm_source=chatgpt.com "Catálogo de documentos — Teatro.es"))
 
 # RADIO
 
-[BBC Radio 4 â€” Front Row](https://www.bbc.co.uk/programmes/b006qsq5?utm_source=chatgpt.com) â€“ Programa cultural con entrevistas, crÃ­tica y actualidad de teatro, literatura, cine, artes visuales y mÃºsica.
+[BBC Radio 4 — Front Row](https://www.bbc.co.uk/programmes/b006qsq5?utm_source=chatgpt.com) – Programa cultural con entrevistas, crítica y actualidad de teatro, literatura, cine, artes visuales y música.
 
-[BBC Radio 3 â€” Drama on 3](https://www.bbc.co.uk/programmes/b006tnwj?utm_source=chatgpt.com) â€“ ProducciÃ³n radiofÃ³nica de dramaturgia clÃ¡sica y contemporÃ¡nea, adaptaciones, nuevos textos y obras con intÃ©rpretes teatrales profesionales.
+[BBC Radio 3 — Drama on 3](https://www.bbc.co.uk/programmes/b006tnwj?utm_source=chatgpt.com) – Producción radiofónica de dramaturgia clásica y contemporánea, adaptaciones, nuevos textos y obras con intérpretes teatrales profesionales.
 
-[Radio 3 â€” Radio Nacional de EspaÃ±a](https://www.rtve.es/radio/radio3/?utm_source=chatgpt.com) â€“ Emisora cultural pÃºblica con programaciÃ³n relacionada con artes escÃ©nicas, dramaturgia, festivales y creadores contemporÃ¡neos.
+[Radio 3 — Radio Nacional de España](https://www.rtve.es/radio/radio3/?utm_source=chatgpt.com) – Emisora cultural pública con programación relacionada con artes escénicas, dramaturgia, festivales y creadores contemporáneos.
 
-[Radio Nacional de EspaÃ±a â€” Documentos RNE](https://www.rtve.es/play/audios/documentos-rne/?utm_source=chatgpt.com) â€“ Archivo documental sonoro Ãºtil para biografÃ­as de dramaturgos, actores, compaÃ±Ã­as y episodios histÃ³ricos de la cultura escÃ©nica espaÃ±ola.
+[Radio Nacional de España — Documentos RNE](https://www.rtve.es/play/audios/documentos-rne/?utm_source=chatgpt.com) – Archivo documental sonoro útil para biografías de dramaturgos, actores, compañías y episodios históricos de la cultura escénica española.
 
-[France Culture â€” ThÃ©Ã¢tre](https://www.radiofrance.fr/franceculture?utm_source=chatgpt.com) â€“ Radio pÃºblica francesa con teatro radiofÃ³nico, entrevistas, crÃ­tica, dramaturgia y programas sobre historia de la escena.
+[France Culture — Théâtre](https://www.radiofrance.fr/franceculture?utm_source=chatgpt.com) – Radio pública francesa con teatro radiofónico, entrevistas, crítica, dramaturgia y programas sobre historia de la escena.
 
-[Entendre le thÃ©Ã¢tre â€” BnF](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com) â€“ Proyecto sonoro documental centrado en archivos del teatro francÃ©s del siglo XX. ([BnF - Site institutionnel](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com "DÃ©partement des Arts du spectacle | BnF - Site institutionnel"))
+[Entendre le théâtre — BnF](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com) – Proyecto sonoro documental centrado en archivos del teatro francés del siglo XX. ([BnF - Site institutionnel](https://www.bnf.fr/fr/departement-des-arts-du-spectacle?utm_source=chatgpt.com "Département des Arts du spectacle | BnF - Site institutionnel"))
 
 # PRENSA ONLINE
 
-[American Theatre](https://www.americantheatre.org/?utm_source=chatgpt.com) â€“ PublicaciÃ³n profesional especializada con noticias diarias, entrevistas, perfiles, anÃ¡lisis de polÃ­ticas culturales y cobertura del teatro sin Ã¡nimo de lucro estadounidense y de acontecimientos internacionales. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
+[American Theatre](https://www.americantheatre.org/?utm_source=chatgpt.com) – Publicación profesional especializada con noticias diarias, entrevistas, perfiles, análisis de políticas culturales y cobertura del teatro sin ánimo de lucro estadounidense y de acontecimientos internacionales. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
 
-[The Stage](https://www.thestage.co.uk/?utm_source=chatgpt.com) â€“ Medio profesional britÃ¡nico dedicado a teatro y artes escÃ©nicas: noticias, crÃ­tica, empleo, producciÃ³n, legislaciÃ³n, formaciÃ³n y anÃ¡lisis sectorial.
+[The Stage](https://www.thestage.co.uk/?utm_source=chatgpt.com) – Medio profesional británico dedicado a teatro y artes escénicas: noticias, crítica, empleo, producción, legislación, formación y análisis sectorial.
 
-[Playbill](https://playbill.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n especializada en Broadway, Off-Broadway, giras estadounidenses y teatro internacional, con archivo de producciones, reparto y noticias profesionales.
+[Playbill](https://playbill.com/?utm_source=chatgpt.com) – Publicación especializada en Broadway, Off-Broadway, giras estadounidenses y teatro internacional, con archivo de producciones, reparto y noticias profesionales.
 
-[The Guardian â€” Stage](https://www.theguardian.com/stage?utm_source=chatgpt.com) â€“ SecciÃ³n de teatro y artes escÃ©nicas con crÃ­tica, entrevistas, reportajes, obituarios y cobertura internacional.
+[The Guardian — Stage](https://www.theguardian.com/stage?utm_source=chatgpt.com) – Sección de teatro y artes escénicas con crítica, entrevistas, reportajes, obituarios y cobertura internacional.
 
-[The New York Times â€” Theater](https://www.nytimes.com/section/theater?utm_source=chatgpt.com) â€“ Cobertura crÃ­tica y periodÃ­stica del teatro estadounidense, Broadway, Off-Broadway y principales acontecimientos escÃ©nicos internacionales.
+[The New York Times — Theater](https://www.nytimes.com/section/theater?utm_source=chatgpt.com) – Cobertura crítica y periodística del teatro estadounidense, Broadway, Off-Broadway y principales acontecimientos escénicos internacionales.
 
-[TheaterMania](https://www.theatermania.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n digital estadounidense con noticias, entrevistas, crÃ­tica y seguimiento de producciones teatrales.
+[TheaterMania](https://www.theatermania.com/?utm_source=chatgpt.com) – Publicación digital estadounidense con noticias, entrevistas, crítica y seguimiento de producciones teatrales.
 
-[Scherzo â€” Teatro y escena](https://scherzo.es/?utm_source=chatgpt.com) â€“ Revista cultural espaÃ±ola especialmente centrada en mÃºsica y Ã³pera, pero con cobertura Ãºtil de puesta en escena, direcciÃ³n y teatro musical.
+[Scherzo — Teatro y escena](https://scherzo.es/?utm_source=chatgpt.com) – Revista cultural española especialmente centrada en música y ópera, pero con cobertura útil de puesta en escena, dirección y teatro musical.
 
-[Teatro.es â€” CDAEM](https://www.teatro.es/?utm_source=chatgpt.com) â€“ AdemÃ¡s de su funciÃ³n archivÃ­stica, publica contenidos documentales sobre historia del teatro espaÃ±ol, efemÃ©rides, investigaciÃ³n y actividad escÃ©nica contemporÃ¡nea. ([Teatro](https://www.teatro.es/es/conocenos/presentacion?utm_source=chatgpt.com "PresentaciÃ³n â€” Teatro.es"))
+[Teatro.es — CDAEM](https://www.teatro.es/?utm_source=chatgpt.com) – Además de su función archivística, publica contenidos documentales sobre historia del teatro español, efemérides, investigación y actividad escénica contemporánea. ([Teatro](https://www.teatro.es/es/conocenos/presentacion?utm_source=chatgpt.com "Presentación — Teatro.es"))
 
-[HowlRound Theatre Commons](https://howlround.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n abierta para anÃ¡lisis y debate profesional sobre dramaturgia, producciÃ³n, identidad, Ã©tica, pedagogÃ­a y polÃ­ticas de la escena.
+[HowlRound Theatre Commons](https://howlround.com/?utm_source=chatgpt.com) – Publicación abierta para análisis y debate profesional sobre dramaturgia, producción, identidad, ética, pedagogía y políticas de la escena.
 
-[BroadwayWorld](https://www.broadwayworld.com/?utm_source=chatgpt.com) â€“ Medio digital de amplia cobertura internacional sobre teatro comercial y profesional, especialmente Broadway, West End y producciones regionales.
+[BroadwayWorld](https://www.broadwayworld.com/?utm_source=chatgpt.com) – Medio digital de amplia cobertura internacional sobre teatro comercial y profesional, especialmente Broadway, West End y producciones regionales.
 
 # PRENSA ESCRITA
 
-[American Theatre â€” ediciÃ³n impresa](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com) â€“ Revista de Theatre Communications Group fundada en 1984. Su ediciÃ³n trimestral incluye reportajes extensos y, en determinados nÃºmeros, textos teatrales completos no disponibles Ã­ntegramente en la web. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
+[American Theatre — edición impresa](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com) – Revista de Theatre Communications Group fundada en 1984. Su edición trimestral incluye reportajes extensos y, en determinados números, textos teatrales completos no disponibles íntegramente en la web. ([americantheatre.org](https://www.americantheatre.org/about-us/?utm_source=chatgpt.com "AMERICAN THEATRE | About Us"))
 
-[The Stage](https://www.thestage.co.uk/?utm_source=chatgpt.com) â€“ HistÃ³rico semanario profesional britÃ¡nico dedicado a teatro y entretenimiento, fundamental para documentar carreras, producciones, empresas y evoluciÃ³n laboral del sector.
+[The Stage](https://www.thestage.co.uk/?utm_source=chatgpt.com) – Histórico semanario profesional británico dedicado a teatro y entretenimiento, fundamental para documentar carreras, producciones, empresas y evolución laboral del sector.
 
-[Theatre Research International](https://www.cambridge.org/core/journals/theatre-research-international?utm_source=chatgpt.com) â€“ Revista acadÃ©mica internacional de IFTR con ediciÃ³n periÃ³dica en papel y digital sobre historia, teorÃ­a y prÃ¡cticas teatrales globales. ([Cambridge University Press](https://www.cambridge.org/core/membership/iftr?utm_source=chatgpt.com "International Federation for Theatre Research"))
+[Theatre Research International](https://www.cambridge.org/core/journals/theatre-research-international?utm_source=chatgpt.com) – Revista académica internacional de IFTR con edición periódica en papel y digital sobre historia, teoría y prácticas teatrales globales. ([Cambridge University Press](https://www.cambridge.org/core/membership/iftr?utm_source=chatgpt.com "International Federation for Theatre Research"))
 
-[Theatre Journal](https://www.press.jhu.edu/journals/theatre-journal?utm_source=chatgpt.com) â€“ PublicaciÃ³n acadÃ©mica impresa y electrÃ³nica de referencia en estudios teatrales y de performance.
+[Theatre Journal](https://www.press.jhu.edu/journals/theatre-journal?utm_source=chatgpt.com) – Publicación académica impresa y electrónica de referencia en estudios teatrales y de performance.
 
-[Theatre Survey](https://www.cambridge.org/core/journals/theatre-survey?utm_source=chatgpt.com) â€“ Revista de la American Society for Theatre Research dedicada especialmente a investigaciÃ³n histÃ³rica, archivos y metodologÃ­as teatrales.
+[Theatre Survey](https://www.cambridge.org/core/journals/theatre-survey?utm_source=chatgpt.com) – Revista de la American Society for Theatre Research dedicada especialmente a investigación histórica, archivos y metodologías teatrales.
 
-[Asian Theatre Journal](https://uhpress.hawaii.edu/title/atj/?utm_source=chatgpt.com) â€“ Referencia impresa fundamental para investigaciÃ³n sobre teatro de JapÃ³n, China, India, Sudeste AsiÃ¡tico y otras regiones de Asia.
+[Asian Theatre Journal](https://uhpress.hawaii.edu/title/atj/?utm_source=chatgpt.com) – Referencia impresa fundamental para investigación sobre teatro de Japón, China, India, Sudeste Asiático y otras regiones de Asia.
 
-[Revista de la AsociaciÃ³n de Directores de Escena de EspaÃ±a â€” ADE Teatro](https://www.adeteatro.com/?utm_source=chatgpt.com) â€“ PublicaciÃ³n profesional y crÃ­tica espaÃ±ola sobre direcciÃ³n escÃ©nica, dramaturgia, teorÃ­a y actividad teatral.
+[Revista de la Asociación de Directores de Escena de España — ADE Teatro](https://www.adeteatro.com/?utm_source=chatgpt.com) – Publicación profesional y crítica española sobre dirección escénica, dramaturgia, teoría y actividad teatral.
 
-[Theater der Zeit](https://www.theaterderzeit.de/?utm_source=chatgpt.com) â€“ Revista alemana especializada en escena contemporÃ¡nea, dramaturgia, direcciÃ³n, crÃ­tica, polÃ­tica cultural y teatro europeo.
+[Theater der Zeit](https://www.theaterderzeit.de/?utm_source=chatgpt.com) – Revista alemana especializada en escena contemporánea, dramaturgia, dirección, crítica, política cultural y teatro europeo.
 
-[Theater heute](https://www.der-theaterverlag.de/theater-heute/?utm_source=chatgpt.com) â€“ Revista alemana de referencia sobre producciÃ³n, dramaturgia y crÃ­tica teatral contemporÃ¡nea en Alemania y otros paÃ­ses europeos.
+[Theater heute](https://www.der-theaterverlag.de/theater-heute/?utm_source=chatgpt.com) – Revista alemana de referencia sobre producción, dramaturgia y crítica teatral contemporánea en Alemania y otros países europeos.
 
-[Theatre Histories: An Introduction â€” Routledge](https://www.routledge.com/Theatre-Histories-An-Introduction/Nellhaus-Lei-Underiner-Ybarra/p/book/9781032027906?utm_source=chatgpt.com) â€“ Manual acadÃ©mico impreso de 2024 que funciona como referencia sistemÃ¡tica para historia mundial del teatro, integrando Europa, AmÃ©rica, Asia y otras tradiciones desde una perspectiva comparativa. ([Routledge](https://www.routledge.com/Theatre-Histories-An-Introduction/Nellhaus-Lei-Underiner-Ybarra/p/book/9781032027906?utm_source=chatgpt.com "Theatre Histories: An Introduction - 4th Edition - Tobin Nellhaus - Da"))
+[Theatre Histories: An Introduction — Routledge](https://www.routledge.com/Theatre-Histories-An-Introduction/Nellhaus-Lei-Underiner-Ybarra/p/book/9781032027906?utm_source=chatgpt.com) – Manual académico impreso de 2024 que funciona como referencia sistemática para historia mundial del teatro, integrando Europa, América, Asia y otras tradiciones desde una perspectiva comparativa. ([Routledge](https://www.routledge.com/Theatre-Histories-An-Introduction/Nellhaus-Lei-Underiner-Ybarra/p/book/9781032027906?utm_source=chatgpt.com "Theatre Histories: An Introduction - 4th Edition - Tobin Nellhaus - Da"))

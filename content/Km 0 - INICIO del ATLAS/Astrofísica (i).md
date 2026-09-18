@@ -1,661 +1,661 @@
 ---
 publish: true
 created: 2026-08-06T05:19:01.574Z
-modified: 2026-09-17T10:14:21.591Z
+modified: 2026-09-18T09:36:38.030Z
 ---
 
-#Ãndices #Ciencia
+#Índices #Ciencia
 
 ![[Biblioteca/astrofisica.jpg]]
-âœ… Enlaces comprobados y operativos el 14 de julio de 2026. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+✅ Enlaces comprobados y operativos el 14 de julio de 2026. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-## [WIKIPEDIA: AstrofÃ­sica](https://es.wikipedia.org/wiki/Astrof%C3%ADsica?wprov=sfla1)
+## [WIKIPEDIA: Astrofísica](https://es.wikipedia.org/wiki/Astrof%C3%ADsica?wprov=sfla1)
 
 ## WEB
 
-- [NASA Astrophysics](https://science.nasa.gov/astrophysics/) â€” Misiones, programas cientÃ­ficos, noticias y recursos de astrofÃ­sica de la NASA.
+- [NASA Astrophysics](https://science.nasa.gov/astrophysics/) — Misiones, programas científicos, noticias y recursos de astrofísica de la NASA.
 
-- [ESA Space Science](https://www.esa.int/Science_Exploration/Space_Science) â€” ExploraciÃ³n cientÃ­fica del espacio y misiones de la Agencia Espacial Europea.
+- [ESA Space Science](https://www.esa.int/Science_Exploration/Space_Science) — Exploración científica del espacio y misiones de la Agencia Espacial Europea.
 
-- [European Southern Observatory](https://www.eso.org/public/) â€” Observatorios, descubrimientos y material divulgativo sobre astronomÃ­a profesional.
+- [European Southern Observatory](https://www.eso.org/public/) — Observatorios, descubrimientos y material divulgativo sobre astronomía profesional.
 
-- [Space Telescope Science Institute](https://www.stsci.edu/) â€” Centro cientÃ­fico de los telescopios espaciales Hubble, Webb y Roman.
+- [Space Telescope Science Institute](https://www.stsci.edu/) — Centro científico de los telescopios espaciales Hubble, Webb y Roman.
 
-- [NSF NOIRLab](https://noirlab.edu/public/) â€” Portal de los principales observatorios estadounidenses de astronomÃ­a Ã³ptica e infrarroja.
+- [NSF NOIRLab](https://noirlab.edu/public/) — Portal de los principales observatorios estadounidenses de astronomía óptica e infrarroja.
 
-- [ALMA Observatory](https://www.almaobservatory.org/en/home/) â€” InformaciÃ³n cientÃ­fica e imÃ¡genes del gran interferÃ³metro milimÃ©trico de Atacama.
+- [ALMA Observatory](https://www.almaobservatory.org/en/home/) — Información científica e imágenes del gran interferómetro milimétrico de Atacama.
 
-- [National Radio Astronomy Observatory](https://public.nrao.edu/) â€” Recursos, noticias y observatorios dedicados a la radioastronomÃ­a.
+- [National Radio Astronomy Observatory](https://public.nrao.edu/) — Recursos, noticias y observatorios dedicados a la radioastronomía.
 
-- [JAXA Institute of Space and Astronautical Science](https://www.isas.jaxa.jp/en/) â€” InvestigaciÃ³n espacial y misiones cientÃ­ficas japonesas.
+- [JAXA Institute of Space and Astronautical Science](https://www.isas.jaxa.jp/en/) — Investigación espacial y misiones científicas japonesas.
 
-- [Indian Institute of Astrophysics](https://www.iiap.res.in/) â€” Instituto de referencia para la investigaciÃ³n astronÃ³mica y solar en India.
+- [Indian Institute of Astrophysics](https://www.iiap.res.in/) — Instituto de referencia para la investigación astronómica y solar en India.
 
-- [National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) â€” Observatorios, proyectos internacionales y resultados cientÃ­ficos japoneses.
+- [National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) — Observatorios, proyectos internacionales y resultados científicos japoneses.
 
-- [South African Radio Astronomy Observatory](https://www.sarao.ac.za/) â€” RadioastronomÃ­a africana y desarrollo de MeerKAT y SKA.
+- [South African Radio Astronomy Observatory](https://www.sarao.ac.za/) — Radioastronomía africana y desarrollo de MeerKAT y SKA.
 
-- [South African Astronomical Observatory](https://www.saao.ac.za/) â€” InvestigaciÃ³n Ã³ptica e infrarroja desde el hemisferio sur.
+- [South African Astronomical Observatory](https://www.saao.ac.za/) — Investigación óptica e infrarroja desde el hemisferio sur.
 
-- [Astrobites](https://astrobites.org/) â€” ResÃºmenes accesibles de artÃ­culos recientes escritos por jÃ³venes investigadores.
+- [Astrobites](https://astrobites.org/) — Resúmenes accesibles de artículos recientes escritos por jóvenes investigadores.
 
-- [arXiv Astrophysics](https://arxiv.org/archive/astro-ph) â€” Repositorio abierto de prepublicaciones en todas las Ã¡reas de la astrofÃ­sica.
+- [arXiv Astrophysics](https://arxiv.org/archive/astro-ph) — Repositorio abierto de prepublicaciones en todas las áreas de la astrofísica.
 
-- [NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/) â€” Buscador bibliogrÃ¡fico esencial para astronomÃ­a, astrofÃ­sica y fÃ­sica.
+- [NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/) — Buscador bibliográfico esencial para astronomía, astrofísica y física.
 
-- [SIMBAD Astronomical Database](https://simbad.cds.unistra.fr/simbad/) â€” Base de datos de objetos astronÃ³micos identificados en la literatura cientÃ­fica.
+- [SIMBAD Astronomical Database](https://simbad.cds.unistra.fr/simbad/) — Base de datos de objetos astronómicos identificados en la literatura científica.
 
-- [NASA/IPAC Extragalactic Database](https://ned.ipac.caltech.edu/) â€” Datos y bibliografÃ­a de galaxias y otros objetos extragalÃ¡cticos.
+- [NASA/IPAC Extragalactic Database](https://ned.ipac.caltech.edu/) — Datos y bibliografía de galaxias y otros objetos extragalácticos.
 
-- [HEASARC](https://heasarc.gsfc.nasa.gov/) â€” Archivo cientÃ­fico de misiones de astronomÃ­a de altas energÃ­as.
+- [HEASARC](https://heasarc.gsfc.nasa.gov/) — Archivo científico de misiones de astronomía de altas energías.
 
-- [Gaia Archive](https://gea.esac.esa.int/archive/) â€” CatÃ¡logo astromÃ©trico de la misiÃ³n Gaia de la ESA.
+- [Gaia Archive](https://gea.esac.esa.int/archive/) — Catálogo astrométrico de la misión Gaia de la ESA.
 
-- [Mikulski Archive for Space Telescopes](https://archive.stsci.edu/) â€” Archivo de datos de Hubble, Webb, Kepler, TESS y otras misiones.
+- [Mikulski Archive for Space Telescopes](https://archive.stsci.edu/) — Archivo de datos de Hubble, Webb, Kepler, TESS y otras misiones.
 
-- [NASA/IPAC Infrared Science Archive](https://irsa.ipac.caltech.edu/) â€” Datos de misiones y observatorios de astronomÃ­a infrarroja.
+- [NASA/IPAC Infrared Science Archive](https://irsa.ipac.caltech.edu/) — Datos de misiones y observatorios de astronomía infrarroja.
 
-- [Event Horizon Telescope](https://eventhorizontelescope.org/) â€” Proyecto internacional que obtiene imÃ¡genes de agujeros negros.
+- [Event Horizon Telescope](https://eventhorizontelescope.org/) — Proyecto internacional que obtiene imágenes de agujeros negros.
 
-- [UK Swift Science Data Centre](https://www.swift.ac.uk/) â€” Datos, herramientas y resultados de la misiÃ³n Swift.
+- [UK Swift Science Data Centre](https://www.swift.ac.uk/) — Datos, herramientas y resultados de la misión Swift.
 
-- [IceCube Neutrino Observatory](https://icecube.wisc.edu/) â€” Observatorio antÃ¡rtico dedicado a la astronomÃ­a de neutrinos.
+- [IceCube Neutrino Observatory](https://icecube.wisc.edu/) — Observatorio antártico dedicado a la astronomía de neutrinos.
 
-- [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) â€” InformaciÃ³n oficial, imÃ¡genes y descubrimientos del telescopio Webb.
+- [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) — Información oficial, imágenes y descubrimientos del telescopio Webb.
 
-- [Hubble Space Telescope](https://science.nasa.gov/mission/hubble/) â€” Archivo divulgativo y cientÃ­fico del telescopio espacial Hubble.
+- [Hubble Space Telescope](https://science.nasa.gov/mission/hubble/) — Archivo divulgativo y científico del telescopio espacial Hubble.
 
-- [Vera C. Rubin Observatory](https://rubinobservatory.org/) â€” Proyecto del gran sondeo temporal Legacy Survey of Space and Time.
+- [Vera C. Rubin Observatory](https://rubinobservatory.org/) — Proyecto del gran sondeo temporal Legacy Survey of Space and Time.
 
-- [Fermi Science Support Center](https://fermi.gsfc.nasa.gov/ssc/) â€” Datos y herramientas del observatorio espacial de rayos gamma Fermi.
+- [Fermi Science Support Center](https://fermi.gsfc.nasa.gov/ssc/) — Datos y herramientas del observatorio espacial de rayos gamma Fermi.
 
-- [LISA Consortium](https://www.lisamission.org/) â€” InformaciÃ³n cientÃ­fica sobre el futuro observatorio espacial de ondas gravitacionales.
+- [LISA Consortium](https://www.lisamission.org/) — Información científica sobre el futuro observatorio espacial de ondas gravitacionales.
 
-- [Cherenkov Telescope Array Observatory](https://www.ctao.org/) â€” Observatorio internacional de nueva generaciÃ³n para astronomÃ­a de rayos gamma.
+- [Cherenkov Telescope Array Observatory](https://www.ctao.org/) — Observatorio internacional de nueva generación para astronomía de rayos gamma.
 
 ## YOUTUBE
 
-- [PBS Space Time](https://www.youtube.com/@pbsspacetime) â€” Explicaciones rigurosas sobre cosmologÃ­a, relatividad, agujeros negros y fÃ­sica fundamental.
+- [PBS Space Time](https://www.youtube.com/@pbsspacetime) — Explicaciones rigurosas sobre cosmología, relatividad, agujeros negros y física fundamental.
 
-- [Dr. Becky](https://www.youtube.com/@DrBecky) â€” AstrofÃ­sica profesional, noticias cientÃ­ficas y anÃ¡lisis de descubrimientos recientes.
+- [Dr. Becky](https://www.youtube.com/@DrBecky) — Astrofísica profesional, noticias científicas y análisis de descubrimientos recientes.
 
-- [Sixty Symbols](https://www.youtube.com/@sixtysymbols) â€” Conversaciones con fÃ­sicos y astrÃ³nomos sobre conceptos y resultados cientÃ­ficos.
+- [Sixty Symbols](https://www.youtube.com/@sixtysymbols) — Conversaciones con físicos y astrónomos sobre conceptos y resultados científicos.
 
-- [Cool Worlds](https://www.youtube.com/@CoolWorldsLab) â€” Exoplanetas, vida extraterrestre y ciencia planetaria desde la Universidad de Columbia.
+- [Cool Worlds](https://www.youtube.com/@CoolWorldsLab) — Exoplanetas, vida extraterrestre y ciencia planetaria desde la Universidad de Columbia.
 
-- [SEA](https://www.youtube.com/@SEA) â€” Documentales visuales sobre galaxias, estrellas, cosmologÃ­a y exploraciÃ³n espacial.
+- [SEA](https://www.youtube.com/@SEA) — Documentales visuales sobre galaxias, estrellas, cosmología y exploración espacial.
 
-- [Anton Petrov](https://www.youtube.com/@whatdamath) â€” Comentarios frecuentes sobre artÃ­culos y descubrimientos astronÃ³micos.
+- [Anton Petrov](https://www.youtube.com/@whatdamath) — Comentarios frecuentes sobre artículos y descubrimientos astronómicos.
 
-- [Launch Pad Astronomy](https://www.youtube.com/@LaunchPadAstronomy) â€” Lecciones estructuradas de astronomÃ­a y astrofÃ­sica para estudiantes.
+- [Launch Pad Astronomy](https://www.youtube.com/@LaunchPadAstronomy) — Lecciones estructuradas de astronomía y astrofísica para estudiantes.
 
-- [Astrum](https://www.youtube.com/@astrumspace) â€” Documentales sobre el sistema solar, estrellas, galaxias y misiones espaciales.
+- [Astrum](https://www.youtube.com/@astrumspace) — Documentales sobre el sistema solar, estrellas, galaxias y misiones espaciales.
 
-- [Fermilab](https://www.youtube.com/user/fermilab) â€” FÃ­sica de partÃ­culas, cosmologÃ­a y conexiones entre lo microscÃ³pico y el universo.
+- [Fermilab](https://www.youtube.com/user/fermilab) — Física de partículas, cosmología y conexiones entre lo microscópico y el universo.
 
-- [IAC AstrofÃ­sica](https://www.youtube.com/user/IACvideos) â€” Conferencias y divulgaciÃ³n del Instituto de AstrofÃ­sica de Canarias.
+- [IAC Astrofísica](https://www.youtube.com/user/IACvideos) — Conferencias y divulgación del Instituto de Astrofísica de Canarias.
 
 ## PODCAST
 
-- [The Supermassive Podcast](https://podcasts.apple.com/us/podcast/the-supermassive-podcast/id1495324190) â€” Conversaciones divulgativas con astrÃ³nomos sobre grandes preguntas del universo.
+- [The Supermassive Podcast](https://podcasts.apple.com/us/podcast/the-supermassive-podcast/id1495324190) — Conversaciones divulgativas con astrónomos sobre grandes preguntas del universo.
 
-- [The Cosmic Savannah](https://thecosmicsavannah.com/) â€” InvestigaciÃ³n astronÃ³mica africana, observatorios y protagonistas cientÃ­ficos del continente.
+- [The Cosmic Savannah](https://thecosmicsavannah.com/) — Investigación astronómica africana, observatorios y protagonistas científicos del continente.
 
-- [Astronomy Cast](https://www.astronomycast.com/) â€” Serie educativa de larga trayectoria sobre astronomÃ­a y astrofÃ­sica.
+- [Astronomy Cast](https://www.astronomycast.com/) — Serie educativa de larga trayectoria sobre astronomía y astrofísica.
 
-- [Ask a Spaceman](https://www.pmsutter.com/shows/askaspaceman) â€” Respuestas del astrofÃ­sico Paul M. Sutter a preguntas sobre el cosmos.
+- [Ask a Spaceman](https://www.pmsutter.com/shows/askaspaceman) — Respuestas del astrofísico Paul M. Sutter a preguntas sobre el cosmos.
 
-- [StarTalk Radio](https://startalkmedia.com/) â€” Ciencia, astronomÃ­a y cultura popular con Neil deGrasse Tyson e invitados.
+- [StarTalk Radio](https://startalkmedia.com/) — Ciencia, astronomía y cultura popular con Neil deGrasse Tyson e invitados.
 
-- [Big Picture Science](https://radio.seti.org/) â€” Ciencia, astrobiologÃ­a y bÃºsqueda de vida extraterrestre desde el SETI Institute.
+- [Big Picture Science](https://radio.seti.org/) — Ciencia, astrobiología y búsqueda de vida extraterrestre desde el SETI Institute.
 
-- [Astrophiz](https://astrophiz.com/) â€” Entrevistas con investigadores y episodios de observaciÃ³n del cielo.
+- [Astrophiz](https://astrophiz.com/) — Entrevistas con investigadores y episodios de observación del cielo.
 
-- [Syzygy](https://syzygy.fm/) â€” Actualidad astronÃ³mica comentada por astrÃ³nomos profesionales australianos.
+- [Syzygy](https://syzygy.fm/) — Actualidad astronómica comentada por astrónomos profesionales australianos.
 
-- [NASAâ€™s Curious Universe](https://www.nasa.gov/podcasts/curious-universe/) â€” Historias de misiones, descubrimientos y especialistas de la NASA.
+- [NASA’s Curious Universe](https://www.nasa.gov/podcasts/curious-universe/) — Historias de misiones, descubrimientos y especialistas de la NASA.
 
-- [The Jodcast](https://www.jodcast.net/) â€” Noticias, entrevistas y divulgaciÃ³n desde Jodrell Bank y la Universidad de Manchester.
+- [The Jodcast](https://www.jodcast.net/) — Noticias, entrevistas y divulgación desde Jodrell Bank y la Universidad de Manchester.
 
 ## LIBROS
 
-- [An Introduction to Modern Astrophysics â€” Bradley W. Carroll y Dale A. Ostlie](https://www.cambridge.org/highereducation/books/an-introduction-to-modern-astrophysics/140DDF8A480C3841DCCD76D66984D858) â€” Manual universitario integral sobre fÃ­sica estelar, galÃ¡ctica y cosmologÃ­a.
+- [An Introduction to Modern Astrophysics — Bradley W. Carroll y Dale A. Ostlie](https://www.cambridge.org/highereducation/books/an-introduction-to-modern-astrophysics/140DDF8A480C3841DCCD76D66984D858) — Manual universitario integral sobre física estelar, galáctica y cosmología.
 
-- [Astrophysics for Physicists â€” Arnab Rai Choudhuri](https://www.cambridge.org/core/books/astrophysics-for-physicists/9F6DBBDAAF177504899F5BB40B3BDE33) â€” IntroducciÃ³n rigurosa a los procesos fÃ­sicos fundamentales de la astrofÃ­sica.
+- [Astrophysics for Physicists — Arnab Rai Choudhuri](https://www.cambridge.org/core/books/astrophysics-for-physicists/9F6DBBDAAF177504899F5BB40B3BDE33) — Introducción rigurosa a los procesos físicos fundamentales de la astrofísica.
 
-- [High Energy Astrophysics â€” Malcolm S. Longair](https://ui.adsabs.harvard.edu/abs/2011hea..book.....L/abstract) â€” Referencia avanzada sobre radiaciÃ³n, partÃ­culas relativistas y fuentes de altas energÃ­as.
+- [High Energy Astrophysics — Malcolm S. Longair](https://ui.adsabs.harvard.edu/abs/2011hea..book.....L/abstract) — Referencia avanzada sobre radiación, partículas relativistas y fuentes de altas energías.
 
-- [Radiative Processes in Astrophysics â€” George B. Rybicki y Alan P. Lightman](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527618170) â€” Tratamiento clÃ¡sico de emisiÃ³n, absorciÃ³n y transferencia de radiaciÃ³n.
+- [Radiative Processes in Astrophysics — George B. Rybicki y Alan P. Lightman](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527618170) — Tratamiento clásico de emisión, absorción y transferencia de radiación.
 
-- [Galactic Astronomy â€” James Binney y Michael Merrifield](https://www.jstor.org/stable/j.ctv1nxcw51) â€” Estudio sistemÃ¡tico de la estructura y poblaciones de la VÃ­a LÃ¡ctea.
+- [Galactic Astronomy — James Binney y Michael Merrifield](https://www.jstor.org/stable/j.ctv1nxcw51) — Estudio sistemático de la estructura y poblaciones de la Vía Láctea.
 
-- [Galactic Dynamics â€” James Binney y Scott Tremaine](https://www.jstor.org/stable/j.ctvc778ff) â€” Obra fundamental sobre la dinÃ¡mica gravitatoria de galaxias.
+- [Galactic Dynamics — James Binney y Scott Tremaine](https://www.jstor.org/stable/j.ctvc778ff) — Obra fundamental sobre la dinámica gravitatoria de galaxias.
 
-- [Physical Processes in the Interstellar Medium â€” Lyman Spitzer Jr.](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617722) â€” Texto clÃ¡sico sobre la fÃ­sica del gas y el polvo interestelar.
+- [Physical Processes in the Interstellar Medium — Lyman Spitzer Jr.](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617722) — Texto clásico sobre la física del gas y el polvo interestelar.
 
-- [Black Holes, White Dwarfs, and Neutron Stars â€” Stuart L. Shapiro y Saul A. Teukolsky](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617661) â€” Referencia sobre objetos compactos y astrofÃ­sica relativista.
+- [Black Holes, White Dwarfs, and Neutron Stars — Stuart L. Shapiro y Saul A. Teukolsky](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617661) — Referencia sobre objetos compactos y astrofísica relativista.
 
-- [Stellar Structure and Evolution â€” Rudolf Kippenhahn, Alfred Weigert y Achim Weiss](https://link.springer.com/book/10.1007/978-3-642-30304-3) â€” Desarrollo detallado de los modelos fÃ­sicos de estructura y evoluciÃ³n estelar.
+- [Stellar Structure and Evolution — Rudolf Kippenhahn, Alfred Weigert y Achim Weiss](https://link.springer.com/book/10.1007/978-3-642-30304-3) — Desarrollo detallado de los modelos físicos de estructura y evolución estelar.
 
-- [The Physics of Stars â€” A. C. Phillips](https://www.wiley.com/en-us/The%2BPhysics%2Bof%2BStars%2C%2B2nd%2BEdition-p-9781118723272) â€” IntroducciÃ³n clara a las propiedades y procesos internos de las estrellas.
+- [The Physics of Stars — A. C. Phillips](https://www.wiley.com/en-us/The%2BPhysics%2Bof%2BStars%2C%2B2nd%2BEdition-p-9781118723272) — Introducción clara a las propiedades y procesos internos de las estrellas.
 
-- [Introduction to Cosmology â€” Barbara Ryden](https://www.cambridge.org/gb/universitypress/subjects/physics/cosmology-relativity-and-gravitation/introduction-cosmology-2nd-edition-1) â€” Manual accesible sobre expansiÃ³n cÃ³smica, materia oscura y universo temprano.
+- [Introduction to Cosmology — Barbara Ryden](https://www.cambridge.org/gb/universitypress/subjects/physics/cosmology-relativity-and-gravitation/introduction-cosmology-2nd-edition-1) — Manual accesible sobre expansión cósmica, materia oscura y universo temprano.
 
-- [Cosmological Physics â€” John A. Peacock](https://www.cambridge.org/core/books/cosmological-physics/3EA0C68658270C9C3CC48E07A035C327) â€” Tratamiento avanzado de cosmologÃ­a y formaciÃ³n de estructuras.
+- [Cosmological Physics — John A. Peacock](https://www.cambridge.org/core/books/cosmological-physics/3EA0C68658270C9C3CC48E07A035C327) — Tratamiento avanzado de cosmología y formación de estructuras.
 
-- [Extragalactic Astronomy and Cosmology â€” Peter Schneider](https://link.springer.com/book/10.1007/978-3-642-54083-7) â€” Panorama moderno de galaxias, lentes gravitatorias y cosmologÃ­a observacional.
+- [Extragalactic Astronomy and Cosmology — Peter Schneider](https://link.springer.com/book/10.1007/978-3-642-54083-7) — Panorama moderno de galaxias, lentes gravitatorias y cosmología observacional.
 
-- [Galaxy Formation and Evolution â€” Houjun Mo, Frank van den Bosch y Simon White](https://www.cambridge.org/core/books/galaxy-formation-and-evolution/E236D9F26B797202BCA28637BF17E75F) â€” SÃ­ntesis avanzada de los modelos de formaciÃ³n y evoluciÃ³n galÃ¡ctica.
+- [Galaxy Formation and Evolution — Houjun Mo, Frank van den Bosch y Simon White](https://www.cambridge.org/core/books/galaxy-formation-and-evolution/E236D9F26B797202BCA28637BF17E75F) — Síntesis avanzada de los modelos de formación y evolución galáctica.
 
-- [Gravitation â€” Charles W. Misner, Kip S. Thorne y John Archibald Wheeler](https://assets.press.princeton.edu/releases/m11169.pdf) â€” Tratado monumental de relatividad general y gravitaciÃ³n.
+- [Gravitation — Charles W. Misner, Kip S. Thorne y John Archibald Wheeler](https://assets.press.princeton.edu/releases/m11169.pdf) — Tratado monumental de relatividad general y gravitación.
 
-- [The First Three Minutes â€” Steven Weinberg](https://www.basicbooks.com/titles/steven-weinberg/the-first-three-minutes/9781541603318/) â€” ExplicaciÃ³n clÃ¡sica de las primeras etapas del universo.
+- [The First Three Minutes — Steven Weinberg](https://www.basicbooks.com/titles/steven-weinberg/the-first-three-minutes/9781541603318/) — Explicación clásica de las primeras etapas del universo.
 
-- [Black Holes & Time Warps â€” Kip S. Thorne](https://wwnorton.com/books/9780393312768) â€” Historia cientÃ­fica de los agujeros negros y la relatividad.
+- [Black Holes & Time Warps — Kip S. Thorne](https://wwnorton.com/books/9780393312768) — Historia científica de los agujeros negros y la relatividad.
 
-- [Cosmos â€” Carl Sagan](https://www.penguinrandomhouse.com/books/159730/cosmos-by-carl-sagan/) â€” Obra esencial de divulgaciÃ³n sobre el universo y la historia de la ciencia.
+- [Cosmos — Carl Sagan](https://www.penguinrandomhouse.com/books/159730/cosmos-by-carl-sagan/) — Obra esencial de divulgación sobre el universo y la historia de la ciencia.
 
-- [A Brief History of Time â€” Stephen Hawking](https://www.penguinrandomhouse.com/books/77010/a-brief-history-of-time-by-stephen-hawking/) â€” IntroducciÃ³n divulgativa a la cosmologÃ­a, el tiempo y los agujeros negros.
+- [A Brief History of Time — Stephen Hawking](https://www.penguinrandomhouse.com/books/77010/a-brief-history-of-time-by-stephen-hawking/) — Introducción divulgativa a la cosmología, el tiempo y los agujeros negros.
 
-- [The End of Everything (Astrophysically Speaking) â€” Katie Mack](https://www.astrokatie.com/book) â€” Recorrido por los principales escenarios cientÃ­ficos del final del universo.
+- [The End of Everything (Astrophysically Speaking) — Katie Mack](https://www.astrokatie.com/book) — Recorrido por los principales escenarios científicos del final del universo.
 
 ## REVISTAS
 
-- [The Astrophysical Journal](https://journals.aas.org/astrophysical-journal/) â€” PublicaciÃ³n central de investigaciÃ³n original en astrofÃ­sica.
+- [The Astrophysical Journal](https://journals.aas.org/astrophysical-journal/) — Publicación central de investigación original en astrofísica.
 
-- [The Astronomical Journal](https://journals.aas.org/astronomical-journal/) â€” Revista especializada en astronomÃ­a observacional y anÃ¡lisis de datos.
+- [The Astronomical Journal](https://journals.aas.org/astronomical-journal/) — Revista especializada en astronomía observacional y análisis de datos.
 
-- [Monthly Notices of the Royal Astronomical Society](https://academic.oup.com/mnras) â€” Una de las publicaciones internacionales mÃ¡s influyentes en astronomÃ­a y astrofÃ­sica.
+- [Monthly Notices of the Royal Astronomical Society](https://academic.oup.com/mnras) — Una de las publicaciones internacionales más influyentes en astronomía y astrofísica.
 
-- [Astronomy & Astrophysics](https://www.aanda.org/) â€” Revista europea de referencia con cobertura amplia de la disciplina.
+- [Astronomy & Astrophysics](https://www.aanda.org/) — Revista europea de referencia con cobertura amplia de la disciplina.
 
-- [Publications of the Astronomical Society of the Pacific](https://iopscience.iop.org/journal/1538-3873) â€” InvestigaciÃ³n, instrumentaciÃ³n y mÃ©todos astronÃ³micos.
+- [Publications of the Astronomical Society of the Pacific](https://iopscience.iop.org/journal/1538-3873) — Investigación, instrumentación y métodos astronómicos.
 
-- [Nature Astronomy](https://www.nature.com/natastron/) â€” Resultados de alto impacto y anÃ¡lisis sobre astronomÃ­a, cosmologÃ­a y ciencia planetaria.
+- [Nature Astronomy](https://www.nature.com/natastron/) — Resultados de alto impacto y análisis sobre astronomía, cosmología y ciencia planetaria.
 
-- [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/content/journals/astro) â€” Revisiones crÃ­ticas y exhaustivas de Ã¡reas activas de investigaciÃ³n.
+- [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/content/journals/astro) — Revisiones críticas y exhaustivas de áreas activas de investigación.
 
-- [Research in Astronomy and Astrophysics](https://iopscience.iop.org/journal/1674-4527) â€” PublicaciÃ³n internacional promovida por instituciones astronÃ³micas chinas.
+- [Research in Astronomy and Astrophysics](https://iopscience.iop.org/journal/1674-4527) — Publicación internacional promovida por instituciones astronómicas chinas.
 
-- [Publications of the Astronomical Society of Australia](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia) â€” InvestigaciÃ³n y revisiones con fuerte presencia del hemisferio sur.
+- [Publications of the Astronomical Society of Australia](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia) — Investigación y revisiones con fuerte presencia del hemisferio sur.
 
-- [Journal of Astrophysics and Astronomy](https://link.springer.com/journal/12036) â€” Revista de la Academia India de Ciencias dedicada a la investigaciÃ³n astrofÃ­sica.
+- [Journal of Astrophysics and Astronomy](https://link.springer.com/journal/12036) — Revista de la Academia India de Ciencias dedicada a la investigación astrofísica.
 
 ## MUSEOS
 
-- [Smithsonian National Air and Space Museum](https://airandspace.si.edu/) â€” Grandes colecciones sobre astronomÃ­a, exploraciÃ³n espacial y tecnologÃ­a aeroespacial.
+- [Smithsonian National Air and Space Museum](https://airandspace.si.edu/) — Grandes colecciones sobre astronomía, exploración espacial y tecnología aeroespacial.
 
-- [Adler Planetarium](https://www.adlerplanetarium.org/) â€” Planetario histÃ³rico con exposiciones y programas educativos de astronomÃ­a.
+- [Adler Planetarium](https://www.adlerplanetarium.org/) — Planetario histórico con exposiciones y programas educativos de astronomía.
 
-- [Griffith Observatory](https://griffithobservatory.lacity.gov/) â€” Observatorio pÃºblico, planetario y museo cientÃ­fico de Los Ãngeles.
+- [Griffith Observatory](https://griffithobservatory.lacity.gov/) — Observatorio público, planetario y museo científico de Los Ángeles.
 
-- [Hayden Planetarium](https://www.amnh.org/research/hayden-planetarium) â€” Centro del American Museum of Natural History dedicado a la ciencia del universo.
+- [Hayden Planetarium](https://www.amnh.org/research/hayden-planetarium) — Centro del American Museum of Natural History dedicado a la ciencia del universo.
 
-- [Science Museum London: Exploring Space](https://www.sciencemuseum.org.uk/see-and-do/exploring-space) â€” ExposiciÃ³n permanente sobre astronomÃ­a, cohetes y exploraciÃ³n espacial.
+- [Science Museum London: Exploring Space](https://www.sciencemuseum.org.uk/see-and-do/exploring-space) — Exposición permanente sobre astronomía, cohetes y exploración espacial.
 
-- [CitÃ© de lâ€™espace](https://www.cite-espace.com/) â€” Parque cientÃ­fico francÃ©s con planetario, naves y exposiciones espaciales.
+- [Cité de l’espace](https://www.cite-espace.com/) — Parque científico francés con planetario, naves y exposiciones espaciales.
 
-- [Miraikan](https://www.miraikan.jst.go.jp/en/) â€” Museo japonÃ©s de ciencias emergentes con contenidos de espacio y cosmologÃ­a.
+- [Miraikan](https://www.miraikan.jst.go.jp/en/) — Museo japonés de ciencias emergentes con contenidos de espacio y cosmología.
 
-- [Hong Kong Space Museum](https://hk.space.museum/en/web/spm/home.html) â€” Museo, planetario y centro educativo especializado en astronomÃ­a.
+- [Hong Kong Space Museum](https://hk.space.museum/en/web/spm/home.html) — Museo, planetario y centro educativo especializado en astronomía.
 
-- [Museo de AstronomÃ­a y GeofÃ­sica de la UNLP](https://www.fcaglp.unlp.edu.ar/index.php/museo/) â€” Patrimonio cientÃ­fico e instrumentos histÃ³ricos de la astronomÃ­a argentina.
+- [Museo de Astronomía y Geofísica de la UNLP](https://www.fcaglp.unlp.edu.ar/index.php/museo/) — Patrimonio científico e instrumentos históricos de la astronomía argentina.
 
-- [Museu de Astronomia e CiÃªncias Afins](https://www.gov.br/mast/pt-br) â€” Museo brasileÃ±o dedicado a la astronomÃ­a y la historia de las ciencias.
+- [Museu de Astronomia e Ciências Afins](https://www.gov.br/mast/pt-br) — Museo brasileño dedicado a la astronomía y la historia de las ciencias.
 
 ## UNIVERSIDADES
 
-- [California Institute of Technology: Astronomy](https://www.astro.caltech.edu/) â€” InvestigaciÃ³n destacada en cosmologÃ­a, galaxias, exoplanetas e instrumentaciÃ³n.
+- [California Institute of Technology: Astronomy](https://www.astro.caltech.edu/) — Investigación destacada en cosmología, galaxias, exoplanetas e instrumentación.
 
-- [Princeton University: Department of Astrophysical Sciences](https://web.astro.princeton.edu/) â€” Departamento de referencia en astrofÃ­sica teÃ³rica, observacional y computacional.
+- [Princeton University: Department of Astrophysical Sciences](https://web.astro.princeton.edu/) — Departamento de referencia en astrofísica teórica, observacional y computacional.
 
-- [University of Cambridge: Institute of Astronomy](https://www.ast.cam.ac.uk/) â€” Centro internacional de investigaciÃ³n en cosmologÃ­a, estrellas y galaxias.
+- [University of Cambridge: Institute of Astronomy](https://www.ast.cam.ac.uk/) — Centro internacional de investigación en cosmología, estrellas y galaxias.
 
-- [University of Oxford: Astrophysics](https://www.physics.ox.ac.uk/research/group/astrophysics) â€” Programas avanzados en cosmologÃ­a, instrumentaciÃ³n y astronomÃ­a observacional.
+- [University of Oxford: Astrophysics](https://www.physics.ox.ac.uk/research/group/astrophysics) — Programas avanzados en cosmología, instrumentación y astronomía observacional.
 
-- [Leiden University: Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy) â€” Una de las instituciones astronÃ³micas universitarias mÃ¡s antiguas y prestigiosas.
+- [Leiden University: Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy) — Una de las instituciones astronómicas universitarias más antiguas y prestigiosas.
 
-- [University of Cape Town: Department of Astronomy](https://science.uct.ac.za/department-astronomy) â€” FormaciÃ³n e investigaciÃ³n vinculadas al desarrollo astronÃ³mico africano.
+- [University of Cape Town: Department of Astronomy](https://science.uct.ac.za/department-astronomy) — Formación e investigación vinculadas al desarrollo astronómico africano.
 
-- [The University of Tokyo: Department of Astronomy](https://www.astron.s.u-tokyo.ac.jp/en/) â€” InvestigaciÃ³n japonesa en astrofÃ­sica teÃ³rica y observacional.
+- [The University of Tokyo: Department of Astronomy](https://www.astron.s.u-tokyo.ac.jp/en/) — Investigación japonesa en astrofísica teórica y observacional.
 
-- [Australian National University: Research School of Astronomy & Astrophysics](https://rsaa.anu.edu.au/) â€” Centro lÃ­der del hemisferio sur con acceso al Observatorio de Siding Spring.
+- [Australian National University: Research School of Astronomy & Astrophysics](https://rsaa.anu.edu.au/) — Centro líder del hemisferio sur con acceso al Observatorio de Siding Spring.
 
-- [Pontificia Universidad CatÃ³lica de Chile: Instituto de AstrofÃ­sica](https://astro.uc.cl/en/) â€” InvestigaciÃ³n prÃ³xima a los principales observatorios del desierto de Atacama.
+- [Pontificia Universidad Católica de Chile: Instituto de Astrofísica](https://astro.uc.cl/en/) — Investigación próxima a los principales observatorios del desierto de Atacama.
 
-- [Universidade de SÃ£o Paulo: Departamento de Astronomia](https://www.iag.usp.br/astronomia/) â€” Centro brasileÃ±o de formaciÃ³n e investigaciÃ³n en astronomÃ­a y astrofÃ­sica.
+- [Universidade de São Paulo: Departamento de Astronomia](https://www.iag.usp.br/astronomia/) — Centro brasileño de formación e investigación en astronomía y astrofísica.
 
 ## ASOCIACIONES
 
-- [International Astronomical Union](https://www.iau.org/) â€” OrganizaciÃ³n mundial que coordina la cooperaciÃ³n y las normas astronÃ³micas.
+- [International Astronomical Union](https://www.iau.org/) — Organización mundial que coordina la cooperación y las normas astronómicas.
 
-- [American Astronomical Society](https://aas.org/) â€” Principal sociedad profesional de astronomÃ­a de Estados Unidos.
+- [American Astronomical Society](https://aas.org/) — Principal sociedad profesional de astronomía de Estados Unidos.
 
-- [European Astronomical Society](https://eas.unige.ch/) â€” AsociaciÃ³n que representa y conecta a la comunidad astronÃ³mica europea.
+- [European Astronomical Society](https://eas.unige.ch/) — Asociación que representa y conecta a la comunidad astronómica europea.
 
-- [Royal Astronomical Society](https://ras.ac.uk/) â€” Sociedad cientÃ­fica internacional dedicada a astronomÃ­a y geofÃ­sica.
+- [Royal Astronomical Society](https://ras.ac.uk/) — Sociedad científica internacional dedicada a astronomía y geofísica.
 
-- [Astronomical Society of India](https://astron-soc.in/) â€” OrganizaciÃ³n profesional de la comunidad astronÃ³mica india.
+- [Astronomical Society of India](https://astron-soc.in/) — Organización profesional de la comunidad astronómica india.
 
-- [Astronomical Society of Australia](https://asa.astronomy.org.au/) â€” Sociedad nacional con amplia actividad cientÃ­fica y educativa.
+- [Astronomical Society of Australia](https://asa.astronomy.org.au/) — Sociedad nacional con amplia actividad científica y educativa.
 
-- [African Astronomical Society](https://africanastronomicalsociety.org/) â€” Red panafricana para el desarrollo de la astronomÃ­a y sus profesionales.
+- [African Astronomical Society](https://africanastronomicalsociety.org/) — Red panafricana para el desarrollo de la astronomía y sus profesionales.
 
-- [Sociedade AstronÃ´mica Brasileira](https://sab-astro.org.br/) â€” AsociaciÃ³n cientÃ­fica de referencia para la astronomÃ­a brasileÃ±a.
+- [Sociedade Astronômica Brasileira](https://sab-astro.org.br/) — Asociación científica de referencia para la astronomía brasileña.
 
-- [Sociedad EspaÃ±ola de AstronomÃ­a](https://www.sea-astronomia.es/) â€” OrganizaciÃ³n profesional de astrÃ³nomos y astrofÃ­sicos en EspaÃ±a.
+- [Sociedad Española de Astronomía](https://www.sea-astronomia.es/) — Organización profesional de astrónomos y astrofísicos en España.
 
-- [Astronomical Society of the Pacific](https://astrosociety.org/) â€” AsociaciÃ³n internacional centrada en educaciÃ³n y divulgaciÃ³n astronÃ³mica.
+- [Astronomical Society of the Pacific](https://astrosociety.org/) — Asociación internacional centrada en educación y divulgación astronómica.
 
 ## NEWSLETTER
 
-- [NASA ExoExplorers Mailing List](https://science.nasa.gov/astrophysics/programs/exep-exopag-exoexplorers-mailing-list/) â€” Convocatorias, seminarios y noticias para la comunidad de exoplanetas.
+- [NASA ExoExplorers Mailing List](https://science.nasa.gov/astrophysics/programs/exep-exopag-exoexplorers-mailing-list/) — Convocatorias, seminarios y noticias para la comunidad de exoplanetas.
 
-- [ESA Email Updates](https://www.esa.int/Services/Email_updates) â€” Boletines temÃ¡ticos sobre ciencia espacial y misiones europeas.
+- [ESA Email Updates](https://www.esa.int/Services/Email_updates) — Boletines temáticos sobre ciencia espacial y misiones europeas.
 
-- [ESO News](https://www.eso.org/public/outreach/newsletters/esonews/) â€” Noticias periÃ³dicas, imÃ¡genes y descubrimientos de los observatorios del ESO.
+- [ESO News](https://www.eso.org/public/outreach/newsletters/esonews/) — Noticias periódicas, imágenes y descubrimientos de los observatorios del ESO.
 
-- [AAS Nova Email Alerts](https://aasnova.org/subscription/) â€” ResÃºmenes de investigaciones publicadas en las revistas de la AAS.
+- [AAS Nova Email Alerts](https://aasnova.org/subscription/) — Resúmenes de investigaciones publicadas en las revistas de la AAS.
 
-- [IAU Centre for the Protection of the Dark and Quiet Sky Newsletter](https://cps.iau.org/resources/newsletter/) â€” Actualizaciones sobre protecciÃ³n del cielo frente a interferencias y contaminaciÃ³n lumÃ­nica.
+- [IAU Centre for the Protection of the Dark and Quiet Sky Newsletter](https://cps.iau.org/resources/newsletter/) — Actualizaciones sobre protección del cielo frente a interferencias y contaminación lumínica.
 
-- [EAS e-Newsletter](https://eas.unige.ch/e-newsletter.jsp) â€” Noticias, congresos y oportunidades de la European Astronomical Society.
+- [EAS e-Newsletter](https://eas.unige.ch/e-newsletter.jsp) — Noticias, congresos y oportunidades de la European Astronomical Society.
 
-- [SKAO Science Users Newsletters and Webinars](https://www.skao.int/en/science-users/670/newsletters-and-webinars) â€” InformaciÃ³n cientÃ­fica y tÃ©cnica para futuros usuarios del observatorio SKA.
+- [SKAO Science Users Newsletters and Webinars](https://www.skao.int/en/science-users/670/newsletters-and-webinars) — Información científica y técnica para futuros usuarios del observatorio SKA.
 
-- [SAAO Newsletters](https://newsletters.saao.ac.za/) â€” Actualidad institucional y cientÃ­fica del South African Astronomical Observatory.
+- [SAAO Newsletters](https://newsletters.saao.ac.za/) — Actualidad institucional y científica del South African Astronomical Observatory.
 
-- [Quanta Magazine Newsletters](https://quantamagazine.us1.list-manage.com/subscribe?id=f0cb61321c\&u=0d6ddf7dc1a0b7297c8e06618) â€” SelecciÃ³n editorial sobre fÃ­sica, matemÃ¡ticas, cosmologÃ­a y ciencias fundamentales.
+- [Quanta Magazine Newsletters](https://quantamagazine.us1.list-manage.com/subscribe?id=f0cb61321c\&u=0d6ddf7dc1a0b7297c8e06618) — Selección editorial sobre física, matemáticas, cosmología y ciencias fundamentales.
 
-- [Sky & Telescope Email Newsletters](https://skyandtelescope.org/newsletter/) â€” Noticias astronÃ³micas, fenÃ³menos celestes y contenidos de observaciÃ³n.
+- [Sky & Telescope Email Newsletters](https://skyandtelescope.org/newsletter/) — Noticias astronómicas, fenómenos celestes y contenidos de observación.
 
 ## TV
 
-- [NASA+](https://plus.nasa.gov/) â€” Emisiones, documentales y series sobre misiones espaciales, astronomÃ­a y exploraciÃ³n del universo.
+- [NASA+](https://plus.nasa.gov/) — Emisiones, documentales y series sobre misiones espaciales, astronomía y exploración del universo.
 
-- [ESA Web TV](https://watch.esa.int/) â€” Canal oficial de la Agencia Espacial Europea con ciencia espacial y observaciÃ³n astronÃ³mica.
+- [ESA Web TV](https://watch.esa.int/) — Canal oficial de la Agencia Espacial Europea con ciencia espacial y observación astronómica.
 
-- [ESOcast](https://www.eso.org/public/videos/archive/category/esocast/) â€” Serie audiovisual sobre investigaciones, telescopios y descubrimientos del Observatorio Europeo Austral.
+- [ESOcast](https://www.eso.org/public/videos/archive/category/esocast/) — Serie audiovisual sobre investigaciones, telescopios y descubrimientos del Observatorio Europeo Austral.
 
-- [PBS Space Time](https://www.pbs.org/show/pbs-space-time/) â€” Programa especializado en relatividad, cosmologÃ­a, agujeros negros y fÃ­sica del universo.
+- [PBS Space Time](https://www.pbs.org/show/pbs-space-time/) — Programa especializado en relatividad, cosmología, agujeros negros y física del universo.
 
-- [NHK Cosmic Front](https://pf.nhk-ep.co.jp/collection/cosmic_front) â€” Serie japonesa sobre observatorios, fenÃ³menos cÃ³smicos e investigaciÃ³n espacial internacional.
+- [NHK Cosmic Front](https://pf.nhk-ep.co.jp/collection/cosmic_front) — Serie japonesa sobre observatorios, fenómenos cósmicos e investigación espacial internacional.
 
-- [IAC AstrofÃ­sica](https://www.youtube.com/user/IACvideos) â€” Canal del Instituto de AstrofÃ­sica de Canarias con conferencias, documentales y resultados cientÃ­ficos.
+- [IAC Astrofísica](https://www.youtube.com/user/IACvideos) — Canal del Instituto de Astrofísica de Canarias con conferencias, documentales y resultados científicos.
 
-- [South African Astronomical Observatory](https://www.youtube.com/channel/UCGlTdS81RO558yl1B04x9kg) â€” VÃ­deos sobre investigaciÃ³n astronÃ³mica, instrumentaciÃ³n y observatorios sudafricanos.
+- [South African Astronomical Observatory](https://www.youtube.com/channel/UCGlTdS81RO558yl1B04x9kg) — Vídeos sobre investigación astronómica, instrumentación y observatorios sudafricanos.
 
-- [SARAO Videos](https://www.sarao.ac.za/news-category/videos/) â€” Producciones sobre radioastronomÃ­a, MeerKAT y el proyecto internacional SKA.
+- [SARAO Videos](https://www.sarao.ac.za/news-category/videos/) — Producciones sobre radioastronomía, MeerKAT y el proyecto internacional SKA.
 
-- [ALMA Observatory: Video Gallery](https://www.almaobservatory.org/en/video-gallery/) â€” Material audiovisual sobre radioastronomÃ­a, formaciÃ³n estelar, galaxias y tecnologÃ­a observacional.
+- [ALMA Observatory: Video Gallery](https://www.almaobservatory.org/en/video-gallery/) — Material audiovisual sobre radioastronomía, formación estelar, galaxias y tecnología observacional.
 
-- [National Radio Astronomy Observatory](https://www.youtube.com/@TheNRAO) â€” Canal sobre radiotelescopios, ondas gravitacionales, pÃºlsares, galaxias y evoluciÃ³n cÃ³smica.
+- [National Radio Astronomy Observatory](https://www.youtube.com/@TheNRAO) — Canal sobre radiotelescopios, ondas gravitacionales, púlsares, galaxias y evolución cósmica.
 
 ## RADIO
 
-- [NASAâ€™s Curious Universe](https://www.nasa.gov/podcasts/curious-universe/) â€” PÃ³dcast oficial con cientÃ­ficos que investigan estrellas, galaxias, exoplanetas y fenÃ³menos cÃ³smicos.
+- [NASA’s Curious Universe](https://www.nasa.gov/podcasts/curious-universe/) — Pódcast oficial con científicos que investigan estrellas, galaxias, exoplanetas y fenómenos cósmicos.
 
-- [The Supermassive Podcast](https://podcasts.apple.com/gb/podcast/the-supermassive-podcast/id1495324190) â€” Programa de la Royal Astronomical Society sobre astrofÃ­sica y descubrimientos recientes.
+- [The Supermassive Podcast](https://podcasts.apple.com/gb/podcast/the-supermassive-podcast/id1495324190) — Programa de la Royal Astronomical Society sobre astrofísica y descubrimientos recientes.
 
-- [Planetary Radio](https://www.planetary.org/planetary-radio) â€” Entrevistas con investigadores, responsables de misiones y especialistas en ciencias planetarias.
+- [Planetary Radio](https://www.planetary.org/planetary-radio) — Entrevistas con investigadores, responsables de misiones y especialistas en ciencias planetarias.
 
-- [The Cosmic Savannah](https://thecosmicsavannah.com/episodes/) â€” PÃ³dcast africano sobre astronomÃ­a, astrofÃ­sica, radiotelescopios y cientÃ­ficos del continente.
+- [The Cosmic Savannah](https://thecosmicsavannah.com/episodes/) — Pódcast africano sobre astronomía, astrofísica, radiotelescopios y científicos del continente.
 
-- [Astronomy Cast](https://www.astronomycast.com/) â€” Conversaciones divulgativas sobre planetas, estrellas, cosmologÃ­a y evoluciÃ³n del universo.
+- [Astronomy Cast](https://www.astronomycast.com/) — Conversaciones divulgativas sobre planetas, estrellas, cosmología y evolución del universo.
 
-- [The Jodcast](https://www.jodcast.net/) â€” PÃ³dcast del Jodrell Bank Centre for Astrophysics con noticias y entrevistas cientÃ­ficas.
+- [The Jodcast](https://www.jodcast.net/) — Pódcast del Jodrell Bank Centre for Astrophysics con noticias y entrevistas científicas.
 
-- [Astrophiz](https://astrophiz.com/) â€” Programa australiano con astrofÃ­sicos internacionales y anÃ¡lisis de nuevos descubrimientos.
+- [Astrophiz](https://astrophiz.com/) — Programa australiano con astrofísicos internacionales y análisis de nuevos descubrimientos.
 
-- [StarTalk](https://startalkmedia.com/) â€” Ciencia, cultura y conversaciones sobre astrofÃ­sica dirigidas por Neil deGrasse Tyson.
+- [StarTalk](https://startalkmedia.com/) — Ciencia, cultura y conversaciones sobre astrofísica dirigidas por Neil deGrasse Tyson.
 
-- [The Astrophysics Podcast](https://podcasts.apple.com/gb/podcast/the-astrophysics-podcast/id1723724928) â€” Entrevistas de la Universidad Purdue sobre galaxias, supernovas, agujeros negros y cosmologÃ­a.
+- [The Astrophysics Podcast](https://podcasts.apple.com/gb/podcast/the-astrophysics-podcast/id1723724928) — Entrevistas de la Universidad Purdue sobre galaxias, supernovas, agujeros negros y cosmología.
 
-- [Coffee Break: SeÃ±al y Ruido](https://xn--sealyruido-u9a.com/) â€” Tertulia cientÃ­fica en espaÃ±ol con amplia cobertura de astronomÃ­a, fÃ­sica y astrofÃ­sica.
+- [Coffee Break: Señal y Ruido](https://xn--sealyruido-u9a.com/) — Tertulia científica en español con amplia cobertura de astronomía, física y astrofísica.
 
 ## PRENSA ONLINE
 
-- [NASA Astrophysics Science News](https://science.gsfc.nasa.gov/astrophysics/pressreleases/) â€” Noticias oficiales sobre telescopios espaciales, agujeros negros, galaxias y cosmologÃ­a.
+- [NASA Astrophysics Science News](https://science.gsfc.nasa.gov/astrophysics/pressreleases/) — Noticias oficiales sobre telescopios espaciales, agujeros negros, galaxias y cosmología.
 
-- [ESA Space Science](https://www.esa.int/Science_Exploration/Space_Science) â€” Resultados de misiones europeas y actualidad sobre observaciÃ³n y ciencia del universo.
+- [ESA Space Science](https://www.esa.int/Science_Exploration/Space_Science) — Resultados de misiones europeas y actualidad sobre observación y ciencia del universo.
 
-- [ESO Press Releases](https://www.eso.org/public/news/) â€” Comunicados sobre descubrimientos realizados con los grandes observatorios instalados en Chile.
+- [ESO Press Releases](https://www.eso.org/public/news/) — Comunicados sobre descubrimientos realizados con los grandes observatorios instalados en Chile.
 
-- [Instituto de AstrofÃ­sica de Canarias: Noticias](https://www.iac.es/es/divulgacion/noticias) â€” InformaciÃ³n cientÃ­fica sobre astrofÃ­sica solar, galaxias, cosmologÃ­a y nuevos instrumentos.
+- [Instituto de Astrofísica de Canarias: Noticias](https://www.iac.es/es/divulgacion/noticias) — Información científica sobre astrofísica solar, galaxias, cosmología y nuevos instrumentos.
 
-- [National Astronomical Observatory of Japan: News](https://www.nao.ac.jp/en/news/) â€” Noticias sobre Subaru, ALMA, astronomÃ­a japonesa y descubrimientos internacionales.
+- [National Astronomical Observatory of Japan: News](https://www.nao.ac.jp/en/news/) — Noticias sobre Subaru, ALMA, astronomía japonesa y descubrimientos internacionales.
 
-- [South African Radio Astronomy Observatory](https://www.sarao.ac.za/) â€” Actualidad sobre MeerKAT, SKA y la investigaciÃ³n radioastronÃ³mica desarrollada en Ãfrica.
+- [South African Radio Astronomy Observatory](https://www.sarao.ac.za/) — Actualidad sobre MeerKAT, SKA y la investigación radioastronómica desarrollada en África.
 
-- [Astrobites](https://astrobites.org/) â€” ResÃºmenes accesibles de artÃ­culos recientes escritos por estudiantes de posgrado en astrofÃ­sica.
+- [Astrobites](https://astrobites.org/) — Resúmenes accesibles de artículos recientes escritos por estudiantes de posgrado en astrofísica.
 
-- [AAS Nova](https://aasnova.org/) â€” SÃ­ntesis de resultados publicados en las revistas de la American Astronomical Society.
+- [AAS Nova](https://aasnova.org/) — Síntesis de resultados publicados en las revistas de la American Astronomical Society.
 
-- [SINC: AstronomÃ­a y AstrofÃ­sica](https://www.agenciasinc.es/Ciencia/Astronomia-y-Astrofisica) â€” Noticias, entrevistas y reportajes cientÃ­ficos en espaÃ±ol sobre el universo.
+- [SINC: Astronomía y Astrofísica](https://www.agenciasinc.es/Ciencia/Astronomia-y-Astrofisica) — Noticias, entrevistas y reportajes científicos en español sobre el universo.
 
-- [Space.com: Astrophysics](https://www.space.com/science/astrophysics) â€” Actualidad divulgativa sobre cosmologÃ­a, exoplanetas, estrellas, galaxias y materia oscura.
+- [Space.com: Astrophysics](https://www.space.com/science/astrophysics) — Actualidad divulgativa sobre cosmología, exoplanetas, estrellas, galaxias y materia oscura.
 
 ## PRENSA ESCRITA
 
-- [The Astrophysical Journal](https://journals.aas.org/astrophysical-journal/) â€” Revista cientÃ­fica de referencia sobre investigaciÃ³n observacional y teÃ³rica en astrofÃ­sica.
+- [The Astrophysical Journal](https://journals.aas.org/astrophysical-journal/) — Revista científica de referencia sobre investigación observacional y teórica en astrofísica.
 
-- [Monthly Notices of the Royal Astronomical Society](https://academic.oup.com/mnras) â€” PublicaciÃ³n internacional sobre astronomÃ­a, cosmologÃ­a y fenÃ³menos astrofÃ­sicos.
+- [Monthly Notices of the Royal Astronomical Society](https://academic.oup.com/mnras) — Publicación internacional sobre astronomía, cosmología y fenómenos astrofísicos.
 
-- [Astronomy & Astrophysics](https://www.aanda.org/) â€” Revista europea que publica investigaciones de todas las Ã¡reas de astronomÃ­a y astrofÃ­sica.
+- [Astronomy & Astrophysics](https://www.aanda.org/) — Revista europea que publica investigaciones de todas las áreas de astronomía y astrofísica.
 
-- [The Astronomical Journal](https://journals.aas.org/astronomical-journal/) â€” Estudios observacionales, grandes sondeos, instrumentaciÃ³n y anÃ¡lisis de datos astronÃ³micos.
+- [The Astronomical Journal](https://journals.aas.org/astronomical-journal/) — Estudios observacionales, grandes sondeos, instrumentación y análisis de datos astronómicos.
 
-- [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/content/journals/astro) â€” Revisiones exhaustivas de los principales avances y lÃ­neas de investigaciÃ³n del campo.
+- [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/content/journals/astro) — Revisiones exhaustivas de los principales avances y líneas de investigación del campo.
 
-- [Publications of the Astronomical Society of the Pacific](https://astrosociety.org/news-publications/pasp.html) â€” ArtÃ­culos sobre investigaciÃ³n, instrumentaciÃ³n, programas informÃ¡ticos y tÃ©cnicas astronÃ³micas.
+- [Publications of the Astronomical Society of the Pacific](https://astrosociety.org/news-publications/pasp.html) — Artículos sobre investigación, instrumentación, programas informáticos y técnicas astronómicas.
 
-- [Publications of the Astronomical Society of Japan](https://academic.oup.com/pasj) â€” InvestigaciÃ³n japonesa e internacional sobre astronomÃ­a observacional, teÃ³rica e instrumental.
+- [Publications of the Astronomical Society of Japan](https://academic.oup.com/pasj) — Investigación japonesa e internacional sobre astronomía observacional, teórica e instrumental.
 
-- [Research in Astronomy and Astrophysics](https://www.raa-journal.org/) â€” Revista china internacional dedicada a todas las ramas de la astronomÃ­a y la astrofÃ­sica.
+- [Research in Astronomy and Astrophysics](https://www.raa-journal.org/) — Revista china internacional dedicada a todas las ramas de la astronomía y la astrofísica.
 
-- [Journal of Astrophysics and Astronomy](https://link.springer.com/journal/12036) â€” PublicaciÃ³n de India sobre cosmologÃ­a, instrumentaciÃ³n y astrofÃ­sica teÃ³rica y observacional.
+- [Journal of Astrophysics and Astronomy](https://link.springer.com/journal/12036) — Publicación de India sobre cosmología, instrumentación y astrofísica teórica y observacional.
 
-- [Revista Mexicana de AstronomÃ­a y AstrofÃ­sica](https://www.astroscu.unam.mx/RMxAA/) â€” Revista de la UNAM con investigaciÃ³n astronÃ³mica de MÃ©xico y AmÃ©rica Latina.
+- [Revista Mexicana de Astronomía y Astrofísica](https://www.astroscu.unam.mx/RMxAA/) — Revista de la UNAM con investigación astronómica de México y América Latina.
 
 # RSS
 
-|CategorÃ­a|Nombre|OrganizaciÃ³n|Idioma|Tipo|Estado|
+|Categoría|Nombre|Organización|Idioma|Tipo|Estado|
 |---|---|---|---|---|---|
-|ðŸŸ¢ Oficial|ESA Space Science|Agencia Espacial Europea|InglÃ©s|Noticias y misiones|**Activo**|
-|ðŸŸ¢ Oficial|Astronomy Picture of the Day|NASA / GSFC|InglÃ©s|DivulgaciÃ³n cientÃ­fica|**Activo** ([apod.nasa.gov](https://apod.nasa.gov/apod/lib/about_apod.html "https://apod.nasa.gov/apod/lib/about_apod.html"))|
-|ðŸŸ¢ Oficial|NASA Photojournal: The Universe|NASA Science|InglÃ©s|ImÃ¡genes y documentaciÃ³n|**Activo** ([NASA Science](https://science.nasa.gov/photojournal/rss-feeds/ "https://science.nasa.gov/photojournal/rss-feeds/"))|
-|ðŸŸ¢ Oficial|JPL News|NASA Jet Propulsion Laboratory|InglÃ©s|Noticias y comunicados|**Activo**|
-|ðŸŸ¢ Oficial|NSF NRAO News|National Radio Astronomy Observatory|InglÃ©s|RadioastronomÃ­a|**Activo**|
-|ðŸŸ¢ Oficial|ESA/Hubble Images|ESA/Hubble|InglÃ©s|ImÃ¡genes y publicaciones|**Activo**|
-|ðŸ”µ CientÃ­fico|ESO Telescope Bibliography|European Southern Observatory|InglÃ©s|ArtÃ­culos cientÃ­ficos|**Activo** ([ESO](https://www.eso.org/public/science/ "https://www.eso.org/public/science/"))|
-|ðŸ”µ CientÃ­fico|arXiv Astrophysics|arXiv|InglÃ©s|Preprints|**Activo** ([info.arxiv.org](https://info.arxiv.org/help/rss.html "https://info.arxiv.org/help/rss.html"))|
-|ðŸ”µ CientÃ­fico|MNRAS Advance Articles|Oxford University Press / RAS|InglÃ©s|ArtÃ­culos revisados|**Activo**|
-|ðŸ”µ CientÃ­fico|Astronomy & Astrophysics|EDP Sciences|InglÃ©s|ArtÃ­culos revisados|**Activo**\* ([AANDA](https://www.aanda.org/component/rsslist/?Itemid=263\&task=journal "https://www.aanda.org/component/rsslist/?Itemid=263\&task=journal"))|
-|ðŸ”µ CientÃ­fico|Nature Astronomy|Springer Nature|InglÃ©s|InvestigaciÃ³n y anÃ¡lisis|**Activo**|
-|ðŸ”µ CientÃ­fico|AAS Nova|American Astronomical Society|InglÃ©s|ResÃºmenes de investigaciÃ³n|**Activo**|
-|ðŸŸ  Especializado|Astrobites|Comunidad acadÃ©mica de astronomÃ­a|InglÃ©s|ResÃºmenes de preprints|**Activo**|
+|🟢 Oficial|ESA Space Science|Agencia Espacial Europea|Inglés|Noticias y misiones|**Activo**|
+|🟢 Oficial|Astronomy Picture of the Day|NASA / GSFC|Inglés|Divulgación científica|**Activo** ([apod.nasa.gov](https://apod.nasa.gov/apod/lib/about_apod.html "https://apod.nasa.gov/apod/lib/about_apod.html"))|
+|🟢 Oficial|NASA Photojournal: The Universe|NASA Science|Inglés|Imágenes y documentación|**Activo** ([NASA Science](https://science.nasa.gov/photojournal/rss-feeds/ "https://science.nasa.gov/photojournal/rss-feeds/"))|
+|🟢 Oficial|JPL News|NASA Jet Propulsion Laboratory|Inglés|Noticias y comunicados|**Activo**|
+|🟢 Oficial|NSF NRAO News|National Radio Astronomy Observatory|Inglés|Radioastronomía|**Activo**|
+|🟢 Oficial|ESA/Hubble Images|ESA/Hubble|Inglés|Imágenes y publicaciones|**Activo**|
+|🔵 Científico|ESO Telescope Bibliography|European Southern Observatory|Inglés|Artículos científicos|**Activo** ([ESO](https://www.eso.org/public/science/ "https://www.eso.org/public/science/"))|
+|🔵 Científico|arXiv Astrophysics|arXiv|Inglés|Preprints|**Activo** ([info.arxiv.org](https://info.arxiv.org/help/rss.html "https://info.arxiv.org/help/rss.html"))|
+|🔵 Científico|MNRAS Advance Articles|Oxford University Press / RAS|Inglés|Artículos revisados|**Activo**|
+|🔵 Científico|Astronomy & Astrophysics|EDP Sciences|Inglés|Artículos revisados|**Activo**\* ([AANDA](https://www.aanda.org/component/rsslist/?Itemid=263\&task=journal "https://www.aanda.org/component/rsslist/?Itemid=263\&task=journal"))|
+|🔵 Científico|Nature Astronomy|Springer Nature|Inglés|Investigación y análisis|**Activo**|
+|🔵 Científico|AAS Nova|American Astronomical Society|Inglés|Resúmenes de investigación|**Activo**|
+|🟠 Especializado|Astrobites|Comunidad académica de astronomía|Inglés|Resúmenes de preprints|**Activo**|
 
-> **VerificaciÃ³n realizada:** 30 de julio de 2026.\
-> Se comprobÃ³ la publicaciÃ³n oficial del enlace, la respuesta del endpoint RSS/XML y la existencia de contenido reciente. El asterisco indica una limitaciÃ³n tÃ©cnica explicada en las observaciones.
+> **Verificación realizada:** 30 de julio de 2026.\
+> Se comprobó la publicación oficial del enlace, la respuesta del endpoint RSS/XML y la existencia de contenido reciente. El asterisco indica una limitación técnica explicada en las observaciones.
 
 ---
 
-## ðŸŸ¢ RSS oficiales
+## 🟢 RSS oficiales
 
 ### ESA Space Science
 
-**OrganizaciÃ³n:** European Space Agency â€” ESA\
-**CategorÃ­a:** Organismo internacional\
+**Organización:** European Space Agency — ESA\
+**Categoría:** Organismo internacional\
 **URL RSS:** [Abrir feed RSS](https://www.esa.int/rssfeed/Our_Activities/Space_Science)\
 **Formato:** RSS, servido como `application/rss+xml`\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Europea y mundial\
-**Tipo de contenido:** Noticias, misiones, descubrimientos, imÃ¡genes y actividades cientÃ­ficas\
+**Tipo de contenido:** Noticias, misiones, descubrimientos, imágenes y actividades científicas\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed general del programa de ciencias espaciales de la ESA. Incluye misiones astrofÃ­sicas y cosmolÃ³gicas, observatorios espaciales, ciencia solar y ciertos contenidos de ciencia planetaria.
+**Descripción:** Feed general del programa de ciencias espaciales de la ESA. Incluye misiones astrofísicas y cosmológicas, observatorios espaciales, ciencia solar y ciertos contenidos de ciencia planetaria.
 
-**Observaciones:** Es el feed oficial mÃ¡s Ãºtil de la ESA para seguimiento amplio. La secciÃ³n seguÃ­a publicando noticias en julio de 2026. No es exclusivamente astrofÃ­sica, por lo que conviene aplicar filtros por misiÃ³n o palabras clave. ([Agencia Espacial Europea](https://www.esa.int/Services/RSS_Feeds "https://www.esa.int/Services/RSS_Feeds"))
+**Observaciones:** Es el feed oficial más útil de la ESA para seguimiento amplio. La sección seguía publicando noticias en julio de 2026. No es exclusivamente astrofísica, por lo que conviene aplicar filtros por misión o palabras clave. ([Agencia Espacial Europea](https://www.esa.int/Services/RSS_Feeds "https://www.esa.int/Services/RSS_Feeds"))
 
 ---
 
-### Astronomy Picture of the Day â€” APOD
+### Astronomy Picture of the Day — APOD
 
-**OrganizaciÃ³n:** NASA Goddard Space Flight Center\
-**CategorÃ­a:** Organismo pÃºblico\
+**Organización:** NASA Goddard Space Flight Center\
+**Categoría:** Organismo público\
 **URL RSS:** [Abrir feed RSS](http://antwrp.gsfc.nasa.gov/apod.rss)\
 **Formato:** RSS\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** Imagen astronÃ³mica diaria y explicaciÃ³n cientÃ­fica\
+**Tipo de contenido:** Imagen astronómica diaria y explicación científica\
 **Frecuencia aproximada:** Diaria\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Publica diariamente una imagen relacionada con astronomÃ­a o astrofÃ­sica acompaÃ±ada de una explicaciÃ³n preparada por astrÃ³nomos profesionales.
+**Descripción:** Publica diariamente una imagen relacionada con astronomía o astrofísica acompañada de una explicación preparada por astrónomos profesionales.
 
-**Observaciones:** La direcciÃ³n utiliza HTTP, pero es la URL que la propia NASA identifica como feed mantenido por su Astrophysics Science Division. Debe preferirse frente a rÃ©plicas y feeds no oficiales de APOD. ([apod.nasa.gov](https://apod.nasa.gov/apod/lib/about_apod.html "https://apod.nasa.gov/apod/lib/about_apod.html"))
+**Observaciones:** La dirección utiliza HTTP, pero es la URL que la propia NASA identifica como feed mantenido por su Astrophysics Science Division. Debe preferirse frente a réplicas y feeds no oficiales de APOD. ([apod.nasa.gov](https://apod.nasa.gov/apod/lib/about_apod.html "https://apod.nasa.gov/apod/lib/about_apod.html"))
 
 ---
 
-### NASA Photojournal â€” The Universe
+### NASA Photojournal — The Universe
 
-**OrganizaciÃ³n:** NASA Science\
-**CategorÃ­a:** Organismo pÃºblico\
+**Organización:** NASA Science\
+**Categoría:** Organismo público\
 **URL RSS:** [Abrir feed RSS](https://science.nasa.gov/feed/photojournal/gallery/universe/)\
 **Formato:** RSS\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** ImÃ¡genes, observaciones y documentaciÃ³n cientÃ­fica\
+**Tipo de contenido:** Imágenes, observaciones y documentación científica\
 **Frecuencia aproximada:** Irregular; varias publicaciones al mes\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Canal temÃ¡tico del NASA Science Photojournal centrado en el universo: estrellas, nebulosas, galaxias, cÃºmulos, agujeros negros y otros objetos astrofÃ­sicos.
+**Descripción:** Canal temático del NASA Science Photojournal centrado en el universo: estrellas, nebulosas, galaxias, cúmulos, agujeros negros y otros objetos astrofísicos.
 
-**Observaciones:** MÃ¡s especÃ­fico que el feed general de NASA Science y especialmente Ãºtil para proyectos que necesiten imÃ¡genes acompaÃ±adas de metadatos oficiales. El enlace estÃ¡ publicado directamente por NASA. ([NASA Science](https://science.nasa.gov/photojournal/rss-feeds/ "https://science.nasa.gov/photojournal/rss-feeds/"))
+**Observaciones:** Más específico que el feed general de NASA Science y especialmente útil para proyectos que necesiten imágenes acompañadas de metadatos oficiales. El enlace está publicado directamente por NASA. ([NASA Science](https://science.nasa.gov/photojournal/rss-feeds/ "https://science.nasa.gov/photojournal/rss-feeds/"))
 
 ---
 
 ### JPL News
 
-**OrganizaciÃ³n:** NASA Jet Propulsion Laboratory\
-**CategorÃ­a:** Organismo pÃºblico y centro de investigaciÃ³n\
+**Organización:** NASA Jet Propulsion Laboratory\
+**Categoría:** Organismo público y centro de investigación\
 **URL RSS:** [Abrir feed RSS](https://www.jpl.nasa.gov/feeds/news/)\
 **Formato:** RSS, servido como `application/rss+xml`\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Estados Unidos y mundial\
-**Tipo de contenido:** Noticias, comunicados, misiones y tecnologÃ­a\
+**Tipo de contenido:** Noticias, comunicados, misiones y tecnología\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed oficial de noticias del JPL. Cubre observatorios espaciales, exoplanetas, estrellas, galaxias, cosmologÃ­a, instrumentaciÃ³n y misiones planetarias.
+**Descripción:** Feed oficial de noticias del JPL. Cubre observatorios espaciales, exoplanetas, estrellas, galaxias, cosmología, instrumentación y misiones planetarias.
 
-**Observaciones:** No es exclusivamente astrofÃ­sico. Para mejorar la precisiÃ³n conviene filtrar tÃ©rminos como `exoplanet`, `galaxy`, `black hole`, `dark matter`, `stars`, `Webb` o `Roman`. El endpoint responde correctamente como RSS y la secciÃ³n mantenÃ­a publicaciones recientes en julio de 2026. ([NASA Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/rss/ "https://www.jpl.nasa.gov/rss/"))
+**Observaciones:** No es exclusivamente astrofísico. Para mejorar la precisión conviene filtrar términos como `exoplanet`, `galaxy`, `black hole`, `dark matter`, `stars`, `Webb` o `Roman`. El endpoint responde correctamente como RSS y la sección mantenía publicaciones recientes en julio de 2026. ([NASA Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/rss/ "https://www.jpl.nasa.gov/rss/"))
 
 ---
 
 ### NSF NRAO News
 
-**OrganizaciÃ³n:** U.S. National Science Foundation National Radio Astronomy Observatory\
-**CategorÃ­a:** Observatorio pÃºblico\
+**Organización:** U.S. National Science Foundation National Radio Astronomy Observatory\
+**Categoría:** Observatorio público\
 **URL RSS:** [Abrir feed RSS](https://public.nrao.edu/feed/)\
 **Formato:** RSS\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Estados Unidos y mundial\
-**Tipo de contenido:** Noticias, comunicados y resultados cientÃ­ficos\
+**Tipo de contenido:** Noticias, comunicados y resultados científicos\
 **Frecuencia aproximada:** Semanal o varias veces por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Publica resultados procedentes del Very Large Array, Very Long Baseline Array, ALMA y otras instalaciones vinculadas al NRAO.
+**Descripción:** Publica resultados procedentes del Very Large Array, Very Long Baseline Array, ALMA y otras instalaciones vinculadas al NRAO.
 
-**Observaciones:** Fuente especialmente valiosa para radioastronomÃ­a, formaciÃ³n estelar, galaxias, transitorios, agujeros negros y grandes cartografiados del cielo. El sitio publicÃ³ varios resultados astrofÃ­sicos durante julio de 2026.
+**Observaciones:** Fuente especialmente valiosa para radioastronomía, formación estelar, galaxias, transitorios, agujeros negros y grandes cartografiados del cielo. El sitio publicó varios resultados astrofísicos durante julio de 2026.
 
 ---
 
 ### ESA/Hubble Images
 
-**OrganizaciÃ³n:** ESA/Hubble\
-**CategorÃ­a:** Observatorio espacial institucional\
+**Organización:** ESA/Hubble\
+**Categoría:** Observatorio espacial institucional\
 **URL RSS:** [Abrir feed RSS](https://esahubble.org/images/feed)\
 **Formato:** RSS\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Europea y mundial\
-**Tipo de contenido:** ImÃ¡genes, fichas tÃ©cnicas y publicaciones visuales\
+**Tipo de contenido:** Imágenes, fichas técnicas y publicaciones visuales\
 **Frecuencia aproximada:** Semanal o irregular\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed de las imÃ¡genes publicadas por el centro de informaciÃ³n ESA/Hubble, con datos sobre objetos, instrumentos, crÃ©ditos y comunicados relacionados.
+**Descripción:** Feed de las imágenes publicadas por el centro de información ESA/Hubble, con datos sobre objetos, instrumentos, créditos y comunicados relacionados.
 
-**Observaciones:** Es un canal orientado principalmente a recursos visuales, no a toda la actualidad cientÃ­fica de Hubble. El endpoint oficial responde y el archivo incorporÃ³ nuevas imÃ¡genes durante julio de 2026.
+**Observaciones:** Es un canal orientado principalmente a recursos visuales, no a toda la actualidad científica de Hubble. El endpoint oficial responde y el archivo incorporó nuevas imágenes durante julio de 2026.
 
 ---
 
-## ðŸ”µ RSS cientÃ­ficos
+## 🔵 RSS científicos
 
 ### ESO Telescope Bibliography
 
-**OrganizaciÃ³n:** European Southern Observatory â€” ESO\
-**CategorÃ­a:** BibliografÃ­a cientÃ­fica institucional\
+**Organización:** European Southern Observatory — ESO\
+**Categoría:** Bibliografía científica institucional\
 **URL RSS:** [Abrir feed RSS](https://feeds.feedburner.com/ESOtelbibpapers)\
 **Formato:** RSS/XML alojado en FeedBurner\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Europea y mundial\
-**Tipo de contenido:** ArtÃ­culos cientÃ­ficos revisados que utilizan datos de ESO\
+**Tipo de contenido:** Artículos científicos revisados que utilizan datos de ESO\
 **Frecuencia aproximada:** Diaria\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed de nuevos artÃ­culos incorporados a la ESO Telescope Bibliography, base mantenida por la biblioteca de ESO y dedicada a publicaciones revisadas que utilizan datos de sus telescopios.
+**Descripción:** Feed de nuevos artículos incorporados a la ESO Telescope Bibliography, base mantenida por la biblioteca de ESO y dedicada a publicaciones revisadas que utilizan datos de sus telescopios.
 
-**Observaciones:** Aunque el alojamiento tÃ©cnico estÃ¡ en FeedBurner, el enlace estÃ¡ publicado directamente por ESO y no es un agregador independiente. La pÃ¡gina oficial indica una producciÃ³n aproximada de dos artÃ­culos cientÃ­ficos diarios relacionados con sus observatorios. ([ESO](https://www.eso.org/public/science/ "https://www.eso.org/public/science/"))
+**Observaciones:** Aunque el alojamiento técnico está en FeedBurner, el enlace está publicado directamente por ESO y no es un agregador independiente. La página oficial indica una producción aproximada de dos artículos científicos diarios relacionados con sus observatorios. ([ESO](https://www.eso.org/public/science/ "https://www.eso.org/public/science/"))
 
 ---
 
-### arXiv Astrophysics â€” astro-ph
+### arXiv Astrophysics — astro-ph
 
-**OrganizaciÃ³n:** arXiv\
-**CategorÃ­a:** Repositorio cientÃ­fico\
+**Organización:** arXiv\
+**Categoría:** Repositorio científico\
 **URL RSS:** [Abrir feed RSS](https://rss.arxiv.org/rss/astro-ph)\
 **Alternativa Atom:** [Abrir feed Atom](https://rss.arxiv.org/atom/astro-ph)\
 **Formato:** RSS y Atom\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** Preprints, versiones revisadas y metadatos bibliogrÃ¡ficos\
+**Tipo de contenido:** Preprints, versiones revisadas y metadatos bibliográficos\
 **Frecuencia aproximada:** Diaria\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Canal completo de la categorÃ­a `astro-ph`. Es una de las fuentes de mayor cobertura para seguir nuevos trabajos de astronomÃ­a, astrofÃ­sica y cosmologÃ­a antes de su publicaciÃ³n formal.
+**Descripción:** Canal completo de la categoría `astro-ph`. Es una de las fuentes de mayor cobertura para seguir nuevos trabajos de astronomía, astrofísica y cosmología antes de su publicación formal.
 
-**Observaciones:** Tiene un volumen muy elevado. arXiv documenta oficialmente las variantes RSS y Atom y seÃ±ala que se actualizan diariamente. Para sistemas automatizados suele ser preferible dividirlo por subcategorÃ­as. ([info.arxiv.org](https://info.arxiv.org/help/rss.html "https://info.arxiv.org/help/rss.html"))
+**Observaciones:** Tiene un volumen muy elevado. arXiv documenta oficialmente las variantes RSS y Atom y señala que se actualizan diariamente. Para sistemas automatizados suele ser preferible dividirlo por subcategorías. ([info.arxiv.org](https://info.arxiv.org/help/rss.html "https://info.arxiv.org/help/rss.html"))
 
 ---
 
-### MNRAS â€” Advance Articles
+### MNRAS — Advance Articles
 
-**OrganizaciÃ³n:** Monthly Notices of the Royal Astronomical Society / Oxford University Press\
-**CategorÃ­a:** Revista cientÃ­fica\
+**Organización:** Monthly Notices of the Royal Astronomical Society / Oxford University Press\
+**Categoría:** Revista científica\
 **URL RSS:** [Abrir feed RSS](https://academic.oup.com/rss/site_5326/advanceAccess_3192.xml)\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** ArtÃ­culos revisados por pares publicados anticipadamente\
+**Tipo de contenido:** Artículos revisados por pares publicados anticipadamente\
 **Frecuencia aproximada:** Diaria o casi diaria\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed de artÃ­culos aceptados y publicados en lÃ­nea antes de su asignaciÃ³n definitiva a un nÃºmero de MNRAS.
+**Descripción:** Feed de artículos aceptados y publicados en línea antes de su asignación definitiva a un número de MNRAS.
 
-**Observaciones:** Es mÃ¡s oportuno que el feed del Ãºltimo nÃºmero, porque incorpora los trabajos a medida que aparecen. Oxford University Press tambiÃ©n ofrece canales separados para el nÃºmero actual y el contenido de acceso abierto. ([OUP Academic](https://academic.oup.com/mnras/advance-articles "https://academic.oup.com/mnras/advance-articles"))
+**Observaciones:** Es más oportuno que el feed del último número, porque incorpora los trabajos a medida que aparecen. Oxford University Press también ofrece canales separados para el número actual y el contenido de acceso abierto. ([OUP Academic](https://academic.oup.com/mnras/advance-articles "https://academic.oup.com/mnras/advance-articles"))
 
 ---
 
-### Astronomy & Astrophysics â€” Latest Articles
+### Astronomy & Astrophysics — Latest Articles
 
-**OrganizaciÃ³n:** Astronomy & Astrophysics / EDP Sciences\
-**CategorÃ­a:** Revista cientÃ­fica\
+**Organización:** Astronomy & Astrophysics / EDP Sciences\
+**Categoría:** Revista científica\
 **URL RSS:** [Abrir feed RSS](https://www.aanda.org/articles/aa/rss/TOCRSS/rss.xml)\
 **Formato:** RSS/XML\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Europea y mundial\
-**Tipo de contenido:** ArtÃ­culos revisados por pares\
+**Tipo de contenido:** Artículos revisados por pares\
 **Frecuencia aproximada:** Diaria o casi diaria\
-**Estado:** **Activo, con validaciÃ³n tÃ©cnica parcial**
+**Estado:** **Activo, con validación técnica parcial**
 
-**DescripciÃ³n:** Feed de la tabla de contenidos y Ãºltimas publicaciones de _Astronomy & Astrophysics_, una de las revistas principales de astronomÃ­a y astrofÃ­sica.
+**Descripción:** Feed de la tabla de contenidos y últimas publicaciones de _Astronomy & Astrophysics_, una de las revistas principales de astronomía y astrofísica.
 
-**Observaciones:** La revista publica oficialmente el servicio RSS y mantenÃ­a un volumen activo correspondiente a julio de 2026. El endpoint devolviÃ³ un bloqueo HTTP 403 al comprobador automatizado, por lo que no fue posible analizar directamente el XML; esto puede ser una protecciÃ³n anti-bot y no implica que el feed estÃ© roto para un lector RSS convencional. ([AANDA](https://www.aanda.org/component/rsslist/?Itemid=263\&task=journal "https://www.aanda.org/component/rsslist/?Itemid=263\&task=journal"))
+**Observaciones:** La revista publica oficialmente el servicio RSS y mantenía un volumen activo correspondiente a julio de 2026. El endpoint devolvió un bloqueo HTTP 403 al comprobador automatizado, por lo que no fue posible analizar directamente el XML; esto puede ser una protección anti-bot y no implica que el feed esté roto para un lector RSS convencional. ([AANDA](https://www.aanda.org/component/rsslist/?Itemid=263\&task=journal "https://www.aanda.org/component/rsslist/?Itemid=263\&task=journal"))
 
 ---
 
 ### Nature Astronomy
 
-**OrganizaciÃ³n:** Springer Nature\
-**CategorÃ­a:** Revista cientÃ­fica\
+**Organización:** Springer Nature\
+**Categoría:** Revista científica\
 **URL RSS:** [Abrir feed RSS](https://www.nature.com/natastron.rss)\
 **Formato:** RSS, servido como `application/rss+xml`\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** InvestigaciÃ³n, revisiones, perspectivas, editoriales y comentarios\
+**Tipo de contenido:** Investigación, revisiones, perspectivas, editoriales y comentarios\
 **Frecuencia aproximada:** Semanal, con publicaciones continuas\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed oficial de la revista _Nature Astronomy_. Cubre astrofÃ­sica observacional y teÃ³rica, cosmologÃ­a, ondas gravitacionales, astronomÃ­a multimensajero, exoplanetas e instrumentaciÃ³n.
+**Descripción:** Feed oficial de la revista _Nature Astronomy_. Cubre astrofísica observacional y teórica, cosmología, ondas gravitacionales, astronomía multimensajero, exoplanetas e instrumentación.
 
-**Observaciones:** Combina artÃ­culos cientÃ­ficos con anÃ¡lisis y opiniÃ³n editorial. El endpoint responde como RSS y el sitio mostraba artÃ­culos y un nÃºmero vigente de julio de 2026.
+**Observaciones:** Combina artículos científicos con análisis y opinión editorial. El endpoint responde como RSS y el sitio mostraba artículos y un número vigente de julio de 2026.
 
 ---
 
 ### AAS Nova
 
-**OrganizaciÃ³n:** American Astronomical Society\
-**CategorÃ­a:** PublicaciÃ³n cientÃ­fica editorial\
+**Organización:** American Astronomical Society\
+**Categoría:** Publicación científica editorial\
 **URL RSS:** [Abrir feed RSS](https://aasnova.org/feed/)\
 **Formato:** RSS\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Estados Unidos y mundial\
-**Tipo de contenido:** ResÃºmenes de investigaciones publicadas en revistas de la AAS\
+**Tipo de contenido:** Resúmenes de investigaciones publicadas en revistas de la AAS\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Selecciona y explica resultados publicados en las revistas de la American Astronomical Society, ofreciendo resÃºmenes breves y enlaces a los artÃ­culos originales.
+**Descripción:** Selecciona y explica resultados publicados en las revistas de la American Astronomical Society, ofreciendo resúmenes breves y enlaces a los artículos originales.
 
-**Observaciones:** No sustituye a la literatura primaria, pero es uno de los mejores feeds para detectar rÃ¡pidamente investigaciones destacadas sin procesar todo el volumen de las revistas. MantenÃ­a publicaciones recientes durante julio de 2026.
+**Observaciones:** No sustituye a la literatura primaria, pero es uno de los mejores feeds para detectar rápidamente investigaciones destacadas sin procesar todo el volumen de las revistas. Mantenía publicaciones recientes durante julio de 2026.
 
 ---
 
-## ðŸŸ  RSS especializados y de actualidad cientÃ­fica
+## 🟠 RSS especializados y de actualidad científica
 
 ### Astrobites
 
-**OrganizaciÃ³n:** Astrobites\
-**CategorÃ­a:** Medio cientÃ­fico especializado\
+**Organización:** Astrobites\
+**Categoría:** Medio científico especializado\
 **URL RSS:** [Abrir feed RSS](https://astrobites.org/feed/)\
 **Formato:** RSS\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** ResÃºmenes y explicaciones de artÃ­culos recientes\
+**Tipo de contenido:** Resúmenes y explicaciones de artículos recientes\
 **Frecuencia aproximada:** Diaria\
 **Estado:** **Activo**
 
-**DescripciÃ³n:** PublicaciÃ³n elaborada por estudiantes de posgrado en astronomÃ­a que resume trabajos recientes, principalmente procedentes de arXiv.
+**Descripción:** Publicación elaborada por estudiantes de posgrado en astronomía que resume trabajos recientes, principalmente procedentes de arXiv.
 
-**Observaciones:** No es una fuente primaria ni institucional, pero aporta una capa editorial muy Ãºtil para descubrir y comprender preprints relevantes. PublicÃ³ entradas los dÃ­as 27, 28 y 29 de julio de 2026.
+**Observaciones:** No es una fuente primaria ni institucional, pero aporta una capa editorial muy útil para descubrir y comprender preprints relevantes. Publicó entradas los días 27, 28 y 29 de julio de 2026.
 
 ---
 
 ## Feeds oficiales descartados o no recomendados
 
-|OrganizaciÃ³n|Feed o servicio|Motivo de exclusiÃ³n|
+|Organización|Feed o servicio|Motivo de exclusión|
 |---|---|---|
-|Chandra X-ray Observatory|Feeds de prensa e imÃ¡genes|Los endpoints existen, pero sus Ãºltimos elementos detectados eran de enero de 2026 mientras el sitio oficial ya tenÃ­a contenido de julio; parecen desincronizados. ([Chandra](https://chandra.harvard.edu/press/xml/ "https://chandra.harvard.edu/press/xml/"))|
-|International Astronomical Union|Press Releases y Announcements|Las URLs aparecen documentadas en el archivo oficial, pero los endpoints no pudieron recuperarse durante la comprobaciÃ³n. No se incluyen como feeds operativos. ([IAU Archive](https://iauarchive.eso.org/news/newsletters/ "IAU Newsletters | IAU"))|
-|ESA Science & Technology, sitio antiguo|RSS heredados de `sci.esa.int`|La propia ESA indica que el sitio heredado estÃ¡ en revisiÃ³n o sin actualizaciÃ³n. Se recomienda el feed actual de ESA Space Science. ([ESA Ciencia](https://sci.esa.int/web/cosmic-vision/-/46510-cosmic-vision "https://sci.esa.int/web/cosmic-vision/-/46510-cosmic-vision"))|
-|NOIRLab|RSS anunciado en la sala de prensa|La organizaciÃ³n menciona feeds RSS, pero no fue posible extraer y validar de forma inequÃ­voca el endpoint pÃºblico actual; se omite para evitar proponer una URL no comprobada. ([NOIRLab](https://noirlab.edu/public/pressroom/ "https://noirlab.edu/public/pressroom/"))|
+|Chandra X-ray Observatory|Feeds de prensa e imágenes|Los endpoints existen, pero sus últimos elementos detectados eran de enero de 2026 mientras el sitio oficial ya tenía contenido de julio; parecen desincronizados. ([Chandra](https://chandra.harvard.edu/press/xml/ "https://chandra.harvard.edu/press/xml/"))|
+|International Astronomical Union|Press Releases y Announcements|Las URLs aparecen documentadas en el archivo oficial, pero los endpoints no pudieron recuperarse durante la comprobación. No se incluyen como feeds operativos. ([IAU Archive](https://iauarchive.eso.org/news/newsletters/ "IAU Newsletters | IAU"))|
+|ESA Science & Technology, sitio antiguo|RSS heredados de `sci.esa.int`|La propia ESA indica que el sitio heredado está en revisión o sin actualización. Se recomienda el feed actual de ESA Space Science. ([ESA Ciencia](https://sci.esa.int/web/cosmic-vision/-/46510-cosmic-vision "https://sci.esa.int/web/cosmic-vision/-/46510-cosmic-vision"))|
+|NOIRLab|RSS anunciado en la sala de prensa|La organización menciona feeds RSS, pero no fue posible extraer y validar de forma inequívoca el endpoint público actual; se omite para evitar proponer una URL no comprobada. ([NOIRLab](https://noirlab.edu/public/pressroom/ "https://noirlab.edu/public/pressroom/"))|
 
 ---
 
 ## RSS recomendados para futuras ampliaciones
 
-### SegmentaciÃ³n de arXiv
+### Segmentación de arXiv
 
 Todos siguen el esquema oficial documentado por arXiv. ([info.arxiv.org](https://info.arxiv.org/help/rss.html "https://info.arxiv.org/help/rss.html"))
 
-- [Cosmology and Nongalactic Astrophysics â€” astro-ph.CO](https://rss.arxiv.org/rss/astro-ph.CO)
+- [Cosmology and Nongalactic Astrophysics — astro-ph.CO](https://rss.arxiv.org/rss/astro-ph.CO)
 
-- [Astrophysics of Galaxies â€” astro-ph.GA](https://rss.arxiv.org/rss/astro-ph.GA)
+- [Astrophysics of Galaxies — astro-ph.GA](https://rss.arxiv.org/rss/astro-ph.GA)
 
-- [High Energy Astrophysical Phenomena â€” astro-ph.HE](https://rss.arxiv.org/rss/astro-ph.HE)
+- [High Energy Astrophysical Phenomena — astro-ph.HE](https://rss.arxiv.org/rss/astro-ph.HE)
 
-- [Instrumentation and Methods â€” astro-ph.IM](https://rss.arxiv.org/rss/astro-ph.IM)
+- [Instrumentation and Methods — astro-ph.IM](https://rss.arxiv.org/rss/astro-ph.IM)
 
-- [Solar and Stellar Astrophysics â€” astro-ph.SR](https://rss.arxiv.org/rss/astro-ph.SR)
+- [Solar and Stellar Astrophysics — astro-ph.SR](https://rss.arxiv.org/rss/astro-ph.SR)
 
-- [Earth and Planetary Astrophysics â€” astro-ph.EP](https://rss.arxiv.org/rss/astro-ph.EP)
+- [Earth and Planetary Astrophysics — astro-ph.EP](https://rss.arxiv.org/rss/astro-ph.EP)
 
 ### Otros canales de alta calidad
 
-- [Nature Portfolio â€” Astronomy and Astrophysics](https://www.nature.com/subjects/astronomy-and-astrophysics.rss): cobertura transversal de artÃ­culos astrofÃ­sicos publicados en las revistas de Nature Portfolio.
+- [Nature Portfolio — Astronomy and Astrophysics](https://www.nature.com/subjects/astronomy-and-astrophysics.rss): cobertura transversal de artículos astrofísicos publicados en las revistas de Nature Portfolio.
 
-- [MNRAS â€” Open Access](https://academic.oup.com/rss/site_5326/OpenAccess.xml): solo artÃ­culos de acceso abierto.
+- [MNRAS — Open Access](https://academic.oup.com/rss/site_5326/OpenAccess.xml): solo artículos de acceso abierto.
 
-- [MNRAS â€” Current Issue](https://academic.oup.com/rss/site_5326/3192.xml): contenidos del Ãºltimo nÃºmero publicado. ([OUP Academic](https://academic.oup.com/mnras/advance-articles "https://academic.oup.com/mnras/advance-articles"))
+- [MNRAS — Current Issue](https://academic.oup.com/rss/site_5326/3192.xml): contenidos del último número publicado. ([OUP Academic](https://academic.oup.com/mnras/advance-articles "https://academic.oup.com/mnras/advance-articles"))
 
-**NÃºcleo recomendado para una colecciÃ³n equilibrada:** ESA Space Science, JPL News, NRAO News, arXiv `astro-ph`, MNRAS Advance Articles, Astronomy & Astrophysics, Nature Astronomy y AAS Nova.
+**Núcleo recomendado para una colección equilibrada:** ESA Space Science, JPL News, NRAO News, arXiv `astro-ph`, MNRAS Advance Articles, Astronomy & Astrophysics, Nature Astronomy y AAS Nova.

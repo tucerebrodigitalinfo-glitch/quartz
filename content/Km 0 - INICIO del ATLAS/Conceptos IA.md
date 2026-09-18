@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:34:56.078Z
-modified: 2026-09-17T10:13:55.615Z
+modified: 2026-09-18T09:36:21.528Z
 ---
 
 #IA #Conceptos #Clave
@@ -18,4 +18,4 @@ modified: 2026-09-17T10:13:55.615Z
 [[LLMs (i)]]
 [[IA, Agentes IA]]
 [[Embeddings]]
-[[AI, Aprendizaje AutomÃ¡tico]]
+[[AI, Aprendizaje Automático]]

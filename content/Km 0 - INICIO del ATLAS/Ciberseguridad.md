@@ -1,30 +1,30 @@
 ---
 publish: true
 created: 2026-07-12T14:34:36.394Z
-modified: 2026-09-17T10:13:55.953Z
+modified: 2026-09-18T09:36:21.676Z
 ---
 
-> [!resumen] Resumen Mapa central para el curso de introducciÃ³n a la seguridad informÃ¡tica.
+> [!resumen] Resumen Mapa central para el curso de introducción a la seguridad informática.
 
 ## 1. Fundamentos
 
 - [[Triada CIA]] (Confidencialidad, Integridad, Disponibilidad)
 - [[Vectores de ataque comunes]]
-- [[Historia de la criptografÃ­a]]
+- [[Historia de la criptografía]]
 
-## 2. Herramientas PrÃ¡cticas
+## 2. Herramientas Prácticas
 
-- [[Uso bÃ¡sico de Nmap]]
-- [[ConfiguraciÃ³n de Wireshark]]
-- [[GestiÃ³n de firewalls]]
+- [[Uso básico de Nmap]]
+- [[Configuración de Wireshark]]
+- [[Gestión de firewalls]]
 
 ## 3. Laboratorios y Ejercicios
 
 - [[Lab 1 - Escaneo de red]]
-- [[Lab 2 - AnÃ¡lisis de trÃ¡fico]]
-- [[Examen final - Caso prÃ¡ctico]]
+- [[Lab 2 - Análisis de tráfico]]
+- [[Examen final - Caso práctico]]
 
 ## 4. Recursos Externos
 
-- [Enlace a documentaciÃ³n oficial de OWASP](https://owasp.org/)
-- [[GuÃ­a de buenas prÃ¡cticas - PDF]] (Nota: este enlace apunta a un archivo en tu carpetaÂ `30_Recursos`)
+- [Enlace a documentación oficial de OWASP](https://owasp.org/)
+- [[Guía de buenas prácticas - PDF]] (Nota: este enlace apunta a un archivo en tu carpeta `30_Recursos`)

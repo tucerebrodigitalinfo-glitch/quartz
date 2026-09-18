@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-05T10:58:25.061Z
-modified: 2026-09-17T10:14:43.420Z
+modified: 2026-09-18T09:36:55.346Z
 ---
 
-#IA #CientÃ­ficos #Libros
+#IA #Científicos #Libros
 
 # \[Wikipedia]\([Stuart J. Russell - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Stuart_J._Russell)
 

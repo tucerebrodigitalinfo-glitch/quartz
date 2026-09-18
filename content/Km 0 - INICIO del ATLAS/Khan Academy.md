@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-19T09:07:02.467Z
-modified: 2026-09-17T10:14:33.220Z
+modified: 2026-09-18T09:36:48.228Z
 ---
 
-#FormaciÃ³n #Aprender
+#Formación #Aprender

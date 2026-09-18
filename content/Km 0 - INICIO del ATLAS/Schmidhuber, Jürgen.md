@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:37:46.389Z
-modified: 2026-09-17T10:13:51.538Z
+modified: 2026-09-18T09:36:20.378Z
 ---
 
-#iA #Personajes #CientÃ­ficos #Titanes
+#iA #Personajes #Científicos #Titanes
 
 ![[Biblioteca/Pasted image 20260904152050.png]]
 

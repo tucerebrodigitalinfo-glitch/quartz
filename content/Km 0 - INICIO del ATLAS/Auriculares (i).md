@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-06T05:19:03.398Z
-modified: 2026-09-17T10:14:20.928Z
+modified: 2026-09-18T09:36:37.431Z
 ---
 
-#Ãndices #ElectrÃ³nica #Audio
+#Índices #Electrónica #Audio
 
 ![[Biblioteca/AURICULARES.jpg]]
 
@@ -12,95 +12,95 @@ modified: 2026-09-17T10:14:20.928Z
 
 # WEB
 
-- **Head-Fi** â€” <https://www.head-fi.org/>\
-  La mayor comunidad mundial dedicada a auriculares, DAC, amplificadores y audio portÃ¡til.
+- **Head-Fi** — <https://www.head-fi.org/>\
+  La mayor comunidad mundial dedicada a auriculares, DAC, amplificadores y audio portátil.
 
-- **RTINGS â€“ Headphones** â€” <https://www.rtings.com/headphones>\
+- **RTINGS – Headphones** — <https://www.rtings.com/headphones>\
   Referencia internacional en mediciones objetivas y comparativas.
 
-- **SoundGuys** â€” <https://www.soundguys.com/>\
-  AnÃ¡lisis tÃ©cnicos de auriculares, cÃ³decs Bluetooth y calidad de sonido.
+- **SoundGuys** — <https://www.soundguys.com/>\
+  Análisis técnicos de auriculares, códecs Bluetooth y calidad de sonido.
 
-- **Audio Science Review** â€” <https://www.audiosciencereview.com/>\
-  Mediciones de laboratorio y evaluaciÃ³n objetiva de equipos de audio.
+- **Audio Science Review** — <https://www.audiosciencereview.com/>\
+  Mediciones de laboratorio y evaluación objetiva de equipos de audio.
 
-- **InnerFidelity Archive** â€” <https://www.stereophile.com/content/innerfidelity>\
-  Archivo histÃ³rico de una de las publicaciones mÃ¡s influyentes sobre auriculares.
+- **InnerFidelity Archive** — <https://www.stereophile.com/content/innerfidelity>\
+  Archivo histórico de una de las publicaciones más influyentes sobre auriculares.
 
-- **Stereophile** â€” <https://www.stereophile.com/>\
-  Revista de referencia para alta fidelidad y audio audiÃ³filo.
+- **Stereophile** — <https://www.stereophile.com/>\
+  Revista de referencia para alta fidelidad y audio audiófilo.
 
-- **What Hi-Fi?** â€” <https://www.whathifi.com/>\
-  AnÃ¡lisis, comparativas y premios de productos de audio.
+- **What Hi-Fi?** — <https://www.whathifi.com/>\
+  Análisis, comparativas y premios de productos de audio.
 
-- **Headfonics** â€” <https://headfonics.com/>\
+- **Headfonics** — <https://headfonics.com/>\
   Revisiones especializadas de auriculares, IEM y DAC.
 
-- **MajorHiFi** â€” <https://majorhifi.com/>\
-  AnÃ¡lisis orientados a audio de alta gama.
+- **MajorHiFi** — <https://majorhifi.com/>\
+  Análisis orientados a audio de alta gama.
 
-- **The Headphone List** â€” <https://theheadphonelist.com/>\
+- **The Headphone List** — <https://theheadphonelist.com/>\
   Base de datos y comparativas de IEM y auriculares.
 
-- **Crinacle** â€” <https://crinacle.com/>\
+- **Crinacle** — <https://crinacle.com/>\
   Una de las mayores bases de datos de mediciones de auriculares e IEM.
 
-- **DIY Audio Heaven** â€” <https://diyaudioheaven.wordpress.com/>\
-  IngenierÃ­a, modificaciones y anÃ¡lisis tÃ©cnicos.
+- **DIY Audio Heaven** — <https://diyaudioheaven.wordpress.com/>\
+  Ingeniería, modificaciones y análisis técnicos.
 
-- **GoldenSound** â€” <https://goldensound.audio/>\
-  Mediciones y evaluaciÃ³n tÃ©cnica del audio digital.
+- **GoldenSound** — <https://goldensound.audio/>\
+  Mediciones y evaluación técnica del audio digital.
 
-- **Audioholics** â€” <https://www.audioholics.com/>\
-  IngenierÃ­a acÃºstica y equipos Hi-Fi.
+- **Audioholics** — <https://www.audioholics.com/>\
+  Ingeniería acústica y equipos Hi-Fi.
 
-- **Hi-Fi News** â€” <https://www.hifinews.com/>\
+- **Hi-Fi News** — <https://www.hifinews.com/>\
   Revista especializada en alta fidelidad.
 
-- **StereoNET** â€” <https://www.stereonet.com/>\
+- **StereoNET** — <https://www.stereonet.com/>\
   Comunidad internacional sobre audio de alta gama.
 
-- **Headphone.com** â€” <https://headphones.com/>\
-  GuÃ­as tÃ©cnicas, artÃ­culos y mediciones.
+- **Headphone.com** — <https://headphones.com/>\
+  Guías técnicas, artículos y mediciones.
 
-- **Sony Audio** â€” <https://www.sony.com/electronics/headband-headphones>\
-  InformaciÃ³n oficial sobre auriculares Sony.
+- **Sony Audio** — <https://www.sony.com/electronics/headband-headphones>\
+  Información oficial sobre auriculares Sony.
 
-- **Sennheiser** â€” <https://www.sennheiser.com/>\
+- **Sennheiser** — <https://www.sennheiser.com/>\
   Fabricante de referencia en audio profesional y de consumo.
 
-- **Beyerdynamic** â€” <https://europe.beyerdynamic.com/>\
+- **Beyerdynamic** — <https://europe.beyerdynamic.com/>\
   Especialista en auriculares de estudio y alta fidelidad.
 
-- **Audio-Technica** â€” <https://www.audio-technica.com/>\
-  Amplio catÃ¡logo de auriculares profesionales y domÃ©sticos.
+- **Audio-Technica** — <https://www.audio-technica.com/>\
+  Amplio catálogo de auriculares profesionales y domésticos.
 
-- **Shure** â€” <https://www.shure.com/>\
-  Referencia mundial en monitorizaciÃ³n profesional e IEM.
+- **Shure** — <https://www.shure.com/>\
+  Referencia mundial en monitorización profesional e IEM.
 
-- **Focal** â€” <https://www.focal.com/>\
-  Auriculares audiÃ³filos de gama alta.
+- **Focal** — <https://www.focal.com/>\
+  Auriculares audiófilos de gama alta.
 
-- **Audeze** â€” <https://www.audeze.com/>\
-  Pioneros en tecnologÃ­a planar magnÃ©tica.
+- **Audeze** — <https://www.audeze.com/>\
+  Pioneros en tecnología planar magnética.
 
-- **HiFiMAN** â€” <https://hifiman.com/>\
+- **HiFiMAN** — <https://hifiman.com/>\
   Fabricante especializado en auriculares planares.
 
-- **Meze Audio** â€” <https://mezeaudio.com/>\
-  DiseÃ±o premium y alta fidelidad.
+- **Meze Audio** — <https://mezeaudio.com/>\
+  Diseño premium y alta fidelidad.
 
-- **Dan Clark Audio** â€” <https://danclarkaudio.com/>\
+- **Dan Clark Audio** — <https://danclarkaudio.com/>\
   Referencia en auriculares planares de alta gama.
 
-- **Grado Labs** â€” <https://gradolabs.com/>\
-  HistÃ³rica empresa estadounidense de auriculares abiertos.
+- **Grado Labs** — <https://gradolabs.com/>\
+  Histórica empresa estadounidense de auriculares abiertos.
 
-- **AKG** â€” <https://www.akg.com/>\
-  ClÃ¡sicos auriculares de estudio y monitorizaciÃ³n.
+- **AKG** — <https://www.akg.com/>\
+  Clásicos auriculares de estudio y monitorización.
 
-- **Bluetooth SIG** â€” <https://www.bluetooth.com/>\
-  InformaciÃ³n oficial sobre Bluetooth y estÃ¡ndares inalÃ¡mbricos.
+- **Bluetooth SIG** — <https://www.bluetooth.com/>\
+  Información oficial sobre Bluetooth y estándares inalámbricos.
 
 # YOUTUBE
 
@@ -110,23 +110,23 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Resolve Reviews (Headphones.com)**\
   <https://www.youtube.com/@TheHeadphonesShow>\
-  Mediciones, comparativas y explicaciones tÃ©cnicas.
+  Mediciones, comparativas y explicaciones técnicas.
 
 - **Crinacle**\
   <https://www.youtube.com/@crin>\
-  Referencia mundial en IEM y mediciones acÃºsticas.
+  Referencia mundial en IEM y mediciones acústicas.
 
 - **GoldenSound**\
   <https://www.youtube.com/@GoldenSound>\
-  Audio digital, DAC y anÃ¡lisis tÃ©cnico.
+  Audio digital, DAC y análisis técnico.
 
 - **BadSeed Tech**\
   <https://www.youtube.com/@BadSeedTech>\
-  Auriculares inalÃ¡mbricos y tecnologÃ­a de consumo.
+  Auriculares inalámbricos y tecnología de consumo.
 
 - **DMS**\
   <https://www.youtube.com/@DMS3TV>\
-  Alta fidelidad y auriculares audiÃ³filos.
+  Alta fidelidad y auriculares audiófilos.
 
 - **Z Reviews**\
   <https://www.youtube.com/@ZReviews>\
@@ -134,11 +134,11 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **RTINGS.com**\
   <https://www.youtube.com/@RTINGScom>\
-  Explicaciones de metodologÃ­as de prueba y comparativas.
+  Explicaciones de metodologías de prueba y comparativas.
 
 - **SoundGuys**\
   <https://www.youtube.com/@SoundGuys>\
-  TecnologÃ­a de audio, Bluetooth y ANC.
+  Tecnología de audio, Bluetooth y ANC.
 
 - **Linus Tech Tips**\
   <https://www.youtube.com/@LinusTechTips>\
@@ -152,11 +152,11 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Darko.Audio Podcast**\
   <https://darko.audio/category/podcast/>\
-  Audio domÃ©stico, auriculares Hi-Fi y tecnologÃ­a digital.
+  Audio doméstico, auriculares Hi-Fi y tecnología digital.
 
 - **The Occasional Podcast (Schiit Audio)**\
   <https://www.schiit.com/>\
-  Charlas sobre ingenierÃ­a de audio, DAC, amplificadores y diseÃ±o de productos.
+  Charlas sobre ingeniería de audio, DAC, amplificadores y diseño de productos.
 
 - **AVForums Podcast**\
   <https://www.avforums.com/podcasts/>\
@@ -164,23 +164,23 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **The HiFi Podcast**\
   <https://thehifipodcast.net/>\
-  Novedades, anÃ¡lisis y entrevistas con profesionales del sector.
+  Novedades, análisis y entrevistas con profesionales del sector.
 
 - **Recording Studio Rockstars**\
   <https://recordingstudiorockstars.com/>\
-  ProducciÃ³n musical y uso profesional de auriculares en estudio.
+  Producción musical y uso profesional de auriculares en estudio.
 
 - **Working Class Audio**\
   <https://www.workingclassaudio.com/>\
-  IngenierÃ­a de sonido y monitorizaciÃ³n profesional.
+  Ingeniería de sonido y monitorización profesional.
 
 - **Sound On Sound Podcast**\
   <https://www.soundonsound.com/podcasts>\
-  ProducciÃ³n musical, mezcla y tecnologÃ­a de audio.
+  Producción musical, mezcla y tecnología de audio.
 
 - **The Mastering Show**\
   <https://themasteringshow.com/>\
-  MasterizaciÃ³n, escucha crÃ­tica y reproducciÃ³n de alta calidad.
+  Masterización, escucha crítica y reproducción de alta calidad.
 
 - **Audio Talks (AES)**\
   <https://aes2.org/>\
@@ -188,91 +188,91 @@ modified: 2026-09-17T10:14:20.928Z
 
 # LIBROS
 
-- **Master Handbook of Acoustics â€” F. Alton Everest y Ken C. Pohlmann**\
-  Obra fundamental sobre acÃºstica aplicada al audio.
+- **Master Handbook of Acoustics — F. Alton Everest y Ken C. Pohlmann**\
+  Obra fundamental sobre acústica aplicada al audio.
 
-- **Principles of Digital Audio â€” Ken C. Pohlmann**\
-  Referencia clÃ¡sica sobre audio digital.
+- **Principles of Digital Audio — Ken C. Pohlmann**\
+  Referencia clásica sobre audio digital.
 
-- **Introduction to Sound Recording â€” Huber & Runstein**\
-  Manual completo de grabaciÃ³n profesional.
+- **Introduction to Sound Recording — Huber & Runstein**\
+  Manual completo de grabación profesional.
 
-- **Modern Recording Techniques â€” David Miles Huber**\
-  Uno de los libros mÃ¡s utilizados en ingenierÃ­a de sonido.
+- **Modern Recording Techniques — David Miles Huber**\
+  Uno de los libros más utilizados en ingeniería de sonido.
 
-- **Sound Reproduction â€” Floyd Toole**\
-  Referencia mundial sobre percepciÃ³n auditiva y reproducciÃ³n sonora.
+- **Sound Reproduction — Floyd Toole**\
+  Referencia mundial sobre percepción auditiva y reproducción sonora.
 
-- **The Science of Sound â€” Thomas Rossing**\
-  Explica la fÃ­sica del sonido y su aplicaciÃ³n tecnolÃ³gica.
+- **The Science of Sound — Thomas Rossing**\
+  Explica la física del sonido y su aplicación tecnológica.
 
-- **Audio Engineering Explained â€” Douglas Self**\
-  IngenierÃ­a electrÃ³nica aplicada al audio.
+- **Audio Engineering Explained — Douglas Self**\
+  Ingeniería electrónica aplicada al audio.
 
-- **Small Signal Audio Design â€” Douglas Self**\
-  DiseÃ±o de amplificadores y circuitos de audio.
+- **Small Signal Audio Design — Douglas Self**\
+  Diseño de amplificadores y circuitos de audio.
 
-- **High Performance Audio Power Amplifiers â€” Ben Duncan**\
-  AmplificaciÃ³n de alta fidelidad.
+- **High Performance Audio Power Amplifiers — Ben Duncan**\
+  Amplificación de alta fidelidad.
 
-- **The Complete Guide to High-End Audio â€” Robert Harley**\
+- **The Complete Guide to High-End Audio — Robert Harley**\
   Manual imprescindible para aficionados al Hi-Fi.
 
-- **Headphones and Earphones â€” Alden H. Hanks**\
-  Historia y evoluciÃ³n de los auriculares.
+- **Headphones and Earphones — Alden H. Hanks**\
+  Historia y evolución de los auriculares.
 
-- **Critical Listening Skills for Audio Professionals â€” F. Alton Everest**\
-  Entrenamiento para la escucha crÃ­tica.
+- **Critical Listening Skills for Audio Professionals — F. Alton Everest**\
+  Entrenamiento para la escucha crítica.
 
-- **The Audio Expert â€” Ethan Winer**\
-  AcÃºstica, equipos y mitos del audio.
+- **The Audio Expert — Ethan Winer**\
+  Acústica, equipos y mitos del audio.
 
-- **Designing Audio Power Amplifiers â€” Bob Cordell**\
-  IngenierÃ­a avanzada del audio.
+- **Designing Audio Power Amplifiers — Bob Cordell**\
+  Ingeniería avanzada del audio.
 
-- **Handbook for Sound Engineers â€” Glen Ballou**\
+- **Handbook for Sound Engineers — Glen Ballou**\
   Enciclopedia profesional del sonido.
 
-- **Psychoacoustics â€” Fastl & Zwicker**\
-  Referencia cientÃ­fica sobre percepciÃ³n auditiva.
+- **Psychoacoustics — Fastl & Zwicker**\
+  Referencia científica sobre percepción auditiva.
 
-- **Musimathics â€” Gareth Loy**\
-  Ciencia, mÃºsica y tecnologÃ­a del sonido.
+- **Musimathics — Gareth Loy**\
+  Ciencia, música y tecnología del sonido.
 
-- **Sound System Engineering â€” Davis, Patronis y Brown**\
-  DiseÃ±o de sistemas profesionales de sonido.
+- **Sound System Engineering — Davis, Patronis y Brown**\
+  Diseño de sistemas profesionales de sonido.
 
-- **Recording Secrets for the Small Studio â€” Mike Senior**\
-  TÃ©cnicas modernas de producciÃ³n musical.
+- **Recording Secrets for the Small Studio — Mike Senior**\
+  Técnicas modernas de producción musical.
 
-- **Mixing Secrets for the Small Studio â€” Mike Senior**\
+- **Mixing Secrets for the Small Studio — Mike Senior**\
   Mezcla profesional utilizando auriculares y monitores.
 
 # REVISTAS
 
 - **Stereophile**\
   <https://www.stereophile.com/>\
-  Revista histÃ³rica del audio de alta fidelidad.
+  Revista histórica del audio de alta fidelidad.
 
 - **Hi-Fi News**\
   <https://www.hifinews.com/>\
-  PublicaciÃ³n britÃ¡nica especializada en equipos de referencia.
+  Publicación británica especializada en equipos de referencia.
 
 - **Hi-Fi Choice**\
   <https://www.hifichoice.com/>\
-  Comparativas y anÃ¡lisis de componentes de audio.
+  Comparativas y análisis de componentes de audio.
 
 - **Sound On Sound**\
   <https://www.soundonsound.com/>\
-  Referencia mundial para producciÃ³n musical e ingenierÃ­a de sonido.
+  Referencia mundial para producción musical e ingeniería de sonido.
 
 - **Tape Op**\
   <https://tapeop.com/>\
-  ProducciÃ³n musical e ingenierÃ­a de estudio.
+  Producción musical e ingeniería de estudio.
 
 - **Resolution Magazine**\
   <https://resolutionmag.com/>\
-  TecnologÃ­a profesional de audio.
+  Tecnología profesional de audio.
 
 - **ProSoundWeb**\
   <https://www.prosoundweb.com/>\
@@ -280,141 +280,141 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Mix Magazine**\
   <https://www.mixonline.com/>\
-  GrabaciÃ³n, mezcla y equipos profesionales.
+  Grabación, mezcla y equipos profesionales.
 
 - **AudioXpress**\
   <https://audioxpress.com/>\
-  IngenierÃ­a electrÃ³nica y diseÃ±o de equipos de audio.
+  Ingeniería electrónica y diseño de equipos de audio.
 
 - **Journal of the Audio Engineering Society (JAES)**\
   <https://aes2.org/publications/elibrary/>\
-  La revista cientÃ­fica mÃ¡s importante del mundo sobre ingenierÃ­a de audio.
+  La revista científica más importante del mundo sobre ingeniería de audio.
 
 # MUSEOS
 
 - **Grammy Museum (Estados Unidos)**\
   <https://grammymuseum.org/>\
-  Historia de la grabaciÃ³n musical, producciÃ³n de sonido y tecnologÃ­as de escucha.
+  Historia de la grabación musical, producción de sonido y tecnologías de escucha.
 
 - **Museum of Making Music (Estados Unidos)**\
   <https://www.museumofmakingmusic.org/>\
-  EvoluciÃ³n de los instrumentos musicales y de los sistemas de reproducciÃ³n de audio.
+  Evolución de los instrumentos musicales y de los sistemas de reproducción de audio.
 
 - **Musikinstrumenten-Museum Berlin (Alemania)**\
   <https://www.simpk.de/en/museums/museum-fuer-musikinstrumente/>\
-  Instrumentos histÃ³ricos y desarrollo de la tecnologÃ­a acÃºstica.
+  Instrumentos históricos y desarrollo de la tecnología acústica.
 
-- **CitÃ© de la Musique â€“ Philharmonie de Paris (Francia)**\
+- **Cité de la Musique – Philharmonie de Paris (Francia)**\
   <https://philharmoniedeparis.fr/>\
-  Importante colecciÃ³n sobre historia de la mÃºsica y percepciÃ³n sonora.
+  Importante colección sobre historia de la música y percepción sonora.
 
 - **Deutsches Museum (Alemania)**\
   <https://www.deutsches-museum.de/>\
-  Uno de los mayores museos de ciencia y tecnologÃ­a, con destacadas secciones de acÃºstica, electrÃ³nica y telecomunicaciones.
+  Uno de los mayores museos de ciencia y tecnología, con destacadas secciones de acústica, electrónica y telecomunicaciones.
 
 - **Science Museum London (Reino Unido)**\
   <https://www.sciencemuseum.org.uk/>\
-  Exposiciones sobre sonido, comunicaciÃ³n y tecnologÃ­as del audio.
+  Exposiciones sobre sonido, comunicación y tecnologías del audio.
 
 - **Smithsonian National Museum of American History (Estados Unidos)**\
   <https://americanhistory.si.edu/>\
-  Conserva equipos histÃ³ricos de grabaciÃ³n y reproducciÃ³n sonora.
+  Conserva equipos históricos de grabación y reproducción sonora.
 
-- **MusÃ©e des Arts et MÃ©tiers (Francia)**\
+- **Musée des Arts et Métiers (Francia)**\
   <https://www.arts-et-metiers.net/>\
-  Historia de la ingenierÃ­a, electricidad y dispositivos de audio.
+  Historia de la ingeniería, electricidad y dispositivos de audio.
 
 - **Museum of Communication (Suiza)**\
   <https://www.mfk.ch/>\
-  EvoluciÃ³n de los sistemas de comunicaciÃ³n, radio, telefonÃ­a y auriculares.
+  Evolución de los sistemas de comunicación, radio, telefonía y auriculares.
 
-- **National Museum of Nature and Science (JapÃ³n)**\
+- **National Museum of Nature and Science (Japón)**\
   <https://www.kahaku.go.jp/english/>\
-  TecnologÃ­a, electrÃ³nica y avances cientÃ­ficos relacionados con el sonido.
+  Tecnología, electrónica y avances científicos relacionados con el sonido.
 
 # UNIVERSIDADES
 
-- **Stanford University â€“ CCRMA**\
+- **Stanford University – CCRMA**\
   <https://ccrma.stanford.edu/>\
-  Centro de referencia mundial en investigaciÃ³n de audio, acÃºstica y procesamiento digital de seÃ±ales.
+  Centro de referencia mundial en investigación de audio, acústica y procesamiento digital de señales.
 
 - **Massachusetts Institute of Technology (MIT)**\
   <https://www.mit.edu/>\
-  InvestigaciÃ³n avanzada en ingenierÃ­a elÃ©ctrica, acÃºstica y percepciÃ³n auditiva.
+  Investigación avanzada en ingeniería eléctrica, acústica y percepción auditiva.
 
 - **University of Salford (Reino Unido)**\
   <https://www.salford.ac.uk/>\
-  Reconocida internacionalmente por sus estudios de acÃºstica y tecnologÃ­a del sonido.
+  Reconocida internacionalmente por sus estudios de acústica y tecnología del sonido.
 
 - **Aalto University (Finlandia)**\
   <https://www.aalto.fi/en>\
-  InvestigaciÃ³n puntera en acÃºstica, ingenierÃ­a de audio y diseÃ±o de productos.
+  Investigación puntera en acústica, ingeniería de audio y diseño de productos.
 
-- **McGill University â€“ Schulich School of Music**\
+- **McGill University – Schulich School of Music**\
   <https://www.mcgill.ca/music/>\
-  Importantes investigaciones sobre percepciÃ³n auditiva y psicoacÃºstica.
+  Importantes investigaciones sobre percepción auditiva y psicoacústica.
 
-- **University of Southampton â€“ Institute of Sound and Vibration Research (ISVR)**\
+- **University of Southampton – Institute of Sound and Vibration Research (ISVR)**\
   <https://www.southampton.ac.uk/isvr>\
-  Uno de los institutos de acÃºstica mÃ¡s prestigiosos del mundo.
+  Uno de los institutos de acústica más prestigiosos del mundo.
 
 - **Pennsylvania State University**\
   <https://www.psu.edu/>\
-  Referencia en ingenierÃ­a acÃºstica y vibraciones.
+  Referencia en ingeniería acústica y vibraciones.
 
 - **Technical University of Denmark (DTU)**\
   <https://www.dtu.dk/english>\
-  InvestigaciÃ³n en audio, telecomunicaciones y procesamiento digital.
+  Investigación en audio, telecomunicaciones y procesamiento digital.
 
-- **University of Surrey â€“ Institute of Sound Recording**\
+- **University of Surrey – Institute of Sound Recording**\
   <https://www.surrey.ac.uk/>\
-  FormaciÃ³n especializada en grabaciÃ³n e ingenierÃ­a de sonido.
+  Formación especializada en grabación e ingeniería de sonido.
 
 - **Tokyo University of the Arts**\
   <https://www.geidai.ac.jp/english/>\
-  InvestigaciÃ³n en mÃºsica, acÃºstica y tecnologÃ­as aplicadas al audio.
+  Investigación en música, acústica y tecnologías aplicadas al audio.
 
 # ASOCIACIONES
 
 - **Audio Engineering Society (AES)**\
   <https://aes2.org/>\
-  La organizaciÃ³n profesional mÃ¡s importante del mundo en ingenierÃ­a de audio.
+  La organización profesional más importante del mundo en ingeniería de audio.
 
 - **Acoustical Society of America (ASA)**\
   <https://acousticalsociety.org/>\
-  Referencia internacional en investigaciÃ³n acÃºstica y percepciÃ³n del sonido.
+  Referencia internacional en investigación acústica y percepción del sonido.
 
 - **Institute of Electrical and Electronics Engineers (IEEE)**\
   <https://www.ieee.org/>\
-  Desarrolla investigaciÃ³n y estÃ¡ndares relacionados con audio digital y telecomunicaciones.
+  Desarrolla investigación y estándares relacionados con audio digital y telecomunicaciones.
 
 - **Consumer Technology Association (CTA)**\
   <https://www.cta.tech/>\
-  AsociaciÃ³n internacional de la industria electrÃ³nica de consumo.
+  Asociación internacional de la industria electrónica de consumo.
 
 - **Bluetooth Special Interest Group (Bluetooth SIG)**\
   <https://www.bluetooth.com/>\
-  Organismo responsable del estÃ¡ndar Bluetooth utilizado por la mayorÃ­a de auriculares inalÃ¡mbricos.
+  Organismo responsable del estándar Bluetooth utilizado por la mayoría de auriculares inalámbricos.
 
 - **International Audio Laboratories Erlangen**\
   <https://www.audiolabs-erlangen.de/>\
-  Centro de investigaciÃ³n especializado en tecnologÃ­as de audio.
+  Centro de investigación especializado en tecnologías de audio.
 
 - **European Acoustics Association (EAA)**\
   <https://euracoustics.org/>\
-  OrganizaciÃ³n cientÃ­fica europea dedicada a la acÃºstica.
+  Organización científica europea dedicada a la acústica.
 
 - **Institute of Acoustics (IOA)**\
   <https://www.ioa.org.uk/>\
-  Principal asociaciÃ³n profesional britÃ¡nica sobre acÃºstica.
+  Principal asociación profesional británica sobre acústica.
 
 - **Association of Loudspeaker Manufacturing & Acoustics** _(referencia sectorial)_\
   <https://www.klippel.de/>\
-  InvestigaciÃ³n y desarrollo de mediciÃ³n electroacÃºstica.
+  Investigación y desarrollo de medición electroacústica.
 
 - **International Telecommunication Union (ITU)**\
   <https://www.itu.int/>\
-  EstÃ¡ndares internacionales relacionados con audio digital y telecomunicaciones.
+  Estándares internacionales relacionados con audio digital y telecomunicaciones.
 
 # NEWSLETTER
 
@@ -424,7 +424,7 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **SoundGuys Newsletter**\
   <https://www.soundguys.com/>\
-  Noticias sobre auriculares, Bluetooth y audio portÃ¡til.
+  Noticias sobre auriculares, Bluetooth y audio portátil.
 
 - **What Hi-Fi? Newsletter**\
   <https://www.whathifi.com/>\
@@ -432,7 +432,7 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Stereophile Newsletter**\
   <https://www.stereophile.com/>\
-  Productos de referencia y anÃ¡lisis.
+  Productos de referencia y análisis.
 
 - **Darko.Audio Newsletter**\
   <https://darko.audio/>\
@@ -440,37 +440,37 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Audio Science Review Newsletter**\
   <https://www.audiosciencereview.com/>\
-  Mediciones y artÃ­culos tÃ©cnicos.
+  Mediciones y artículos técnicos.
 
 - **AES Newsletter**\
   <https://aes2.org/>\
-  InvestigaciÃ³n y congresos de ingenierÃ­a de audio.
+  Investigación y congresos de ingeniería de audio.
 
 - **AudioXpress Newsletter**\
   <https://audioxpress.com/>\
-  DiseÃ±o electrÃ³nico y acÃºstica.
+  Diseño electrónico y acústica.
 
 - **Mix Magazine Newsletter**\
   <https://www.mixonline.com/>\
-  ProducciÃ³n musical y tecnologÃ­a profesional.
+  Producción musical y tecnología profesional.
 
 - **ProSoundWeb Newsletter**\
   <https://www.prosoundweb.com/>\
-  Sonido profesional, directo y monitorizaciÃ³n.
+  Sonido profesional, directo y monitorización.
 
 # TV
 
 - **TechRadar TV**\
   <https://www.techradar.com/>\
-  AnÃ¡lisis frecuentes de auriculares, audio inalÃ¡mbrico y electrÃ³nica de consumo.
+  Análisis frecuentes de auriculares, audio inalámbrico y electrónica de consumo.
 
 - **RTINGS Video**\
   <https://www.youtube.com/@RTINGScom>\
-  Explicaciones audiovisuales de metodologÃ­as de prueba y comparativas de auriculares.
+  Explicaciones audiovisuales de metodologías de prueba y comparativas de auriculares.
 
 - **What Hi-Fi? Video**\
   <https://www.whathifi.com/>\
-  VÃ­deos de anÃ¡lisis de equipos Hi-Fi y auriculares de alta gama.
+  Vídeos de análisis de equipos Hi-Fi y auriculares de alta gama.
 
 - **CNET**\
   <https://www.cnet.com/tech/>\
@@ -478,7 +478,7 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **The Verge**\
   <https://www.theverge.com/tech>\
-  Reportajes sobre innovaciÃ³n, auriculares y tecnologÃ­as de consumo.
+  Reportajes sobre innovación, auriculares y tecnologías de consumo.
 
 - **Tom's Guide**\
   <https://www.tomsguide.com/audio>\
@@ -486,15 +486,15 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Digital Trends**\
   <https://www.digitaltrends.com/audio/>\
-  Noticias y anÃ¡lisis de dispositivos de audio y electrÃ³nica.
+  Noticias y análisis de dispositivos de audio y electrónica.
 
 - **Engadget**\
   <https://www.engadget.com/audio/>\
-  VÃ­deos y cobertura de nuevos productos de sonido.
+  Vídeos y cobertura de nuevos productos de sonido.
 
 - **Linus Tech Tips**\
   <https://www.youtube.com/@LinusTechTips>\
-  Revisiones de auriculares, DAC, interfaces de audio y tecnologÃ­a.
+  Revisiones de auriculares, DAC, interfaces de audio y tecnología.
 
 - **Headphones.com**\
   <https://www.youtube.com/@TheHeadphonesShow>\
@@ -504,11 +504,11 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **BBC Radio 3**\
   <https://www.bbc.co.uk/radio3>\
-  Excelente referencia para evaluar auriculares gracias a su programaciÃ³n musical de alta calidad.
+  Excelente referencia para evaluar auriculares gracias a su programación musical de alta calidad.
 
 - **BBC Radio 6 Music**\
   <https://www.bbc.co.uk/6music>\
-  MÃºsica contemporÃ¡nea con gran calidad de producciÃ³n.
+  Música contemporánea con gran calidad de producción.
 
 - **NPR Music**\
   <https://www.npr.org/music/>\
@@ -520,11 +520,11 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **FIP (Francia)**\
   <https://www.radiofrance.fr/fip>\
-  MÃºsica cuidadosamente seleccionada y excelente calidad sonora.
+  Música cuidadosamente seleccionada y excelente calidad sonora.
 
 - **Deutschlandfunk Kultur**\
   <https://www.deutschlandfunkkultur.de/>\
-  ProgramaciÃ³n cultural y musical de alta fidelidad.
+  Programación cultural y musical de alta fidelidad.
 
 - **Radio Swiss Jazz**\
   <https://www.radioswissjazz.ch/>\
@@ -532,11 +532,11 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **NTS Radio**\
   <https://www.nts.live/>\
-  AmplÃ­sima diversidad musical y emisiones de alta calidad.
+  Amplísima diversidad musical y emisiones de alta calidad.
 
 - **SomaFM**\
   <https://somafm.com/>\
-  Radio por Internet con mÃºltiples canales musicales sin publicidad.
+  Radio por Internet con múltiples canales musicales sin publicidad.
 
 - **Radio Paradise**\
   <https://radioparadise.com/>\
@@ -546,11 +546,11 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Head-Fi News**\
   <https://www.head-fi.org/>\
-  Principal fuente internacional sobre auriculares y audio portÃ¡til.
+  Principal fuente internacional sobre auriculares y audio portátil.
 
 - **SoundGuys**\
   <https://www.soundguys.com/>\
-  Noticias, comparativas y anÃ¡lisis tÃ©cnicos.
+  Noticias, comparativas y análisis técnicos.
 
 - **Headfonics**\
   <https://headfonics.com/>\
@@ -558,27 +558,27 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Headphones.com Blog**\
   <https://headphones.com/blogs/features>\
-  ArtÃ­culos tÃ©cnicos y guÃ­as de compra.
+  Artículos técnicos y guías de compra.
 
 - **Audio Science Review**\
   <https://www.audiosciencereview.com/>\
-  Mediciones objetivas y evaluaciÃ³n cientÃ­fica.
+  Mediciones objetivas y evaluación científica.
 
 - **MajorHiFi**\
   <https://majorhifi.com/>\
-  Audio audiÃ³filo y equipos de alta gama.
+  Audio audiófilo y equipos de alta gama.
 
 - **Darko.Audio**\
   <https://darko.audio/>\
-  Alta fidelidad y tecnologÃ­a digital.
+  Alta fidelidad y tecnología digital.
 
 - **StereoNET**\
   <https://www.stereonet.com/>\
-  Noticias y anÃ¡lisis del sector Hi-Fi.
+  Noticias y análisis del sector Hi-Fi.
 
 - **Audioholics**\
   <https://www.audioholics.com/>\
-  IngenierÃ­a de audio y electrÃ³nica de consumo.
+  Ingeniería de audio y electrónica de consumo.
 
 - **The Absolute Sound Online**\
   <https://www.theabsolutesound.com/>\
@@ -588,15 +588,15 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Stereophile**\
   <https://www.stereophile.com/>\
-  Considerada una de las revistas impresas mÃ¡s prestigiosas del mundo del audio.
+  Considerada una de las revistas impresas más prestigiosas del mundo del audio.
 
 - **The Absolute Sound**\
   <https://www.theabsolutesound.com/>\
-  Referencia histÃ³rica en equipos de alta fidelidad.
+  Referencia histórica en equipos de alta fidelidad.
 
 - **Hi-Fi News**\
   <https://www.hifinews.com/>\
-  Revista britÃ¡nica especializada en pruebas de laboratorio.
+  Revista británica especializada en pruebas de laboratorio.
 
 - **Hi-Fi Choice**\
   <https://www.hifichoice.com/>\
@@ -604,265 +604,265 @@ modified: 2026-09-17T10:14:20.928Z
 
 - **Sound On Sound**\
   <https://www.soundonsound.com/>\
-  Referencia mundial para producciÃ³n musical e ingenierÃ­a de sonido.
+  Referencia mundial para producción musical e ingeniería de sonido.
 
 - **Mix Magazine**\
   <https://www.mixonline.com/>\
-  Audio profesional, estudios y tecnologÃ­a.
+  Audio profesional, estudios y tecnología.
 
 - **Tape Op**\
   <https://tapeop.com/>\
-  GrabaciÃ³n musical y equipamiento profesional.
+  Grabación musical y equipamiento profesional.
 
 - **Resolution Magazine**\
   <https://resolutionmag.com/>\
-  Audio profesional y monitorizaciÃ³n.
+  Audio profesional y monitorización.
 
 - **AudioXpress**\
   <https://audioxpress.com/>\
-  IngenierÃ­a electrÃ³nica aplicada al audio.
+  Ingeniería electrónica aplicada al audio.
 
 - **Professional Audio Magazin**\
   <https://www.professional-audio.de/>\
-  Revista europea especializada en equipos profesionales y tecnologÃ­a acÃºstica.
+  Revista europea especializada en equipos profesionales y tecnología acústica.
 
 # RSS
 
-> **VerificaciÃ³n realizada:** 30 de julio de 2026.
-> La selecciÃ³n combina fabricantes, estÃ¡ndares inalÃ¡mbricos, ingenierÃ­a de audio, investigaciÃ³n sobre audiciÃ³n y medios especializados. Los RSS corporativos suelen cubrir toda la actividad de la organizaciÃ³n, por lo que se indican filtros temÃ¡ticos recomendados.
+> **Verificación realizada:** 30 de julio de 2026.
+> La selección combina fabricantes, estándares inalámbricos, ingeniería de audio, investigación sobre audición y medios especializados. Los RSS corporativos suelen cubrir toda la actividad de la organización, por lo que se indican filtros temáticos recomendados.
 
 ## Tabla resumen
 
-| CategorÃ­a        | Nombre                            | OrganizaciÃ³n        | Idioma | Tipo                                | Estado     |
+| Categoría        | Nombre                            | Organización        | Idioma | Tipo                                | Estado     |
 | ---------------- | --------------------------------- | ------------------- | ------ | ----------------------------------- | ---------- |
-| ðŸŸ¢ Oficial       | Apple Newsroom                    | Apple               | InglÃ©s | Productos y comunicados             | **Activo** |
-| ðŸŸ¢ Oficial       | Samsung Global Newsroom           | Samsung Electronics | InglÃ©s | Productos y tecnologÃ­a              | **Activo** |
-| ðŸŸ¢ Oficial       | Google Blog                       | Google              | InglÃ©s | Productos y software                | **Activo** |
-| ðŸŸ¢ Oficial       | Sony Group News Releases          | Sony Group          | InglÃ©s | Comunicados corporativos            | **Activo** |
-| ðŸŸ¢ Oficial       | beyerdynamic Blog                 | beyerdynamic        | InglÃ©s | Auriculares y audio profesional     | **Activo** |
-| ðŸŸ¢ Institucional | Bluetooth SIG                     | Bluetooth SIG       | InglÃ©s | EstÃ¡ndares y tecnologÃ­a inalÃ¡mbrica | **Activo** |
-| ðŸ”µ TÃ©cnico       | Audio Engineering Society         | AES                 | InglÃ©s | IngenierÃ­a y ciencia del audio      | **Activo** |
-| ðŸ”µ CientÃ­fico    | arXiv Audio and Speech Processing | arXiv               | InglÃ©s | Preprints cientÃ­ficos               | **Activo** |
-| ðŸ”µ CientÃ­fico    | Nature â€” Inner Ear                | Nature Portfolio    | InglÃ©s | InvestigaciÃ³n auditiva              | **Activo** |
-| ðŸŸ  Especializado | SoundGuys                         | SoundGuys           | InglÃ©s | Pruebas, noticias y anÃ¡lisis        | **Activo** |
+| 🟢 Oficial       | Apple Newsroom                    | Apple               | Inglés | Productos y comunicados             | **Activo** |
+| 🟢 Oficial       | Samsung Global Newsroom           | Samsung Electronics | Inglés | Productos y tecnología              | **Activo** |
+| 🟢 Oficial       | Google Blog                       | Google              | Inglés | Productos y software                | **Activo** |
+| 🟢 Oficial       | Sony Group News Releases          | Sony Group          | Inglés | Comunicados corporativos            | **Activo** |
+| 🟢 Oficial       | beyerdynamic Blog                 | beyerdynamic        | Inglés | Auriculares y audio profesional     | **Activo** |
+| 🟢 Institucional | Bluetooth SIG                     | Bluetooth SIG       | Inglés | Estándares y tecnología inalámbrica | **Activo** |
+| 🔵 Técnico       | Audio Engineering Society         | AES                 | Inglés | Ingeniería y ciencia del audio      | **Activo** |
+| 🔵 Científico    | arXiv Audio and Speech Processing | arXiv               | Inglés | Preprints científicos               | **Activo** |
+| 🔵 Científico    | Nature — Inner Ear                | Nature Portfolio    | Inglés | Investigación auditiva              | **Activo** |
+| 🟠 Especializado | SoundGuys                         | SoundGuys           | Inglés | Pruebas, noticias y análisis        | **Activo** |
 
 ---
 
-## ðŸŸ¢ RSS oficiales
+## 🟢 RSS oficiales
 
 ## 1. Apple Newsroom
 
-**OrganizaciÃ³n:** Apple
-**CategorÃ­a:** Empresa fabricante
+**Organización:** Apple
+**Categoría:** Empresa fabricante
 **URL RSS:** <https://www.apple.com/newsroom/rss-feed.rss>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
 **Tipo de contenido:** Comunicados, productos, software, funciones de audio y novedades corporativas
 **Frecuencia aproximada:** Varias publicaciones por semana
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed oficial de Apple Newsroom. Incluye anuncios relacionados con AirPods, AirPods Max, audio espacial, salud auditiva y nuevas funciones del ecosistema de audio.
+**Descripción:** Feed oficial de Apple Newsroom. Incluye anuncios relacionados con AirPods, AirPods Max, audio espacial, salud auditiva y nuevas funciones del ecosistema de audio.
 
-**Observaciones:** El endpoint responde como `application/rss+xml`. Es un feed corporativo general, por lo que conviene filtrar por `AirPods`, `AirPods Max`, `headphones`, `hearing`, `audio` y `spatial audio`. Apple Newsroom mantenÃ­a publicaciones recientes y una secciÃ³n temÃ¡tica especÃ­fica para AirPods.
+**Observaciones:** El endpoint responde como `application/rss+xml`. Es un feed corporativo general, por lo que conviene filtrar por `AirPods`, `AirPods Max`, `headphones`, `hearing`, `audio` y `spatial audio`. Apple Newsroom mantenía publicaciones recientes y una sección temática específica para AirPods.
 
 ---
 
 ## 2. Samsung Global Newsroom
 
-**OrganizaciÃ³n:** Samsung Electronics
-**CategorÃ­a:** Empresa fabricante
+**Organización:** Samsung Electronics
+**Categoría:** Empresa fabricante
 **URL RSS:** <https://news.samsung.com/global/feed>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** Lanzamientos, diseÃ±o, software, dispositivos mÃ³viles y wearables
+**Tipo de contenido:** Lanzamientos, diseño, software, dispositivos móviles y wearables
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed oficial de Samsung Global Newsroom. Publica anuncios sobre Galaxy Buds, funciones de inteligencia artificial, cancelaciÃ³n de ruido, audio Bluetooth y compatibilidad con dispositivos Galaxy.
+**Descripción:** Feed oficial de Samsung Global Newsroom. Publica anuncios sobre Galaxy Buds, funciones de inteligencia artificial, cancelación de ruido, audio Bluetooth y compatibilidad con dispositivos Galaxy.
 
-**Observaciones:** El endpoint devuelve XML pÃºblico y el medio publicÃ³ contenidos recientes sobre la familia Galaxy Buds durante 2026. Al tratarse de un canal general, se recomiendan los filtros `Galaxy Buds`, `earbuds`, `audio`, `wearables`, `ANC` y `Auracast`.
+**Observaciones:** El endpoint devuelve XML público y el medio publicó contenidos recientes sobre la familia Galaxy Buds durante 2026. Al tratarse de un canal general, se recomiendan los filtros `Galaxy Buds`, `earbuds`, `audio`, `wearables`, `ANC` y `Auracast`.
 
 ---
 
 ## 3. Google Blog
 
-**OrganizaciÃ³n:** Google
-**CategorÃ­a:** Empresa tecnolÃ³gica
+**Organización:** Google
+**Categoría:** Empresa tecnológica
 **URL RSS:** <https://blog.google/rss/>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
 **Tipo de contenido:** Productos, dispositivos, software, inteligencia artificial y funciones de audio
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Canal oficial del blog corporativo de Google. Incluye novedades de Pixel Buds, integraciÃ³n con Android, traducciÃ³n, asistentes de voz y funciones de audio basadas en inteligencia artificial.
+**Descripción:** Canal oficial del blog corporativo de Google. Incluye novedades de Pixel Buds, integración con Android, traducción, asistentes de voz y funciones de audio basadas en inteligencia artificial.
 
-**Observaciones:** El feed es muy amplio. Para aislar contenidos sobre auriculares deben emplearse filtros como `Pixel Buds`, `earbuds`, `headphones`, `audio`, `Bluetooth` y `hearing`. El endpoint responde como XML y Google mantiene una secciÃ³n activa dedicada a sus dispositivos Pixel.
+**Observaciones:** El feed es muy amplio. Para aislar contenidos sobre auriculares deben emplearse filtros como `Pixel Buds`, `earbuds`, `headphones`, `audio`, `Bluetooth` y `hearing`. El endpoint responde como XML y Google mantiene una sección activa dedicada a sus dispositivos Pixel.
 
 ---
 
 ## 4. Sony Group News Releases
 
-**OrganizaciÃ³n:** Sony Group Corporation
-**CategorÃ­a:** Empresa fabricante
+**Organización:** Sony Group Corporation
+**Categoría:** Empresa fabricante
 **URL RSS:** <https://www.sony.com/en/SonyInfo/News/Press/data/pressrelease_for_top.xml>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** Comunicados corporativos, productos, tecnologÃ­a y resultados empresariales
+**Tipo de contenido:** Comunicados corporativos, productos, tecnología y resultados empresariales
 **Frecuencia aproximada:** Varias publicaciones por semana
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed oficial de comunicados de Sony Group. Puede incluir novedades sobre auriculares de consumo, monitores intraurales, dispositivos gaming, tecnologÃ­as acÃºsticas y divisiones de entretenimiento.
+**Descripción:** Feed oficial de comunicados de Sony Group. Puede incluir novedades sobre auriculares de consumo, monitores intraurales, dispositivos gaming, tecnologías acústicas y divisiones de entretenimiento.
 
-**Observaciones:** El enlace RSS aparece en el portal oficial de noticias de Sony y el endpoint responde como XML. No es un feed exclusivo de audio; se recomienda filtrar `headphones`, `earbuds`, `audio`, `INZONE`, `1000X`, `LinkBuds` e `in-ear monitor`. Sony publicÃ³ novedades de audio y monitores intraurales durante julio de 2026. ([Sony][1])
+**Observaciones:** El enlace RSS aparece en el portal oficial de noticias de Sony y el endpoint responde como XML. No es un feed exclusivo de audio; se recomienda filtrar `headphones`, `earbuds`, `audio`, `INZONE`, `1000X`, `LinkBuds` e `in-ear monitor`. Sony publicó novedades de audio y monitores intraurales durante julio de 2026. ([Sony][1])
 
 ---
 
 ## 5. beyerdynamic Blog
 
-**OrganizaciÃ³n:** beyerdynamic
-**CategorÃ­a:** Fabricante de audio
+**Organización:** beyerdynamic
+**Categoría:** Fabricante de audio
 **URL RSS:** <https://blog-na.beyerdynamic.com/feed>
 **Formato:** RSS 2.0
-**Idioma:** InglÃ©s
-**Cobertura:** NorteamÃ©rica y mundial
-**Tipo de contenido:** Auriculares, micrÃ³fonos, productos, guÃ­as y tecnologÃ­a de audio
+**Idioma:** Inglés
+**Cobertura:** Norteamérica y mundial
+**Tipo de contenido:** Auriculares, micrófonos, productos, guías y tecnología de audio
 **Frecuencia aproximada:** Semanal o irregular
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed oficial del blog de beyerdynamic. Su cobertura estÃ¡ mucho mÃ¡s concentrada en auriculares que la de los grandes canales corporativos generalistas.
+**Descripción:** Feed oficial del blog de beyerdynamic. Su cobertura está mucho más concentrada en auriculares que la de los grandes canales corporativos generalistas.
 
-**Observaciones:** Incluye nuevos modelos, auriculares de estudio, gaming, Bluetooth, guÃ­as de uso y contenidos sobre diseÃ±o acÃºstico. El endpoint responde como RSS y el blog mantenÃ­a publicaciones recientes en julio de 2026, con mÃºltiples artÃ­culos de auriculares durante los meses anteriores.
+**Observaciones:** Incluye nuevos modelos, auriculares de estudio, gaming, Bluetooth, guías de uso y contenidos sobre diseño acústico. El endpoint responde como RSS y el blog mantenía publicaciones recientes en julio de 2026, con múltiples artículos de auriculares durante los meses anteriores.
 
 ---
 
 ## 6. Bluetooth SIG
 
-**OrganizaciÃ³n:** Bluetooth Special Interest Group
-**CategorÃ­a:** OrganizaciÃ³n de estÃ¡ndares
+**Organización:** Bluetooth Special Interest Group
+**Categoría:** Organización de estándares
 **URL RSS:** <https://www.bluetooth.com/feed>
 **Formato:** RSS 2.0
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** EstÃ¡ndares, casos de uso, informes tÃ©cnicos y ecosistema Bluetooth
+**Tipo de contenido:** Estándares, casos de uso, informes técnicos y ecosistema Bluetooth
 **Frecuencia aproximada:** Varias publicaciones al mes
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed institucional de Bluetooth SIG. Es esencial para seguir tecnologÃ­as que afectan directamente a los auriculares inalÃ¡mbricos, como Bluetooth LE Audio, Auracast y las aplicaciones auditivas asistidas.
+**Descripción:** Feed institucional de Bluetooth SIG. Es esencial para seguir tecnologías que afectan directamente a los auriculares inalámbricos, como Bluetooth LE Audio, Auracast y las aplicaciones auditivas asistidas.
 
-**Observaciones:** No contiene evaluaciones de productos. Su valor reside en anticipar cambios de estÃ¡ndares, interoperabilidad y nuevas funciones que posteriormente incorporan los fabricantes. PublicÃ³ varios contenidos sobre Auracast y audio Bluetooth durante 2026.
+**Observaciones:** No contiene evaluaciones de productos. Su valor reside en anticipar cambios de estándares, interoperabilidad y nuevas funciones que posteriormente incorporan los fabricantes. Publicó varios contenidos sobre Auracast y audio Bluetooth durante 2026.
 
 ---
 
-## ðŸ”µ RSS cientÃ­ficos y tÃ©cnicos
+## 🔵 RSS científicos y técnicos
 
 ## 7. Audio Engineering Society
 
-**OrganizaciÃ³n:** Audio Engineering Society â€” AES
-**CategorÃ­a:** AsociaciÃ³n profesional y tÃ©cnica
+**Organización:** Audio Engineering Society — AES
+**Categoría:** Asociación profesional y técnica
 **URL RSS:** <https://aes.org/feed/>
 **Formato:** RSS 2.0
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** IngenierÃ­a de audio, congresos, estÃ¡ndares, publicaciones y formaciÃ³n
+**Tipo de contenido:** Ingeniería de audio, congresos, estándares, publicaciones y formación
 **Frecuencia aproximada:** Varias publicaciones al mes
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Canal oficial de la principal asociaciÃ³n profesional dedicada a la ingenierÃ­a del audio. Publica informaciÃ³n relevante para transductores, acÃºstica, audio espacial, reproducciÃ³n binaural, mediciÃ³n y escucha mediante auriculares.
+**Descripción:** Canal oficial de la principal asociación profesional dedicada a la ingeniería del audio. Publica información relevante para transductores, acústica, audio espacial, reproducción binaural, medición y escucha mediante auriculares.
 
-**Observaciones:** Es un feed tÃ©cnico general y no debe confundirse con un canal de novedades comerciales. AES mantiene contenidos especÃ­ficos sobre auriculares y presentaba publicaciones institucionales recientes en julio de 2026.
+**Observaciones:** Es un feed técnico general y no debe confundirse con un canal de novedades comerciales. AES mantiene contenidos específicos sobre auriculares y presentaba publicaciones institucionales recientes en julio de 2026.
 
 ---
 
-## 8. arXiv â€” Audio and Speech Processing
+## 8. arXiv — Audio and Speech Processing
 
-**OrganizaciÃ³n:** arXiv
-**CategorÃ­a:** Repositorio cientÃ­fico
+**Organización:** arXiv
+**Categoría:** Repositorio científico
 **URL RSS:** <https://rss.arxiv.org/rss/eess.AS>
 **Formato:** RSS 2.0
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** Preprints cientÃ­ficos
+**Tipo de contenido:** Preprints científicos
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed de la subcategorÃ­a `eess.AS`, dedicada al procesamiento de audio y voz. Puede incluir cancelaciÃ³n activa de ruido, separaciÃ³n de fuentes, audio espacial, reproducciÃ³n binaural, reconocimiento de voz y procesamiento para dispositivos personales.
+**Descripción:** Feed de la subcategoría `eess.AS`, dedicada al procesamiento de audio y voz. Puede incluir cancelación activa de ruido, separación de fuentes, audio espacial, reproducción binaural, reconocimiento de voz y procesamiento para dispositivos personales.
 
-**Observaciones:** Es una fuente primaria de volumen elevado y no todos los trabajos se refieren directamente a auriculares. arXiv documenta oficialmente que sus feeds RSS y Atom estÃ¡n disponibles para todas las Ã¡reas activas y se actualizan diariamente. ([arXiv][2])
+**Observaciones:** Es una fuente primaria de volumen elevado y no todos los trabajos se refieren directamente a auriculares. arXiv documenta oficialmente que sus feeds RSS y Atom están disponibles para todas las áreas activas y se actualizan diariamente. ([arXiv][2])
 
 ---
 
-## 9. Nature â€” Inner Ear
+## 9. Nature — Inner Ear
 
-**OrganizaciÃ³n:** Nature Portfolio
-**CategorÃ­a:** Literatura cientÃ­fica
+**Organización:** Nature Portfolio
+**Categoría:** Literatura científica
 **URL RSS:** <https://www.nature.com/subjects/inner-ear.rss>
 **Formato:** RSS/XML
-**Idioma:** InglÃ©s
+**Idioma:** Inglés
 **Cobertura:** Mundial
-**Tipo de contenido:** ArtÃ­culos cientÃ­ficos sobre oÃ­do interno, audiciÃ³n y patologÃ­as auditivas
+**Tipo de contenido:** Artículos científicos sobre oído interno, audición y patologías auditivas
 **Frecuencia aproximada:** Irregular; varias publicaciones al mes
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Feed temÃ¡tico de Nature Portfolio sobre el oÃ­do interno. Resulta Ãºtil para seguir investigaciÃ³n sobre audiciÃ³n, cÃ³clea, pÃ©rdida auditiva y efectos biolÃ³gicos relacionados con la exposiciÃ³n sonora.
+**Descripción:** Feed temático de Nature Portfolio sobre el oído interno. Resulta útil para seguir investigación sobre audición, cóclea, pérdida auditiva y efectos biológicos relacionados con la exposición sonora.
 
-**Observaciones:** No estudia principalmente auriculares como productos, sino la ciencia auditiva asociada a su uso y a la salud del oÃ­do. La pÃ¡gina temÃ¡tica mantenÃ­a artÃ­culos recientes de 2026 y enlazaba oficialmente su RSS. ([nature.com][3])
+**Observaciones:** No estudia principalmente auriculares como productos, sino la ciencia auditiva asociada a su uso y a la salud del oído. La página temática mantenía artículos recientes de 2026 y enlazaba oficialmente su RSS. ([nature.com][3])
 
 ---
 
-## ðŸŸ  RSS especializados y de actualidad
+## 🟠 RSS especializados y de actualidad
 
 ## 10. SoundGuys
 
-**OrganizaciÃ³n:** SoundGuys
-**CategorÃ­a:** Medio especializado y laboratorio de pruebas
+**Organización:** SoundGuys
+**Categoría:** Medio especializado y laboratorio de pruebas
 **URL RSS:** <https://www.soundguys.com/feed/>
 **Formato:** RSS 2.0
-**Idioma:** InglÃ©s
-**Cobertura:** Mundial, con orientaciÃ³n al mercado estadounidense
-**Tipo de contenido:** AnÃ¡lisis, mediciones, comparativas, noticias y guÃ­as de compra
+**Idioma:** Inglés
+**Cobertura:** Mundial, con orientación al mercado estadounidense
+**Tipo de contenido:** Análisis, mediciones, comparativas, noticias y guías de compra
 **Frecuencia aproximada:** Diaria
 **Estado:** **Activo**
 
-**DescripciÃ³n:** Medio especializado casi exclusivamente en auriculares, altavoces y tecnologÃ­a de audio personal. Publica pruebas de laboratorio, anÃ¡lisis tÃ©cnicos y noticias de nuevos modelos.
+**Descripción:** Medio especializado casi exclusivamente en auriculares, altavoces y tecnología de audio personal. Publica pruebas de laboratorio, análisis técnicos y noticias de nuevos modelos.
 
-**Observaciones:** Es la fuente mÃ¡s directamente centrada en auriculares de esta selecciÃ³n, pero no es una fuente oficial de los fabricantes. Conviene utilizarla como complemento independiente para contrastar prestaciones, mediciones y afirmaciones comerciales. El endpoint RSS estÃ¡ operativo y el sitio mantenÃ­a cobertura reciente durante 2026.
+**Observaciones:** Es la fuente más directamente centrada en auriculares de esta selección, pero no es una fuente oficial de los fabricantes. Conviene utilizarla como complemento independiente para contrastar prestaciones, mediciones y afirmaciones comerciales. El endpoint RSS está operativo y el sitio mantenía cobertura reciente durante 2026.
 
 ---
 
 ## Fuentes relevantes no incluidas
 
-| OrganizaciÃ³n           | SituaciÃ³n encontrada                                                                                                                                                        | Alternativa                                                              |
+| Organización           | Situación encontrada                                                                                                                                                        | Alternativa                                                              |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **Sennheiser**         | Mantiene una sala de prensa y suscripciÃ³n por correo, pero no se verificÃ³ un RSS pÃºblico y actual.                                                                          | beyerdynamic Blog, SoundGuys y AES. ([Sennheiser][4])                    |
-| **Audio-Technica**     | Su sala de prensa estÃ¡ activa y publicÃ³ novedades de auriculares en junio de 2026, pero no se localizÃ³ un endpoint RSS oficial verificable.                                 | Sony News Releases, beyerdynamic y SoundGuys. ([audio-technica.com][5])  |
-| **Shure**              | Mantiene noticias corporativas y newsletter, sin un RSS pÃºblico confirmado durante la revisiÃ³n.                                                                             | AES y SoundGuys. ([Shure][6])                                            |
-| **RTINGS**             | Su pÃ¡gina anuncia un feed de audio para auriculares y altavoces, pero el endpoint exacto no pudo extraerse y validarse de forma inequÃ­voca. No se incluye una URL inferida. | SoundGuys. ([RTINGS.com][7])                                             |
-| **Head-Fi**            | Existe infraestructura RSS comunitaria, pero se detectaron avisos recientes de problemas de actualizaciÃ³n. No se recomienda como feed estable.                              | SoundGuys y AES. ([Head-Fi][8])                                          |
+| **Sennheiser**         | Mantiene una sala de prensa y suscripción por correo, pero no se verificó un RSS público y actual.                                                                          | beyerdynamic Blog, SoundGuys y AES. ([Sennheiser][4])                    |
+| **Audio-Technica**     | Su sala de prensa está activa y publicó novedades de auriculares en junio de 2026, pero no se localizó un endpoint RSS oficial verificable.                                 | Sony News Releases, beyerdynamic y SoundGuys. ([audio-technica.com][5])  |
+| **Shure**              | Mantiene noticias corporativas y newsletter, sin un RSS público confirmado durante la revisión.                                                                             | AES y SoundGuys. ([Shure][6])                                            |
+| **RTINGS**             | Su página anuncia un feed de audio para auriculares y altavoces, pero el endpoint exacto no pudo extraerse y validarse de forma inequívoca. No se incluye una URL inferida. | SoundGuys. ([RTINGS.com][7])                                             |
+| **Head-Fi**            | Existe infraestructura RSS comunitaria, pero se detectaron avisos recientes de problemas de actualización. No se recomienda como feed estable.                              | SoundGuys y AES. ([Head-Fi][8])                                          |
 | **Headphone Zone**     | Conserva una extensa lista de feeds RSS 2.0, pero las noticias mostradas corresponden principalmente a generaciones antiguas de productos. Se considera poco activo.        | SoundGuys. ([headphonezone.com][9])                                      |
-| **Xataka Auriculares** | La etiqueta mantiene contenido reciente y el sitio admite suscripciÃ³n RSS, pero no se pudo validar un endpoint temÃ¡tico exacto sin inferir su estructura.                   | SoundGuys o el RSS general de Xataka con filtros locales. ([Xataka][10]) |
+| **Xataka Auriculares** | La etiqueta mantiene contenido reciente y el sitio admite suscripción RSS, pero no se pudo validar un endpoint temático exacto sin inferir su estructura.                   | SoundGuys o el RSS general de Xataka con filtros locales. ([Xataka][10]) |
 
 ---
 
 ## RSS recomendados para futuras ampliaciones
 
-- [Samsung Galaxy Buds4 Series](https://news.samsung.com/global/tag/galaxy-buds4-series/feed) â€” feed oficial muy preciso, aunque limitado a una generaciÃ³n concreta de Galaxy Buds. ([Samsung Global Newsroom][11])
-- [arXiv eess.AS en Atom](https://rss.arxiv.org/atom/eess.AS) â€” alternativa oficial Atom al canal cientÃ­fico RSS. La estructura estÃ¡ documentada por arXiv. ([arXiv][2])
+- [Samsung Galaxy Buds4 Series](https://news.samsung.com/global/tag/galaxy-buds4-series/feed) — feed oficial muy preciso, aunque limitado a una generación concreta de Galaxy Buds. ([Samsung Global Newsroom][11])
+- [arXiv eess.AS en Atom](https://rss.arxiv.org/atom/eess.AS) — alternativa oficial Atom al canal científico RSS. La estructura está documentada por arXiv. ([arXiv][2])
 
-## ColecciÃ³n esencial recomendada
+## Colección esencial recomendada
 
-Para una colecciÃ³n compacta con poco ruido:
+Para una colección compacta con poco ruido:
 
-1. **beyerdynamic Blog** â€” informaciÃ³n oficial centrada en auriculares.
-2. **Bluetooth SIG** â€” estÃ¡ndares LE Audio y Auracast.
-3. **Audio Engineering Society** â€” ingenierÃ­a y tecnologÃ­a.
-4. **arXiv eess.AS** â€” investigaciÃ³n cientÃ­fica inmediata.
-5. **SoundGuys** â€” anÃ¡lisis independientes y mediciones.
-6. **Apple, Samsung y Sony** â€” novedades de los principales fabricantes, aplicando filtros por palabras clave.
+1. **beyerdynamic Blog** — información oficial centrada en auriculares.
+2. **Bluetooth SIG** — estándares LE Audio y Auracast.
+3. **Audio Engineering Society** — ingeniería y tecnología.
+4. **arXiv eess.AS** — investigación científica inmediata.
+5. **SoundGuys** — análisis independientes y mediciones.
+6. **Apple, Samsung y Sony** — novedades de los principales fabricantes, aplicando filtros por palabras clave.
 
 [1]: https://www.sony.com/en/SonyInfo/News/Press/ "News Releases - Sony Group Portal"
 

@@ -1,172 +1,172 @@
 ---
 publish: true
 created: 2026-07-12T14:35:32.007Z
-modified: 2026-09-17T10:13:54.934Z
+modified: 2026-09-18T09:36:21.285Z
 ---
 
-#IA #CuÃ¡ntica #CIENCIA #Latorre
+#IA #Cuántica #CIENCIA #Latorre
 
-# 1. DefiniciÃ³n
+# 1. Definición
 
-La computaciÃ³n cuÃ¡ntica es un paradigma de computaciÃ³n que utiliza los principios de la mecÃ¡nica cuÃ¡ntica para procesar informaciÃ³n mediante cÃºbits (qubits) en lugar de bits clÃ¡sicos.
+La computación cuántica es un paradigma de computación que utiliza los principios de la mecánica cuántica para procesar información mediante cúbits (qubits) en lugar de bits clásicos.
 
-A diferencia de un ordenador convencional, que representa la informaciÃ³n como 0 o 1, un ordenador cuÃ¡ntico aprovecha fenÃ³menos fÃ­sicos como la superposiciÃ³n, el entrelazamiento y la interferencia para resolver determinados problemas de forma mucho mÃ¡s eficiente que los sistemas clÃ¡sicos. No pretende sustituir a la informÃ¡tica tradicional, sino complementarla en problemas especÃ­ficos.
+A diferencia de un ordenador convencional, que representa la información como 0 o 1, un ordenador cuántico aprovecha fenómenos físicos como la superposición, el entrelazamiento y la interferencia para resolver determinados problemas de forma mucho más eficiente que los sistemas clásicos. No pretende sustituir a la informática tradicional, sino complementarla en problemas específicos.
 
 # 2. Conceptos fundamentales
 
 2.
 
 Bit vs. qubit
-Bit clÃ¡sico: solo puede ser 0 o 1.
-Qubit: puede encontrarse en una combinaciÃ³n probabilÃ­stica de ambos estados hasta que es medido.
+Bit clásico: solo puede ser 0 o 1.
+Qubit: puede encontrarse en una combinación probabilística de ambos estados hasta que es medido.
 
-Es la unidad bÃ¡sica de la computaciÃ³n cuÃ¡ntica.
+Es la unidad básica de la computación cuántica.
 
-# SuperposiciÃ³n
+# Superposición
 
-Permite que un qubit represente mÃºltiples estados simultÃ¡neamente.
+Permite que un qubit represente múltiples estados simultáneamente.
 
-No significa que "haga todos los cÃ¡lculos a la vez", sino que evoluciona mediante una combinaciÃ³n de estados cuÃ¡nticos que puede explotarse mediante algoritmos especÃ­ficos.
+No significa que "haga todos los cálculos a la vez", sino que evoluciona mediante una combinación de estados cuánticos que puede explotarse mediante algoritmos específicos.
 
 # Entrelazamiento
 
-Dos o mÃ¡s qubits pueden quedar correlacionados de manera que el estado de uno depende del otro, incluso separados fÃ­sicamente.
+Dos o más qubits pueden quedar correlacionados de manera que el estado de uno depende del otro, incluso separados físicamente.
 
 Es uno de los recursos fundamentales para obtener ventaja computacional.
 
-# Interferencia cuÃ¡ntica
+# Interferencia cuántica
 
 Los algoritmos manipulan las probabilidades para reforzar las respuestas correctas y cancelar las incorrectas.
 
-Esta propiedad explica gran parte del poder de los algoritmos cuÃ¡nticos.
+Esta propiedad explica gran parte del poder de los algoritmos cuánticos.
 
 Decoherencia
 
-Es la pÃ©rdida del estado cuÃ¡ntico debido a la interacciÃ³n con el entorno.
+Es la pérdida del estado cuántico debido a la interacción con el entorno.
 
-Actualmente constituye uno de los principales obstÃ¡culos tecnolÃ³gicos.
+Actualmente constituye uno de los principales obstáculos tecnológicos.
 
-# 3. Â¿CÃ³mo funciona un ordenador cuÃ¡ntico?
+# 3. ¿Cómo funciona un ordenador cuántico?
 
-En tÃ©rminos generales:
+En términos generales:
 
 Se inicializan los qubits.
-Se aplican puertas lÃ³gicas cuÃ¡nticas.
+Se aplican puertas lógicas cuánticas.
 Los estados evolucionan mediante operaciones unitarias.
 Finalmente se mide el sistema.
-La mediciÃ³n colapsa el estado cuÃ¡ntico y produce un resultado clÃ¡sico.
+La medición colapsa el estado cuántico y produce un resultado clásico.
 
-A diferencia de un ordenador convencional, el resultado Ãºtil suele obtenerse tras repetir el experimento muchas veces debido a la naturaleza probabilÃ­stica de la mediciÃ³n.
+A diferencia de un ordenador convencional, el resultado útil suele obtenerse tras repetir el experimento muchas veces debido a la naturaleza probabilística de la medición.
 
-# 4. Diferencias respecto a la computaciÃ³n clÃ¡sica
+# 4. Diferencias respecto a la computación clásica
 
-ComputaciÃ³n clÃ¡sica	ComputaciÃ³n cuÃ¡ntica
+Computación clásica	Computación cuántica
 Bits	Qubits
-LÃ³gica binaria	MecÃ¡nica cuÃ¡ntica
-Procesamiento secuencial o paralelo clÃ¡sico	Procesamiento mediante estados cuÃ¡nticos
+Lógica binaria	Mecánica cuántica
+Procesamiento secuencial o paralelo clásico	Procesamiento mediante estados cuánticos
 Muy eficiente para tareas generales	Muy eficiente solo para ciertos problemas
-TecnologÃ­a madura	TecnologÃ­a experimental
+Tecnología madura	Tecnología experimental
 
-Una idea importante encontrada en varias fuentes es que no sustituirÃ¡ al ordenador clÃ¡sico, sino que ambos convivirÃ¡n mediante arquitecturas hÃ­bridas.
+Una idea importante encontrada en varias fuentes es que no sustituirá al ordenador clásico, sino que ambos convivirán mediante arquitecturas híbridas.
 
 # 5. Principales aplicaciones
 
-Las fuentes coinciden en varios Ã¡mbitos.
+Las fuentes coinciden en varios ámbitos.
 
-SimulaciÃ³n molecular
+Simulación molecular
 
-Especialmente Ãºtil para:
+Especialmente útil para:
 
-diseÃ±o de medicamentos
-quÃ­mica computacional
+diseño de medicamentos
+química computacional
 nuevos materiales
 superconductores
-OptimizaciÃ³n
+Optimización
 
 Aplicaciones en:
 
-logÃ­stica
+logística
 transporte
 cadenas de suministro
-planificaciÃ³n industrial
+planificación industrial
 rutas
 Finanzas
-optimizaciÃ³n de carteras
-anÃ¡lisis de riesgos
+optimización de carteras
+análisis de riesgos
 simulaciones
 Inteligencia artificial
 
 Posibles mejoras en:
 
 entrenamiento de modelos
-optimizaciÃ³n
-aprendizaje automÃ¡tico
+optimización
+aprendizaje automático
 
-Aunque todavÃ­a es un Ã¡rea en investigaciÃ³n.
+Aunque todavía es un área en investigación.
 
-CriptografÃ­a
+Criptografía
 
-Es probablemente una de las aplicaciones mÃ¡s conocidas.
+Es probablemente una de las aplicaciones más conocidas.
 
-El algoritmo de Shor demuestra que un ordenador cuÃ¡ntico suficientemente grande podrÃ­a romper varios sistemas criptogrÃ¡ficos actuales, motivo por el que ya se desarrolla la criptografÃ­a post-cuÃ¡ntica.
+El algoritmo de Shor demuestra que un ordenador cuántico suficientemente grande podría romper varios sistemas criptográficos actuales, motivo por el que ya se desarrolla la criptografía post-cuántica.
 
-# 6. Algoritmos cuÃ¡nticos importantes
+# 6. Algoritmos cuánticos importantes
 
 Algoritmo de Shor
 
-Permite factorizar enteros mucho mÃ¡s rÃ¡pido que los mejores algoritmos clÃ¡sicos conocidos.
+Permite factorizar enteros mucho más rápido que los mejores algoritmos clásicos conocidos.
 
 Importancia:
 
 amenaza a RSA
-impulsÃ³ el interÃ©s mundial en computaciÃ³n cuÃ¡ntica
+impulsó el interés mundial en computación cuántica
 Algoritmo de Grover
 
-Acelera la bÃºsqueda en bases de datos no estructuradas.
+Acelera la búsqueda en bases de datos no estructuradas.
 
-La mejora es cuadrÃ¡tica respecto a algoritmos clÃ¡sicos.
+La mejora es cuadrática respecto a algoritmos clásicos.
 
-# 7. Estado actual de la tecnologÃ­a
+# 7. Estado actual de la tecnología
 
-Las fuentes coinciden en que la computaciÃ³n cuÃ¡ntica aÃºn se encuentra en una etapa de desarrollo.
+Las fuentes coinciden en que la computación cuántica aún se encuentra en una etapa de desarrollo.
 
-CaracterÃ­sticas actuales:
+Características actuales:
 
-pocos cientos de qubits fÃ­sicos
+pocos cientos de qubits físicos
 alta tasa de errores
 necesidad de temperaturas cercanas al cero absoluto
 sistemas muy costosos
-necesidad de correcciÃ³n de errores
+necesidad de corrección de errores
 
-TodavÃ­a no existen ordenadores cuÃ¡nticos universales capaces de resolver de forma prÃ¡ctica la mayorÃ­a de problemas teÃ³ricos propuestos.
+Todavía no existen ordenadores cuánticos universales capaces de resolver de forma práctica la mayoría de problemas teóricos propuestos.
 
-# 8. Principales desafÃ­os
+# 8. Principales desafíos
 
-CorrecciÃ³n de errores
+Corrección de errores
 
-Un qubit fÃ­sico es extremadamente frÃ¡gil.
+Un qubit físico es extremadamente frágil.
 
-Para construir un Ãºnico qubit lÃ³gico estable pueden necesitarse cientos o miles de qubits fÃ­sicos.
+Para construir un único qubit lógico estable pueden necesitarse cientos o miles de qubits físicos.
 
 Escalabilidad
 
-Incrementar el nÃºmero de qubits sin aumentar los errores sigue siendo uno de los mayores retos.
+Incrementar el número de qubits sin aumentar los errores sigue siendo uno de los mayores retos.
 
 Decoherencia
 
-Los estados cuÃ¡nticos se degradan muy rÃ¡pidamente.
+Los estados cuánticos se degradan muy rápidamente.
 
 Hardware
 
-Actualmente existen varias tecnologÃ­as competidoras:
+Actualmente existen varias tecnologías competidoras:
 
 superconductores
 iones atrapados
-fotÃ³nica
-Ã¡tomos neutros
-qubits topolÃ³gicos
+fotónica
+átomos neutros
+qubits topológicos
 
-TodavÃ­a no existe consenso sobre cuÃ¡l serÃ¡ la dominante.
+Todavía no existe consenso sobre cuál será la dominante.
 
 # 9. Empresas e instituciones relevantes
 
@@ -179,46 +179,46 @@ IonQ
 D-Wave
 Quantinuum
 
-TambiÃ©n destacan fuertes inversiones pÃºblicas en EE. UU., China y la UniÃ³n Europea.
+También destacan fuertes inversiones públicas en EE. UU., China y la Unión Europea.
 
-# 10. Conceptos relacionados (muy Ãºtiles para un mapa TCD)
+# 10. Conceptos relacionados (muy útiles para un mapa TCD)
 
-La computaciÃ³n cuÃ¡ntica conecta directamente con:
+La computación cuántica conecta directamente con:
 
-MecÃ¡nica cuÃ¡ntica
-FÃ­sica
-Ãlgebra lineal
-TeorÃ­a de la informaciÃ³n
+Mecánica cuántica
+Física
+Álgebra lineal
+Teoría de la información
 Complejidad computacional
-CriptografÃ­a
+Criptografía
 Inteligencia Artificial
-OptimizaciÃ³n matemÃ¡tica
-SimulaciÃ³n cientÃ­fica
-SupercomputaciÃ³n
-NanotecnologÃ­a
+Optimización matemática
+Simulación científica
+Supercomputación
+Nanotecnología
 
 # 11. Ideas clave
 
-La computaciÃ³n cuÃ¡ntica no busca reemplazar a la computaciÃ³n clÃ¡sica.
+La computación cuántica no busca reemplazar a la computación clásica.
 Solo ofrece ventajas claras para determinados problemas.
-Su potencial proviene del uso de superposiciÃ³n, entrelazamiento e interferencia.
-Los principales retos son la decoherencia, la correcciÃ³n de errores y la escalabilidad.
-Sus aplicaciones mÃ¡s prometedoras son la simulaciÃ³n molecular, la optimizaciÃ³n, la criptografÃ­a y ciertos problemas de inteligencia artificial.
+Su potencial proviene del uso de superposición, entrelazamiento e interferencia.
+Los principales retos son la decoherencia, la corrección de errores y la escalabilidad.
+Sus aplicaciones más prometedoras son la simulación molecular, la optimización, la criptografía y ciertos problemas de inteligencia artificial.
 
 # 12. Relaciones con otros nodos TCD
 
 Se recomienda conectar este nodo con:
 
-MecÃ¡nica cuÃ¡ntica
-FÃ­sica moderna
-InformaciÃ³n cuÃ¡ntica
+Mecánica cuántica
+Física moderna
+Información cuántica
 Algoritmos
 Complejidad computacional
-CriptografÃ­a
+Criptografía
 Inteligencia Artificial
-Aprendizaje automÃ¡tico
-OptimizaciÃ³n
-SimulaciÃ³n cientÃ­fica
-SupercomputaciÃ³n
-ComputaciÃ³n clÃ¡sica
-MatemÃ¡ticas (Ã¡lgebra lineal y probabil
+Aprendizaje automático
+Optimización
+Simulación científica
+Supercomputación
+Computación clásica
+Matemáticas (álgebra lineal y probabil

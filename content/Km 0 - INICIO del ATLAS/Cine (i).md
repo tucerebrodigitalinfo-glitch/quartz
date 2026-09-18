@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-08-06T05:19:15.746Z
-modified: 2026-09-17T10:14:17.920Z
+modified: 2026-09-18T09:36:35.118Z
 ---
 
-#Ãndices #Arte
+#Índices #Arte
 
 ![[Biblioteca/CINE.jpg]]
-ComprobaciÃ³n realizada el **14 de julio de 2026**. Algunos sitios â€”como IMDb, Variety o Deadlineâ€” pueden mostrar verificaciones de seguridad, bloqueadores de cookies o lÃ­mites regionales, pero sus dominios oficiales continÃºan operativos. Las comprobaciones directas confirman, entre otros, el funcionamiento de Letterboxd, Rotten Tomatoes, Metacritic, BFI, AFI, Criterion, MUBI Notebook, Cineuropa y Film Comment. ([Letterboxd](https://letterboxd.com/ "Letterboxd â€¢ Social film discovery."))
+Comprobación realizada el **14 de julio de 2026**. Algunos sitios —como IMDb, Variety o Deadline— pueden mostrar verificaciones de seguridad, bloqueadores de cookies o límites regionales, pero sus dominios oficiales continúan operativos. Las comprobaciones directas confirman, entre otros, el funcionamiento de Letterboxd, Rotten Tomatoes, Metacritic, BFI, AFI, Criterion, MUBI Notebook, Cineuropa y Film Comment. ([Letterboxd](https://letterboxd.com/ "Letterboxd • Social film discovery."))
 
-CINE â€” Directorio internacional de referencias
+CINE — Directorio internacional de referencias
 
-**Estado de los enlaces:** âœ… Operativos o con redirecciÃ³n oficial\
-**Fecha de revisiÃ³n:** 14 de julio de 2026
+**Estado de los enlaces:** ✅ Operativos o con redirección oficial\
+**Fecha de revisión:** 14 de julio de 2026
 
 ## [WEFORUM: Cine](https://intelligence.weforum.org/topics/a1GTG000001PG0z2AG)
 
@@ -22,319 +22,319 @@ CINE â€” Directorio internacional de referencias
 
 ## WEB
 
-1. âœ… [IMDb](https://www.imdb.com/) â€” Base de datos internacional de pelÃ­culas, profesionales y producciones.
+1. ✅ [IMDb](https://www.imdb.com/) — Base de datos internacional de películas, profesionales y producciones.
 
-2. âœ… [Letterboxd](https://letterboxd.com/) â€” Red social, diario cinematogrÃ¡fico, crÃ­ticas y listas.
+2. ✅ [Letterboxd](https://letterboxd.com/) — Red social, diario cinematográfico, críticas y listas.
 
-3. âœ… [Rotten Tomatoes](https://www.rottentomatoes.com/) â€” Agregador de crÃ­ticas profesionales y valoraciones del pÃºblico.
+3. ✅ [Rotten Tomatoes](https://www.rottentomatoes.com/) — Agregador de críticas profesionales y valoraciones del público.
 
-4. âœ… [Metacritic Movies](https://www.metacritic.com/movie/) â€” Puntuaciones agregadas de pelÃ­culas.
+4. ✅ [Metacritic Movies](https://www.metacritic.com/movie/) — Puntuaciones agregadas de películas.
 
-5. âœ… [Variety](https://variety.com/) â€” InformaciÃ³n profesional sobre cine y entretenimiento.
+5. ✅ [Variety](https://variety.com/) — Información profesional sobre cine y entretenimiento.
 
-6. âœ… [The Hollywood Reporter](https://www.hollywoodreporter.com/) â€” Industria, estrenos, premios y anÃ¡lisis.
+6. ✅ [The Hollywood Reporter](https://www.hollywoodreporter.com/) — Industria, estrenos, premios y análisis.
 
-7. âœ… [Deadline](https://deadline.com/) â€” Noticias sobre estudios, producciones, reparto y negocio audiovisual.
+7. ✅ [Deadline](https://deadline.com/) — Noticias sobre estudios, producciones, reparto y negocio audiovisual.
 
-8. âœ… [IndieWire](https://www.indiewire.com/) â€” Cine independiente, festivales, crÃ­tica y producciÃ³n.
+8. ✅ [IndieWire](https://www.indiewire.com/) — Cine independiente, festivales, crítica y producción.
 
-9. âœ… [Screen Daily](https://www.screendaily.com/) â€” Mercado cinematogrÃ¡fico y producciÃ³n internacional.
+9. ✅ [Screen Daily](https://www.screendaily.com/) — Mercado cinematográfico y producción internacional.
 
-10. âœ… [Sight and Sound](https://www.bfi.org.uk/sight-and-sound) â€” Revista de crÃ­tica e historia del British Film Institute.
+10. ✅ [Sight and Sound](https://www.bfi.org.uk/sight-and-sound) — Revista de crítica e historia del British Film Institute.
 
-11. âœ… [British Film Institute](https://www.bfi.org.uk/) â€” ConservaciÃ³n, investigaciÃ³n, educaciÃ³n y exhibiciÃ³n cinematogrÃ¡fica.
+11. ✅ [British Film Institute](https://www.bfi.org.uk/) — Conservación, investigación, educación y exhibición cinematográfica.
 
-12. âœ… [American Film Institute](https://www.afi.com/) â€” Instituto estadounidense de conservaciÃ³n y educaciÃ³n cinematogrÃ¡fica.
+12. ✅ [American Film Institute](https://www.afi.com/) — Instituto estadounidense de conservación y educación cinematográfica.
 
-13. âœ… [The Criterion Collection](https://www.criterion.com/) â€” Ediciones restauradas y contextualizadas de pelÃ­culas esenciales.
+13. ✅ [The Criterion Collection](https://www.criterion.com/) — Ediciones restauradas y contextualizadas de películas esenciales.
 
-14. âœ… [MUBI Notebook](https://mubi.com/en/notebook) â€” CrÃ­tica, entrevistas y ensayos cinematogrÃ¡ficos.
+14. ✅ [MUBI Notebook](https://mubi.com/en/notebook) — Crítica, entrevistas y ensayos cinematográficos.
 
-15. âœ… [Cineuropa](https://cineuropa.org/) â€” InformaciÃ³n sobre la industria cinematogrÃ¡fica europea.
+15. ✅ [Cineuropa](https://cineuropa.org/) — Información sobre la industria cinematográfica europea.
 
-16. âœ… [Film Comment](https://www.filmcomment.com/) â€” CrÃ­tica y cultura cinematogrÃ¡fica.
+16. ✅ [Film Comment](https://www.filmcomment.com/) — Crítica y cultura cinematográfica.
 
-17. âœ… [RogerEbert.com](https://www.rogerebert.com/) â€” CrÃ­ticas, ensayos y cobertura de festivales.
+17. ✅ [RogerEbert.com](https://www.rogerebert.com/) — Críticas, ensayos y cobertura de festivales.
 
-18. âœ… [No Film School](https://nofilmschool.com/) â€” FormaciÃ³n y recursos para cineastas.
+18. ✅ [No Film School](https://nofilmschool.com/) — Formación y recursos para cineastas.
 
-19. âœ… [StudioBinder](https://www.studiobinder.com/blog/) â€” ProducciÃ³n, direcciÃ³n, guion y lenguaje audiovisual.
+19. ✅ [StudioBinder](https://www.studiobinder.com/blog/) — Producción, dirección, guion y lenguaje audiovisual.
 
-20. âœ… [MovieMaker Magazine](https://www.moviemaker.com/) â€” RealizaciÃ³n y producciÃ³n independiente.
+20. ✅ [MovieMaker Magazine](https://www.moviemaker.com/) — Realización y producción independiente.
 
-21. âœ… [CineD](https://www.cined.com/) â€” CÃ¡maras, tecnologÃ­a y producciÃ³n cinematogrÃ¡fica.
+21. ✅ [CineD](https://www.cined.com/) — Cámaras, tecnología y producción cinematográfica.
 
-22. âœ… [Festival de Cannes](https://www.festival-cannes.com/) â€” SelecciÃ³n oficial, archivo y actualidad del festival.
+22. ✅ [Festival de Cannes](https://www.festival-cannes.com/) — Selección oficial, archivo y actualidad del festival.
 
-23. âœ… [Academy of Motion Picture Arts and Sciences](https://www.oscars.org/) â€” OrganizaciÃ³n responsable de los Ã“scar.
+23. ✅ [Academy of Motion Picture Arts and Sciences](https://www.oscars.org/) — Organización responsable de los Óscar.
 
-24. âœ… [European Film Academy](https://www.europeanfilmacademy.org/) â€” InstituciÃ³n de referencia del cine europeo.
+24. ✅ [European Film Academy](https://www.europeanfilmacademy.org/) — Institución de referencia del cine europeo.
 
-25. âœ… [Film Independent](https://www.filmindependent.org/) â€” Apoyo y formaciÃ³n para cineastas independientes.
+25. ✅ [Film Independent](https://www.filmindependent.org/) — Apoyo y formación para cineastas independientes.
 
-26. âœ… [Sundance Institute](https://www.sundance.org/) â€” Programas, laboratorios y festival de cine independiente.
+26. ✅ [Sundance Institute](https://www.sundance.org/) — Programas, laboratorios y festival de cine independiente.
 
-27. âœ… [Instituto de la CinematografÃ­a y de las Artes Audiovisuales](https://www.cultura.gob.es/cultura/areas/cine.html) â€” Organismo oficial del cine en EspaÃ±a.
+27. ✅ [Instituto de la Cinematografía y de las Artes Audiovisuales](https://www.cultura.gob.es/cultura/areas/cine.html) — Organismo oficial del cine en España.
 
-28. âœ… [Filmoteca EspaÃ±ola](https://www.cultura.gob.es/cultura/areas/cine/mc/fe.html) â€” ConservaciÃ³n y difusiÃ³n del patrimonio cinematogrÃ¡fico espaÃ±ol.
+28. ✅ [Filmoteca Española](https://www.cultura.gob.es/cultura/areas/cine/mc/fe.html) — Conservación y difusión del patrimonio cinematográfico español.
 
-29. âœ… [Audiovisual451](https://www.audiovisual451.com/) â€” Industria audiovisual espaÃ±ola.
+29. ✅ [Audiovisual451](https://www.audiovisual451.com/) — Industria audiovisual española.
 
-30. âœ… [Fotogramas](https://www.fotogramas.es/) â€” Actualidad, crÃ­tica y cultura cinematogrÃ¡fica en espaÃ±ol.
+30. ✅ [Fotogramas](https://www.fotogramas.es/) — Actualidad, crítica y cultura cinematográfica en español.
 
 ---
 
 ## YOUTUBE
 
-1. âœ… [Every Frame a Painting](https://www.youtube.com/@everyframeapainting) â€” Ensayos sobre montaje, puesta en escena y lenguaje cinematogrÃ¡fico.
+1. ✅ [Every Frame a Painting](https://www.youtube.com/@everyframeapainting) — Ensayos sobre montaje, puesta en escena y lenguaje cinematográfico.
 
-2. âœ… [Lessons from the Screenplay](https://www.youtube.com/@LessonsfromtheScreenplay) â€” AnÃ¡lisis de guion y estructura narrativa.
+2. ✅ [Lessons from the Screenplay](https://www.youtube.com/@LessonsfromtheScreenplay) — Análisis de guion y estructura narrativa.
 
-3. âœ… [StudioBinder](https://www.youtube.com/@StudioBinder) â€” DirecciÃ³n, producciÃ³n, fotografÃ­a y planificaciÃ³n.
+3. ✅ [StudioBinder](https://www.youtube.com/@StudioBinder) — Dirección, producción, fotografía y planificación.
 
-4. âœ… [CineFix](https://www.youtube.com/@CineFix) â€” Historia, anÃ¡lisis y listas cinematogrÃ¡ficas.
+4. ✅ [CineFix](https://www.youtube.com/@CineFix) — Historia, análisis y listas cinematográficas.
 
-5. âœ… [Film Riot](https://www.youtube.com/@filmriot) â€” ProducciÃ³n prÃ¡ctica, efectos y realizaciÃ³n independiente.
+5. ✅ [Film Riot](https://www.youtube.com/@filmriot) — Producción práctica, efectos y realización independiente.
 
-6. âœ… [Corridor Crew](https://www.youtube.com/@CorridorCrew) â€” Efectos visuales, especialistas y producciÃ³n digital.
+6. ✅ [Corridor Crew](https://www.youtube.com/@CorridorCrew) — Efectos visuales, especialistas y producción digital.
 
-7. âœ… [Nerdwriter1](https://www.youtube.com/@Nerdwriter1) â€” Videoensayos sobre cine, arte y cultura.
+7. ✅ [Nerdwriter1](https://www.youtube.com/@Nerdwriter1) — Videoensayos sobre cine, arte y cultura.
 
-8. âœ… [Patrick H. Willems](https://www.youtube.com/@patrickhwillems) â€” Ensayos cinematogrÃ¡ficos y anÃ¡lisis de gÃ©neros.
+8. ✅ [Patrick H. Willems](https://www.youtube.com/@patrickhwillems) — Ensayos cinematográficos y análisis de géneros.
 
-9. âœ… [The Royal Ocean Film Society](https://www.youtube.com/@TheRoyalOceanFilmSociety) â€” Historia y estÃ©tica cinematogrÃ¡fica.
+9. ✅ [The Royal Ocean Film Society](https://www.youtube.com/@TheRoyalOceanFilmSociety) — Historia y estética cinematográfica.
 
-10. âœ… [The Cinema Cartography](https://www.youtube.com/@TheCinemaCartography) â€” Videoensayos sobre autores, movimientos y cinematografÃ­as.
+10. ✅ [The Cinema Cartography](https://www.youtube.com/@TheCinemaCartography) — Videoensayos sobre autores, movimientos y cinematografías.
 
 ---
 
 ## PODCAST
 
-1. âœ… [The Directorâ€™s Cut â€” Directors Guild of America](https://www.dga.org/Craft/Podcast) â€” Conversaciones entre directores.
+1. ✅ [The Director’s Cut — Directors Guild of America](https://www.dga.org/Craft/Podcast) — Conversaciones entre directores.
 
-2. âœ… [The Big Picture](https://www.theringer.com/podcasts/the-big-picture) â€” Estrenos, industria, crÃ­tica y premios.
+2. ✅ [The Big Picture](https://www.theringer.com/podcasts/the-big-picture) — Estrenos, industria, crítica y premios.
 
-3. âœ… [Scriptnotes](https://johnaugust.com/scriptnotes) â€” Guion cinematogrÃ¡fico con John August y Craig Mazin.
+3. ✅ [Scriptnotes](https://johnaugust.com/scriptnotes) — Guion cinematográfico con John August y Craig Mazin.
 
-4. âœ… [Team Deakins](https://teamdeakins.libsyn.com/) â€” Conversaciones sobre fotografÃ­a y producciÃ³n.
+4. ✅ [Team Deakins](https://teamdeakins.libsyn.com/) — Conversaciones sobre fotografía y producción.
 
-5. âœ… [Filmspotting](https://www.filmspotting.net/) â€” CrÃ­tica, debates y clÃ¡sicos.
+5. ✅ [Filmspotting](https://www.filmspotting.net/) — Crítica, debates y clásicos.
 
-6. âœ… [The Empire Film Podcast](https://www.empireonline.com/movies/podcasts/) â€” Actualidad, entrevistas y anÃ¡lisis.
+6. ✅ [The Empire Film Podcast](https://www.empireonline.com/movies/podcasts/) — Actualidad, entrevistas y análisis.
 
-7. âœ… [IndieWire Filmmaker Toolkit](https://www.indiewire.com/t/filmmaker-toolkit-podcast/) â€” Conversaciones con cineastas y profesionales.
+7. ✅ [IndieWire Filmmaker Toolkit](https://www.indiewire.com/t/filmmaker-toolkit-podcast/) — Conversaciones con cineastas y profesionales.
 
-8. âœ… [Kermode & Mayoâ€™s Take](https://kermodeandmayo.com/) â€” CrÃ­tica y entrevistas cinematogrÃ¡ficas.
+8. ✅ [Kermode & Mayo’s Take](https://kermodeandmayo.com/) — Crítica y entrevistas cinematográficas.
 
-9. âœ… [You Must Remember This](https://www.youmustrememberthispodcast.com/) â€” Historia secreta y olvidada de Hollywood.
+9. ✅ [You Must Remember This](https://www.youmustrememberthispodcast.com/) — Historia secreta y olvidada de Hollywood.
 
-10. âœ… [The Treatment â€” KCRW](https://www.kcrw.com/culture/shows/the-treatment) â€” Entrevistas con cineastas, intÃ©rpretes y guionistas.
+10. ✅ [The Treatment — KCRW](https://www.kcrw.com/culture/shows/the-treatment) — Entrevistas con cineastas, intérpretes y guionistas.
 
 ---
 
 ## LIBROS
 
-Los enlaces conducen a la editorial, al autor, a Google Books o a una ficha bibliogrÃ¡fica de consulta.
+Los enlaces conducen a la editorial, al autor, a Google Books o a una ficha bibliográfica de consulta.
 
-1. âœ… [_Film Art: An Introduction_ â€” David Bordwell, Kristin Thompson y Jeff Smith](https://www.mheducation.com/highered/product/film-art-an-introduction-bordwell.html)
+1. ✅ [_Film Art: An Introduction_ — David Bordwell, Kristin Thompson y Jeff Smith](https://www.mheducation.com/highered/product/film-art-an-introduction-bordwell.html)
 
-2. âœ… [_Story_ â€” Robert McKee](https://mckeestory.com/books/story/)
+2. ✅ [_Story_ — Robert McKee](https://mckeestory.com/books/story/)
 
-3. âœ… [_In the Blink of an Eye_ â€” Walter Murch](https://www.silmanjamespress.com/shop/filmmaking-directing/in-the-blink-of-an-eye-2nd-edition/)
+3. ✅ [_In the Blink of an Eye_ — Walter Murch](https://www.silmanjamespress.com/shop/filmmaking-directing/in-the-blink-of-an-eye-2nd-edition/)
 
-4. âœ… [_Sculpting in Time_ â€” Andrei Tarkovsky](https://utpress.utexas.edu/9780292776241/)
+4. ✅ [_Sculpting in Time_ — Andrei Tarkovsky](https://utpress.utexas.edu/9780292776241/)
 
-5. âœ… [_Hitchcock/Truffaut_ â€” FranÃ§ois Truffaut](https://www.simonandschuster.com/books/Hitchcock/Francois-Truffaut/9780671604295)
+5. ✅ [_Hitchcock/Truffaut_ — François Truffaut](https://www.simonandschuster.com/books/Hitchcock/Francois-Truffaut/9780671604295)
 
-6. âœ… [_Making Movies_ â€” Sidney Lumet](https://www.penguinrandomhouse.com/books/104105/making-movies-by-sidney-lumet/)
+6. ✅ [_Making Movies_ — Sidney Lumet](https://www.penguinrandomhouse.com/books/104105/making-movies-by-sidney-lumet/)
 
-7. âœ… [_On Directing Film_ â€” David Mamet](https://www.penguinrandomhouse.com/books/106886/on-directing-film-by-david-mamet/)
+7. ✅ [_On Directing Film_ — David Mamet](https://www.penguinrandomhouse.com/books/106886/on-directing-film-by-david-mamet/)
 
-8. âœ… [_The Five Câ€™s of Cinematography_ â€” Joseph V. Mascelli](https://www.silmanjamespress.com/shop/cinematography/the-five-cs-of-cinematography/)
+8. ✅ [_The Five C’s of Cinematography_ — Joseph V. Mascelli](https://www.silmanjamespress.com/shop/cinematography/the-five-cs-of-cinematography/)
 
-9. âœ… [_Adventures in the Screen Trade_ â€” William Goldman](https://www.hachettebookgroup.com/titles/william-goldman/adventures-in-the-screen-trade/9781455525461/)
+9. ✅ [_Adventures in the Screen Trade_ — William Goldman](https://www.hachettebookgroup.com/titles/william-goldman/adventures-in-the-screen-trade/9781455525461/)
 
-10. âœ… [_Rebel Without a Crew_ â€” Robert Rodriguez](https://www.penguinrandomhouse.com/books/156640/rebel-without-a-crew-by-robert-rodriguez/)
+10. ✅ [_Rebel Without a Crew_ — Robert Rodriguez](https://www.penguinrandomhouse.com/books/156640/rebel-without-a-crew-by-robert-rodriguez/)
 
-11. âœ… [_Directing Actors_ â€” Judith Weston](https://judithweston.com/books/)
+11. ✅ [_Directing Actors_ — Judith Weston](https://judithweston.com/books/)
 
-12. âœ… [_The Visual Story_ â€” Bruce Block](https://www.routledge.com/The-Visual-Story-Creating-the-Visual-Structure-of-Film-TV-and-Digital-Media/Block/p/book/9781138014152)
+12. ✅ [_The Visual Story_ — Bruce Block](https://www.routledge.com/The-Visual-Story-Creating-the-Visual-Structure-of-Film-TV-and-Digital-Media/Block/p/book/9781138014152)
 
-13. âœ… [_The Anatomy of Story_ â€” John Truby](https://www.farrarstraus.com/books/9780865479937/the-anatomy-of-story/)
+13. ✅ [_The Anatomy of Story_ — John Truby](https://www.farrarstraus.com/books/9780865479937/the-anatomy-of-story/)
 
-14. âœ… [_Save the Cat!_ â€” Blake Snyder](https://savethecat.com/products/books/save-the-cat-the-last-book-on-screenwriting-youll-ever-need)
+14. ✅ [_Save the Cat!_ — Blake Snyder](https://savethecat.com/products/books/save-the-cat-the-last-book-on-screenwriting-youll-ever-need)
 
-15. âœ… [_Notes on the Cinematograph_ â€” Robert Bresson](https://www.nyrb.com/products/notes-on-the-cinematograph)
+15. ✅ [_Notes on the Cinematograph_ — Robert Bresson](https://www.nyrb.com/products/notes-on-the-cinematograph)
 
-16. âœ… [_Cinema Speculation_ â€” Quentin Tarantino](https://www.harpercollins.com/products/cinema-speculation-quentin-tarantino)
+16. ✅ [_Cinema Speculation_ — Quentin Tarantino](https://www.harpercollins.com/products/cinema-speculation-quentin-tarantino)
 
-17. âœ… [_Poetics_ â€” Aristotle](https://classics.mit.edu/Aristotle/poetics.html)
+17. ✅ [_Poetics_ — Aristotle](https://classics.mit.edu/Aristotle/poetics.html)
 
-18. âœ… [_Understanding Comics_ â€” Scott McCloud](https://www.harpercollins.com/products/understanding-comics-scott-mccloud)
+18. ✅ [_Understanding Comics_ — Scott McCloud](https://www.harpercollins.com/products/understanding-comics-scott-mccloud)
 
-19. âœ… [_The Hero with a Thousand Faces_ â€” Joseph Campbell](https://www.jcf.org/works/titles/the-hero-with-a-thousand-faces/)
+19. ✅ [_The Hero with a Thousand Faces_ — Joseph Campbell](https://www.jcf.org/works/titles/the-hero-with-a-thousand-faces/)
 
-20. âœ… [_The Conversations: Walter Murch and the Art of Editing Film_ â€” Michael Ondaatje](https://www.penguinrandomhouse.com/books/124427/the-conversations-by-michael-ondaatje/)
+20. ✅ [_The Conversations: Walter Murch and the Art of Editing Film_ — Michael Ondaatje](https://www.penguinrandomhouse.com/books/124427/the-conversations-by-michael-ondaatje/)
 
 ---
 
 ## REVISTAS
 
-1. âœ… [Sight and Sound](https://www.bfi.org.uk/sight-and-sound)
+1. ✅ [Sight and Sound](https://www.bfi.org.uk/sight-and-sound)
 
-2. âœ… [Film Comment](https://www.filmcomment.com/)
+2. ✅ [Film Comment](https://www.filmcomment.com/)
 
-3. âœ… [Cahiers du CinÃ©ma](https://www.cahiersducinema.com/)
+3. ✅ [Cahiers du Cinéma](https://www.cahiersducinema.com/)
 
-4. âœ… [Positif](https://www.revue-positif.com/)
+4. ✅ [Positif](https://www.revue-positif.com/)
 
-5. âœ… [Variety](https://variety.com/)
+5. ✅ [Variety](https://variety.com/)
 
-6. âœ… [The Hollywood Reporter](https://www.hollywoodreporter.com/)
+6. ✅ [The Hollywood Reporter](https://www.hollywoodreporter.com/)
 
-7. âœ… [Empire](https://www.empireonline.com/movies/)
+7. ✅ [Empire](https://www.empireonline.com/movies/)
 
-8. âœ… [Little White Lies](https://lwlies.com/)
+8. ✅ [Little White Lies](https://lwlies.com/)
 
-9. âœ… [Cineaste](https://www.cineaste.com/)
+9. ✅ [Cineaste](https://www.cineaste.com/)
 
-10. âœ… [American Cinematographer](https://theasc.com/american-cinematographer)
+10. ✅ [American Cinematographer](https://theasc.com/american-cinematographer)
 
-11. âœ… [CaimÃ¡n Cuadernos de Cine](https://www.caimanediciones.es/)
+11. ✅ [Caimán Cuadernos de Cine](https://www.caimanediciones.es/)
 
-12. âœ… [Fotogramas](https://www.fotogramas.es/)
+12. ✅ [Fotogramas](https://www.fotogramas.es/)
 
-13. âœ… [Dirigido Por](https://www.dirigidopor.es/)
+13. ✅ [Dirigido Por](https://www.dirigidopor.es/)
 
-14. âœ… [Cineuropa](https://cineuropa.org/)
+14. ✅ [Cineuropa](https://cineuropa.org/)
 
-15. âœ… [Screen International / Screen Daily](https://www.screendaily.com/)
+15. ✅ [Screen International / Screen Daily](https://www.screendaily.com/)
 
 ---
 
 ## MUSEOS
 
-1. âœ… [Academy Museum of Motion Pictures â€” Los Ãngeles](https://www.academymuseum.org/)
+1. ✅ [Academy Museum of Motion Pictures — Los Ángeles](https://www.academymuseum.org/)
 
-2. âœ… [Museo Nazionale del Cinema â€” TurÃ­n](https://www.museocinema.it/)
+2. ✅ [Museo Nazionale del Cinema — Turín](https://www.museocinema.it/)
 
-3. âœ… [Deutsche Kinemathek â€” BerlÃ­n](https://www.deutsche-kinemathek.de/en)
+3. ✅ [Deutsche Kinemathek — Berlín](https://www.deutsche-kinemathek.de/en)
 
-4. âœ… [Eye Filmmuseum â€” Ãmsterdam](https://www.eyefilm.nl/en)
+4. ✅ [Eye Filmmuseum — Ámsterdam](https://www.eyefilm.nl/en)
 
-5. âœ… [La CinÃ©mathÃ¨que franÃ§aise â€” ParÃ­s](https://www.cinematheque.fr/)
+5. ✅ [La Cinémathèque française — París](https://www.cinematheque.fr/)
 
-6. âœ… [Austrian Film Museum â€” Viena](https://www.filmmuseum.at/)
+6. ✅ [Austrian Film Museum — Viena](https://www.filmmuseum.at/)
 
-7. âœ… [Museum of the Moving Image â€” Nueva York](https://movingimage.org/)
+7. ✅ [Museum of the Moving Image — Nueva York](https://movingimage.org/)
 
-8. âœ… [BFI Southbank â€” Londres](https://www.bfi.org.uk/bfi-southbank)
+8. ✅ [BFI Southbank — Londres](https://www.bfi.org.uk/bfi-southbank)
 
-9. âœ… [Filmoteca EspaÃ±ola â€” Madrid](https://www.cultura.gob.es/cultura/areas/cine/mc/fe.html)
+9. ✅ [Filmoteca Española — Madrid](https://www.cultura.gob.es/cultura/areas/cine/mc/fe.html)
 
-10. âœ… [George Eastman Museum â€” Rochester](https://www.eastman.org/)
+10. ✅ [George Eastman Museum — Rochester](https://www.eastman.org/)
 
 ---
 
 ## UNIVERSIDADES
 
-1. âœ… [USC School of Cinematic Arts](https://cinema.usc.edu/)
+1. ✅ [USC School of Cinematic Arts](https://cinema.usc.edu/)
 
-2. âœ… [UCLA School of Theater, Film and Television](https://www.tft.ucla.edu/)
+2. ✅ [UCLA School of Theater, Film and Television](https://www.tft.ucla.edu/)
 
-3. âœ… [AFI Conservatory](https://conservatory.afi.com/)
+3. ✅ [AFI Conservatory](https://conservatory.afi.com/)
 
-4. âœ… [NYU Tisch School of the Arts â€” Film & Television](https://tisch.nyu.edu/film-tv)
+4. ✅ [NYU Tisch School of the Arts — Film & Television](https://tisch.nyu.edu/film-tv)
 
-5. âœ… [London Film School](https://lfs.org.uk/)
+5. ✅ [London Film School](https://lfs.org.uk/)
 
-6. âœ… [National Film and Television School](https://nfts.co.uk/)
+6. ✅ [National Film and Television School](https://nfts.co.uk/)
 
-7. âœ… [La FÃ©mis](https://www.femis.fr/)
+7. ✅ [La Fémis](https://www.femis.fr/)
 
-8. âœ… [FAMU â€” Film and TV School of the Academy of Performing Arts in Prague](https://www.famu.cz/en/)
+8. ✅ [FAMU — Film and TV School of the Academy of Performing Arts in Prague](https://www.famu.cz/en/)
 
-9. âœ… [Beijing Film Academy](https://www.bfa.edu.cn/eng/)
+9. ✅ [Beijing Film Academy](https://www.bfa.edu.cn/eng/)
 
-10. âœ… [Chapman University â€” Dodge College](https://www.chapman.edu/dodge/)
+10. ✅ [Chapman University — Dodge College](https://www.chapman.edu/dodge/)
 
-11. âœ… [Vancouver Film School](https://vfs.edu/)
+11. ✅ [Vancouver Film School](https://vfs.edu/)
 
-12. âœ… [ESCAC â€” Escola Superior de Cinema i Audiovisuals de Catalunya](https://escac.com/)
+12. ✅ [ESCAC — Escola Superior de Cinema i Audiovisuals de Catalunya](https://escac.com/)
 
 ---
 
 ## ASOCIACIONES
 
-1. âœ… [Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)
+1. ✅ [Academy of Motion Picture Arts and Sciences](https://www.oscars.org/)
 
-2. âœ… [Directors Guild of America](https://www.dga.org/)
+2. ✅ [Directors Guild of America](https://www.dga.org/)
 
-3. âœ… [Producers Guild of America](https://producersguild.org/)
+3. ✅ [Producers Guild of America](https://producersguild.org/)
 
-4. âœ… [Writers Guild of America West](https://www.wga.org/)
+4. ✅ [Writers Guild of America West](https://www.wga.org/)
 
-5. âœ… [American Society of Cinematographers](https://theasc.com/)
+5. ✅ [American Society of Cinematographers](https://theasc.com/)
 
-6. âœ… [European Film Academy](https://www.europeanfilmacademy.org/)
+6. ✅ [European Film Academy](https://www.europeanfilmacademy.org/)
 
-7. âœ… [International Federation of Film Archives â€” FIAF](https://www.fiafnet.org/)
+7. ✅ [International Federation of Film Archives — FIAF](https://www.fiafnet.org/)
 
-8. âœ… [Association des CinÃ©mathÃ¨ques EuropÃ©ennes â€” ACE](https://ace-film.eu/)
+8. ✅ [Association des Cinémathèques Européennes — ACE](https://ace-film.eu/)
 
-9. âœ… [International Federation of Film Producers Associations â€” FIAPF](https://fiapf.org/)
+9. ✅ [International Federation of Film Producers Associations — FIAPF](https://fiapf.org/)
 
-10. âœ… [Society of Motion Picture and Television Engineers â€” SMPTE](https://www.smpte.org/)
+10. ✅ [Society of Motion Picture and Television Engineers — SMPTE](https://www.smpte.org/)
 
-11. âœ… [International Documentary Association](https://www.documentary.org/)
+11. ✅ [International Documentary Association](https://www.documentary.org/)
 
-12. âœ… [Film Independent](https://www.filmindependent.org/)
+12. ✅ [Film Independent](https://www.filmindependent.org/)
 
 ---
 
 ## NEWSLETTER
 
-Los enlaces conducen directamente a la publicaciÃ³n o a su pÃ¡gina de suscripciÃ³n.
+Los enlaces conducen directamente a la publicación o a su página de suscripción.
 
-1. âœ… [IndieWire Newsletters](https://www.indiewire.com/newsletters/)
+1. ✅ [IndieWire Newsletters](https://www.indiewire.com/newsletters/)
 
-2. âœ… [Screen Daily Newsletters](https://www.screendaily.com/newsletters)
+2. ✅ [Screen Daily Newsletters](https://www.screendaily.com/newsletters)
 
-3. âœ… [No Film School Newsletter](https://nofilmschool.com/newsletter)
+3. ✅ [No Film School Newsletter](https://nofilmschool.com/newsletter)
 
-4. âœ… [MUBI Notebook](https://mubi.com/en/notebook)
+4. ✅ [MUBI Notebook](https://mubi.com/en/notebook)
 
-5. âœ… [Film Comment Newsletter](https://www.filmcomment.com/newsletter/)
+5. ✅ [Film Comment Newsletter](https://www.filmcomment.com/newsletter/)
 
-6. âœ… [Letterboxd Call Sheet](https://letterboxd.com/call-sheet/)
+6. ✅ [Letterboxd Call Sheet](https://letterboxd.com/call-sheet/)
 
-7. âœ… [Variety Newsletters](https://variety.com/vip-newsletters/)
+7. ✅ [Variety Newsletters](https://variety.com/vip-newsletters/)
 
-8. âœ… [Deadline Newsletters](https://deadline.com/newsletters/)
+8. ✅ [Deadline Newsletters](https://deadline.com/newsletters/)
 
-9. âœ… [The Ankler](https://theankler.com/)
+9. ✅ [The Ankler](https://theankler.com/)
 
-10. âœ… [Filmoteca EspaÃ±ola â€” Newsletter](https://www.cultura.gob.es/cultura/areas/cine/mc/fe/programacion-actividades/newsletter.html)
+10. ✅ [Filmoteca Española — Newsletter](https://www.cultura.gob.es/cultura/areas/cine/mc/fe/programacion-actividades/newsletter.html)
 
-11. âœ… [Cineuropa Newsletter](https://cineuropa.org/en/newsletter/)
+11. ✅ [Cineuropa Newsletter](https://cineuropa.org/en/newsletter/)
 
-12. âœ… [American Cinematographer Newsletter](https://theasc.com/newsletter)
+12. ✅ [American Cinematographer Newsletter](https://theasc.com/newsletter)
 
 ---
 
-### ðŸ”Ž Criterios de selecciÃ³n
+### 🔎 Criterios de selección
 
 Las referencias han sido seleccionadas atendiendo a:
 
 - Autoridad institucional o profesional.
 
-- Influencia en la crÃ­tica, la enseÃ±anza o la industria.
+- Influencia en la crítica, la enseñanza o la industria.
 
 - Calidad y profundidad de sus contenidos.
 
 - Valor para estudiantes, investigadores, profesionales y aficionados.
 
-- ProyecciÃ³n internacional.
+- Proyección internacional.
 
 - Continuidad editorial o institucional.
 
@@ -342,131 +342,131 @@ Las referencias han sido seleccionadas atendiendo a:
 
 ## TV
 
-- [Turner Classic Movies â€” TCM](https://www.tcm.com/) â€” Canal especializado en cine clÃ¡sico, retrospectivas, ciclos temÃ¡ticos y preservaciÃ³n cinematogrÃ¡fica.
+- [Turner Classic Movies — TCM](https://www.tcm.com/) — Canal especializado en cine clásico, retrospectivas, ciclos temáticos y preservación cinematográfica.
 
-- [Film4](https://www.youtube.com/channel/UCnmDn3QFyDe4WJ44CsiSiiw) â€” Canal britÃ¡nico dedicado al cine independiente, producciones propias, clÃ¡sicos y estrenos internacionales.
+- [Film4](https://www.youtube.com/channel/UCnmDn3QFyDe4WJ44CsiSiiw) — Canal británico dedicado al cine independiente, producciones propias, clásicos y estrenos internacionales.
 
-- [ARTE Cinema](https://www.arte.tv/en/videos/cinema/) â€” SelecciÃ³n europea de largometrajes, cortometrajes, documentales y obras de cine de autor.
+- [ARTE Cinema](https://www.arte.tv/en/videos/cinema/) — Selección europea de largometrajes, cortometrajes, documentales y obras de cine de autor.
 
-- [Rai Movie](https://www.raiplay.it/dirette/raimovie) â€” Canal pÃºblico italiano especializado en pelÃ­culas nacionales, internacionales y cine clÃ¡sico.
+- [Rai Movie](https://www.raiplay.it/dirette/raimovie) — Canal público italiano especializado en películas nacionales, internacionales y cine clásico.
 
-- [CCTV-6 Movie Channel](https://www.1905.com/cctv6/) â€” Canal cinematogrÃ¡fico chino con pelÃ­culas, entrevistas, noticias de la industria y crÃ­tica especializada.
+- [CCTV-6 Movie Channel](https://www.1905.com/cctv6/) — Canal cinematográfico chino con películas, entrevistas, noticias de la industria y crítica especializada.
 
-- [B4U Movies](https://www.b4utv.com/) â€” Canal internacional centrado en Bollywood, cine hindi y grandes producciones de la India.
+- [B4U Movies](https://www.b4utv.com/) — Canal internacional centrado en Bollywood, cine hindi y grandes producciones de la India.
 
-- [Canal Brasil](https://globoplay.globo.com/canal-brasil/ao-vivo/7339060/) â€” Canal dedicado al cine brasileÃ±o, los documentales, los cortometrajes y la producciÃ³n audiovisual nacional.
+- [Canal Brasil](https://globoplay.globo.com/canal-brasil/ao-vivo/7339060/) — Canal dedicado al cine brasileño, los documentales, los cortometrajes y la producción audiovisual nacional.
 
-- [Cinema One](https://mytfc.com/cinema-one-global) â€” Canal filipino especializado en pelÃ­culas comerciales, clÃ¡sicos populares y producciones contemporÃ¡neas.
+- [Cinema One](https://mytfc.com/cinema-one-global) — Canal filipino especializado en películas comerciales, clásicos populares y producciones contemporáneas.
 
-- [M-Net Movies](https://www.youtube.com/mnetmovies) â€” Red africana de canales cinematogrÃ¡ficos con pelÃ­culas internacionales y producciones del continente.
+- [M-Net Movies](https://www.youtube.com/mnetmovies) — Red africana de canales cinematográficos con películas internacionales y producciones del continente.
 
-- [Canal Hollywood](https://canalhollywood.pt/) â€” Canal ibÃ©rico con programaciÃ³n continua de pelÃ­culas de los principales estudios internacionales.
+- [Canal Hollywood](https://canalhollywood.pt/) — Canal ibérico con programación continua de películas de los principales estudios internacionales.
 
 ## RADIO
 
-- [De pelÃ­cula â€” RNE](https://www.rtve.es/play/audios/de-pelicula-rne/) â€” Programa espaÃ±ol con estrenos, entrevistas, festivales y actualidad cinematogrÃ¡fica.
+- [De película — RNE](https://www.rtve.es/play/audios/de-pelicula-rne/) — Programa español con estrenos, entrevistas, festivales y actualidad cinematográfica.
 
-- [The Screen Show â€” ABC Radio National](https://www.abc.net.au/listen/programs/the-screen-show) â€” Espacio australiano sobre cine mundial, televisiÃ³n, festivales y creaciÃ³n audiovisual.
+- [The Screen Show — ABC Radio National](https://www.abc.net.au/listen/programs/the-screen-show) — Espacio australiano sobre cine mundial, televisión, festivales y creación audiovisual.
 
-- [Screenshot â€” BBC Radio 4](https://podcasts.apple.com/gb/podcast/screenshot/id1597470341) â€” Programa semanal que relaciona pelÃ­culas, televisiÃ³n, plataformas y cultura visual.
+- [Screenshot — BBC Radio 4](https://podcasts.apple.com/gb/podcast/screenshot/id1597470341) — Programa semanal que relaciona películas, televisión, plataformas y cultura visual.
 
-- [On aura tout vu â€” France Inter](https://podcasts.apple.com/us/podcast/on-aura-tout-vu/id301979958) â€” Revista radiofÃ³nica francesa dedicada a estrenos, autores y acontecimientos cinematogrÃ¡ficos.
+- [On aura tout vu — France Inter](https://podcasts.apple.com/us/podcast/on-aura-tout-vu/id301979958) — Revista radiofónica francesa dedicada a estrenos, autores y acontecimientos cinematográficos.
 
-- [The Treatment â€” KCRW](https://www.kcrw.com/entertainment-and-arts/the-treatment) â€” Entrevistas en profundidad con cineastas, intÃ©rpretes, guionistas y creadores audiovisuales.
+- [The Treatment — KCRW](https://www.kcrw.com/entertainment-and-arts/the-treatment) — Entrevistas en profundidad con cineastas, intérpretes, guionistas y creadores audiovisuales.
 
-- [Filmspotting](https://www.filmspotting.net/) â€” Programa semanal de crÃ­tica, anÃ¡lisis de pelÃ­culas, entrevistas y debates cinÃ©filos.
+- [Filmspotting](https://www.filmspotting.net/) — Programa semanal de crítica, análisis de películas, entrevistas y debates cinéfilos.
 
-- [Cinema Falado â€” RÃ¡dio Executiva](https://www.radioexecutiva.com.br/podcast) â€” Programa brasileÃ±o sobre estrenos, historia del cine, directores y producciÃ³n audiovisual.
+- [Cinema Falado — Rádio Executiva](https://www.radioexecutiva.com.br/podcast) — Programa brasileño sobre estrenos, historia del cine, directores y producción audiovisual.
 
-- [RevÃ©late â€” Retina Latina](https://www.retinalatina.org/podcast/) â€” PÃ³dcast dedicado a las cinematografÃ­as, historias y profesionales de AmÃ©rica Latina.
+- [Revélate — Retina Latina](https://www.retinalatina.org/podcast/) — Pódcast dedicado a las cinematografías, historias y profesionales de América Latina.
 
-- [June Givanni PanAfrican Cinema Podcast](https://www.junegivannifilmarchive.org/programme-folder/podcast) â€” Conversaciones sobre cine africano, diÃ¡sporas, archivos, identidad y memoria cultural.
+- [June Givanni PanAfrican Cinema Podcast](https://www.junegivannifilmarchive.org/programme-folder/podcast) — Conversaciones sobre cine africano, diásporas, archivos, identidad y memoria cultural.
 
-- [The Pan India Project](https://open.spotify.com/show/1s6nAJzVc5ulDN4BfHvMkN) â€” PÃ³dcast sobre pelÃ­culas, industrias regionales y tendencias del cine de la India.
+- [The Pan India Project](https://open.spotify.com/show/1s6nAJzVc5ulDN4BfHvMkN) — Pódcast sobre películas, industrias regionales y tendencias del cine de la India.
 
 ## PRENSA ONLINE
 
-- [IndieWire](https://www.indiewire.com/) â€” Noticias, crÃ­tica, entrevistas y anÃ¡lisis sobre cine independiente e industria audiovisual.
+- [IndieWire](https://www.indiewire.com/) — Noticias, crítica, entrevistas y análisis sobre cine independiente e industria audiovisual.
 
-- [Cineuropa](https://cineuropa.org/) â€” Portal multilingÃ¼e especializado en cine europeo, coproducciones, festivales y mercados.
+- [Cineuropa](https://cineuropa.org/) — Portal multilingüe especializado en cine europeo, coproducciones, festivales y mercados.
 
-- [Senses of Cinema](https://www.sensesofcinema.com/) â€” Revista australiana de anÃ¡lisis, teorÃ­a, historia y crÃ­tica cinematogrÃ¡fica internacional.
+- [Senses of Cinema](https://www.sensesofcinema.com/) — Revista australiana de análisis, teoría, historia y crítica cinematográfica internacional.
 
-- [AfricinÃ©](https://www.africine.org/) â€” Base informativa y publicaciÃ³n especializada en cinematografÃ­as africanas y de la diÃ¡spora.
+- [Africiné](https://www.africine.org/) — Base informativa y publicación especializada en cinematografías africanas y de la diáspora.
 
-- [MUBI Notebook](https://mubi.com/en/notebook) â€” PublicaciÃ³n internacional sobre cine contemporÃ¡neo, clÃ¡sico, experimental y de autor.
+- [MUBI Notebook](https://mubi.com/en/notebook) — Publicación internacional sobre cine contemporáneo, clásico, experimental y de autor.
 
-- [Asian Movie Pulse](https://asianmoviepulse.com/) â€” CrÃ­ticas, entrevistas y cobertura de festivales y pelÃ­culas de todo el continente asiÃ¡tico.
+- [Asian Movie Pulse](https://asianmoviepulse.com/) — Críticas, entrevistas y cobertura de festivales y películas de todo el continente asiático.
 
-- [LatAm Cinema](https://www.latamcinema.com/) â€” InformaciÃ³n profesional sobre producciÃ³n, distribuciÃ³n, financiaciÃ³n y festivales latinoamericanos.
+- [LatAm Cinema](https://www.latamcinema.com/) — Información profesional sobre producción, distribución, financiación y festivales latinoamericanos.
 
-- [Otros Cines](https://www.otroscines.com/) â€” CrÃ­tica y actualidad sobre cine argentino, internacional, independiente y de festivales.
+- [Otros Cines](https://www.otroscines.com/) — Crítica y actualidad sobre cine argentino, internacional, independiente y de festivales.
 
-- [Screen Daily](https://www.screendaily.com/) â€” InformaciÃ³n profesional sobre la industria cinematogrÃ¡fica, mercados, producciÃ³n y distribuciÃ³n mundial.
+- [Screen Daily](https://www.screendaily.com/) — Información profesional sobre la industria cinematográfica, mercados, producción y distribución mundial.
 
-- [The Film Stage](https://thefilmstage.com/) â€” CrÃ­ticas, entrevistas, noticias y cobertura especializada en cine independiente e internacional.
+- [The Film Stage](https://thefilmstage.com/) — Críticas, entrevistas, noticias y cobertura especializada en cine independiente e internacional.
 
 ## PRENSA ESCRITA
 
-- [Sight and Sound](https://www.bfi.org.uk/sight-and-sound) â€” Revista del British Film Institute dedicada a la crÃ­tica, historia y cultura cinematogrÃ¡fica mundial.
+- [Sight and Sound](https://www.bfi.org.uk/sight-and-sound) — Revista del British Film Institute dedicada a la crítica, historia y cultura cinematográfica mundial.
 
-- [Cahiers du CinÃ©ma](https://www.cahiersducinema.com/) â€” HistÃ³rica revista francesa de crÃ­tica, teorÃ­a cinematogrÃ¡fica y cine de autor.
+- [Cahiers du Cinéma](https://www.cahiersducinema.com/) — Histórica revista francesa de crítica, teoría cinematográfica y cine de autor.
 
-- [Positif](https://revue-positif.com/) â€” PublicaciÃ³n francesa mensual con estudios, entrevistas y dossiers sobre cine contemporÃ¡neo y clÃ¡sico.
+- [Positif](https://revue-positif.com/) — Publicación francesa mensual con estudios, entrevistas y dossiers sobre cine contemporáneo y clásico.
 
-- [CaimÃ¡n Cuadernos de Cine](https://www.caimanediciones.es/) â€” Revista espaÃ±ola de crÃ­tica, reflexiÃ³n audiovisual, festivales e historia del cine.
+- [Caimán Cuadernos de Cine](https://www.caimanediciones.es/) — Revista española de crítica, reflexión audiovisual, festivales e historia del cine.
 
-- [American Cinematographer](https://theasc.com/american-cinematographer/) â€” Revista especializada en direcciÃ³n de fotografÃ­a, iluminaciÃ³n, cÃ¡maras y tÃ©cnicas de rodaje.
+- [American Cinematographer](https://theasc.com/american-cinematographer/) — Revista especializada en dirección de fotografía, iluminación, cámaras y técnicas de rodaje.
 
-- [Cineaste](https://www.cineaste.com/) â€” Revista independiente sobre estÃ©tica, polÃ­tica, historia y dimensiÃ³n social del cine.
+- [Cineaste](https://www.cineaste.com/) — Revista independiente sobre estética, política, historia y dimensión social del cine.
 
-- [Cinema Scope](https://cinema-scope.com/) â€” PublicaciÃ³n canadiense dedicada al cine de autor, los festivales y la crÃ­tica internacional.
+- [Cinema Scope](https://cinema-scope.com/) — Publicación canadiense dedicada al cine de autor, los festivales y la crítica internacional.
 
-- [Kinema Junpo](https://kinejun.jp/) â€” HistÃ³rica revista japonesa con crÃ­tica, informaciÃ³n industrial, entrevistas y clasificaciones cinematogrÃ¡ficas.
+- [Kinema Junpo](https://kinejun.jp/) — Histórica revista japonesa con crítica, información industrial, entrevistas y clasificaciones cinematográficas.
 
-- [Filmfare](https://www.filmfare.com/magazine) â€” Revista india centrada en Bollywood, cinematografÃ­as regionales, entrevistas y premios.
+- [Filmfare](https://www.filmfare.com/magazine) — Revista india centrada en Bollywood, cinematografías regionales, entrevistas y premios.
 
-- [Journal of African Cinemas](https://www.intellectbooks.com/journal-of-african-cinemas) â€” PublicaciÃ³n acadÃ©mica especializada en pelÃ­culas, industrias y culturas cinematogrÃ¡ficas africanas.
+- [Journal of African Cinemas](https://www.intellectbooks.com/journal-of-african-cinemas) — Publicación académica especializada en películas, industrias y culturas cinematográficas africanas.
 
 # RSS
 
-He localizado siete feeds de alta calidad sobre cine. La selecciÃ³n combina instituciones cinematogrÃ¡ficas, investigaciÃ³n acadÃ©mica, crÃ­tica, festivales, restauraciÃ³n e informaciÃ³n diaria en espaÃ±ol.
+He localizado siete feeds de alta calidad sobre cine. La selección combina instituciones cinematográficas, investigación académica, crítica, festivales, restauración e información diaria en español.
 
-## InvestigaciÃ³n RSS â€” Cine
+## Investigación RSS — Cine
 
-**Fecha de verificaciÃ³n:** 1 de agosto de 2026\
-**Resultado:** 7 feeds pÃºblicos seleccionados: 2 institucionales, 1 cientÃ­fico y 4 especializados.
+**Fecha de verificación:** 1 de agosto de 2026\
+**Resultado:** 7 feeds públicos seleccionados: 2 institucionales, 1 científico y 4 especializados.
 
 > [!note]\
-> Se ha priorizado la informaciÃ³n cinematogrÃ¡fica sobre los canales generales de entretenimiento. No se incluyen feeds de series y televisiÃ³n salvo cuando comparten inevitablemente el canal con cine.
+> Se ha priorizado la información cinematográfica sobre los canales generales de entretenimiento. No se incluyen feeds de series y televisión salvo cuando comparten inevitablemente el canal con cine.
 
 ## Tabla resumen
 
-|CategorÃ­a|Nombre|OrganizaciÃ³n|Idioma|Tipo|Cobertura|Frecuencia|Estado|
+|Categoría|Nombre|Organización|Idioma|Tipo|Cobertura|Frecuencia|Estado|
 |---|---|---|---|---|---|---|---|
-|ðŸŸ¢ Institucional|Sundance Institute|Sundance Institute|InglÃ©s|Festivales, artistas y producciÃ³n|EE. UU. / mundial|Varias por semana|**Activo**|
-|ðŸŸ¢ Institucional|Film Comment|Film at Lincoln Center|InglÃ©s|CrÃ­tica, entrevistas y festivales|Mundial|Semanal|**Activo**|
-|ðŸ”µ CientÃ­fico|Screen â€” Advance Articles|Oxford University Press / University of Glasgow|InglÃ©s|InvestigaciÃ³n cinematogrÃ¡fica|Mundial|Continua|**Activo**|
-|ðŸŸ  Especializado|Criterion â€” The Current|The Criterion Collection|InglÃ©s|Ensayos, restauraciÃ³n y cine clÃ¡sico|Mundial|Diaria-semanal|**Activo**|
-|ðŸŸ  Especializado|Filmdienst â€” Aktuelle Kinokritiken|Filmdienst|AlemÃ¡n|CrÃ­ticas de estrenos|Alemania|Semanal|**Activo**|
-|ðŸŸ  Especializado|The Film Stage|The Film Stage|InglÃ©s|Cine independiente y festivales|Mundial|Diaria|**Activo**|
-|ðŸŸ  Actualidad|Espinof|Webedia EspaÃ±a|EspaÃ±ol|Cine, estrenos y crÃ­tica|EspaÃ±a / mundial|Varias al dÃ­a|**Activo**|
+|🟢 Institucional|Sundance Institute|Sundance Institute|Inglés|Festivales, artistas y producción|EE. UU. / mundial|Varias por semana|**Activo**|
+|🟢 Institucional|Film Comment|Film at Lincoln Center|Inglés|Crítica, entrevistas y festivales|Mundial|Semanal|**Activo**|
+|🔵 Científico|Screen — Advance Articles|Oxford University Press / University of Glasgow|Inglés|Investigación cinematográfica|Mundial|Continua|**Activo**|
+|🟠 Especializado|Criterion — The Current|The Criterion Collection|Inglés|Ensayos, restauración y cine clásico|Mundial|Diaria-semanal|**Activo**|
+|🟠 Especializado|Filmdienst — Aktuelle Kinokritiken|Filmdienst|Alemán|Críticas de estrenos|Alemania|Semanal|**Activo**|
+|🟠 Especializado|The Film Stage|The Film Stage|Inglés|Cine independiente y festivales|Mundial|Diaria|**Activo**|
+|🟠 Actualidad|Espinof|Webedia España|Español|Cine, estrenos y crítica|España / mundial|Varias al día|**Activo**|
 
-## ðŸŸ¢ RSS oficiales e institucionales
+## 🟢 RSS oficiales e institucionales
 
 ### 1. Sundance Institute
 
-**OrganizaciÃ³n:** Sundance Institute\
-**CategorÃ­a:** InstituciÃ³n cinematogrÃ¡fica y festival\
+**Organización:** Sundance Institute\
+**Categoría:** Institución cinematográfica y festival\
 **URL RSS:** <https://www.sundance.org/feed/>\
 **Formato:** RSS/XML, `application/rss+xml`\
-**Idioma:** InglÃ©s\
-**Cobertura:** Estados Unidos y Ã¡mbito internacional\
-**Tipo de contenido:** Festival de Sundance, laboratorios, producciÃ³n independiente, cineastas, convocatorias y programas artÃ­sticos\
+**Idioma:** Inglés\
+**Cobertura:** Estados Unidos y ámbito internacional\
+**Tipo de contenido:** Festival de Sundance, laboratorios, producción independiente, cineastas, convocatorias y programas artísticos\
 **Frecuencia aproximada:** Varias publicaciones por semana\
 **Estado:** **Activo**
 
-El endpoint oficial devuelve contenido RSS. Sundance mantenÃ­a publicaciones recientes los dÃ­as 29, 30 y 31 de julio de 2026, confirmando que el canal continÃºa actualizado.
+El endpoint oficial devuelve contenido RSS. Sundance mantenía publicaciones recientes los días 29, 30 y 31 de julio de 2026, confirmando que el canal continúa actualizado.
 
 **Observaciones:** Es la mejor fuente institucional para cine independiente estadounidense, nuevos realizadores, programas de desarrollo y actividad del festival.
 
@@ -474,41 +474,41 @@ El endpoint oficial devuelve contenido RSS. Sundance mantenÃ­a publicaciones r
 
 ### 2. Film Comment
 
-**OrganizaciÃ³n:** Film at Lincoln Center\
-**CategorÃ­a:** Revista cinematogrÃ¡fica institucional\
+**Organización:** Film at Lincoln Center\
+**Categoría:** Revista cinematográfica institucional\
 **URL RSS:** <https://www.filmcomment.com/feed/>\
 **Formato:** RSS/XML, `application/rss+xml`\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** CrÃ­tica, ensayos, entrevistas, festivales, retrospectivas y podcast\
+**Tipo de contenido:** Crítica, ensayos, entrevistas, festivales, retrospectivas y podcast\
 **Frecuencia aproximada:** Semanal, con periodos de mayor actividad\
 **Estado:** **Activo**
 
-Film Comment es una publicaciÃ³n de Film at Lincoln Center. Su endpoint devuelve RSS y la revista mantenÃ­a publicaciones y episodios recientes durante julio de 2026.
+Film Comment es una publicación de Film at Lincoln Center. Su endpoint devuelve RSS y la revista mantenía publicaciones y episodios recientes durante julio de 2026.
 
-**Observaciones:** Presenta un enfoque mÃ¡s analÃ­tico que los medios de actualidad. Es especialmente Ãºtil para cine de autor, historia del cine, festivales internacionales y crÃ­tica extensa.
+**Observaciones:** Presenta un enfoque más analítico que los medios de actualidad. Es especialmente útil para cine de autor, historia del cine, festivales internacionales y crítica extensa.
 
 ---
 
-## ðŸ”µ RSS cientÃ­ficos
+## 🔵 RSS científicos
 
-### 3. Screen â€” Advance Articles
+### 3. Screen — Advance Articles
 
-**OrganizaciÃ³n:** Oxford University Press / University of Glasgow\
-**CategorÃ­a:** Revista cientÃ­fica de estudios cinematogrÃ¡ficos\
+**Organización:** Oxford University Press / University of Glasgow\
+**Categoría:** Revista científica de estudios cinematográficos\
 **URL RSS:** <https://academic.oup.com/rss/site_5512/advanceAccess_3373.xml>\
 **Formato:** RSS/XML, `text/xml`\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** ArtÃ­culos acadÃ©micos sobre cine, medios audiovisuales, teorÃ­a, historia, estÃ©tica y cultura visual\
+**Tipo de contenido:** Artículos académicos sobre cine, medios audiovisuales, teoría, historia, estética y cultura visual\
 **Frecuencia aproximada:** Continua\
 **Estado:** **Activo**
 
-La pÃ¡gina oficial de la revista ofrece canales RSS para artÃ­culos anticipados y nÃºmeros recientes. El endpoint de publicaciones anticipadas devuelve XML, y la revista mantenÃ­a artÃ­culos y un nÃºmero correspondiente al verano de 2026. ([OUP Academic](https://academic.oup.com/screen/issue/66/1 "Volume 66 Issue 1 | Screen | Oxford Academic"))
+La página oficial de la revista ofrece canales RSS para artículos anticipados y números recientes. El endpoint de publicaciones anticipadas devuelve XML, y la revista mantenía artículos y un número correspondiente al verano de 2026. ([OUP Academic](https://academic.oup.com/screen/issue/66/1 "Volume 66 Issue 1 | Screen | Oxford Academic"))
 
-**Observaciones:** Es la fuente acadÃ©mica prioritaria de la selecciÃ³n. Algunos textos completos pueden requerir suscripciÃ³n, pero tÃ­tulos, autores y resÃºmenes se distribuyen pÃºblicamente.
+**Observaciones:** Es la fuente académica prioritaria de la selección. Algunos textos completos pueden requerir suscripción, pero títulos, autores y resúmenes se distribuyen públicamente.
 
-**Filtros Ãºtiles:**
+**Filtros útiles:**
 
 ```text
 cinema
@@ -525,91 +525,91 @@ moving image
 
 ---
 
-## ðŸŸ  RSS especializados
+## 🟠 RSS especializados
 
-### 4. Criterion â€” The Current
+### 4. Criterion — The Current
 
-**OrganizaciÃ³n:** The Criterion Collection\
-**CategorÃ­a:** PublicaciÃ³n especializada oficial\
+**Organización:** The Criterion Collection\
+**Categoría:** Publicación especializada oficial\
 **URL RSS:** <https://www.criterion.com/feeds/the-daily>\
 **Formato:** RSS/XML, `application/xml`\
-**Idioma:** InglÃ©s\
+**Idioma:** Inglés\
 **Cobertura:** Mundial\
-**Tipo de contenido:** Ensayos, entrevistas, cine clÃ¡sico, restauraciones, ediciones domÃ©sticas y programaciÃ³n de repertorio\
+**Tipo de contenido:** Ensayos, entrevistas, cine clásico, restauraciones, ediciones domésticas y programación de repertorio\
 **Frecuencia aproximada:** Diaria o varias veces por semana\
 **Estado:** **Activo**
 
-La secciÃ³n oficial The Current enlaza expresamente su feed RSS. El endpoint devuelve XML y la publicaciÃ³n incorporaba nuevas entradas los dÃ­as 28, 29, 30 y 31 de julio de 2026. ([The Criterion Collection](https://www.criterion.com/current/posts/9017-remembering-rob-reiner?srsltid=AfmBOoo_lknTXbC5-e9nfGcIs1AMDSvmNvVCBNcR-HyT3_Q-agA2E_jZ "Remembering Rob Reiner | Current | The Criterion Collection"))
+La sección oficial The Current enlaza expresamente su feed RSS. El endpoint devuelve XML y la publicación incorporaba nuevas entradas los días 28, 29, 30 y 31 de julio de 2026. ([The Criterion Collection](https://www.criterion.com/current/posts/9017-remembering-rob-reiner?srsltid=AfmBOoo_lknTXbC5-e9nfGcIs1AMDSvmNvVCBNcR-HyT3_Q-agA2E_jZ "Remembering Rob Reiner | Current | The Criterion Collection"))
 
-**Observaciones:** Muy recomendable para restauraciÃ³n, preservaciÃ³n, cine clÃ¡sico, cine de autor y contexto histÃ³rico. Algunos artÃ­culos estÃ¡n relacionados con tÃ­tulos editados o programados por Criterion.
+**Observaciones:** Muy recomendable para restauración, preservación, cine clásico, cine de autor y contexto histórico. Algunos artículos están relacionados con títulos editados o programados por Criterion.
 
 ---
 
-### 5. Filmdienst â€” Aktuelle Kinokritiken
+### 5. Filmdienst — Aktuelle Kinokritiken
 
-**OrganizaciÃ³n:** Filmdienst\
-**CategorÃ­a:** Revista cinematogrÃ¡fica especializada\
+**Organización:** Filmdienst\
+**Categoría:** Revista cinematográfica especializada\
 **URL RSS:** <https://www.filmdienst.de/rss/aktuelle-kinokritiken>\
 **Formato:** RSS/XML, `application/xml`\
-**Idioma:** AlemÃ¡n\
+**Idioma:** Alemán\
 **Cobertura:** Alemania, con cine internacional\
-**Tipo de contenido:** CrÃ­ticas de pelÃ­culas estrenadas en salas\
+**Tipo de contenido:** Críticas de películas estrenadas en salas\
 **Frecuencia aproximada:** Semanal, siguiendo el calendario de estrenos\
 **Estado:** **Activo**
 
-Filmdienst mantiene un directorio oficial con varios canales RSS. El feed de crÃ­ticas cinematogrÃ¡ficas devuelve XML y la web mostraba pelÃ­culas con estrenos del 30 de julio y el 6 de agosto de 2026. ([Filmdienst](https://www.filmdienst.de/rss "RSS Feeds | Filmdienst"))
+Filmdienst mantiene un directorio oficial con varios canales RSS. El feed de críticas cinematográficas devuelve XML y la web mostraba películas con estrenos del 30 de julio y el 6 de agosto de 2026. ([Filmdienst](https://www.filmdienst.de/rss "RSS Feeds | Filmdienst"))
 
-**Observaciones:** Es un canal limpio y muy especÃ­fico: contiene crÃ­tica cinematogrÃ¡fica de estrenos y evita gran parte del ruido de televisiÃ³n, celebridades y entretenimiento general.
+**Observaciones:** Es un canal limpio y muy específico: contiene crítica cinematográfica de estrenos y evita gran parte del ruido de televisión, celebridades y entretenimiento general.
 
 ---
 
 ### 6. The Film Stage
 
-**OrganizaciÃ³n:** The Film Stage\
-**CategorÃ­a:** Medio cinematogrÃ¡fico independiente\
+**Organización:** The Film Stage\
+**Categoría:** Medio cinematográfico independiente\
 **URL RSS:** <https://feeds.feedburner.com/thefilmstage>\
 **Formato:** RSS mediante FeedBurner\
-**Idioma:** InglÃ©s\
-**Cobertura:** Mundial, con especial atenciÃ³n a Estados Unidos\
-**Tipo de contenido:** Noticias, crÃ­ticas, entrevistas, festivales, restauraciones, trÃ¡ilers y cine independiente\
+**Idioma:** Inglés\
+**Cobertura:** Mundial, con especial atención a Estados Unidos\
+**Tipo de contenido:** Noticias, críticas, entrevistas, festivales, restauraciones, tráilers y cine independiente\
 **Frecuencia aproximada:** Diaria\
 **Estado:** **Activo**
 
-The Film Stage publicÃ³ oficialmente la direcciÃ³n del feed y el endpoint continÃºa respondiendo. La web mantenÃ­a abundante contenido de 2026 sobre festivales, estrenos, cine internacional y restauraciones. ([Film Stage](https://thefilmstage.com/new-theme-rss-feed/ "New Theme + RSS Feed"))
+The Film Stage publicó oficialmente la dirección del feed y el endpoint continúa respondiendo. La web mantenía abundante contenido de 2026 sobre festivales, estrenos, cine internacional y restauraciones. ([Film Stage](https://thefilmstage.com/new-theme-rss-feed/ "New Theme + RSS Feed"))
 
-**Observaciones:** El canal utiliza una URL antigua de FeedBurner, pero sigue siendo el endpoint anunciado por la propia publicaciÃ³n. Tiene una buena proporciÃ³n de cine independiente, repertorio y festivales frente a entretenimiento comercial.
+**Observaciones:** El canal utiliza una URL antigua de FeedBurner, pero sigue siendo el endpoint anunciado por la propia publicación. Tiene una buena proporción de cine independiente, repertorio y festivales frente a entretenimiento comercial.
 
 ---
 
 ### 7. Espinof
 
-**OrganizaciÃ³n:** Webedia EspaÃ±a\
-**CategorÃ­a:** Medio de actualidad cinematogrÃ¡fica\
+**Organización:** Webedia España\
+**Categoría:** Medio de actualidad cinematográfica\
 **URL RSS:** <https://www.espinof.com/index.xml>\
 **Formato:** RSS 2.0\
-**Idioma:** EspaÃ±ol\
-**Cobertura:** EspaÃ±a y Ã¡mbito internacional\
-**Tipo de contenido:** Estrenos, crÃ­ticas, pelÃ­culas, premios, rodajes, plataformas y entretenimiento audiovisual\
-**Frecuencia aproximada:** Varias publicaciones al dÃ­a\
+**Idioma:** Español\
+**Cobertura:** España y ámbito internacional\
+**Tipo de contenido:** Estrenos, críticas, películas, premios, rodajes, plataformas y entretenimiento audiovisual\
+**Frecuencia aproximada:** Varias publicaciones al día\
 **Estado:** **Activo**
 
-Espinof identifica oficialmente su canal RSS 2.0 y tambiÃ©n ofrece una versiÃ³n Atom. El endpoint RSS responde correctamente y la web mantenÃ­a numerosas publicaciones recientes durante julio de 2026. ([Espinof](https://www.espinof.com/espinof/suscribete-a-blogdecine "SuscrÃ­bete a Blogdecine"))
+Espinof identifica oficialmente su canal RSS 2.0 y también ofrece una versión Atom. El endpoint RSS responde correctamente y la web mantenía numerosas publicaciones recientes durante julio de 2026. ([Espinof](https://www.espinof.com/espinof/suscribete-a-blogdecine "Suscríbete a Blogdecine"))
 
-**Observaciones:** El canal mezcla cine, series, televisiÃ³n, anime y franquicias. Para convertirlo en un feed estrictamente cinematogrÃ¡fico deben aplicarse filtros.
+**Observaciones:** El canal mezcla cine, series, televisión, anime y franquicias. Para convertirlo en un feed estrictamente cinematográfico deben aplicarse filtros.
 
-**VersiÃ³n Atom:** <https://www.espinof.com/atom.xml>
+**Versión Atom:** <https://www.espinof.com/atom.xml>
 
-## Organizaciones relevantes sin RSS pÃºblico verificado
+## Organizaciones relevantes sin RSS público verificado
 
-|OrganizaciÃ³n|Resultado de la revisiÃ³n|Alternativa recomendada|
+|Organización|Resultado de la revisión|Alternativa recomendada|
 |---|---|---|
-|**Academia de las Artes y las Ciencias CinematogrÃ¡ficas de EspaÃ±a**|Mantiene noticias institucionales recientes y un boletÃ­n electrÃ³nico, pero no se confirmÃ³ un endpoint RSS pÃºblico y estable. ([academiadecine.com](https://www.academiadecine.com/ "Academia de cine"))|Sundance Institute para informaciÃ³n institucional y Espinof para actualidad espaÃ±ola|
-|**British Film Institute / Sight and Sound**|Sight and Sound mantiene contenidos y nÃºmeros recientes, pero no se verificÃ³ un feed RSS actual expuesto por la publicaciÃ³n. ([BFI](https://www.bfi.org.uk/sight-and-sound?utm_source=chatgpt.com "Sight and Sound"))|Film Comment + Criterion Current|
-|**Academy of Motion Picture Arts and Sciences**|El portal de los Ã“scar mantiene noticias y comunicados, pero no se confirmÃ³ una URL RSS pÃºblica actual. ([Oscars](https://www.oscars.org/news?utm_source=chatgpt.com "News | Oscars.org | Academy of Motion Picture Arts and ..."))|Sundance + Espinof|
-|**Cineuropa**|La web muestra una opciÃ³n RSS y publica diariamente sobre la industria europea, pero el endpoint localizado respondiÃ³ de manera intermitente durante la comprobaciÃ³n; no se incorpora al nÃºcleo validado. ([Cineuropa](https://cineuropa.org/?utm_source=chatgpt.com "Cineuropa - the best of european cinema"))|The Film Stage + seguimiento manual de Cineuropa|
-|**Senses of Cinema**|El feed conocido redirigÃ­a a una pÃ¡gina suspendida o no disponible durante la verificaciÃ³n. ([sensesofcinema.com](https://www.sensesofcinema.com/feed/ "Service Unavailable"))|Film Comment + Screen|
+|**Academia de las Artes y las Ciencias Cinematográficas de España**|Mantiene noticias institucionales recientes y un boletín electrónico, pero no se confirmó un endpoint RSS público y estable. ([academiadecine.com](https://www.academiadecine.com/ "Academia de cine"))|Sundance Institute para información institucional y Espinof para actualidad española|
+|**British Film Institute / Sight and Sound**|Sight and Sound mantiene contenidos y números recientes, pero no se verificó un feed RSS actual expuesto por la publicación. ([BFI](https://www.bfi.org.uk/sight-and-sound?utm_source=chatgpt.com "Sight and Sound"))|Film Comment + Criterion Current|
+|**Academy of Motion Picture Arts and Sciences**|El portal de los Óscar mantiene noticias y comunicados, pero no se confirmó una URL RSS pública actual. ([Oscars](https://www.oscars.org/news?utm_source=chatgpt.com "News | Oscars.org | Academy of Motion Picture Arts and ..."))|Sundance + Espinof|
+|**Cineuropa**|La web muestra una opción RSS y publica diariamente sobre la industria europea, pero el endpoint localizado respondió de manera intermitente durante la comprobación; no se incorpora al núcleo validado. ([Cineuropa](https://cineuropa.org/?utm_source=chatgpt.com "Cineuropa - the best of european cinema"))|The Film Stage + seguimiento manual de Cineuropa|
+|**Senses of Cinema**|El feed conocido redirigía a una página suspendida o no disponible durante la verificación. ([sensesofcinema.com](https://www.sensesofcinema.com/feed/ "Service Unavailable"))|Film Comment + Screen|
 
-## ConfiguraciÃ³n recomendada
+## Configuración recomendada
 
 ## Filtro general de cine
 
@@ -629,16 +629,16 @@ documental
 film festival
 festival de cine
 film criticism
-crÃ­tica cinematogrÃ¡fica
+crítica cinematográfica
 ```
 
-## Industria y producciÃ³n
+## Industria y producción
 
 ```text
 film production
-producciÃ³n cinematogrÃ¡fica
+producción cinematográfica
 co-production
-coproducciÃ³n
+coproducción
 film funding
 film distribution
 theatrical distribution
@@ -651,15 +651,15 @@ rodaje
 casting
 ```
 
-## Patrimonio, restauraciÃ³n e historia
+## Patrimonio, restauración e historia
 
 ```text
 film restoration
-restauraciÃ³n cinematogrÃ¡fica
+restauración cinematográfica
 film preservation
-archivo cinematogrÃ¡fico
+archivo cinematográfico
 film archive
-cinÃ©mathÃ¨que
+cinémathèque
 cinemateca
 repertory cinema
 silent film
@@ -669,26 +669,26 @@ cine mudo
 4K restoration
 ```
 
-## SelecciÃ³n mÃ­nima recomendada
+## Selección mínima recomendada
 
 Para una carpeta equilibrada de cinco canales:
 
-1. **Sundance Institute** â€” festivales, cineastas y programas institucionales.
+1. **Sundance Institute** — festivales, cineastas y programas institucionales.
 
-2. **Film Comment** â€” crÃ­tica y anÃ¡lisis.
+2. **Film Comment** — crítica y análisis.
 
-3. **Screen** â€” investigaciÃ³n acadÃ©mica.
+3. **Screen** — investigación académica.
 
-4. **Criterion Current** â€” restauraciÃ³n, historia y cine clÃ¡sico.
+4. **Criterion Current** — restauración, historia y cine clásico.
 
-5. **Espinof** â€” actualidad en espaÃ±ol, aplicando filtros.
+5. **Espinof** — actualidad en español, aplicando filtros.
 
 ## RSS recomendados para futuras ampliaciones
 
-- **Filmdienst â€” Kinotipp:** <https://www.filmdienst.de/rss/kinotipp> â€” selecciÃ³n editorial semanal de pelÃ­culas recomendadas.
+- **Filmdienst — Kinotipp:** <https://www.filmdienst.de/rss/kinotipp> — selección editorial semanal de películas recomendadas.
 
-- **Film Comment Podcast:** <https://feeds.transistor.fm/the-film-comment-podcast> â€” debates y cobertura de festivales en formato de audio.
+- **Film Comment Podcast:** <https://feeds.transistor.fm/the-film-comment-podcast> — debates y cobertura de festivales en formato de audio.
 
-- **Screen â€” Ãºltimo nÃºmero:** <https://academic.oup.com/rss/site_5512/3373.xml> â€” alternativa de menor frecuencia al feed de artÃ­culos anticipados.
+- **Screen — último número:** <https://academic.oup.com/rss/site_5512/3373.xml> — alternativa de menor frecuencia al feed de artículos anticipados.
 
-Una ampliaciÃ³n Ãºtil serÃ­a dividir el tema en tres Ã­ndices independientes: **cine espaÃ±ol**, **festivales internacionales** y **restauraciÃ³n cinematogrÃ¡fica**.
+Una ampliación útil sería dividir el tema en tres índices independientes: **cine español**, **festivales internacionales** y **restauración cinematográfica**.

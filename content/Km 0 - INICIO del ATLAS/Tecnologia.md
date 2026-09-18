@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-12T14:40:41.840Z
-modified: 2026-09-17T10:13:48.641Z
+modified: 2026-09-18T09:36:19.057Z
 ---
 
-#TecnologÃ­a
+#Tecnología
 
-### [[TecnologÃ­a IA]]
+### [[Tecnología IA]]

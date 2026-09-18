@@ -1,616 +1,616 @@
 ---
 publish: true
 created: 2026-08-06T05:18:58.867Z
-modified: 2026-09-17T10:14:21.976Z
+modified: 2026-09-18T09:36:38.339Z
 ---
 
-#Ãndices  #Naturaleza
+#Índices  #Naturaleza
 
-[![Archipelago with islands in a vast blue ocean. photo â€“ Free Blue sky Image on Unsplash](https://images.openai.com/static-rsc-4/vjOiJw_RhQwfYeGMEvQ5SWw6dJMJR1WX_mvnZDxEL_Bc61A404hw4CtokVan8el-oDeI1wyd-YLVCGQNrgnNl9OKEhljdbwFdd0mSE9Gykv9A2EZlihcGcne82dIXCMAuBpqxbnJNtq75TD0Zu1bhgXHb65bekv8DqE64KkxSTE?purpose=inline)](https://unsplash.com/photos/archipelago-with-islands-in-a-vast-blue-ocean-LK555YPgc58?utm_source=chatgpt.com)
-âœ… Enlaces comprobados y operativos el **21 de julio de 2026**. Algunos recursos pueden requerir registro, suscripciÃ³n o acceso institucional.
+[![Archipelago with islands in a vast blue ocean. photo – Free Blue sky Image on Unsplash](https://images.openai.com/static-rsc-4/vjOiJw_RhQwfYeGMEvQ5SWw6dJMJR1WX_mvnZDxEL_Bc61A404hw4CtokVan8el-oDeI1wyd-YLVCGQNrgnNl9OKEhljdbwFdd0mSE9Gykv9A2EZlihcGcne82dIXCMAuBpqxbnJNtq75TD0Zu1bhgXHb65bekv8DqE64KkxSTE?purpose=inline)](https://unsplash.com/photos/archipelago-with-islands-in-a-vast-blue-ocean-LK555YPgc58?utm_source=chatgpt.com)
+✅ Enlaces comprobados y operativos el **21 de julio de 2026**. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-## [WIKIPEDIA:  ArchipiÃ©lagos](https://es.wikipedia.org/wiki/Archipi%C3%A9lago?wprov=sfla1)
+## [WIKIPEDIA:  Archipiélagos](https://es.wikipedia.org/wiki/Archipi%C3%A9lago?wprov=sfla1)
 
 ## WEB
 
-- [NOAA Ocean Service: What is an Archipelago?](https://oceanservice.noaa.gov/facts/archipelago.html) â€” ExplicaciÃ³n cientÃ­fica introductoria sobre la formaciÃ³n y definiciÃ³n de los archipiÃ©lagos.
+- [NOAA Ocean Service: What is an Archipelago?](https://oceanservice.noaa.gov/facts/archipelago.html) — Explicación científica introductoria sobre la formación y definición de los archipiélagos.
 
-- [UNESCO World Heritage Centre](https://whc.unesco.org/) â€” InformaciÃ³n oficial sobre archipiÃ©lagos y territorios insulares declarados Patrimonio Mundial.
+- [UNESCO World Heritage Centre](https://whc.unesco.org/) — Información oficial sobre archipiélagos y territorios insulares declarados Patrimonio Mundial.
 
-- [UNESCO Small Islands and Indigenous Knowledge](https://www.unesco.org/en/links) â€” Programas dedicados a sostenibilidad, conocimiento local y comunidades insulares.
+- [UNESCO Small Islands and Indigenous Knowledge](https://www.unesco.org/en/links) — Programas dedicados a sostenibilidad, conocimiento local y comunidades insulares.
 
-- [Island Studies](https://islandstudies.com/) â€” Portal interdisciplinario sobre geografÃ­a, cultura, economÃ­a y sociedad de las islas.
+- [Island Studies](https://islandstudies.com/) — Portal interdisciplinario sobre geografía, cultura, economía y sociedad de las islas.
 
-- [Institute of Island Studies](https://islandstudies.com/institute-of-island-studies/) â€” Centro internacional de investigaciÃ³n especializado en territorios insulares.
+- [Institute of Island Studies](https://islandstudies.com/institute-of-island-studies/) — Centro internacional de investigación especializado en territorios insulares.
 
-- [Island Studies Journal](https://islandstudiesjournal.org/) â€” Revista acadÃ©mica abierta sobre islas, archipiÃ©lagos y espacios marÃ­timos.
+- [Island Studies Journal](https://islandstudiesjournal.org/) — Revista académica abierta sobre islas, archipiélagos y espacios marítimos.
 
-- [Global Island Partnership](https://www.glispa.org/) â€” Red internacional dedicada a la conservaciÃ³n y sostenibilidad de las islas.
+- [Global Island Partnership](https://www.glispa.org/) — Red internacional dedicada a la conservación y sostenibilidad de las islas.
 
-- [Island Conservation](https://www.islandconservation.org/) â€” OrganizaciÃ³n cientÃ­fica centrada en restaurar ecosistemas insulares amenazados.
+- [Island Conservation](https://www.islandconservation.org/) — Organización científica centrada en restaurar ecosistemas insulares amenazados.
 
-- [Alliance of Small Island States](https://www.aosis.org/) â€” CoaliciÃ³n internacional de pequeÃ±os Estados insulares y territorios costeros.
+- [Alliance of Small Island States](https://www.aosis.org/) — Coalición internacional de pequeños Estados insulares y territorios costeros.
 
-- [Small Island Developing States Network](https://www.un.org/ohrlls/content/small-island-developing-states) â€” InformaciÃ³n de Naciones Unidas sobre los pequeÃ±os Estados insulares en desarrollo.
+- [Small Island Developing States Network](https://www.un.org/ohrlls/content/small-island-developing-states) — Información de Naciones Unidas sobre los pequeños Estados insulares en desarrollo.
 
-- [UNEP Islands](https://www.unep.org/topics/ocean-seas-and-coasts/small-island-developing-states) â€” Recursos ambientales sobre biodiversidad, clima y contaminaciÃ³n en islas.
+- [UNEP Islands](https://www.unep.org/topics/ocean-seas-and-coasts/small-island-developing-states) — Recursos ambientales sobre biodiversidad, clima y contaminación en islas.
 
-- [Convention on Biological Diversity: Island Biodiversity](https://www.cbd.int/island/) â€” Programa internacional para proteger la diversidad biolÃ³gica insular.
+- [Convention on Biological Diversity: Island Biodiversity](https://www.cbd.int/island/) — Programa internacional para proteger la diversidad biológica insular.
 
-- [IUCN Island Conservation](https://www.iucn.org/our-work/region/oceania/our-work/island-conservation) â€” Proyectos de conservaciÃ³n y gestiÃ³n ambiental en archipiÃ©lagos.
+- [IUCN Island Conservation](https://www.iucn.org/our-work/region/oceania/our-work/island-conservation) — Proyectos de conservación y gestión ambiental en archipiélagos.
 
-- [Pacific Community](https://www.spc.int/) â€” OrganizaciÃ³n cientÃ­fica y tÃ©cnica de los paÃ­ses y territorios insulares del PacÃ­fico.
+- [Pacific Community](https://www.spc.int/) — Organización científica y técnica de los países y territorios insulares del Pacífico.
 
-- [Secretariat of the Pacific Regional Environment Programme](https://www.sprep.org/) â€” CooperaciÃ³n ambiental entre los archipiÃ©lagos de OceanÃ­a.
+- [Secretariat of the Pacific Regional Environment Programme](https://www.sprep.org/) — Cooperación ambiental entre los archipiélagos de Oceanía.
 
-- [Caribbean Community](https://caricom.org/) â€” InformaciÃ³n institucional sobre cooperaciÃ³n entre paÃ­ses y archipiÃ©lagos caribeÃ±os.
+- [Caribbean Community](https://caricom.org/) — Información institucional sobre cooperación entre países y archipiélagos caribeños.
 
-- [Organisation of Eastern Caribbean States](https://www.oecs.int/) â€” IntegraciÃ³n polÃ­tica, econÃ³mica y ambiental del Caribe oriental.
+- [Organisation of Eastern Caribbean States](https://www.oecs.int/) — Integración política, económica y ambiental del Caribe oriental.
 
-- [Indian Ocean Commission](https://www.commissionoceanindien.org/) â€” CooperaciÃ³n regional entre los archipiÃ©lagos del ocÃ©ano Ãndico occidental.
+- [Indian Ocean Commission](https://www.commissionoceanindien.org/) — Cooperación regional entre los archipiélagos del océano Índico occidental.
 
-- [Nordic Atlantic Cooperation](https://www.nora.fo/) â€” Desarrollo econÃ³mico y territorial de comunidades insulares del AtlÃ¡ntico Norte.
+- [Nordic Atlantic Cooperation](https://www.nora.fo/) — Desarrollo económico y territorial de comunidades insulares del Atlántico Norte.
 
-- [GalÃ¡pagos National Park](https://galapagos.gob.ec/) â€” Portal oficial de conservaciÃ³n y gestiÃ³n del archipiÃ©lago ecuatoriano.
+- [Galápagos National Park](https://galapagos.gob.ec/) — Portal oficial de conservación y gestión del archipiélago ecuatoriano.
 
-- [Charles Darwin Foundation](https://www.darwinfoundation.org/) â€” InvestigaciÃ³n cientÃ­fica y conservaciÃ³n de los ecosistemas de GalÃ¡pagos.
+- [Charles Darwin Foundation](https://www.darwinfoundation.org/) — Investigación científica y conservación de los ecosistemas de Galápagos.
 
-- [Great Barrier Reef Marine Park Authority](https://www2.gbrmpa.gov.au/) â€” GestiÃ³n oficial de las islas, arrecifes y aguas de la Gran Barrera australiana.
+- [Great Barrier Reef Marine Park Authority](https://www2.gbrmpa.gov.au/) — Gestión oficial de las islas, arrecifes y aguas de la Gran Barrera australiana.
 
-- [HawaiÊ»i Volcanoes National Park](https://www.nps.gov/havo/) â€” GeologÃ­a, biodiversidad e historia volcÃ¡nica del archipiÃ©lago hawaiano.
+- [Hawaiʻi Volcanoes National Park](https://www.nps.gov/havo/) — Geología, biodiversidad e historia volcánica del archipiélago hawaiano.
 
-- [Canary Islands Government](https://www.gobiernodecanarias.org/principal/) â€” InformaciÃ³n institucional, territorial y ambiental de las islas Canarias.
+- [Canary Islands Government](https://www.gobiernodecanarias.org/principal/) — Información institucional, territorial y ambiental de las islas Canarias.
 
-- [Azores Government](https://portal.azores.gov.pt/) â€” Portal oficial del archipiÃ©lago de las Azores.
+- [Azores Government](https://portal.azores.gov.pt/) — Portal oficial del archipiélago de las Azores.
 
-- [Government of the Faroe Islands](https://www.government.fo/) â€” InformaciÃ³n polÃ­tica, social y ambiental de las islas Feroe.
+- [Government of the Faroe Islands](https://www.government.fo/) — Información política, social y ambiental de las islas Feroe.
 
-- [Government of Greenland](https://naalakkersuisut.gl/en) â€” Recursos oficiales sobre el territorio insular y sus comunidades Ã¡rticas.
+- [Government of Greenland](https://naalakkersuisut.gl/en) — Recursos oficiales sobre el territorio insular y sus comunidades árticas.
 
-- [Maldives Marine Research Institute](https://www.marine.gov.mv/) â€” InvestigaciÃ³n sobre arrecifes, pesca y ecosistemas del archipiÃ©lago maldivo.
+- [Maldives Marine Research Institute](https://www.marine.gov.mv/) — Investigación sobre arrecifes, pesca y ecosistemas del archipiélago maldivo.
 
-- [Seychelles Islands Foundation](https://www.sif.sc/) â€” ConservaciÃ³n cientÃ­fica de Aldabra y VallÃ©e de Mai.
+- [Seychelles Islands Foundation](https://www.sif.sc/) — Conservación científica de Aldabra y Vallée de Mai.
 
-- [High Coastâ€“Kvarken Archipelago](https://highcoastkvarken.org/) â€” Portal del archipiÃ©lago transnacional protegido entre Finlandia y Suecia.
+- [High Coast–Kvarken Archipelago](https://highcoastkvarken.org/) — Portal del archipiélago transnacional protegido entre Finlandia y Suecia.
 
 ## YOUTUBE
 
-- [National Geographic](https://www.youtube.com/@NatGeo) â€” Documentales sobre islas, biodiversidad, volcanes y culturas marÃ­timas.
+- [National Geographic](https://www.youtube.com/@NatGeo) — Documentales sobre islas, biodiversidad, volcanes y culturas marítimas.
 
-- [Smithsonian Channel](https://www.youtube.com/@SmithsonianChannel) â€” Producciones cientÃ­ficas e histÃ³ricas sobre territorios insulares.
+- [Smithsonian Channel](https://www.youtube.com/@SmithsonianChannel) — Producciones científicas e históricas sobre territorios insulares.
 
-- [OceanX](https://www.youtube.com/@OceanX) â€” ExploraciÃ³n oceÃ¡nica y expediciones cientÃ­ficas en archipiÃ©lagos remotos.
+- [OceanX](https://www.youtube.com/@OceanX) — Exploración oceánica y expediciones científicas en archipiélagos remotos.
 
-- [UNESCO](https://www.youtube.com/@UNESCO) â€” Patrimonio natural y cultural de islas de todo el mundo.
+- [UNESCO](https://www.youtube.com/@UNESCO) — Patrimonio natural y cultural de islas de todo el mundo.
 
-- [Island Conservation](https://www.youtube.com/@IslandConservation) â€” RestauraciÃ³n ecolÃ³gica y protecciÃ³n de especies insulares.
+- [Island Conservation](https://www.youtube.com/@IslandConservation) — Restauración ecológica y protección de especies insulares.
 
-- [Charles Darwin Foundation](https://www.youtube.com/@charlesdarwinfoundation) â€” InvestigaciÃ³n y conservaciÃ³n del archipiÃ©lago de GalÃ¡pagos.
+- [Charles Darwin Foundation](https://www.youtube.com/@charlesdarwinfoundation) — Investigación y conservación del archipiélago de Galápagos.
 
-- [Pacific Community](https://www.youtube.com/@PacificCommunitySPC) â€” Ciencia, cultura y desarrollo de los archipiÃ©lagos del PacÃ­fico.
+- [Pacific Community](https://www.youtube.com/@PacificCommunitySPC) — Ciencia, cultura y desarrollo de los archipiélagos del Pacífico.
 
-- [SPREP](https://www.youtube.com/@SPREPchannel) â€” Cambio climÃ¡tico y conservaciÃ³n ambiental en OceanÃ­a.
+- [SPREP](https://www.youtube.com/@SPREPchannel) — Cambio climático y conservación ambiental en Oceanía.
 
-- [GalÃ¡pagos Conservancy](https://www.youtube.com/@GalapagosConservancy) â€” Proyectos de protecciÃ³n de fauna y hÃ¡bitats de GalÃ¡pagos.
+- [Galápagos Conservancy](https://www.youtube.com/@GalapagosConservancy) — Proyectos de protección de fauna y hábitats de Galápagos.
 
-- [BBC Earth](https://www.youtube.com/@bbcearth) â€” Documentales sobre evoluciÃ³n y vida silvestre en islas oceÃ¡nicas.
+- [BBC Earth](https://www.youtube.com/@bbcearth) — Documentales sobre evolución y vida silvestre en islas oceánicas.
 
 ## PODCAST
 
-- [Island Conversations](https://islandstudies.com/podcasts/) â€” Entrevistas acadÃ©micas sobre sociedades y territorios insulares.
+- [Island Conversations](https://islandstudies.com/podcasts/) — Entrevistas académicas sobre sociedades y territorios insulares.
 
-- [Small Islands Big Picture](https://www.islandinnovation.co/podcast/) â€” InnovaciÃ³n, sostenibilidad y desarrollo en comunidades isleÃ±as.
+- [Small Islands Big Picture](https://www.islandinnovation.co/podcast/) — Innovación, sostenibilidad y desarrollo en comunidades isleñas.
 
-- [The Island Review Podcast](https://www.islandreview.com/podcasts/) â€” Conversaciones sobre literatura, historia y cultura insular.
+- [The Island Review Podcast](https://www.islandreview.com/podcasts/) — Conversaciones sobre literatura, historia y cultura insular.
 
-- [GalÃ¡pagos Life](https://www.galapagos.org/newsroom/podcast/) â€” Ciencia y conservaciÃ³n del archipiÃ©lago ecuatoriano.
+- [Galápagos Life](https://www.galapagos.org/newsroom/podcast/) — Ciencia y conservación del archipiélago ecuatoriano.
 
-- [Pacific Beat](https://www.abc.net.au/pacific/programs/pacificbeat/) â€” Actualidad polÃ­tica, cultural y ambiental de las islas del PacÃ­fico.
+- [Pacific Beat](https://www.abc.net.au/pacific/programs/pacificbeat/) — Actualidad política, cultural y ambiental de las islas del Pacífico.
 
-- [The Conversation: Pacific Podcasts](https://theconversation.com/pacific/podcasts) â€” InvestigaciÃ³n acadÃ©mica y debates sobre OceanÃ­a insular.
+- [The Conversation: Pacific Podcasts](https://theconversation.com/pacific/podcasts) — Investigación académica y debates sobre Oceanía insular.
 
-- [Island Voices](https://www.bbc.co.uk/programmes/p02nrv7m) â€” Historias y testimonios de comunidades isleÃ±as.
+- [Island Voices](https://www.bbc.co.uk/programmes/p02nrv7m) — Historias y testimonios de comunidades isleñas.
 
-- [Caribbean Climate Calabash](https://www.caribbeanclimate.bz/blog/category/podcast/) â€” Cambio climÃ¡tico y resiliencia en el Caribe.
+- [Caribbean Climate Calabash](https://www.caribbeanclimate.bz/blog/category/podcast/) — Cambio climático y resiliencia en el Caribe.
 
-- [Faroe Islands Podcast](https://www.faroepodcast.com/) â€” Sociedad, paisajes y vida cotidiana en las islas Feroe.
+- [Faroe Islands Podcast](https://www.faroepodcast.com/) — Sociedad, paisajes y vida cotidiana en las islas Feroe.
 
-- [HawaiÊ»i Public Radio Podcasts](https://www.hawaiipublicradio.org/podcasts) â€” Historia, naturaleza y cultura del archipiÃ©lago hawaiano.
+- [Hawaiʻi Public Radio Podcasts](https://www.hawaiipublicradio.org/podcasts) — Historia, naturaleza y cultura del archipiélago hawaiano.
 
 ## LIBROS
 
-- [The Islands of the World â€” Charles Darwin](https://www.cambridge.org/core/books/voyage-of-the-beagle/8E77A827BAC0416F7A88021DB0051D0E) â€” Observaciones clÃ¡sicas sobre geologÃ­a, fauna y evoluciÃ³n en islas oceÃ¡nicas.
+- [The Islands of the World — Charles Darwin](https://www.cambridge.org/core/books/voyage-of-the-beagle/8E77A827BAC0416F7A88021DB0051D0E) — Observaciones clásicas sobre geología, fauna y evolución en islas oceánicas.
 
-- [The Song of the Dodo â€” David Quammen](https://www.simonandschuster.com/books/The-Song-of-the-Dodo/David-Quammen/9780684827124) â€” Historia cientÃ­fica de la biogeografÃ­a y la extinciÃ³n en islas.
+- [The Song of the Dodo — David Quammen](https://www.simonandschuster.com/books/The-Song-of-the-Dodo/David-Quammen/9780684827124) — Historia científica de la biogeografía y la extinción en islas.
 
-- [Island Life â€” Alfred Russel Wallace](https://www.cambridge.org/core/books/island-life/E7808BEDA2D00595C4DBB0E445D2DA94) â€” Obra fundacional sobre distribuciÃ³n geogrÃ¡fica y evoluciÃ³n de especies insulares.
+- [Island Life — Alfred Russel Wallace](https://www.cambridge.org/core/books/island-life/E7808BEDA2D00595C4DBB0E445D2DA94) — Obra fundacional sobre distribución geográfica y evolución de especies insulares.
 
-- [The Theory of Island Biogeography â€” Robert H. MacArthur y Edward O. Wilson](https://press.princeton.edu/books/paperback/9780691088365/the-theory-of-island-biogeography) â€” Texto fundamental para comprender la biodiversidad de las islas.
+- [The Theory of Island Biogeography — Robert H. MacArthur y Edward O. Wilson](https://press.princeton.edu/books/paperback/9780691088365/the-theory-of-island-biogeography) — Texto fundamental para comprender la biodiversidad de las islas.
 
-- [An Island Archaeology of the Early Cyclades â€” Cyprian Broodbank](https://www.cambridge.org/core/books/island-archaeology-of-the-early-cyclades/06693B69A853B027E4AEC26968655A03) â€” Estudio arqueolÃ³gico de las sociedades del archipiÃ©lago de las CÃ­cladas.
+- [An Island Archaeology of the Early Cyclades — Cyprian Broodbank](https://www.cambridge.org/core/books/island-archaeology-of-the-early-cyclades/06693B69A853B027E4AEC26968655A03) — Estudio arqueológico de las sociedades del archipiélago de las Cícladas.
 
-- [Atlas of Remote Islands â€” Judith Schalansky](https://www.penguinrandomhouse.com/books/305557/atlas-of-remote-islands-by-judith-schalansky/) â€” CartografÃ­a e historias de cincuenta islas remotas.
+- [Atlas of Remote Islands — Judith Schalansky](https://www.penguinrandomhouse.com/books/305557/atlas-of-remote-islands-by-judith-schalansky/) — Cartografía e historias de cincuenta islas remotas.
 
-- [Archipelago: A Reader â€” Monique Roffey, editora](https://www.peepaltreepress.com/books/archipelago) â€” AntologÃ­a literaria centrada en el Caribe insular.
+- [Archipelago: A Reader — Monique Roffey, editora](https://www.peepaltreepress.com/books/archipelago) — Antología literaria centrada en el Caribe insular.
 
-- [Islands of Abandonment â€” Cal Flyn](https://www.harpercollins.com/products/islands-of-abandonment-cal-flyn) â€” ExploraciÃ³n de lugares aislados recuperados por la naturaleza.
+- [Islands of Abandonment — Cal Flyn](https://www.harpercollins.com/products/islands-of-abandonment-cal-flyn) — Exploración de lugares aislados recuperados por la naturaleza.
 
-- [The Book of Islands â€” Philip Dodd y Ben Donald](https://www.accartbooks.com/uk/book/the-book-of-islands/) â€” Recorrido ilustrado por islas y archipiÃ©lagos del mundo.
+- [The Book of Islands — Philip Dodd y Ben Donald](https://www.accartbooks.com/uk/book/the-book-of-islands/) — Recorrido ilustrado por islas y archipiélagos del mundo.
 
-- [Island â€” Alistair MacLeod](https://www.penguinrandomhouse.com/books/106231/island-by-alistair-macleod/) â€” Relatos sobre identidad, memoria y vida insular en CanadÃ¡.
+- [Island — Alistair MacLeod](https://www.penguinrandomhouse.com/books/106231/island-by-alistair-macleod/) — Relatos sobre identidad, memoria y vida insular en Canadá.
 
-- [The Outermost House â€” Henry Beston](https://us.macmillan.com/books/9780805073688/theoutermosthouse/) â€” ClÃ¡sico de la literatura naturalista ambientado en una isla atlÃ¡ntica.
+- [The Outermost House — Henry Beston](https://us.macmillan.com/books/9780805073688/theoutermosthouse/) — Clásico de la literatura naturalista ambientado en una isla atlántica.
 
-- [The Great Island â€” John Lister-Kaye](https://canongate.co.uk/books/2480-the-great-island/) â€” Historia natural y cultural de una isla escocesa.
+- [The Great Island — John Lister-Kaye](https://canongate.co.uk/books/2480-the-great-island/) — Historia natural y cultural de una isla escocesa.
 
-- [The Island at the Center of the World â€” Russell Shorto](https://www.penguinrandomhouse.com/books/166340/the-island-at-the-center-of-the-world-by-russell-shorto/) â€” Historia de Manhattan durante la colonizaciÃ³n neerlandesa.
+- [The Island at the Center of the World — Russell Shorto](https://www.penguinrandomhouse.com/books/166340/the-island-at-the-center-of-the-world-by-russell-shorto/) — Historia de Manhattan durante la colonización neerlandesa.
 
-- [Pacific Worlds â€” Matt K. Matsuda](https://www.cambridge.org/core/books/pacific-worlds/2CF5A119D143598B38AC039C8BB19F4F) â€” Historia de las conexiones culturales y marÃ­timas del PacÃ­fico.
+- [Pacific Worlds — Matt K. Matsuda](https://www.cambridge.org/core/books/pacific-worlds/2CF5A119D143598B38AC039C8BB19F4F) — Historia de las conexiones culturales y marítimas del Pacífico.
 
-- [Sea of Islands â€” Epeli HauÊ»ofa](https://www.victoria.ac.nz/pasifika/our-publications/sea-of-islands) â€” Ensayo influyente sobre OceanÃ­a como red de pueblos conectados por el mar.
+- [Sea of Islands — Epeli Hauʻofa](https://www.victoria.ac.nz/pasifika/our-publications/sea-of-islands) — Ensayo influyente sobre Oceanía como red de pueblos conectados por el mar.
 
-- [The Happy Isles of Oceania â€” Paul Theroux](https://www.penguinrandomhouse.com/books/178631/the-happy-isles-of-oceania-by-paul-theroux/) â€” Viaje por numerosos archipiÃ©lagos del PacÃ­fico.
+- [The Happy Isles of Oceania — Paul Theroux](https://www.penguinrandomhouse.com/books/178631/the-happy-isles-of-oceania-by-paul-theroux/) — Viaje por numerosos archipiélagos del Pacífico.
 
-- [The Last Island â€” Adam Goodheart](https://www.hachettebookgroup.com/titles/adam-goodheart/the-last-island/9781565124689/) â€” Relato histÃ³rico y etnogrÃ¡fico sobre las islas AndamÃ¡n.
+- [The Last Island — Adam Goodheart](https://www.hachettebookgroup.com/titles/adam-goodheart/the-last-island/9781565124689/) — Relato histórico y etnográfico sobre las islas Andamán.
 
-- [A Pattern of Islands â€” Arthur Grimble](https://www.penguin.co.uk/books/35692/a-pattern-of-islands-by-arthur-grimble/9780140095173) â€” Memorias sobre las islas Gilbert, actuales Kiribati.
+- [A Pattern of Islands — Arthur Grimble](https://www.penguin.co.uk/books/35692/a-pattern-of-islands-by-arthur-grimble/9780140095173) — Memorias sobre las islas Gilbert, actuales Kiribati.
 
-- [The GalÃ¡pagos: A Natural History â€” Henry Nicholls](https://www.basicbooks.com/titles/henry-nicholls/the-galapagos/9780465035958/) â€” IntroducciÃ³n cientÃ­fica a la geologÃ­a y biodiversidad de GalÃ¡pagos.
+- [The Galápagos: A Natural History — Henry Nicholls](https://www.basicbooks.com/titles/henry-nicholls/the-galapagos/9780465035958/) — Introducción científica a la geología y biodiversidad de Galápagos.
 
-- [Island Futures â€” Mimi Sheller](https://www.dukeupress.edu/island-futures) â€” AnÃ¡lisis sobre movilidad, clima, colonialismo y soberanÃ­a insular.
+- [Island Futures — Mimi Sheller](https://www.dukeupress.edu/island-futures) — Análisis sobre movilidad, clima, colonialismo y soberanía insular.
 
 ## REVISTAS
 
-- [Island Studies Journal](https://islandstudiesjournal.org/) â€” PublicaciÃ³n interdisciplinaria dedicada especÃ­ficamente a islas y archipiÃ©lagos.
+- [Island Studies Journal](https://islandstudiesjournal.org/) — Publicación interdisciplinaria dedicada específicamente a islas y archipiélagos.
 
-- [Shima](https://www.shimajournal.org/) â€” Revista abierta sobre culturas, territorios y comunidades insulares.
+- [Shima](https://www.shimajournal.org/) — Revista abierta sobre culturas, territorios y comunidades insulares.
 
-- [Journal of Marine and Island Cultures](https://jmic.online/) â€” Estudios sobre cultura marÃ­tima, patrimonio y sociedades isleÃ±as.
+- [Journal of Marine and Island Cultures](https://jmic.online/) — Estudios sobre cultura marítima, patrimonio y sociedades isleñas.
 
-- [Small States & Territories](https://www.um.edu.mt/library/oar/handle/123456789/22018) â€” InvestigaciÃ³n sobre pequeÃ±os Estados y territorios insulares.
+- [Small States & Territories](https://www.um.edu.mt/library/oar/handle/123456789/22018) — Investigación sobre pequeños Estados y territorios insulares.
 
-- [Journal of Island & Coastal Archaeology](https://www.tandfonline.com/journals/uica20) â€” ArqueologÃ­a de islas, costas y paisajes marÃ­timos.
+- [Journal of Island & Coastal Archaeology](https://www.tandfonline.com/journals/uica20) — Arqueología de islas, costas y paisajes marítimos.
 
-- [Ocean & Coastal Management](https://www.sciencedirect.com/journal/ocean-and-coastal-management) â€” GestiÃ³n cientÃ­fica de costas, mares y territorios insulares.
+- [Ocean & Coastal Management](https://www.sciencedirect.com/journal/ocean-and-coastal-management) — Gestión científica de costas, mares y territorios insulares.
 
-- [Marine Policy](https://www.sciencedirect.com/journal/marine-policy) â€” Gobernanza oceÃ¡nica, recursos marÃ­timos y polÃ­ticas insulares.
+- [Marine Policy](https://www.sciencedirect.com/journal/marine-policy) — Gobernanza oceánica, recursos marítimos y políticas insulares.
 
-- [Pacific Studies](https://scholarsarchive.byu.edu/pacificstudies/) â€” Historia, antropologÃ­a y cultura de las islas del PacÃ­fico.
+- [Pacific Studies](https://scholarsarchive.byu.edu/pacificstudies/) — Historia, antropología y cultura de las islas del Pacífico.
 
-- [The Contemporary Pacific](https://muse.jhu.edu/journal/93) â€” AnÃ¡lisis acadÃ©mico de polÃ­tica y sociedad en OceanÃ­a.
+- [The Contemporary Pacific](https://muse.jhu.edu/journal/93) — Análisis académico de política y sociedad en Oceanía.
 
-- [Journal of the Indian Ocean Region](https://www.tandfonline.com/journals/rior20) â€” Estudios geopolÃ­ticos, econÃ³micos y culturales del Ãndico insular.
+- [Journal of the Indian Ocean Region](https://www.tandfonline.com/journals/rior20) — Estudios geopolíticos, económicos y culturales del Índico insular.
 
 ## MUSEOS
 
-- [Bishop Museum](https://www.bishopmuseum.org/) â€” Principal museo de historia natural y cultura de HawÃ¡i y el PacÃ­fico.
+- [Bishop Museum](https://www.bishopmuseum.org/) — Principal museo de historia natural y cultura de Hawái y el Pacífico.
 
-- [Museum of New Zealand Te Papa Tongarewa](https://www.tepapa.govt.nz/) â€” Colecciones sobre biodiversidad, pueblos maorÃ­es y culturas oceÃ¡nicas.
+- [Museum of New Zealand Te Papa Tongarewa](https://www.tepapa.govt.nz/) — Colecciones sobre biodiversidad, pueblos maoríes y culturas oceánicas.
 
-- [MusÃ©e de Tahiti et des ÃŽles](https://www.museetahiti.pf/) â€” Historia, arqueologÃ­a y patrimonio de la Polinesia Francesa.
+- [Musée de Tahiti et des Îles](https://www.museetahiti.pf/) — Historia, arqueología y patrimonio de la Polinesia Francesa.
 
-- [Fiji Museum](https://www.fijimuseum.org.fj/) â€” Cultura material e historia del archipiÃ©lago de Fiyi.
+- [Fiji Museum](https://www.fijimuseum.org.fj/) — Cultura material e historia del archipiélago de Fiyi.
 
-- [National Museum of the Philippines](https://www.nationalmuseum.gov.ph/) â€” ArqueologÃ­a, etnografÃ­a y biodiversidad del archipiÃ©lago filipino.
+- [National Museum of the Philippines](https://www.nationalmuseum.gov.ph/) — Arqueología, etnografía y biodiversidad del archipiélago filipino.
 
-- [National Museum of Indonesia](https://www.museumnasional.or.id/) â€” Patrimonio cultural y arqueolÃ³gico del mayor paÃ­s archipelÃ¡gico del mundo.
+- [National Museum of Indonesia](https://www.museumnasional.or.id/) — Patrimonio cultural y arqueológico del mayor país archipelágico del mundo.
 
-- [Museum of the Faroe Islands](https://www.savn.fo/) â€” Historia natural, arqueologÃ­a y vida tradicional feroesa.
+- [Museum of the Faroe Islands](https://www.savn.fo/) — Historia natural, arqueología y vida tradicional feroesa.
 
-- [National Museum of Iceland](https://www.thjodminjasafn.is/english/) â€” Historia del poblamiento y cultura material de Islandia.
+- [National Museum of Iceland](https://www.thjodminjasafn.is/english/) — Historia del poblamiento y cultura material de Islandia.
 
-- [Museo Canario](https://www.elmuseocanario.com/) â€” Referencia arqueolÃ³gica sobre las poblaciones indÃ­genas de Canarias.
+- [Museo Canario](https://www.elmuseocanario.com/) — Referencia arqueológica sobre las poblaciones indígenas de Canarias.
 
-- [Museo de la Naturaleza y ArqueologÃ­a](https://www.museosdetenerife.org/muna-museo-de-naturaleza-y-arqueologia/) â€” GeologÃ­a, biodiversidad y culturas prehispÃ¡nicas del archipiÃ©lago canario.
+- [Museo de la Naturaleza y Arqueología](https://www.museosdetenerife.org/muna-museo-de-naturaleza-y-arqueologia/) — Geología, biodiversidad y culturas prehispánicas del archipiélago canario.
 
 ## UNIVERSIDADES
 
-- [University of Prince Edward Island](https://www.upei.ca/) â€” Sede histÃ³rica del Institute of Island Studies y referente mundial en estudios insulares.
+- [University of Prince Edward Island](https://www.upei.ca/) — Sede histórica del Institute of Island Studies y referente mundial en estudios insulares.
 
-- [University of the South Pacific](https://www.usp.ac.fj/) â€” Universidad regional presente en numerosos Estados insulares de OceanÃ­a.
+- [University of the South Pacific](https://www.usp.ac.fj/) — Universidad regional presente en numerosos Estados insulares de Oceanía.
 
-- [University of HawaiÊ»i at MÄnoa](https://manoa.hawaii.edu/) â€” Centro destacado en oceanografÃ­a, vulcanologÃ­a y estudios del PacÃ­fico.
+- [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) — Centro destacado en oceanografía, vulcanología y estudios del Pacífico.
 
-- [University of the Faroe Islands](https://www.setur.fo/en/) â€” InvestigaciÃ³n sobre sociedad, lengua, naturaleza y desarrollo insular.
+- [University of the Faroe Islands](https://www.setur.fo/en/) — Investigación sobre sociedad, lengua, naturaleza y desarrollo insular.
 
-- [University of Malta](https://www.um.edu.mt/) â€” Referencia internacional en estudios sobre pequeÃ±as islas y Estados insulares.
+- [University of Malta](https://www.um.edu.mt/) — Referencia internacional en estudios sobre pequeñas islas y Estados insulares.
 
-- [University of the Azores](https://novoportal.uac.pt/en/) â€” InvestigaciÃ³n atlÃ¡ntica en biologÃ­a marina, vulcanologÃ­a y cultura isleÃ±a.
+- [University of the Azores](https://novoportal.uac.pt/en/) — Investigación atlántica en biología marina, vulcanología y cultura isleña.
 
-- [University of Iceland](https://english.hi.is/) â€” Estudios sobre geologÃ­a volcÃ¡nica, glaciologÃ­a y sociedades nÃ³rdicas.
+- [University of Iceland](https://english.hi.is/) — Estudios sobre geología volcánica, glaciología y sociedades nórdicas.
 
-- [University of the Philippines](https://up.edu.ph/) â€” Principal instituciÃ³n acadÃ©mica del archipiÃ©lago filipino.
+- [University of the Philippines](https://up.edu.ph/) — Principal institución académica del archipiélago filipino.
 
-- [University of the West Indies](https://www.uwi.edu/) â€” Universidad regional especializada en sociedades y ecosistemas del Caribe.
+- [University of the West Indies](https://www.uwi.edu/) — Universidad regional especializada en sociedades y ecosistemas del Caribe.
 
-- [University of Seychelles](https://unisey.ac.sc/) â€” InvestigaciÃ³n sobre economÃ­a azul, sostenibilidad y conservaciÃ³n insular.
+- [University of Seychelles](https://unisey.ac.sc/) — Investigación sobre economía azul, sostenibilidad y conservación insular.
 
 ## ASOCIACIONES
 
-- [International Small Islands Studies Association](https://isisa.org/) â€” Red acadÃ©mica internacional dedicada al estudio de las pequeÃ±as islas.
+- [International Small Islands Studies Association](https://isisa.org/) — Red académica internacional dedicada al estudio de las pequeñas islas.
 
-- [Global Island Partnership](https://www.glispa.org/) â€” Alianza mundial para la conservaciÃ³n y el desarrollo sostenible insular.
+- [Global Island Partnership](https://www.glispa.org/) — Alianza mundial para la conservación y el desarrollo sostenible insular.
 
-- [Alliance of Small Island States](https://www.aosis.org/) â€” CoaliciÃ³n diplomÃ¡tica de Estados insulares ante Naciones Unidas.
+- [Alliance of Small Island States](https://www.aosis.org/) — Coalición diplomática de Estados insulares ante Naciones Unidas.
 
-- [International Island Games Association](https://www.iiga.org/) â€” OrganizaciÃ³n que conecta a comunidades insulares mediante el deporte.
+- [International Island Games Association](https://www.iiga.org/) — Organización que conecta a comunidades insulares mediante el deporte.
 
-- [European Small Islands Federation](https://europeansmallislands.com/) â€” FederaciÃ³n que representa a pequeÃ±as comunidades insulares europeas.
+- [European Small Islands Federation](https://europeansmallislands.com/) — Federación que representa a pequeñas comunidades insulares europeas.
 
-- [Islands Commission of the International Geographical Union](https://islandstudies.com/igu-commission-on-islands/) â€” Red profesional para la investigaciÃ³n geogrÃ¡fica de las islas.
+- [Islands Commission of the International Geographical Union](https://islandstudies.com/igu-commission-on-islands/) — Red profesional para la investigación geográfica de las islas.
 
-- [Pacific Islands Association of Non-Governmental Organisations](https://www.piango.org/) â€” CoordinaciÃ³n regional de organizaciones civiles del PacÃ­fico.
+- [Pacific Islands Association of Non-Governmental Organisations](https://www.piango.org/) — Coordinación regional de organizaciones civiles del Pacífico.
 
-- [Caribbean Natural Resources Institute](https://canari.org/) â€” AsociaciÃ³n dedicada a la gestiÃ³n participativa de recursos naturales caribeÃ±os.
+- [Caribbean Natural Resources Institute](https://canari.org/) — Asociación dedicada a la gestión participativa de recursos naturales caribeños.
 
-- [Local2030 Islands Network](https://local2030.org/islands) â€” Red internacional para aplicar los Objetivos de Desarrollo Sostenible en islas.
+- [Local2030 Islands Network](https://local2030.org/islands) — Red internacional para aplicar los Objetivos de Desarrollo Sostenible en islas.
 
-- [European Islands Federation](https://europeansmallislands.com/) â€” CooperaciÃ³n entre asociaciones y comunidades de territorios insulares europeos.
+- [European Islands Federation](https://europeansmallislands.com/) — Cooperación entre asociaciones y comunidades de territorios insulares europeos.
 
 ## NEWSLETTER
 
-- [Island Innovation Newsletter](https://islandinnovation.co/newsletter/) â€” Noticias sobre sostenibilidad, tecnologÃ­a y economÃ­a en territorios insulares.
+- [Island Innovation Newsletter](https://islandinnovation.co/newsletter/) — Noticias sobre sostenibilidad, tecnología y economía en territorios insulares.
 
-- [Island Studies Newsletter](https://islandstudies.com/newsletter/) â€” Publicaciones, congresos y proyectos acadÃ©micos especializados.
+- [Island Studies Newsletter](https://islandstudies.com/newsletter/) — Publicaciones, congresos y proyectos académicos especializados.
 
-- [Global Island Partnership Newsletter](https://www.glispa.org/news/) â€” Actualizaciones sobre conservaciÃ³n y cooperaciÃ³n internacional.
+- [Global Island Partnership Newsletter](https://www.glispa.org/news/) — Actualizaciones sobre conservación y cooperación internacional.
 
-- [Island Conservation Newsletter](https://www.islandconservation.org/newsletter/) â€” Resultados de proyectos de restauraciÃ³n ecolÃ³gica insular.
+- [Island Conservation Newsletter](https://www.islandconservation.org/newsletter/) — Resultados de proyectos de restauración ecológica insular.
 
-- [AOSIS Newsletter](https://www.aosis.org/news/) â€” Diplomacia climÃ¡tica y prioridades de los pequeÃ±os Estados insulares.
+- [AOSIS Newsletter](https://www.aosis.org/news/) — Diplomacia climática y prioridades de los pequeños Estados insulares.
 
-- [Pacific Community Newsletter](https://www.spc.int/updates) â€” Ciencia, salud, pesca y desarrollo en el PacÃ­fico.
+- [Pacific Community Newsletter](https://www.spc.int/updates) — Ciencia, salud, pesca y desarrollo en el Pacífico.
 
-- [SPREP Newsletter](https://www.sprep.org/news) â€” InformaciÃ³n ambiental y climÃ¡tica de OceanÃ­a.
+- [SPREP Newsletter](https://www.sprep.org/news) — Información ambiental y climática de Oceanía.
 
-- [GalÃ¡pagos Conservancy Newsletter](https://www.galapagos.org/newsroom/) â€” Noticias sobre investigaciÃ³n y conservaciÃ³n de GalÃ¡pagos.
+- [Galápagos Conservancy Newsletter](https://www.galapagos.org/newsroom/) — Noticias sobre investigación y conservación de Galápagos.
 
-- [Caribbean Community Newsletter](https://caricom.org/news/) â€” Actualidad institucional, econÃ³mica y social del Caribe.
+- [Caribbean Community Newsletter](https://caricom.org/news/) — Actualidad institucional, económica y social del Caribe.
 
-- [Seychelles Islands Foundation Newsletter](https://www.sif.sc/newsroom) â€” ConservaciÃ³n y seguimiento cientÃ­fico de ecosistemas seychellenses.
+- [Seychelles Islands Foundation Newsletter](https://www.sif.sc/newsroom) — Conservación y seguimiento científico de ecosistemas seychellenses.
 
 ## TV
 
-- [Pacific Television](https://www.pacifictv.com/) â€” Contenidos audiovisuales sobre sociedades y culturas del PacÃ­fico insular.
+- [Pacific Television](https://www.pacifictv.com/) — Contenidos audiovisuales sobre sociedades y culturas del Pacífico insular.
 
-- [HawaiÊ»i News Now](https://www.hawaiinewsnow.com/) â€” InformaciÃ³n de actualidad del archipiÃ©lago hawaiano.
+- [Hawaiʻi News Now](https://www.hawaiinewsnow.com/) — Información de actualidad del archipiélago hawaiano.
 
-- [Fiji One](https://www.fijione.tv/) â€” TelevisiÃ³n nacional con noticias y programas culturales de Fiyi.
+- [Fiji One](https://www.fijione.tv/) — Televisión nacional con noticias y programas culturales de Fiyi.
 
-- [TVM Maldives](https://psmnews.mv/en/tvm) â€” Canal pÃºblico de informaciÃ³n y cultura de Maldivas.
+- [TVM Maldives](https://psmnews.mv/en/tvm) — Canal público de información y cultura de Maldivas.
 
-- [Seychelles Broadcasting Corporation TV](https://www.sbc.sc/) â€” TelevisiÃ³n pÃºblica del archipiÃ©lago de Seychelles.
+- [Seychelles Broadcasting Corporation TV](https://www.sbc.sc/) — Televisión pública del archipiélago de Seychelles.
 
-- [Television Jamaica](https://www.televisionjamaica.com/) â€” Noticias y programaciÃ³n cultural del Caribe insular.
+- [Television Jamaica](https://www.televisionjamaica.com/) — Noticias y programación cultural del Caribe insular.
 
-- [RÃšV Television](https://www.ruv.is/sjonvarp) â€” Servicio pÃºblico audiovisual de Islandia.
+- [RÚV Television](https://www.ruv.is/sjonvarp) — Servicio público audiovisual de Islandia.
 
-- [Kringvarp FÃ¸roya](https://kvf.fo/) â€” Radio y televisiÃ³n pÃºblica de las islas Feroe.
+- [Kringvarp Føroya](https://kvf.fo/) — Radio y televisión pública de las islas Feroe.
 
-- [Canal 4 Canarias](https://www.canal4tenerife.tv/) â€” InformaciÃ³n regional del archipiÃ©lago canario.
+- [Canal 4 Canarias](https://www.canal4tenerife.tv/) — Información regional del archipiélago canario.
 
-- [Azores TV](https://www.azorestv.com/) â€” Actualidad, cultura y paisajes de las islas Azores.
+- [Azores TV](https://www.azorestv.com/) — Actualidad, cultura y paisajes de las islas Azores.
 
 ## RADIO
 
-- [HawaiÊ»i Public Radio](https://www.hawaiipublicradio.org/) â€” InformaciÃ³n, cultura y debates del archipiÃ©lago hawaiano.
+- [Hawaiʻi Public Radio](https://www.hawaiipublicradio.org/) — Información, cultura y debates del archipiélago hawaiano.
 
-- [Radio New Zealand Pacific](https://www.rnz.co.nz/international/pacific-news) â€” Cobertura especializada de los paÃ­ses y archipiÃ©lagos del PacÃ­fico.
+- [Radio New Zealand Pacific](https://www.rnz.co.nz/international/pacific-news) — Cobertura especializada de los países y archipiélagos del Pacífico.
 
-- [Fiji Broadcasting Corporation](https://www.fbcnews.com.fj/radio/) â€” Red radiofÃ³nica pÃºblica de Fiyi.
+- [Fiji Broadcasting Corporation](https://www.fbcnews.com.fj/radio/) — Red radiofónica pública de Fiyi.
 
-- [Radio Kiribati](https://www.bpa.org.ki/) â€” Servicio pÃºblico de informaciÃ³n del archipiÃ©lago de Kiribati.
+- [Radio Kiribati](https://www.bpa.org.ki/) — Servicio público de información del archipiélago de Kiribati.
 
-- [Radio Cayman](https://www.radiocayman.gov.ky/) â€” Emisora pÃºblica de las islas CaimÃ¡n.
+- [Radio Cayman](https://www.radiocayman.gov.ky/) — Emisora pública de las islas Caimán.
 
-- [Radio Jamaica](https://radiojamaicanewsonline.com/) â€” Noticias y programaciÃ³n del Caribe anglÃ³fono.
+- [Radio Jamaica](https://radiojamaicanewsonline.com/) — Noticias y programación del Caribe anglófono.
 
-- [Seychelles Broadcasting Corporation Radio](https://www.sbc.sc/radio/) â€” Servicio radiofÃ³nico pÃºblico de Seychelles.
+- [Seychelles Broadcasting Corporation Radio](https://www.sbc.sc/radio/) — Servicio radiofónico público de Seychelles.
 
-- [RÃ¡s 1](https://www.ruv.is/ras1) â€” Emisora pÃºblica islandesa de noticias, cultura y sociedad.
+- [Rás 1](https://www.ruv.is/ras1) — Emisora pública islandesa de noticias, cultura y sociedad.
 
-- [Kringvarp FÃ¸roya Radio](https://kvf.fo/ras) â€” Radio pÃºblica en lengua feroesa.
+- [Kringvarp Føroya Radio](https://kvf.fo/ras) — Radio pública en lengua feroesa.
 
-- [RÃ¡dio e TelevisÃ£o de Portugal AÃ§ores](https://www.rtp.pt/acores/) â€” Servicio regional pÃºblico para las islas Azores.
+- [Rádio e Televisão de Portugal Açores](https://www.rtp.pt/acores/) — Servicio regional público para las islas Azores.
 
 ## PRENSA ONLINE
 
-- [Islands Business](https://islandsbusiness.com/) â€” Medio regional sobre polÃ­tica, economÃ­a y sociedad del PacÃ­fico.
+- [Islands Business](https://islandsbusiness.com/) — Medio regional sobre política, economía y sociedad del Pacífico.
 
-- [Pacific Islands News Association](https://pina.com.fj/) â€” Red informativa de medios de los paÃ­ses insulares del PacÃ­fico.
+- [Pacific Islands News Association](https://pina.com.fj/) — Red informativa de medios de los países insulares del Pacífico.
 
-- [Loop Pacific](https://www.looppacific.com/) â€” Noticias digitales de OceanÃ­a y sus archipiÃ©lagos.
+- [Loop Pacific](https://www.looppacific.com/) — Noticias digitales de Oceanía y sus archipiélagos.
 
-- [Caribbean News Global](https://www.caribbeannewsglobal.com/) â€” InformaciÃ³n polÃ­tica, empresarial y social del Caribe.
+- [Caribbean News Global](https://www.caribbeannewsglobal.com/) — Información política, empresarial y social del Caribe.
 
-- [The Canary News](https://thecanarynews.com/) â€” PublicaciÃ³n digital sobre actualidad y sociedad de Canarias.
+- [The Canary News](https://thecanarynews.com/) — Publicación digital sobre actualidad y sociedad de Canarias.
 
-- [Iceland Review](https://www.icelandreview.com/) â€” Noticias, cultura, viajes y medio ambiente de Islandia.
+- [Iceland Review](https://www.icelandreview.com/) — Noticias, cultura, viajes y medio ambiente de Islandia.
 
-- [Faroe Islands News](https://local.fo/) â€” InformaciÃ³n digital sobre sociedad y polÃ­tica feroesas.
+- [Faroe Islands News](https://local.fo/) — Información digital sobre sociedad y política feroesas.
 
-- [Maldives Independent](https://maldivesindependent.com/) â€” Periodismo digital sobre polÃ­tica y derechos en Maldivas.
+- [Maldives Independent](https://maldivesindependent.com/) — Periodismo digital sobre política y derechos en Maldivas.
 
-- [Seychelles News Agency](https://www.seychellesnewsagency.com/) â€” Agencia informativa oficial con cobertura nacional e internacional.
+- [Seychelles News Agency](https://www.seychellesnewsagency.com/) — Agencia informativa oficial con cobertura nacional e internacional.
 
-- [GalÃ¡pagos Digital](https://www.galapagosdigital.com/) â€” Actualidad ambiental, comunitaria y turÃ­stica del archipiÃ©lago ecuatoriano.
+- [Galápagos Digital](https://www.galapagosdigital.com/) — Actualidad ambiental, comunitaria y turística del archipiélago ecuatoriano.
 
 ## PRENSA ESCRITA
 
-- [Honolulu Star-Advertiser](https://www.staradvertiser.com/) â€” Principal diario impreso de HawÃ¡i.
+- [Honolulu Star-Advertiser](https://www.staradvertiser.com/) — Principal diario impreso de Hawái.
 
-- [Fiji Times](https://www.fijitimes.com.fj/) â€” PeriÃ³dico histÃ³rico de Fiyi y del PacÃ­fico Sur.
+- [Fiji Times](https://www.fijitimes.com.fj/) — Periódico histórico de Fiyi y del Pacífico Sur.
 
-- [The Royal Gazette](https://www.royalgazette.com/) â€” Diario de referencia de Bermudas.
+- [The Royal Gazette](https://www.royalgazette.com/) — Diario de referencia de Bermudas.
 
-- [The Nassau Guardian](https://www.thenassauguardian.com/) â€” PublicaciÃ³n histÃ³rica del archipiÃ©lago de las Bahamas.
+- [The Nassau Guardian](https://www.thenassauguardian.com/) — Publicación histórica del archipiélago de las Bahamas.
 
-- [The Jamaica Gleaner](https://jamaica-gleaner.com/) â€” Uno de los periÃ³dicos mÃ¡s antiguos e influyentes del Caribe.
+- [The Jamaica Gleaner](https://jamaica-gleaner.com/) — Uno de los periódicos más antiguos e influyentes del Caribe.
 
-- [Maldives Voice](https://maldivesvoice.mv/) â€” PublicaciÃ³n informativa del archipiÃ©lago maldivo.
+- [Maldives Voice](https://maldivesvoice.mv/) — Publicación informativa del archipiélago maldivo.
 
-- [Seychelles Nation](https://www.nation.sc/) â€” Diario nacional de Seychelles.
+- [Seychelles Nation](https://www.nation.sc/) — Diario nacional de Seychelles.
 
-- [MorgunblaÃ°iÃ°](https://www.mbl.is/) â€” PeriÃ³dico islandÃ©s de informaciÃ³n general.
+- [Morgunblaðið](https://www.mbl.is/) — Periódico islandés de información general.
 
-- [DimmalÃ¦tting](https://www.dimma.fo/) â€” HistÃ³rico periÃ³dico de las islas Feroe.
+- [Dimmalætting](https://www.dimma.fo/) — Histórico periódico de las islas Feroe.
 
-- [Diario de Avisos](https://diariodeavisos.elespanol.com/) â€” PublicaciÃ³n impresa de referencia en las islas Canarias.
+- [Diario de Avisos](https://diariodeavisos.elespanol.com/) — Publicación impresa de referencia en las islas Canarias.
 
 # RSS
 
 [![Visit Sasebo: 2026 Travel Guide for Sasebo, Nagasaki Prefecture | Expedia](https://images.openai.com/static-rsc-4/-Moe0z7uk7rY9s_5vI1B1GjHympDcqfJMajQX4OGJbijGOI14_Huh0XeeWh7lDWY5eVJvONEyyFXjOqc9nRipBVAUW9Wz2lQXYuJMKrTsm_gd_mU47Hcg6y6x45KDtOqiC90TX2-DPtgUwH1eKwg3ZU52F1dhHO9SDmOjIFNXxU?purpose=inline)](https://www.expedia.co.kr/Sasebo.dx9346?utm_source=chatgpt.com)
 
-> **RevisiÃ³n realizada el 29 de julio de 2026.**
-> SelecciÃ³n de feeds RSS y Atom para investigar archipiÃ©lagos desde la geografÃ­a, oceanografÃ­a, biodiversidad, cultura, sostenibilidad, volcanismo, terremotos, tsunamis, ciclones y actualidad.
+> **Revisión realizada el 29 de julio de 2026.**
+> Selección de feeds RSS y Atom para investigar archipiélagos desde la geografía, oceanografía, biodiversidad, cultura, sostenibilidad, volcanismo, terremotos, tsunamis, ciclones y actualidad.
 
-No existe un Ãºnico RSS universal dedicado a todos los archipiÃ©lagos. El sistema mÃ¡s completo consiste en combinar fuentes especializadas en estudios insulares con organismos cientÃ­ficos, ambientales y de vigilancia de riesgos naturales.
+No existe un único RSS universal dedicado a todos los archipiélagos. El sistema más completo consiste en combinar fuentes especializadas en estudios insulares con organismos científicos, ambientales y de vigilancia de riesgos naturales.
 
 ---
 
-## ðŸŸ¢ Fuentes especializadas en islas y archipiÃ©lagos
+## 🟢 Fuentes especializadas en islas y archipiélagos
 
-### 1. [Island Studies Journal â€” RSS](https://islandstudiesjournal.org/feed)
+### 1. [Island Studies Journal — RSS](https://islandstudiesjournal.org/feed)
 
-- Revista acadÃ©mica especializada en islas y archipiÃ©lagos.
-- Publica investigaciones sobre geografÃ­a, cultura, economÃ­a, polÃ­tica, migraciÃ³n, turismo, sostenibilidad y relaciones entre islas y continentes.
+- Revista académica especializada en islas y archipiélagos.
+- Publica investigaciones sobre geografía, cultura, economía, política, migración, turismo, sostenibilidad y relaciones entre islas y continentes.
 - Es de acceso abierto, interdisciplinaria y revisada por pares.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 - **Formato:** RSS/XML.
 
-Es la fuente acadÃ©mica mÃ¡s directamente relacionada con el tema investigado. ([Island Studies Journal][1])
+Es la fuente académica más directamente relacionada con el tema investigado. ([Island Studies Journal][1])
 
-### 2. [Mongabay â€” Islas](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&topic=islands)
+### 2. [Mongabay — Islas](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&topic=islands)
 
-- ConservaciÃ³n, especies endÃ©micas, comunidades insulares, Ã¡reas protegidas, restauraciÃ³n ecolÃ³gica y amenazas ambientales.
-- ReÃºne noticias relacionadas especÃ­ficamente con islas.
-- **Idioma:** inglÃ©s.
+- Conservación, especies endémicas, comunidades insulares, áreas protegidas, restauración ecológica y amenazas ambientales.
+- Reúne noticias relacionadas específicamente con islas.
+- **Idioma:** inglés.
 - **Formato:** RSS/XML.
 
-Mongabay mantiene cientos de feeds temÃ¡ticos y confirma que sus categorÃ­as y localizaciones disponen de canales RSS/XML. ([Mongabay News][2])
+Mongabay mantiene cientos de feeds temáticos y confirma que sus categorías y localizaciones disponen de canales RSS/XML. ([Mongabay News][2])
 
-### 3. [Mongabay â€” Islas del PacÃ­fico](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&location=pacific-islands)
+### 3. [Mongabay — Islas del Pacífico](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&location=pacific-islands)
 
-- InformaciÃ³n ambiental sobre Melanesia, Micronesia y Polinesia.
-- Cambio climÃ¡tico, pesca, minerÃ­a, pueblos indÃ­genas, bosques tropicales, arrecifes y conservaciÃ³n oceÃ¡nica.
-- **Idioma:** inglÃ©s.
+- Información ambiental sobre Melanesia, Micronesia y Polinesia.
+- Cambio climático, pesca, minería, pueblos indígenas, bosques tropicales, arrecifes y conservación oceánica.
+- **Idioma:** inglés.
 - **Formato:** RSS/XML. ([Mongabay News][3])
 
-### 4. [Mongabay â€” GalÃ¡pagos](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&location=galapagos)
+### 4. [Mongabay — Galápagos](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&location=galapagos)
 
-- Biodiversidad, turismo, pesca, especies invasoras, conservaciÃ³n marina y estudios cientÃ­ficos sobre las GalÃ¡pagos.
-- Especialmente Ãºtil para biogeografÃ­a y evoluciÃ³n.
-- **Idioma:** inglÃ©s.
+- Biodiversidad, turismo, pesca, especies invasoras, conservación marina y estudios científicos sobre las Galápagos.
+- Especialmente útil para biogeografía y evolución.
+- **Idioma:** inglés.
 - **Formato:** RSS/XML. ([Mongabay News][4])
 
-### 5. [Mongabay â€” Islas SalomÃ³n](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&location=solomon-islands)
+### 5. [Mongabay — Islas Salomón](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&location=solomon-islands)
 
-- ConservaciÃ³n marina, grandes arrecifes, comunidades indÃ­genas, pesca, bosques y adaptaciÃ³n climÃ¡tica.
-- **Idioma:** inglÃ©s.
+- Conservación marina, grandes arrecifes, comunidades indígenas, pesca, bosques y adaptación climática.
+- **Idioma:** inglés.
 - **Formato:** RSS/XML. ([Mongabay News][5])
 
-### 6. [Mongabay â€” Seychelles](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&location=seychelles)
+### 6. [Mongabay — Seychelles](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&location=seychelles)
 
-- Ecosistemas insulares del ocÃ©ano Ãndico, conservaciÃ³n marina, turismo sostenible y especies endÃ©micas.
-- **Idioma:** inglÃ©s.
+- Ecosistemas insulares del océano Índico, conservación marina, turismo sostenible y especies endémicas.
+- **Idioma:** inglés.
 - **Formato:** RSS/XML. ([Mongabay][6])
 
 ---
 
-## ðŸŒ ObservaciÃ³n de la Tierra y oceanografÃ­a
+## 🌍 Observación de la Tierra y oceanografía
 
-### 7. [NASA Earth Observatory â€” Imagen del dÃ­a](https://science.nasa.gov/feed/earth-observatory/image-of-the-day)
+### 7. [NASA Earth Observatory — Imagen del día](https://science.nasa.gov/feed/earth-observatory/image-of-the-day)
 
-- ImÃ¡genes y explicaciones obtenidas mediante satÃ©lites.
-- Incluye periÃ³dicamente archipiÃ©lagos, atolones, volcanes insulares, arrecifes, manglares y transformaciÃ³n de costas.
+- Imágenes y explicaciones obtenidas mediante satélites.
+- Incluye periódicamente archipiélagos, atolones, volcanes insulares, arrecifes, manglares y transformación de costas.
 - **Formato:** RSS.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
-La pÃ¡gina oficial de la NASA identifica expresamente este canal como uno de los feeds de Earth Observatory. ([NASA Science][7])
+La página oficial de la NASA identifica expresamente este canal como uno de los feeds de Earth Observatory. ([NASA Science][7])
 
-### 8. [NASA Earth Observatory â€” Eventos naturales](https://science.nasa.gov/feed/earth-observatory/natural-events)
+### 8. [NASA Earth Observatory — Eventos naturales](https://science.nasa.gov/feed/earth-observatory/natural-events)
 
-- Erupciones, tormentas, incendios, inundaciones, cambios costeros, proliferaciones de algas y otros fenÃ³menos observados desde el espacio.
-- Muy Ãºtil para seguir archipiÃ©lagos sometidos a riesgos naturales.
+- Erupciones, tormentas, incendios, inundaciones, cambios costeros, proliferaciones de algas y otros fenómenos observados desde el espacio.
+- Muy útil para seguir archipiélagos sometidos a riesgos naturales.
 - **Formato:** RSS.
-- **Idioma:** inglÃ©s. ([NASA Science][7])
+- **Idioma:** inglés. ([NASA Science][7])
 
 ### 9. [NOAA Ocean Facts](https://oceanservice.noaa.gov/rss/oceanfacts.xml)
 
-- Explicaciones breves sobre ocÃ©anos, costas, arrecifes, mareas, corrientes, hÃ¡bitats y organismos marinos.
-- Buena fuente divulgativa para contextualizar la formaciÃ³n y funcionamiento de los archipiÃ©lagos.
+- Explicaciones breves sobre océanos, costas, arrecifes, mareas, corrientes, hábitats y organismos marinos.
+- Buena fuente divulgativa para contextualizar la formación y funcionamiento de los archipiélagos.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s. ([Servicio OceÃ¡nico de la NOAA][8])
+- **Idioma:** inglés. ([Servicio Oceánico de la NOAA][8])
 
-### 10. [NOAA National Ocean Service â€” Noticias](https://oceanservice.noaa.gov/rss/nosnews.xml)
+### 10. [NOAA National Ocean Service — Noticias](https://oceanservice.noaa.gov/rss/nosnews.xml)
 
-- InvestigaciÃ³n costera, restauraciÃ³n, cartografÃ­a oceÃ¡nica, santuarios marinos, contaminaciÃ³n y resiliencia climÃ¡tica.
+- Investigación costera, restauración, cartografía oceánica, santuarios marinos, contaminación y resiliencia climática.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s. ([Servicio OceÃ¡nico de la NOAA][8])
+- **Idioma:** inglés. ([Servicio Oceánico de la NOAA][8])
 
-### 11. [NOAA National Ocean Service â€” Comunicados](https://oceanservice.noaa.gov/newsroom/nosmedia.xml)
+### 11. [NOAA National Ocean Service — Comunicados](https://oceanservice.noaa.gov/newsroom/nosmedia.xml)
 
-- Comunicados oficiales sobre ciencias oceÃ¡nicas, costas, recursos marinos y gestiÃ³n ambiental.
-- MÃ¡s institucional que el feed general de noticias.
+- Comunicados oficiales sobre ciencias oceánicas, costas, recursos marinos y gestión ambiental.
+- Más institucional que el feed general de noticias.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s. ([Servicio OceÃ¡nico de la NOAA][8])
+- **Idioma:** inglés. ([Servicio Oceánico de la NOAA][8])
 
 ### 12. [Programa de Naciones Unidas para el Medio Ambiente](https://www.unep.org/news-and-stories/rss.xml)
 
-- Cambio climÃ¡tico, biodiversidad, ocÃ©anos, contaminaciÃ³n, restauraciÃ³n y polÃ­ticas ambientales.
-- No estÃ¡ dedicado exclusivamente a islas, por lo que requiere filtros.
+- Cambio climático, biodiversidad, océanos, contaminación, restauración y políticas ambientales.
+- No está dedicado exclusivamente a islas, por lo que requiere filtros.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s. ([UNEP - UN Environment Programme][9])
+- **Idioma:** inglés. ([UNEP - UN Environment Programme][9])
 
 ---
 
-## ðŸ›ï¸ Patrimonio, cultura y pequeÃ±os Estados insulares
+## 🏛️ Patrimonio, cultura y pequeños Estados insulares
 
-### 13. [UNESCO â€” Noticias de Patrimonio Mundial](https://whc.unesco.org/en/news/rss_feed.rss)
+### 13. [UNESCO — Noticias de Patrimonio Mundial](https://whc.unesco.org/en/news/rss_feed.rss)
 
 - Patrimonio natural y cultural, reservas, parques, comunidades insulares y lugares declarados Patrimonio Mundial.
-- Puede proporcionar informaciÃ³n sobre GalÃ¡pagos, Canarias, Azores, Madeira, HawÃ¡i, Seychelles, Palaos, JapÃ³n, Indonesia y numerosos atolones.
+- Puede proporcionar información sobre Galápagos, Canarias, Azores, Madeira, Hawái, Seychelles, Palaos, Japón, Indonesia y numerosos atolones.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
-La UNESCO mantiene mecanismos de sindicaciÃ³n y ofrece una exportaciÃ³n RSS desde su secciÃ³n de noticias. ([UNESCO World Heritage Centre][10])
+La UNESCO mantiene mecanismos de sindicación y ofrece una exportación RSS desde su sección de noticias. ([UNESCO World Heritage Centre][10])
 
-En 2026, la UNESCO adoptÃ³ ademÃ¡s una nueva estrategia de Patrimonio Mundial para los pequeÃ±os Estados insulares en desarrollo, lo que aumenta el interÃ©s de este feed para el seguimiento de archipiÃ©lagos. ([UNESCO World Heritage Centre][11])
+En 2026, la UNESCO adoptó además una nueva estrategia de Patrimonio Mundial para los pequeños Estados insulares en desarrollo, lo que aumenta el interés de este feed para el seguimiento de archipiélagos. ([UNESCO World Heritage Centre][11])
 
-### 14. [Noticias de Naciones Unidas â€” Cambio climÃ¡tico](https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml)
+### 14. [Noticias de Naciones Unidas — Cambio climático](https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml)
 
-- Subida del nivel del mar, desplazamiento de poblaciones, financiaciÃ³n climÃ¡tica y vulnerabilidad de pequeÃ±os Estados insulares.
+- Subida del nivel del mar, desplazamiento de poblaciones, financiación climática y vulnerabilidad de pequeños Estados insulares.
 - **Formato:** RSS.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
-### 15. [Noticias de Naciones Unidas â€” Medioambiente](https://news.un.org/feed/subscribe/en/news/topic/environment/feed/rss.xml)
+### 15. [Noticias de Naciones Unidas — Medioambiente](https://news.un.org/feed/subscribe/en/news/topic/environment/feed/rss.xml)
 
-- OcÃ©anos, biodiversidad, contaminaciÃ³n, conservaciÃ³n, tratados ambientales y desarrollo sostenible.
+- Océanos, biodiversidad, contaminación, conservación, tratados ambientales y desarrollo sostenible.
 - **Formato:** RSS.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
 ---
 
-## ðŸŒ‹ Volcanismo y formaciÃ³n de archipiÃ©lagos
+## 🌋 Volcanismo y formación de archipiélagos
 
-### 16. [Smithsonianâ€“USGS â€” Actividad volcÃ¡nica semanal](https://volcano.si.edu/news/WeeklyVolcanoRSS.xml)
+### 16. [Smithsonian–USGS — Actividad volcánica semanal](https://volcano.si.edu/news/WeeklyVolcanoRSS.xml)
 
 - Resumen semanal de volcanes activos y episodios de inestabilidad.
-- Especialmente relevante para JapÃ³n, Indonesia, Filipinas, HawÃ¡i, Azores, Canarias, Aleutianas, Tonga, Vanuatu y las Antillas.
+- Especialmente relevante para Japón, Indonesia, Filipinas, Hawái, Azores, Canarias, Aleutianas, Tonga, Vanuatu y las Antillas.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
-El feed pertenece al informe conjunto del Smithsonian Global Volcanism Program y el USGS Volcano Hazards Program. La pÃ¡gina oficial confirma la existencia del canal RSS y su actualizaciÃ³n semanal. ([Programa Global de Volcanes][12])
+El feed pertenece al informe conjunto del Smithsonian Global Volcanism Program y el USGS Volcano Hazards Program. La página oficial confirma la existencia del canal RSS y su actualización semanal. ([Programa Global de Volcanes][12])
 
-### 17. [USGS â€” Terremotos significativos de la Ãºltima semana](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom)
+### 17. [USGS — Terremotos significativos de la última semana](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom)
 
 - Terremotos significativos registrados mundialmente.
-- Interesa especialmente para archipiÃ©lagos situados en zonas de subducciÃ³n y lÃ­mites de placas.
+- Interesa especialmente para archipiélagos situados en zonas de subducción y límites de placas.
 - Se actualiza continuamente.
 - **Formato:** Atom.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
-El USGS recomienda Atom para la suscripciÃ³n general a sus datos sÃ­smicos en tiempo real. ([Programa de Amenazas SÃ­smicas del USGS][13])
+El USGS recomienda Atom para la suscripción general a sus datos sísmicos en tiempo real. ([Programa de Amenazas Sísmicas del USGS][13])
 
-### 18. [USGS â€” Terremotos de magnitud 4,5 o superior, Ãºltima semana](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.atom)
+### 18. [USGS — Terremotos de magnitud 4,5 o superior, última semana](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.atom)
 
-- Cobertura mÃ¡s amplia que el feed de terremotos considerados significativos.
-- Ãštil para vigilar JapÃ³n, Filipinas, Indonesia, Nueva Zelanda, Aleutianas, Caribe, Tonga y otras cadenas insulares.
+- Cobertura más amplia que el feed de terremotos considerados significativos.
+- Útil para vigilar Japón, Filipinas, Indonesia, Nueva Zelanda, Aleutianas, Caribe, Tonga y otras cadenas insulares.
 - **Formato:** Atom.
-- **Idioma:** inglÃ©s. ([Programa de Amenazas SÃ­smicas del USGS][14])
+- **Idioma:** inglés. ([Programa de Amenazas Sísmicas del USGS][14])
 
 ---
 
-## ðŸŒŠ Alertas de tsunamis
+## 🌊 Alertas de tsunamis
 
-### 19. [Pacific Tsunami Warning Center â€” Atom](https://www.tsunami.gov/events/xml/PHEBAtom.xml)
+### 19. [Pacific Tsunami Warning Center — Atom](https://www.tsunami.gov/events/xml/PHEBAtom.xml)
 
-- Avisos, vigilancias, boletines e informaciÃ³n sobre posibles tsunamis.
-- Cubre HawÃ¡i, territorios estadounidenses del PacÃ­fico, Caribe y sistemas internacionales de alerta.
+- Avisos, vigilancias, boletines e información sobre posibles tsunamis.
+- Cubre Hawái, territorios estadounidenses del Pacífico, Caribe y sistemas internacionales de alerta.
 - **Formato:** Atom.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
-### 20. [National Tsunami Warning Center â€” Atom](https://www.tsunami.gov/events/xml/PAAQAtom.xml)
+### 20. [National Tsunami Warning Center — Atom](https://www.tsunami.gov/events/xml/PAAQAtom.xml)
 
-- Alertas para Alaska, CanadÃ¡ y costas continentales de NorteamÃ©rica.
-- Particularmente Ãºtil para Aleutianas, Kodiak y otros sistemas insulares septentrionales.
+- Alertas para Alaska, Canadá y costas continentales de Norteamérica.
+- Particularmente útil para Aleutianas, Kodiak y otros sistemas insulares septentrionales.
 - **Formato:** Atom.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
 ---
 
-## ðŸŒ€ Huracanes y ciclones tropicales
+## 🌀 Huracanes y ciclones tropicales
 
-### 21. [National Hurricane Center â€” AtlÃ¡ntico](https://www.nhc.noaa.gov/index-at.xml)
+### 21. [National Hurricane Center — Atlántico](https://www.nhc.noaa.gov/index-at.xml)
 
 - Huracanes y tormentas que pueden afectar al Caribe, Antillas, Bahamas, Bermudas, Cabo Verde, Canarias y Azores.
 - Contiene avisos y productos asociados a sistemas activos.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s. ([NHC][15])
+- **Idioma:** inglés. ([NHC][15])
 
-### 22. [National Hurricane Center â€” PacÃ­fico oriental](https://www.nhc.noaa.gov/index-ep.xml)
+### 22. [National Hurricane Center — Pacífico oriental](https://www.nhc.noaa.gov/index-ep.xml)
 
-- Seguimiento de tormentas tropicales y huracanes del PacÃ­fico oriental.
-- Puede afectar a archipiÃ©lagos mexicanos, CentroamÃ©rica y Ã¡reas cercanas a HawÃ¡i.
+- Seguimiento de tormentas tropicales y huracanes del Pacífico oriental.
+- Puede afectar a archipiélagos mexicanos, Centroamérica y áreas cercanas a Hawái.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s. ([NHC][15])
+- **Idioma:** inglés. ([NHC][15])
 
 ### 23. [Central Pacific Hurricane Center](https://www.nhc.noaa.gov/index-cp.xml)
 
-- Ciclones del PacÃ­fico central y entorno de HawÃ¡i.
+- Ciclones del Pacífico central y entorno de Hawái.
 - **Formato:** RSS/XML.
-- **Idioma:** inglÃ©s. ([NHC][15])
+- **Idioma:** inglés. ([NHC][15])
 
-El National Hurricane Center ofrece feeds para cuencas completas, tormentas activas, discusiones meteorolÃ³gicas y previsiones marÃ­timas. ([NHC][15])
+El National Hurricane Center ofrece feeds para cuencas completas, tormentas activas, discusiones meteorológicas y previsiones marítimas. ([NHC][15])
 
 ---
 
-## ðŸ“° BÃºsquedas RSS automÃ¡ticas
+## 📰 Búsquedas RSS automáticas
 
-### 24. [Google News â€” ArchipiÃ©lagos en espaÃ±ol](https://news.google.com/rss/search?q=archipi%C3%A9lago%20OR%20archipi%C3%A9lagos\&hl=es\&gl=ES\&ceid=ES%3Aes)
+### 24. [Google News — Archipiélagos en español](https://news.google.com/rss/search?q=archipi%C3%A9lago%20OR%20archipi%C3%A9lagos\&hl=es\&gl=ES\&ceid=ES%3Aes)
 
-- Noticias en espaÃ±ol que mencionen â€œarchipiÃ©lagoâ€ o â€œarchipiÃ©lagosâ€.
-- Puede recoger informaciÃ³n geogrÃ¡fica, polÃ­tica, turÃ­stica, ambiental y cientÃ­fica.
+- Noticias en español que mencionen “archipiélago” o “archipiélagos”.
+- Puede recoger información geográfica, política, turística, ambiental y científica.
 - **Formato:** RSS.
 
-### 25. [Google News â€” ArchipiÃ©lagos, islas y clima](https://news.google.com/rss/search?q=%28archipelago%20OR%20%22island%20chain%22%29%20%28climate%20OR%20biodiversity%20OR%20volcano%29\&hl=en-US\&gl=US\&ceid=US%3Aen)
+### 25. [Google News — Archipiélagos, islas y clima](https://news.google.com/rss/search?q=%28archipelago%20OR%20%22island%20chain%22%29%20%28climate%20OR%20biodiversity%20OR%20volcano%29\&hl=en-US\&gl=US\&ceid=US%3Aen)
 
-- BÃºsqueda internacional centrada en clima, biodiversidad y volcanismo.
+- Búsqueda internacional centrada en clima, biodiversidad y volcanismo.
 - **Formato:** RSS.
-- **Idioma:** inglÃ©s.
+- **Idioma:** inglés.
 
-### 26. [Google News â€” Canarias, Baleares, Azores y Madeira](https://news.google.com/rss/search?q=%28Canarias%20OR%20Baleares%20OR%20Azores%20OR%20Madeira%29%20%28medioambiente%20OR%20ciencia%20OR%20clima%29\&hl=es\&gl=ES\&ceid=ES%3Aes)
+### 26. [Google News — Canarias, Baleares, Azores y Madeira](https://news.google.com/rss/search?q=%28Canarias%20OR%20Baleares%20OR%20Azores%20OR%20Madeira%29%20%28medioambiente%20OR%20ciencia%20OR%20clima%29\&hl=es\&gl=ES\&ceid=ES%3Aes)
 
-- Seguimiento prÃ³ximo a EspaÃ±a y a los archipiÃ©lagos de la Macaronesia.
+- Seguimiento próximo a España y a los archipiélagos de la Macaronesia.
 - **Formato:** RSS.
-- **Idioma:** espaÃ±ol.
+- **Idioma:** español.
 
-### 27. [Bing News â€” ArchipiÃ©lagos](https://www.bing.com/news/search?q=archipi%C3%A9lagos\&format=rss\&setlang=es-es)
+### 27. [Bing News — Archipiélagos](https://www.bing.com/news/search?q=archipi%C3%A9lagos\&format=rss\&setlang=es-es)
 
 - Alternativa a Google News para ampliar fuentes y reducir puntos ciegos.
 - **Formato:** RSS.
-- **Idioma:** espaÃ±ol.
+- **Idioma:** español.
 
 ---
 
-## â­ SelecciÃ³n recomendada
+## ⭐ Selección recomendada
 
-Para crear un radar Ãºtil sin exceso de informaciÃ³n, elegirÃ­a estos diez canales:
+Para crear un radar útil sin exceso de información, elegiría estos diez canales:
 
-1. [Island Studies Journal](https://islandstudiesjournal.org/feed) â€” investigaciÃ³n acadÃ©mica.
-2. [Mongabay â€” Islas](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&topic=islands) â€” biodiversidad y conservaciÃ³n.
-3. [NASA Earth Observatory â€” Imagen del dÃ­a](https://science.nasa.gov/feed/earth-observatory/image-of-the-day) â€” observaciÃ³n satelital.
-4. [NASA â€” Eventos naturales](https://science.nasa.gov/feed/earth-observatory/natural-events) â€” transformaciÃ³n y riesgos.
-5. [NOAA Ocean News](https://oceanservice.noaa.gov/rss/nosnews.xml) â€” ciencia oceÃ¡nica.
-6. [UNESCO Patrimonio Mundial](https://whc.unesco.org/en/news/rss_feed.rss) â€” patrimonio natural y cultural.
-7. [Smithsonianâ€“USGS Volcanes](https://volcano.si.edu/news/WeeklyVolcanoRSS.xml) â€” volcanismo.
-8. [USGS Terremotos](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom) â€” actividad sÃ­smica.
-9. [Pacific Tsunami Warning Center](https://www.tsunami.gov/events/xml/PHEBAtom.xml) â€” alertas de tsunami.
-10. [Google News â€” ArchipiÃ©lagos](https://news.google.com/rss/search?q=archipi%C3%A9lago%20OR%20archipi%C3%A9lagos\&hl=es\&gl=ES\&ceid=ES%3Aes) â€” actualidad general en espaÃ±ol.
+1. [Island Studies Journal](https://islandstudiesjournal.org/feed) — investigación académica.
+2. [Mongabay — Islas](https://news.mongabay.com/feed/?post_type=post\&feedtype=bulletpoints\&topic=islands) — biodiversidad y conservación.
+3. [NASA Earth Observatory — Imagen del día](https://science.nasa.gov/feed/earth-observatory/image-of-the-day) — observación satelital.
+4. [NASA — Eventos naturales](https://science.nasa.gov/feed/earth-observatory/natural-events) — transformación y riesgos.
+5. [NOAA Ocean News](https://oceanservice.noaa.gov/rss/nosnews.xml) — ciencia oceánica.
+6. [UNESCO Patrimonio Mundial](https://whc.unesco.org/en/news/rss_feed.rss) — patrimonio natural y cultural.
+7. [Smithsonian–USGS Volcanes](https://volcano.si.edu/news/WeeklyVolcanoRSS.xml) — volcanismo.
+8. [USGS Terremotos](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom) — actividad sísmica.
+9. [Pacific Tsunami Warning Center](https://www.tsunami.gov/events/xml/PHEBAtom.xml) — alertas de tsunami.
+10. [Google News — Archipiélagos](https://news.google.com/rss/search?q=archipi%C3%A9lago%20OR%20archipi%C3%A9lagos\&hl=es\&gl=ES\&ceid=ES%3Aes) — actualidad general en español.
 
 ---
 
-## ðŸ”Ž Filtros recomendados
+## 🔎 Filtros recomendados
 
 ## Filtro general
 
@@ -618,13 +618,13 @@ Para crear un radar Ãºtil sin exceso de informaciÃ³n, elegirÃ­a estos diez
 archipelago OR archipelagos OR island OR islands OR atoll OR "island chain"
 ```
 
-## Filtro en espaÃ±ol
+## Filtro en español
 
 ```text
-archipiÃ©lago OR archipiÃ©lagos OR isla OR islas OR atolÃ³n OR atolones
+archipiélago OR archipiélagos OR isla OR islas OR atolón OR atolones
 ```
 
-## GeografÃ­a y formaciÃ³n
+## Geografía y formación
 
 ```text
 archipelago AND (geology OR geography OR formation OR tectonics OR volcanism)
@@ -636,7 +636,7 @@ archipelago AND (geology OR geography OR formation OR tectonics OR volcanism)
 island AND (biodiversity OR endemic OR conservation OR invasive species OR coral reef)
 ```
 
-## Cambio climÃ¡tico
+## Cambio climático
 
 ```text
 island AND ("sea level rise" OR erosion OR climate OR resilience OR adaptation)
@@ -648,7 +648,7 @@ island AND ("sea level rise" OR erosion OR climate OR resilience OR adaptation)
 island AND (culture OR community OR migration OR heritage OR indigenous OR tourism)
 ```
 
-## Grandes archipiÃ©lagos
+## Grandes archipiélagos
 
 ```text
 Canary Islands OR Balearic Islands OR Azores OR Madeira OR Galapagos OR Hawaii
@@ -656,7 +656,7 @@ OR Philippines OR Indonesia OR Japan OR Maldives OR Seychelles OR Caribbean
 OR Aleutian Islands OR Solomon Islands OR Fiji OR Tonga OR Vanuatu
 ```
 
-## ExclusiÃ³n de ruido turÃ­stico y comercial
+## Exclusión de ruido turístico y comercial
 
 ```text
 -oferta -hotel -reserva -crucero -apartamento -vacaciones -venta
@@ -664,26 +664,26 @@ OR Aleutian Islands OR Solomon Islands OR Fiji OR Tonga OR Vanuatu
 
 ---
 
-## âš ï¸ Observaciones
+## ⚠️ Observaciones
 
-- **Island Studies Journal** es el canal mÃ¡s preciso para estudiar los archipiÃ©lagos como sistemas humanos, culturales, econÃ³micos y geogrÃ¡ficos, no simplemente como agrupaciones fÃ­sicas de islas.
+- **Island Studies Journal** es el canal más preciso para estudiar los archipiélagos como sistemas humanos, culturales, económicos y geográficos, no simplemente como agrupaciones físicas de islas.
 
-- **NASA, NOAA, UNEP y UNESCO** publican informaciÃ³n muy valiosa, pero sus feeds no estÃ¡n exclusivamente dedicados a archipiÃ©lagos. Es imprescindible aplicar filtros por nombres de islas, regiones y conceptos.
+- **NASA, NOAA, UNEP y UNESCO** publican información muy valiosa, pero sus feeds no están exclusivamente dedicados a archipiélagos. Es imprescindible aplicar filtros por nombres de islas, regiones y conceptos.
 
-- **Los canales de terremotos, volcanes y tsunamis generan bastante volumen**, pero permiten descubrir acontecimientos en archipiÃ©lagos que quizÃ¡ no aparecen inmediatamente en la prensa generalista.
+- **Los canales de terremotos, volcanes y tsunamis generan bastante volumen**, pero permiten descubrir acontecimientos en archipiélagos que quizá no aparecen inmediatamente en la prensa generalista.
 
-- No he incluido supuestos feeds como `islandinnovation.co/feed` o `islandconservation.org/feed` porque no he podido confirmar de forma concluyente que continÃºen funcionando como servicios RSS pÃºblicos. Sus pÃ¡ginas siguen siendo relevantes, pero es preferible no inventar ni dar por operativo un canal no verificado.
+- No he incluido supuestos feeds como `islandinnovation.co/feed` o `islandconservation.org/feed` porque no he podido confirmar de forma concluyente que continúen funcionando como servicios RSS públicos. Sus páginas siguen siendo relevantes, pero es preferible no inventar ni dar por operativo un canal no verificado.
 
-## Mi valoraciÃ³n
+## Mi valoración
 
-Los archipiÃ©lagos deben investigarse como **sistemas conectados de tierra, mar y sociedad**. No basta con seguir fuentes de viajes o geografÃ­a. Las mejores noticias suelen aparecer dispersas entre oceanografÃ­a, vulcanologÃ­a, climatologÃ­a, conservaciÃ³n, patrimonio y polÃ­tica internacional.
+Los archipiélagos deben investigarse como **sistemas conectados de tierra, mar y sociedad**. No basta con seguir fuentes de viajes o geografía. Las mejores noticias suelen aparecer dispersas entre oceanografía, vulcanología, climatología, conservación, patrimonio y política internacional.
 
-El nÃºcleo verdaderamente valioso serÃ­a:
+El núcleo verdaderamente valioso sería:
 
 - **Island Studies Journal** para comprender.
 - **NASA y NOAA** para observar.
 - **Mongabay** para conocer el estado de los ecosistemas.
-- **UNESCO y Naciones Unidas** para las polÃ­ticas y comunidades insulares.
+- **UNESCO y Naciones Unidas** para las políticas y comunidades insulares.
 - **Smithsonian, USGS y los centros de tsunamis** para detectar riesgos.
 - **Google News** para descubrir acontecimientos locales que las grandes instituciones no recogen.
 
