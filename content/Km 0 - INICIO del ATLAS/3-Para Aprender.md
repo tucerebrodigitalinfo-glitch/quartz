@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-19T15:47:48.188Z
-modified: 2026-09-16T20:59:06.108Z
+modified: 2026-09-19T20:45:26.789Z
 ---
 
 #Índices #Explorar #Aprender #Formación #TCD  #Explorer #Km0
@@ -105,7 +105,7 @@ Worldometer - estadísticas mundiales en tiempo real
 
 ## \[DATOS MUNDIAL]
 
-- https://www.datosmundial.com/]\(https://www.datosmundial.com/)
+- https://www.datosmundial.com/
 
 ## \[SPRINGER NATURE]
 
