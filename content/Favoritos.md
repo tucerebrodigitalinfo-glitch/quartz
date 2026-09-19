@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-07T12:35:36.115Z
-modified: 2026-09-17T12:07:50.488Z
+modified: 2026-09-19T20:05:11.661Z
 ---
 
 #Favoritos #Km0
@@ -13,6 +13,7 @@ modified: 2026-09-17T12:07:50.488Z
 [[2-Manual del Explorador]]
 [[3-Para Aprender]]
 [[001 El Atlas TCD]]
+[[AI, You Learn AI]]
 [[ArXiv Vol. I]]
 [[Bush, Vannevar (La Memoria Aumentada) (i)]]
 [[Engelbart, Douglas (La Inteligencia Aumentada) (i)]]
@@ -98,6 +99,7 @@ modified: 2026-09-17T12:07:50.488Z
 [[UNESCO (i)]]
 [[WEF - World Economic Forum (i)]]
 [[Wikipedia]]
+[[Wikiversidad]]
 [[Wired]]
-[[AI, You Learn AI]]
+[[Worldometer]]
 [[Youtube]]
