@@ -8,6 +8,6 @@ modified: 2026-09-20T16:50:35.749Z
 
 ![Mapa mundial](Biblioteca/Pasted image 20260919224830.png)
 
-# [DatosMundial: El mundo en números](https://www.datosmundial.com/)
+![Mapa mundial](<./Pasted image 20260919224830.png>)
 
 PRUEBA TCD 2026
