@@ -12,7 +12,7 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
-content/Biblioteca/
+
 desktop.ini
 
 faltan-r2/
