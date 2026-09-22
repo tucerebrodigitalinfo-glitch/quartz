@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-22T08:29:28.604Z
-modified: 2026-09-22T12:15:53.271Z
+modified: 2026-09-22T18:20:59.827Z
 ---
 
 #Cientifico
+
 ![[Biblioteca/Pasted image 20260922120351.png]]
 
 ## MICHAEL FARADAY
