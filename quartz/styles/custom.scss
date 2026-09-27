@@ -8,3 +8,14 @@ iframe.pdf {
   min-height: 700px;
   border: none;
 }
+
+@media all and ($mobile) {
+  .page > #quartz-body > footer {
+    min-width: 0;
+    width: min(100%, calc(100vw - 2rem));
+  }
+
+  .page > #quartz-body > footer > ul {
+    flex-wrap: wrap;
+  }
+}
