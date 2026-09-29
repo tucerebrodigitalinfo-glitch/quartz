@@ -4,7 +4,7 @@ created: 2026-08-19T17:13:27.074Z
 modified: 2026-09-18T09:36:49.443Z
 ---
 
-#Esccritor #Literatura #Índices
+#Escritor #Literatura #Índices
 
 # [Wikipedia](https://es.wikipedia.org/wiki/Victor_Hugo?wprov=sfla1)
 

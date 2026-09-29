@@ -4,7 +4,7 @@ created: 2026-07-12T14:33:25.506Z
 modified: 2026-09-18T09:36:22.387Z
 ---
 
-#Científicos #Computación #Índices #Innovadores
+#Científicos #Computación #Índices #Innovadores #Historia #IA
 
 # [Video](https://youtu.be/L_rqhB0dVKE?si=9mPkeu1PoYNo3Z9f)
 

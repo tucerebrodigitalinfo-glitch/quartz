@@ -4,7 +4,7 @@ created: 2026-09-19T20:46:22.777Z
 modified: 2026-09-24T19:20:24.150Z
 ---
 
-#Estadísticas
+#Estadísticas #Km0
 
 ![[Biblioteca/Pasted image 20260924151852.jpg]]
 

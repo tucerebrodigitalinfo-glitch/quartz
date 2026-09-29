@@ -4,7 +4,7 @@ created: 2026-08-18T11:06:08.284Z
 modified: 2026-09-18T09:36:47.013Z
 ---
 
-#Civilizaciones
+#Civilizaciones #Historia
 
 [![The ancient ruins of old Babylon city in Iraq](https://images.openai.com/static-rsc-4/HwIeUlRiGu-CIrNJBOqLsddW7s4F4MfR6oVBbItrVZmTGyQUFd0hLAfc5GHpEveRrDbTxKnXD3McNyoXkktybxH343krD9ZnBpBjojE5dmgMaP0eMZNfAiLs2D5uSPyJKfr1SoaTwSCKVUQpVOTBNxLsd-J3rStEuOhC2XRNT43sOPlp0PzuV2RoVPLSl0f9?purpose=inline)](https://www.gettyimages.com/?utm_source=chatgpt.com)
 

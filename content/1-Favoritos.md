@@ -14,6 +14,8 @@ modified: 2026-09-19T20:05:11.661Z
 [[3-Para Aprender]]
 [[001 El Atlas TCD]]
 [[AI, You Learn AI]]
+[[Datos Mundial]]
+[[5-Gemini Notebook|Cuadernos Gemini Notebook]]
 [[ArXiv Vol. I]]
 [[Bush, Vannevar (La Memoria Aumentada) (i)]]
 [[Engelbart, Douglas (La Inteligencia Aumentada) (i)]]

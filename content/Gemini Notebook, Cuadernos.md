@@ -4,7 +4,7 @@ created: 2026-09-13T10:01:01.677Z
 modified: 2026-09-24T11:32:07.238Z
 ---
 
-#IA #Gemini #Notebook
+#IA #Gemini #Notebook #Km0
 
 ![[Pasted image 20260924133155.png]]
 

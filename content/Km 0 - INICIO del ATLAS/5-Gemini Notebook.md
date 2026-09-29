@@ -4,7 +4,7 @@ created: 2026-09-12T15:27:24.201Z
 modified: 2026-09-18T14:42:10.390Z
 ---
 
-#IA #Notebook
+#IA #Cuadernos #Gemini #Notebook
 
 [[N1001 ChatGPT para la investigación científica]]
 [[N1002 Guía de Prompts para Actividades de Aprendizaje con ChatGPT]]
@@ -85,3 +85,4 @@ modified: 2026-09-18T14:42:10.390Z
 [[N1075 La Máquina más grande del mundo, La arquitectura global de la IA]]
 [[N1076 Por qué CHINA regala su IA al mundo]]
 [[N1077 IA, El Hostión Que Viene (J.M. Romero)]]
+[[N1078 Marta Estarellas, La carrera global por la ventaja cuántica]]
