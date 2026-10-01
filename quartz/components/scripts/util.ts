@@ -41,6 +41,17 @@ export async function fetchCanonical(url: URL): Promise<Response> {
   // reading the body can only be done once, so we need to clone the response
   // to allow the caller to read it if it's was not a redirect
   const text = await res.clone().text()
-  const [_, redirect] = text.match(canonicalRegex) ?? []
-  return redirect ? fetch(`${new URL(redirect, url)}`) : res
+  // An ordinary canonical identifies a page; it is not a navigation instruction.
+  // Quartz alias documents also contain a refresh meta tag. Only follow those.
+  const isAlias = /<meta\b[^>]*http-equiv=["']refresh["'][^>]*>/i.test(text)
+  const [_, redirect] = isAlias ? (text.match(canonicalRegex) ?? []) : []
+  if (!redirect) return res
+  const target = new URL(redirect, res.url || url)
+  if (!["http:", "https:"].includes(target.protocol)) return res
+  // Public same-site aliases must remain on the preview host during local navigation.
+  if (target.hostname === "tcdexplorer.es" && url.hostname !== "tcdexplorer.es") {
+    target.protocol = url.protocol
+    target.host = url.host
+  }
+  return target.href === url.href ? res : fetch(target.href)
 }

@@ -107,7 +107,7 @@ async function mouseEnterHandler(
       elts.forEach((elt) => popoverInner.appendChild(elt))
   }
 
-  if (!!document.getElementById(popoverId)) {
+  if (!link.isConnected || document.getElementById(popoverId)) {
     return
   }
 
@@ -126,6 +126,8 @@ function clearActivePopover() {
 }
 
 function setupPopovers() {
+  // Invalidate a pending hover and hide its preview before Quartz replaces the page.
+  window.addCleanup(clearActivePopover)
   const links = [...document.querySelectorAll("a.internal")] as HTMLAnchorElement[]
   for (const link of links) {
     link.addEventListener("mouseenter", mouseEnterHandler)

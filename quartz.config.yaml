@@ -122,7 +122,12 @@ plugins:
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
+    enabled: false # ALTAVOCES: provisional text-only institutional card in Head.
+  - source: "./plugins/tcd-share"
     enabled: true
+    layout:
+      position: beforeBody
+      priority: 40
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
