@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-10-19T13:56:17.678Z
-modified: 2026-10-19T14:19:45.775Z
+modified: 2026-10-19T14:32:33.869Z
 ---
 
 #IA #Anthropic #Singularidad #Notebook
 
-![[Pasted image 20261019160730.png]]
+![[Biblioteca/Pasted image 20261019160730.png]]
 
 ### [Jack Clark, AI Revolution, Youtube](https://youtu.be/wWhfyx9yxPc?si=61W6oYVjBCDIHyRL)
 
