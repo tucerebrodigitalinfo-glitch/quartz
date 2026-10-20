@@ -1,18 +1,21 @@
 ---
 publish: true
 created: 2026-07-12T14:35:10.509Z
-modified: 2026-09-18T09:36:21.412Z
+modified: 2026-10-09T11:26:37.443Z
 ---
 
-#IA #Redes #Neuronales
+#IA #Redes #Neuronales #Aprendizaje #Notebook
 
-## [Wikipedia](https://es.wikipedia.org/wiki/Red_neuronal_artificial)
+### [Mundo Ciencia, Youtube](https://youtu.be/eA9avINfu0s?si=MRYq0HwtxOr_4vrv)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/7f64f581-94ca-4736-882f-e24d94dda4c9?authuser=3)
+### [Wikipedia](https://es.wikipedia.org/wiki/Red_neuronal_artificial)
 
-![[Biblioteca/N1066 Matemáticas_de_redes_neuronales.png]]
+### [Introducción](https://notebooklm.link.google/4eHHoEAQ8jHM)
+
+### [Gemini Notebook](https://notebook.google.com/notebook/7f64f581-94ca-4736-882f-e24d94dda4c9?authuser=3)
 
 ![[N1066 La_falsa_metáfora_del_cerebro_digital.m4a]]
+![[Biblioteca/N1066 Matemáticas_de_redes_neuronales.png]]
 
 ![[Biblioteca/N1066 Redes_Neuronales.mp4]]
 

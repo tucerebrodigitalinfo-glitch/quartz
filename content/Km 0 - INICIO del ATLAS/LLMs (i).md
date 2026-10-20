@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-06T05:19:58.642Z
-modified: 2026-09-18T09:36:30.668Z
+modified: 2026-10-08T15:41:30.471Z
 ---
 
 #Índices #LLM
@@ -14,7 +14,9 @@ modified: 2026-09-18T09:36:30.668Z
 
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-# [Wikipedia](https://es.wikipedia.org/wiki/Modelo_extenso_de_lenguaje?wprov=sfla1)
+## \[Stanford, Youtube]\([(651) Stanford CME295 Transformers y LLMs | Otoño 2026 | Clase 1 - Transformers - YouTube](https://www.youtube.com/watch?v=114i2Kz-LZA))
+
+## [Wikipedia](https://es.wikipedia.org/wiki/Modelo_extenso_de_lenguaje?wprov=sfla1)
 
 # WEB
 

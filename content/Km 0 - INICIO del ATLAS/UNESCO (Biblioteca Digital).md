@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2026-07-30T11:01:00.249Z
-modified: 2026-09-18T09:36:22.830Z
+modified: 2026-10-18T17:12:57.594Z
 ---
 
 #UNESCO #Biblioteca #Formación #Estadísticas #IA
+
+![[Biblioteca/Pasted image 20261018191252.png]]
 
 ## [ACERCA DE LA UNESCO](https://www.unesco.org/es/about-us?q=es/unesco/about-us/who-we-are/history/milestones)
 
@@ -24,6 +26,6 @@ modified: 2026-09-18T09:36:22.830Z
 
 ## [INTELIGENCIA ARTIFICIAL](https://www.unesco.org/es/artificial-intelligence)
 
-#### [iNTELIGENCIA ARTIFICIAL EN LA EDUCACIÓN](https://www.unesco.org/es/digital-education/artificial-intelligence?hub=195885)
+### [iNTELIGENCIA ARTIFICIAL EN LA EDUCACIÓN](https://www.unesco.org/es/digital-education/artificial-intelligence?hub=195885)
 
 ## [Ciencia y Tecnologías Cuánticas](https://www.unesco.org/en/years/quantum-science-technology?hub=195885)

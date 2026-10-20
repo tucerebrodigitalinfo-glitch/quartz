@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-08-20T08:08:15.418Z
-modified: 2026-09-18T09:36:48.887Z
+modified: 2026-09-30T20:36:38.218Z
 ---
 
 #Índices #Finanzas
-
-# [Wikipedia](https://es.wikipedia.org/wiki/Morgan_Stanley?wprov=sfla1)
 
 ![Image](https://www.morganstanley.com/pub/content/dam/msdotcom/newsroom/media-resources/Morgan-Stanley-Times-Square-1585-Broadway-headquarters-signage.png)
 
@@ -15,6 +13,8 @@ modified: 2026-09-18T09:36:48.887Z
 # MORGAN STANLEY
 
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+
+# [Wikipedia](https://es.wikipedia.org/wiki/Morgan_Stanley?wprov=sfla1)
 
 # WEB
 

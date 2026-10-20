@@ -1,16 +1,18 @@
 ---
 publish: true
 created: 2026-10-19T14:42:03.388Z
-modified: 2026-10-19T19:04:14.500Z
+modified: 2026-10-20T18:18:06.940Z
 ---
 
 #FMI #IMF #Informes #Estadísticas
 
-![[Pasted image 20261019205637.png]]
+![[Biblioteca/Pasted image 20261019205637.png]]
 
 # Fondo Monetario Internacional (FMI)
 
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+
+### [[AI, FMI (IMF)]]
 
 ### [Wikipedia](https://es.wikipedia.org/wiki/Fondo_Monetario_Internacional)
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:33:53.484Z
-modified: 2026-09-18T09:36:21.938Z
+modified: 2026-10-08T17:25:32.364Z
 ---
 
 #IA #DeepMind
@@ -11,6 +11,8 @@ modified: 2026-09-18T09:36:21.938Z
 # ALPHAFOLD (i)
 
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+
+### \[]
 
 # WEB
 

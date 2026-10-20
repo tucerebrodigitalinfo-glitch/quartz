@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-06T05:18:56.396Z
-modified: 2026-09-18T09:36:38.567Z
+modified: 2026-10-08T16:50:19.758Z
 ---
 
 #Índices #IA #Empresas
@@ -9,7 +9,7 @@ modified: 2026-09-18T09:36:38.567Z
 ![[Biblioteca/anthropic.jpg]]
 ✅ Enlaces comprobados y operativos el 17 de julio de 2026. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-# \[Anthropic]
+# ANTHROPIC
 
 ## [Weforum](https://intelligence.weforum.org/collection/6400f371-6eac-4f26-a740-14590451f574)
 

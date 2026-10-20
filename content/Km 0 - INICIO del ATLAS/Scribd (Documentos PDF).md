@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2026-08-17T09:42:47.789Z
-modified: 2026-09-18T09:36:43.062Z
+modified: 2026-10-16T12:32:47.125Z
 ---
 
 #Repositorio #Bases
+
+![[Biblioteca/Pasted image 20261016143242.png]]
 
 # [Scribd](https://es.scribd.com/)
 

@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-06T05:20:33.638Z
-modified: 2026-09-18T09:36:27.000Z
+modified: 2026-10-02T16:45:55.073Z
 ---
 
-#Índices
+#Índices #Tencent
 
 ![Image](https://static.www.tencent.com/uploads/2019/11/10/4f34106479e212354f188666b8eb421b.jpg)
 

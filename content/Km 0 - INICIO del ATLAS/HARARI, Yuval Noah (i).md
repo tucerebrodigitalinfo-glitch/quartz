@@ -1,10 +1,13 @@
 ---
 publish: true
 created: 2026-09-11T13:41:51.750Z
-modified: 2026-09-18T09:36:56.357Z
+modified: 2026-10-03T17:03:23.426Z
 ---
 
 #Historiador
+
+# [[N1026 Educando para la incertidumbre, Sobrevivir en la era de los algoritmos (Yuval Noah Harari)]]
+
 ![Image](https://images.openai.com/static-rsc-4/6cxx2pQtGGY8BFEF_3Wr7MIgmojQGU80oUrA7qEk-wiqplTcJiO6KvDaYn14caYVPdBEkQW4VzMGQp6mGGd20qRokFpSMDRMoozRIZuDafeJdiKZqfs3I1JYr2N9rsla4GQCYthEzJ_qnMl1QyOu-yP-owNfR3iRhGprnQXw-Jbg0MMbOcQjYXnKq_jyn9uO?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/hC29vijownXlBsX3KwvGLqq9MlMLnTi6ui0WtEtjedJv26slnNaP-C8Z62blFKeTw38e_P2VWFFMaO6oS-etoTMagGGfsTbg5pdFoD1OINmHbcHR2uPt2WcquGWV5orLYk6AGze6JKcNFbrIRvTY2P23fc5I232n-TAjZLeHdEOeWIniShnjFVpM2OIOabSw?purpose=fullsize)

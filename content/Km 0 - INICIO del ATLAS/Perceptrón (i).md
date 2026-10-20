@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:39:48.932Z
-modified: 2026-09-18T09:36:19.404Z
+modified: 2026-09-29T17:24:26.248Z
 ---
 
-#IA #Formación #Fundamentos #Redes #Neuronales
+#IA #Formación #Fundamentos #Redes #Neuronales #Rosenblatt #Perceptron
 
 [![Professor’s perceptron paved the way for AI – 60 years too soon ...](https://tse1.mm.bing.net/th/id/OIP.KQGWWE7cZD4AoqpRk2wvbQHaFy?r=0\&pid=Api)](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon?utm_source=chatgpt.com)
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.

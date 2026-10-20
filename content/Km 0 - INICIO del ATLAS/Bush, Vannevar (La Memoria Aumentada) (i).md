@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:33:25.506Z
-modified: 2026-09-18T09:36:22.387Z
+modified: 2026-09-25T14:17:51.391Z
 ---
 
-#Científicos #Computación #Índices #Innovadores #Historia #IA
+#Científicos #Computación #Índices #Innovadores #Historia  #IA
 
 # [Video](https://youtu.be/L_rqhB0dVKE?si=9mPkeu1PoYNo3Z9f)
 

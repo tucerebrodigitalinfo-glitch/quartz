@@ -1,20 +1,26 @@
 ---
 publish: true
 created: 2026-08-10T06:29:25.257Z
-modified: 2026-09-18T09:36:41.315Z
+modified: 2026-10-11T19:45:13.837Z
 ---
 
-#Analistas #Mercados
+#Analistas #Mercados #Índice #McKinsey
 
 ![McKinsey & Company — consultoría estratégica, transformación, tecnología y economía global](https://cdn.prod.website-files.com/6203de299c689753eaba2e59/6344032525a567024c592f23_N%C3%A4ytt%C3%B6kuva%202022-10-10%20143353.png)
 
-# MCKINSEY & COMPANY (i)
+## MCKINSEY & COMPANY
 
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-# [WIKIPEDIA](https://es.wikipedia.org/wiki/McKinsey_%26_Company)
+### [[McKinsey Global Institute]]
 
-# WEB
+### [[McKinsey, Perspectivas]]
+
+### [The McKinsey Podcast on Business & Management | McKinsey & Company](https://www.mckinsey.com/featured-insights/mckinsey-podcast))
+
+## [WIKIPEDIA](https://es.wikipedia.org/wiki/McKinsey_%26_Company)
+
+## WEB
 
 [McKinsey & Company](https://www.mckinsey.com/) – Portal internacional de la firma de consultoría de gestión fundada en 1926. Centraliza servicios, sectores, investigación, publicaciones, oficinas, información institucional y recursos profesionales. ([McKinsey & Company](https://www.mckinsey.com/?utm_source=chatgpt.com "Global management consulting | McKinsey & Company"))
 
@@ -76,7 +82,7 @@ modified: 2026-09-18T09:36:41.315Z
 
 [New at McKinsey](https://www.mckinsey.com/about-us/new-at-mckinsey-blog) – Publicación institucional dedicada a iniciativas, alianzas, adquisiciones, proyectos, investigación y evolución interna de la firma.
 
-# YOUTUBE
+## YOUTUBE
 
 [McKinsey & Company](https://www.youtube.com/@McKinsey) – Canal audiovisual corporativo internacional con entrevistas, investigaciones, conferencias, conversaciones con ejecutivos y contenidos de McKinsey Global Institute.
 
@@ -90,7 +96,7 @@ modified: 2026-09-18T09:36:41.315Z
 
 La firma concentra su presencia oficial en YouTube fundamentalmente en el canal corporativo internacional; no se incorporan canales regionales cuya continuidad y oficialidad independiente no puedan establecerse con suficiente seguridad.
 
-# PODCAST
+## PODCAST
 
 [The McKinsey Podcast](https://www.mckinsey.com/featured-insights/mckinsey-podcast) – Podcast generalista de referencia de la firma sobre empresa, economía, liderazgo, inteligencia artificial y sociedad. Mantiene publicaciones en 2026, incluidas ediciones desde CES y Davos. ([McKinsey & Company](https://www.mckinsey.com/featured-insights/mckinsey-podcast?utm_source=chatgpt.com "The McKinsey Podcast on Business & Management"))
 
@@ -112,7 +118,7 @@ La firma concentra su presencia oficial en YouTube fundamentalmente en el canal 
 
 [McKinsey Talks CFO](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/how-we-help-clients/corporate-finance/events) – Serie de conversaciones sobre las prioridades del director financiero, portfolio, crecimiento, transformación y gestión del capital; mantiene actividad en 2026. ([McKinsey & Company](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/how-we-help-clients/corporate-finance/events?utm_source=chatgpt.com "Strategy & Corporate Finance - McKinsey Talks CFO"))
 
-# LIBROS
+## LIBROS
 
 [Valuation: Measuring and Managing the Value of Companies, 8th edition](https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-whats-new-in-valuation) – Tim Koller y coautores. Manual de valoración corporativa vinculado históricamente a McKinsey; la octava edición, presentada en 2025, actualiza el tratamiento de creación y medición de valor económico. ([McKinsey & Company](https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-whats-new-in-valuation?utm_source=chatgpt.com "Author Talks: What's new in Valuation?"))
 
@@ -134,7 +140,7 @@ La firma concentra su presencia oficial en YouTube fundamentalmente en el canal 
 
 [McKinsey Books on Leadership and Management](https://www.mckinsey.com/featured-insights/mckinsey-on-books) – Catálogo institucional para localizar las principales obras contemporáneas escritas por profesionales de la firma y sus materiales complementarios. ([McKinsey & Company](https://www.mckinsey.com/featured-insights/mckinsey-on-books?utm_source=chatgpt.com "McKinsey Books on Leadership and Management"))
 
-# REVISTAS
+## REVISTAS
 
 [McKinsey Quarterly](https://www.mckinsey.com/quarterly/overview) – Revista de management de McKinsey, publicada desde 1964 y dedicada a estrategia, liderazgo, organización, finanzas, tecnología y gestión empresarial. Cuenta con un amplio archivo histórico. ([McKinsey & Company](https://www.mckinsey.com/quarterly/overview?utm_source=chatgpt.com "McKinsey Quarterly"))
 
@@ -148,7 +154,7 @@ La firma concentra su presencia oficial en YouTube fundamentalmente en el canal 
 
 [McKinsey on Consumer and Retail](https://www.mckinsey.com/industries/retail/our-insights) – Colección editorial sobre consumo, distribución, comercio electrónico, marcas, comportamiento del cliente y economía del retail.
 
-# MUSEOS
+## MUSEOS
 
 No existe un museo institucional de McKinsey & Company ni una colección museística pública permanente dedicada exclusivamente a su historia.
 
@@ -156,7 +162,7 @@ No existe un museo institucional de McKinsey & Company ni una colección museís
 
 [McKinsey at 100](https://www.mckinsey.com/about-us/new-at-mckinsey-blog) – El portal institucional _New at McKinsey_ contiene durante 2026 materiales producidos con motivo del centenario de la firma, incluyendo retrospectivas sobre proyectos históricos y evolución de la consultoría. ([McKinsey & Company](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/then-and-now-organizing-innovation-from-the-moon-landing-to-a-1-point-8-trillion-space-economy?utm_source=chatgpt.com "Then & Now: Organizing innovation—from the Moon ..."))
 
-# UNIVERSIDADES
+## UNIVERSIDADES
 
 [Stanford Institute for Human-Centered Artificial Intelligence](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-and-stanford-hai-bring-the-power-of-artificial-intelligence-and-frontier-technologies-to-clients) – McKinsey se incorporó al Corporate Affiliate Program de Stanford HAI en 2023 mediante una colaboración impulsada por QuantumBlack y McKinsey Technology Council para profundizar en IA y tecnologías de frontera. ([McKinsey & Company](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-and-stanford-hai-bring-the-power-of-artificial-intelligence-and-frontier-technologies-to-clients?utm_source=chatgpt.com "McKinsey joins corporate affiliate program at Stanford HAI ..."))
 
@@ -178,7 +184,7 @@ No existe un museo institucional de McKinsey & Company ni una colección museís
 
 [University of Chicago](https://www.mckinsey.com/about-us/overview/history-of-our-firm) – Universidad históricamente esencial para comprender el origen de la firma: James O. McKinsey era profesor de management accounting en esta institución cuando creó su consultora en Chicago en 1926. ([McKinsey & Company](https://www.mckinsey.com/about-us/overview/history-of-our-firm?utm_source=chatgpt.com "History of our firm"))
 
-# ASOCIACIONES
+## ASOCIACIONES
 
 [World Economic Forum](https://www.weforum.org/) – Foro internacional con el que McKinsey mantiene una relación histórica de participación y producción de contenidos alrededor de su Annual Meeting; sus podcasts y publicaciones de 2026 incluyen análisis desde Davos. ([McKinsey & Company](https://www.mckinsey.com/featured-insights/mckinsey-podcast?utm_source=chatgpt.com "The McKinsey Podcast on Business & Management"))
 
@@ -196,7 +202,7 @@ No existe un museo institucional de McKinsey & Company ni una colección museís
 
 [McKinsey Health Institute Ecosystem](https://www.mckinsey.com/mhi/our-ecosystem) – Directorio oficial particularmente útil para identificar colaboraciones verificadas de McKinsey con organizaciones sanitarias, académicas, tecnológicas y filantrópicas. ([McKinsey & Company](https://www.mckinsey.com/mhi/our-ecosystem?utm_source=chatgpt.com "Our Ecosystem"))
 
-# NEWSLETTER
+## NEWSLETTER
 
 [The CEO Shortlist](https://www.mckinsey.com/featured-insights) – Newsletter dirigida a altos ejecutivos que selecciona investigaciones de especial interés para la C-suite. Continúa activa en agosto de 2026. ([McKinsey & Company](https://www.mckinsey.com/~/media/mckinsey/email/shortlist/292/2026-08-07b.html?utm_source=chatgpt.com "The CEO Shortlist: Easier said than scaled"))
 
@@ -214,7 +220,7 @@ No existe un museo institucional de McKinsey & Company ni una colección museís
 
 [McKinsey Insights](https://www.mckinsey.com/featured-insights) – Ecosistema de newsletters y alertas editoriales personalizables que permite seguir diferentes líneas de investigación de la firma. ([McKinsey & Company](https://www.mckinsey.com/featured-insights?utm_source=chatgpt.com "Explore our insights"))
 
-# TV
+## TV
 
 McKinsey no opera una cadena de televisión convencional. Para investigación audiovisual externa sobre la firma y la aparición pública de sus socios y analistas, resultan especialmente útiles los siguientes medios:
 
@@ -228,7 +234,7 @@ McKinsey no opera una cadena de televisión convencional. Para investigación au
 
 [Financial Times Video](https://www.ft.com/video) – Producción audiovisual del _Financial Times_ sobre mercados, empresa, economía, consultoría y gestión corporativa.
 
-# RADIO
+## RADIO
 
 McKinsey no dispone de una emisora radiofónica convencional. Su principal producción sonora propia se distribuye como podcast.
 
@@ -242,7 +248,7 @@ McKinsey no dispone de una emisora radiofónica convencional. Su principal produ
 
 [McKinsey Talks Talent](https://www.mckinsey.com/capabilities/people-and-organizational-performance/mckinsey-talks-talent-podcast) – Producción sonora institucional especializada en organización, empleo y liderazgo. ([McKinsey & Company](https://www.mckinsey.com/capabilities/people-and-organizational-performance/mckinsey-talks-talent-podcast?utm_source=chatgpt.com "McKinsey Talks Talent Podcast | People & Organizational ..."))
 
-# PRENSA ONLINE
+## PRENSA ONLINE
 
 [McKinsey Media Center](https://www.mckinsey.com/about-us/media) – Fuente primaria para comunicados, fact sheets, contactos de prensa y referencias a cobertura periodística de McKinsey. ([McKinsey & Company](https://www.mckinsey.com/about-us/media?utm_source=chatgpt.com "Media | McKinsey & Company"))
 
@@ -264,7 +270,7 @@ McKinsey no dispone de una emisora radiofónica convencional. Su principal produ
 
 [Harvard Business Review](https://hbr.org/) – Publicación académica-profesional particularmente relevante por su larga relación editorial con McKinsey Global Publishing y por publicar artículos de numerosos profesionales de la firma. ([McKinsey & Company](https://www.mckinsey.com/featured-insights/themes/celebrating-a-century-of-hbr?utm_source=chatgpt.com "Celebrating a century of HBR"))
 
-# PRENSA ESCRITA
+## PRENSA ESCRITA
 
 [Financial Times](https://www.ft.com/) – Diario financiero internacional de referencia para investigar McKinsey dentro del sector de consultoría estratégica y servicios profesionales.
 

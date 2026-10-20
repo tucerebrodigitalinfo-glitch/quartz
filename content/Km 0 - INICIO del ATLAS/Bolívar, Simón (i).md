@@ -1,16 +1,18 @@
 ---
 publish: true
 created: 2026-08-20T08:08:13.798Z
-modified: 2026-09-18T09:36:49.005Z
+modified: 2026-10-03T15:54:42.968Z
 ---
 
 #Índices #Política #Libertador #América
 
-# [Wikipedia](https://es.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar?wprov=sfla1)
-
 # SIMÓN BOLÍVAR
 
+![[Biblioteca/Pasted image 20261003175413.png]]
+
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+
+# [Wikipedia](https://es.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar?wprov=sfla1)
 
 # WEB
 

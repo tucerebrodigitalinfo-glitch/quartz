@@ -1,11 +1,24 @@
 ---
 publish: true
 created: 2026-08-04T13:16:17.690Z
-modified: 2026-09-18T09:36:23.813Z
+modified: 2026-10-10T18:07:42.217Z
 ---
 
-#Geopolítica #Orden
+#Geopolítica #Orden #Bremmer #DOAC #Notebook
+
+![[Biblioteca/Pasted image 20261010172229.png]]
+
+### [Ian Bremmer, DOAC, Youtube](https://youtu.be/EVts3Ui_0AI?si=XvajJbbNTOVNzIIx)
+
+### [Introducción](https://notebooklm.link.google/u1hdP1727iVG)
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/3d6602de-dd23-4d1e-84c8-200ade64735d?authuser=2)
 
+![[N1048 El_peligroso_vacío_del_mundo_G-Cero.m4a]]
+![[Biblioteca/N1048 Geopolítica_2026__Riesgos_Globales.png]]
+
+![[Biblioteca/N1048 Riesgos_Globales_2026.mp4]]
+![[Biblioteca/N1048 Navigating_the_G-Zero_Era.pdf]]
 Estas fuentes analizan el panorama geopolítico de **2026**, destacando a **Estados Unidos** como el principal generador de inestabilidad debido a su renuncia al liderazgo global y su crisis política interna. Se examina el ascenso estratégico de **China**, que ha logrado dominar la cadena de suministro de **minerales críticos** y tecnologías energéticas mediante una planificación a largo plazo. La **inteligencia artificial** surge como una amenaza sistémica capaz de comprometer la seguridad de infraestructuras vitales y profundizar la desigualdad social frente a las élites tecnológicas. El análisis también aborda los conflictos en el **Medio Oriente**, donde las tensiones entre Irán, Israel y EE. UU. amenazan el comercio de petróleo en el **Estrecho de Ormuz**. Finalmente, los textos advierten sobre un vacío de poder mundial, denominado **G-Zero**, donde la falta de coordinación entre potencias debilita la gobernanza internacional. Esta visión conjunta subraya el peligroso desajuste entre el acelerado avance tecnológico y la fragilidad de las instituciones políticas actuales.
+
+![[Biblioteca/N1048 Riesgos Geopoliticos Mind Map.png]]

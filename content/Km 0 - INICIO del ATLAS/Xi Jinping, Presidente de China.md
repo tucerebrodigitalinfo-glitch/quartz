@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-08T13:01:11.356Z
-modified: 2026-09-18T09:36:55.692Z
+modified: 2026-09-25T14:19:17.567Z
 ---
 
-#IA #WAICO #Historia #Formación #China
+#IA #WAICO #Historia#China
 
 [Teoría China](https://sp.theorychina.org.cn/)
 

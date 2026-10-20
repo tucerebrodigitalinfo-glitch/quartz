@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-01T14:17:28.657Z
-modified: 2026-09-18T09:36:54.374Z
+modified: 2026-10-12T17:26:14.194Z
 ---
 
 #Política #Sociedad  #Índices
@@ -15,6 +15,8 @@ modified: 2026-09-18T09:36:54.374Z
 ## CAPITALISMO
 
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+
+### [Mo Gawdat](https://youtu.be/r5r4g3AL2as?si=RoRy6aUX6F6vla-Q)
 
 ## [Wikipedia](https://es.wikipedia.org/wiki/Capitalismo)
 

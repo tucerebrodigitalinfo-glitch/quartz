@@ -1,17 +1,22 @@
 ---
 publish: true
 created: 2026-08-21T18:50:07.657Z
-modified: 2026-09-18T09:36:51.663Z
+modified: 2026-10-09T11:28:21.656Z
 ---
 
-#PWC #Informes #IA #Trabajo
+#PWC #Informes #IA #Trabajo #Notebook
 
-# [Gemini Notebook](https://notebook.google.com/notebook/d8b2c7cc-2589-43de-b578-ccb4138bb2a6)
+### [PwC](https://www.pwc.ie/media-centre/press-releases/2025/ai-jobs-barometer-2025.html#:~:text=AI%20is%20making%20workers%20more%20valuable%2C%20productive%2C%20and,PwC%E2%80%99s%202025%20Global%20AI%20Jobs%20Barometer%2C%20released%20today.)
+
+### [Introducción](https://notebooklm.link.google/llKLPsYAQbJs)
+
+### [Gemini Notebook](https://notebook.google.com/notebook/d8b2c7cc-2589-43de-b578-ccb4138bb2a6)
+
+![[N1070 Serás_el_jefe_de_tus_propios_algoritmos.m4a]]
 
 ![[Biblioteca/N1070 Mercado_Laboral_y_la_IA.png]]
-![[N1070 Serás_el_jefe_de_tus_propios_algoritmos.mp3]]
 
-![[N1070 Dos_futuros_para_el_empleo.mp4]]
+![[Biblioteca/N1070 Dos_futuros_para_el_empleo.mp4]]
 ![[Biblioteca/N1070 The_AI_Labor_Bifurcation.pdf]]
 
 El **Barómetro Global del Empleo e IA 2026** de PwC analiza cómo la inteligencia artificial está reconfigurando el mercado laboral mundial, creando una estructura de **dos vías** fundamentales. El informe distingue entre trabajos **profesionalizados**, que exigen mayor pericia humana y ven aumentar sus salarios, y empleos **democratizados**, donde la tecnología reduce las barreras de especialización. Contrario al temor del desempleo masivo, los datos indican que las empresas con mayor exposición a la IA experimentan un **crecimiento superior en su plantilla** y productividad. Un hallazgo clave es la **seniorización** de los puestos de entrada, los cuales ahora requieren habilidades de liderazgo y juicio ético desde etapas tempranas. La evolución de las competencias es ahora **dos veces más rápida** en sectores tecnológicos, priorizando facultades exclusivamente humanas como la empatía y la creatividad. En última instancia, el éxito en esta era depende de la capacidad de las organizaciones para **rediseñar el trabajo** en colaboración con la tecnología.

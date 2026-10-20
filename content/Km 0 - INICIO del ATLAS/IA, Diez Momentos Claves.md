@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-12T14:35:28.935Z
-modified: 2026-09-18T09:36:21.319Z
+modified: 2026-09-28T17:55:48.939Z
 ---
 
-#IA #Historia #Clave
+#IA #Historia #Clave #Redes
 
-## [Weforum](https://es.weforum.org/stories/emerging-technologies/una-breve-historia-de-la-ia-en-10-momentos-clave/)
+## [Weforum, Una breve historia de la IA en 10 momentos clave](https://es.weforum.org/stories/emerging-technologies/una-breve-historia-de-la-ia-en-10-momentos-clave/)
 
 ## [La Evolución de la Inteligencia Artificial: 10 Momentos Clave que Cambiaron el Futuro - Tichile](https://www.tichile.cl/la-evolucion-de-la-inteligencia-artificial-10-momentos-clave-que-cambiaron-el-futuro/)
 

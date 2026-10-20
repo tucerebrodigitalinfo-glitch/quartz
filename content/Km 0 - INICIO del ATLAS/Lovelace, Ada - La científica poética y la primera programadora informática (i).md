@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-15T13:35:00.535Z
-modified: 2026-09-18T09:36:42.239Z
+modified: 2026-10-06T21:23:48.471Z
 ---
 
-#Cientifica #Programas #Computación #Innovadores
+#Cientifica #Programas #Computación #Innovadores  #Matemáticas
 
-Gemini Notebook (TCD): [[N1068 Ada Lovelace, La científica poética y la primera programadora informática]]
+### [[N1068 Ada Lovelace, La científica poética y la primera programadora informática]]
 
 ![Retrato de Ada Lovelace, atribuido a Alfred Edward Chalon, Science Museum Group Collection](https://tse2.mm.bing.net/th/id/OIP.MPW9pjpBCfOyQ1qO5ExInQHaJv?pid=Api)
 

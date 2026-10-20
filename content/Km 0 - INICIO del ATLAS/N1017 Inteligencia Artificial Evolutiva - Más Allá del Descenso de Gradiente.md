@@ -1,20 +1,23 @@
 ---
 publish: true
 created: 2026-07-12T14:39:05.885Z
-modified: 2026-09-18T09:36:19.716Z
+modified: 2026-10-12T19:07:24.298Z
 ---
 
 #IA #Futuro  #Notebook
 
+## [Gemini Notebook](https://notebook.google.com/notebook/5b57a197-8786-4097-8ee9-8d2f46e87328?authuser=2)
+
 ![[N1017a IA_que_muta_y_evoluciona_sola.m4a]]
 ![[Biblioteca/N1017c IA_Evolutiva_y_Optimización_Global.png]]
 
-## [NOTEBOOK: IA Evolutiva](https://notebook.google.com/notebook/5b57a197-8786-4097-8ee9-8d2f46e87328?authuser=2)
-
 ![[Biblioteca/N1017 Evolutionary_AI_Landscapes.pdf]]
-![[Biblioteca/N1017b IA_Evolutiva.mp4]]![[Biblioteca/N1017d IA Evolutiva que muta sola.png]]
+
+![[Biblioteca/N1017b IA_Evolutiva.mp4]]
 
 Las fuentes describen la Inteligencia Artificial Evolutiva como una alternativa superior al aprendizaje profundo tradicional cuando se enfrentan entornos complejos y no diferenciables. Mediante una exploración masiva y paralela de poblaciones, esta disciplina supera las limitaciones matemáticas del descenso de gradiente al procesar espacios discretos o discontinuos. El contenido detalla un ciclo de optimización basado en procesos biológicos como la selección, el cruce y la mutación, apoyado actualmente por herramientas como EvoJAX que eliminan cuellos de botella técnicos. Además, se destacan aplicaciones innovadoras que incluyen la optimización de prompts en modelos de lenguaje y el diseño conjunto de la estructura física y el control neuronal en robótica. En conjunto, los textos presentan este paradigma como el motor esencial para resolver problemas de diseño de caja negra donde los métodos convencionales fallan.
+
+![[Biblioteca/N1017d IA Evolutiva que muta sola.png]]
 
 📋 _Metadatos y Resumen Principal_
 

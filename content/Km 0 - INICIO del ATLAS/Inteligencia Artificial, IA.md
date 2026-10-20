@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-10T18:26:10.794Z
-modified: 2026-09-18T09:36:18.536Z
+modified: 2026-10-05T10:08:42.006Z
 ---
 
 #IA

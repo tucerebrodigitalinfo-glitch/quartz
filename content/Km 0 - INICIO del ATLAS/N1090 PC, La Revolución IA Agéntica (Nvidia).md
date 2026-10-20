@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-18T09:22:42.604Z
-modified: 2026-10-18T16:24:16.912Z
+modified: 2026-10-18T16:49:51.236Z
 ---
 
 #IA #PC #Agentes #Nvidia
@@ -13,7 +13,6 @@ modified: 2026-10-18T16:24:16.912Z
 ### [Géminis Notebook](https://notebooklm.link.google/XUzjwxj2AWzk)
 
 ![[Biblioteca/N1090 El_PC_tradicional_ha_muerto.mp3]]
-
 ![[Biblioteca/N1090 El fin del PC tradicional.png]]
 
 ![[Biblioteca/N1090 Cómo los agentes de IA eliminan las apps.mp4]]

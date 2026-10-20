@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-08-11T14:08:13.185Z
-modified: 2026-09-18T09:36:41.746Z
+modified: 2026-10-10T15:15:32.097Z
 ---
 
-#IA #Futuro #Kokotajlo #ASI
+#IA #Futuro #Kokotajlo #ASI #Notebook #DOAC
 
-## [Gemini Notebook](https://notebook.google.com/notebook/a9580ba6-ad9f-4f63-823b-c5edc5b84a95?authuser=3)
+### [Daniel Kokotajlo, DOAC, Youtube](https://youtu.be/_g4l7YkDQwA?si=WlolUQmV0jkPt9ya)
 
-## [Youtube](https://youtu.be/_g4l7YkDQwA?si=WlolUQmV0jkPt9ya)
+### [AI2027](https://ai-2027.com/es)  [AI2040](https://ai-2040.com/)
 
-## [AI2027](https://ai-2027.com/es)
+### [Blog AI FUTURISM](https://blog.redwoodresearch.org/p/ai-futurism-reading-list)
 
-## [AI2040](https://ai-2040.com/)
+### [Introducción](https://notebooklm.link.google/dAw6OV4iLXAZ)
 
-## [Blog AI FUTURISM](https://blog.redwoodresearch.org/p/ai-futurism-reading-list)
+### [Gemini Notebook](https://notebook.google.com/notebook/a9580ba6-ad9f-4f63-823b-c5edc5b84a95?authuser=3)
 
 ![[Biblioteca/N1065 Renunciar_a_millones_para_advertir_sobre_OpenAI.mp3]]
 

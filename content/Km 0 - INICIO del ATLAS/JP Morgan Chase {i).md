@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-08-21T04:35:21.829Z
-modified: 2026-09-18T09:36:50.803Z
+modified: 2026-10-01T10:42:45.447Z
 ---
 
 #Índices #Finanzas #Banca
-
-# [Wikipedia](https://es.wikipedia.org/wiki/JP_Morgan_Chase?wprov=sfla1)
 
 ![Image](https://www.jpmorganchase.com/content/dam/jpmorganchase/images/newsroom/stories/grand-opening-park-270/270park-hero-1440x810.jpg)
 
@@ -19,6 +17,8 @@ modified: 2026-09-18T09:36:50.803Z
 # JPMORGAN CHASE
 
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+
+# [Wikipedia](https://es.wikipedia.org/wiki/JP_Morgan_Chase?wprov=sfla1)
 
 # WEB
 

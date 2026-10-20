@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-09-11T19:22:29.216Z
-modified: 2026-09-18T09:36:56.597Z
+modified: 2026-09-29T10:07:09.498Z
 ---
 
-#IA #Personajes #Científicos
-
-## [Wikipedia](https://es.wikipedia.org/wiki/Yoshua_Bengio?wprov=sfla1)
+#IA #Personajes #Científicos #Turing
 
 ![Image](https://images.openai.com/static-rsc-4/F-PxTo4uEXqCAYhn1g6apkzKRNAqtmLzkUe0rIQrSsiPIuFQnPIdGXu0EHec3xQXPjMNIynfUhqylN4VbGAQ7wL56s4jPV52TnMLzUk_hfPfXhTGNgrIKKJXTpSI56yrrJIes6px1mpvOZUw9wdxNvm0YejBUStaGgCOxWGqER3P-83WOToJHe0vBjmSD8Lu?purpose=fullsize)
 
@@ -25,6 +23,8 @@ modified: 2026-09-18T09:36:56.597Z
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
 > **Nota de identificación:** el nombre oficial del investigador es **Yoshua Bengio** (París, 1964), no «Joshua Bengio». Es profesor titular de informática en Université de Montréal, fundador y asesor científico de Mila, copresidente y director científico de LawZero y titular de una Canada CIFAR AI Chair. Compartió el **ACM A.M. Turing Award 2018** con Geoffrey Hinton y Yann LeCun por las contribuciones conceptuales y de ingeniería que convirtieron las redes neuronales profundas en un componente fundamental de la informática. ([Yoshua Bengio](https://yoshuabengio.org/en?utm_source=chatgpt.com "Home | Yoshua Bengio"))
+
+## [Wikipedia](https://es.wikipedia.org/wiki/Yoshua_Bengio?wprov=sfla1)
 
 ## WEB
 

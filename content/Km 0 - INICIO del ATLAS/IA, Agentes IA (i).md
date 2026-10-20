@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-12T14:33:14.126Z
-modified: 2026-09-18T09:36:22.564Z
+modified: 2026-10-03T20:11:24.822Z
 ---
 
 #IA #Agentes  #Índices
 
 [OpenAI Frontier | Enterprise platform for AI agents | OpenAI](https://openai.com/business/frontier/?utm_source=chatgpt.com)
 
-[[IA, Agentes Atómicos]]
+[[N1082 IA, Agentes Atómicos]]
 
 # AGENTES IA
 

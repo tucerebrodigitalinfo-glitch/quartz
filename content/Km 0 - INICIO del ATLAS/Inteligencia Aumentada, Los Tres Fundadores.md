@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:33:33.467Z
-modified: 2026-09-18T09:36:21.838Z
+modified: 2026-10-05T10:08:42.166Z
 ---
 
 #Cientifica #Programadora

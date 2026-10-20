@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:37:00.711Z
-modified: 2026-09-18T09:36:20.779Z
+modified: 2026-10-02T10:53:51.468Z
 ---
 
 La Inteligencia Artificial es una de las transformaciones intelectuales y tecnológicas más importantes de la historia humana. Este MOC reúne las personas, conceptos, eventos, herramientas y preguntas que permiten comprender su evolución y su posible futuro.
@@ -12,7 +12,7 @@ La Inteligencia Artificial es una de las transformaciones intelectuales y tecnol
 
 ### Funcionamiento
 
-[[Funcionamiento  IA]]
+[[IA, Funcionamiento]]
 
 ### 10 Momentos Clave
 

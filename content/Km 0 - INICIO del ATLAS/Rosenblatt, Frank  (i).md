@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-12T14:36:07.320Z
-modified: 2026-09-18T09:36:21.112Z
+modified: 2026-09-29T17:32:09.812Z
 ---
 
 #Científicos #Personajes #IA
 
 [![Professor’s perceptron paved the way for AI – 60 years too soon ...](https://tse1.mm.bing.net/th/id/OIP.KQGWWE7cZD4AoqpRk2wvbQHaFy?r=0\&pid=Api)](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon?utm_source=chatgpt.com)
+![[Biblioteca/Pasted image 20260929193132.png]]
+Frank Rosenblatt y Charles W. Wightman
 
 # FRANK ROSENBLATT (i)
 

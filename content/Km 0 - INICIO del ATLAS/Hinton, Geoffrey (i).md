@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:36:22.526Z
-modified: 2026-09-18T09:36:20.963Z
+modified: 2026-10-09T14:08:50.432Z
 ---
 
-#iA #Personajes #Científicos #Wikipedia
+#iA #Personajes #Científicos #Nobel #Hinton
 
 # GEOFFREY HINTON
 

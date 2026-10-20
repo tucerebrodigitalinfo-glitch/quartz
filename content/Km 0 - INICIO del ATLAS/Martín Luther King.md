@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-08-27T18:25:51.450Z
-modified: 2026-09-18T09:36:52.918Z
+modified: 2026-09-28T16:27:23.057Z
 ---
 
-#Índices #Políticos
-
-# [Wikipedia](https://es.wikipedia.org/wiki/Martin_Luther_King?wprov=sfla1)
+#Índices #Políticos #Nobel
 
 ![Image](https://tile.loc.gov/storage-services/service/pnp/ds/00800/00836v.jpg)
 
@@ -14,9 +12,11 @@ modified: 2026-09-18T09:36:52.918Z
 
 ![Image](https://tile.loc.gov/storage-services/service/pnp/ppmsca/72900/72947v.jpg)
 
-# MARTIN LUTHER KING JR.
+## MARTIN LUTHER KING JR.
 
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+
+## [Wikipedia](https://es.wikipedia.org/wiki/Martin_Luther_King?wprov=sfla1)
 
 ## WEB
 

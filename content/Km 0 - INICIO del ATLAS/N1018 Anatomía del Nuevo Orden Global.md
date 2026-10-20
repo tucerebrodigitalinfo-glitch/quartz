@@ -1,19 +1,21 @@
 ---
 publish: true
 created: 2026-07-12T14:39:09.088Z
-modified: 2026-09-18T09:36:19.619Z
+modified: 2026-10-05T21:35:09.818Z
 ---
 
 #Geopolítica #Notebook
 
 ## [Weforum: Nuevo Orden Mundial](https://www.weforum.org/search/?query=orden+mundial)
 
-## [Gemini Notebook](https://notebooklm.google.com/notebook/232338d9-fe8f-44d9-8c5b-e745909c4feb?utm_source=nlmm_shareutm_source=nlmm_share)
-
 ## [Orden liberal internacional @ Wikipedia](https://es.wikipedia.org/wiki/Orden_liberal_internacional)
 
+## [Gemini Notebook](https://notebooklm.google.com/notebook/232338d9-fe8f-44d9-8c5b-e745909c4feb?utm_source=nlmm_shareutm_source=nlmm_share)
+
+![[N1018f China_domina_el_hardware_del_futuro.m4a]]
+
 ![[Biblioteca/N1018d Pugna_por_la_Hegemonía_Global.png]]
-![[N1018f China_domina_el_hardware_del_futuro.m4a]]![[Biblioteca/N1018g El_fin_de_la_hegemonía.mp4]]![[Biblioteca/N1018c Anatomy_of_the_New_Global_Order.pdf]]
+![[Biblioteca/N1018g El_fin_de_la_hegemonía.mp4]]![[Biblioteca/N1018c Anatomy_of_the_New_Global_Order.pdf]]
 
 ![[Biblioteca/N1018e NotebookLM Mind Map (1).png]]
 

@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-17T09:47:19.883Z
-modified: 2026-09-18T09:36:44.097Z
+modified: 2026-10-02T12:13:23.842Z
 ---
 
-#Filosofía
+#Filosofía #Historia
 
 ![Busto de Epicuro, Musei Capitolini, Roma](https://museicapitolini.comune.roma.it/mcap-div-be/asset/image/39845/max)
 

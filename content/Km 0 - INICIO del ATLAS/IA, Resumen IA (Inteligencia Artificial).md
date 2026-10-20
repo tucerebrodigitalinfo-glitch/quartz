@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:40:15.065Z
-modified: 2026-09-18T09:36:19.172Z
+modified: 2026-10-04T15:57:57.975Z
 ---
 
 ![](Biblioteca/data/md-images/6527849e-362d-43b4-8fc1-9632012c281a.webp)
@@ -63,8 +63,6 @@ Inteligencia Artificial | IBM (https://www.ibm.com/es-es/think/artificial-intell
 # [EDTEAM: Curso gratis: Inteligencia Artificial para todos](https://youtu.be/gYrfGnYob5Q?si=2BMLizSApAIgSIfA)
 
 ![](Biblioteca/data/md-images/8bb8e264-9bae-4d01-8220-bd34b0190129.jpeg)
-
-# [EDTEAM](https://youtu.be/WCM0h9TX7cY?si=8XndqELFwNfB028z)
 
 # [EDTEAM](https://youtu.be/WCM0h9TX7cY\&t=22s)
 
