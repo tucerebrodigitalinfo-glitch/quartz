@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T11:46:00.549Z
-modified: 2026-10-11T19:37:19.902Z
+modified: 2026-10-20T17:04:06.406Z
 ---
 
 #China #Tecnología #Hábitos #Mentalidad #Notebook #Feijo
@@ -16,7 +16,7 @@ modified: 2026-10-11T19:37:19.902Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/8c47890b-a22f-4000-8786-6585fa9ce08d?authuser=2)
 
-![[N1043 El_universo_paralelo_de_la_China_moderna 1.m4a]]
+![[Biblioteca/N1043 El_universo_paralelo_de_la_China_moderna.mp3]]
 
 ![[Biblioteca/N1043 Dualidad__Mentalidad_y_Tecnología_China.png]]
 
