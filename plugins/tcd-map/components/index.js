@@ -46,11 +46,11 @@ const TcdMapComponent = ({ fileData }) => {
           "a",
           {
             class: "tcd-portal-hotspot compass",
-            href: "/favoritos",
-            "aria-label": "Abrir Favoritos",
-            title: "Explorar Favoritos",
+           href: "/km-0---inicio-del-atlas/{km-0}---inicio-del-atlas",
+            "aria-label": "KM0 — Inicio del Atlas",
+            title: "KM0 — Inicio del Atlas",
           },
-          h("span", { class: "tcd-visually-hidden" }, "Favoritos")
+         h("span", { class: "tcd-visually-hidden" }, "KM0 — Inicio del Atlas")
         ),
 
         h(
