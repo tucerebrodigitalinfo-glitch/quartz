@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-13T18:42:06.505Z
+modified: 2026-10-20T19:37:13.102Z
 ---
 
 #Km0
@@ -472,7 +472,12 @@ modified: 2026-10-13T18:42:06.505Z
 [[N1084 Y si la automatización de la I+D en IA desencadena una explosión de inteligencia]]
 [[N1085 McKinsey, Tendencias Tecnológicas 2026]]
 [[N1086 Explosión de Inteligencia, Irving John Good]]
+[[N1087 Schumpeter, Economía Evolutiva y Destrucción Creativa]]
 [[LLM, Napkin, presentaciones]]
+[[N1088 WDR26 La Promesa de la IA, Banco Mundial]]
+[[N1089 IA, Historia de la Inteligencia Artificial]]
+[[N1090 PC, La Revolución IA Agéntica (Nvidia)]]
+[[N1091 IA, Singularidad ya está aquí (Jack Clark)]]
 [[NASA (i)]]
 [[Naturaleza (i)]]
 [[Nature (i)]]
