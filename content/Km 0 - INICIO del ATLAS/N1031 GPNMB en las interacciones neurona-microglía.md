@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-03T20:16:39.026Z
-modified: 2026-10-13T19:12:50.627Z
+modified: 2026-10-20T16:33:29.603Z
 ---
 
 #Salud #Parkinson #Notebook
@@ -13,7 +13,7 @@ modified: 2026-10-13T19:12:50.627Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/71af2057-4567-4e18-9267-36cf0d799982?authuser=2)
 
-![[N1031 GPNMB_el_caballo_de_Troya_del_Parkinson.m4a]]
+![[Biblioteca/N1031 GPNMB_el_caballo_de_Troya_del_Parkinson.mp3]]
 ![[Biblioteca/N1031 Ciclo_del_GPNMB_en_Parkinson.png]]
 
 ![[Biblioteca/N1031 Avance_en_el_Parkinson.mp4]]
