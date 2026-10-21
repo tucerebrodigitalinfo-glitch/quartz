@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-10-19T13:56:17.678Z
-modified: 2026-10-19T14:32:33.869Z
+modified: 2026-10-21T11:34:02.206Z
 ---
 
 #IA #Anthropic #Singularidad #Notebook
 
 ![[Biblioteca/Pasted image 20261019160730.png]]
 
-### [Jack Clark, AI Revolution, Youtube](https://youtu.be/wWhfyx9yxPc?si=61W6oYVjBCDIHyRL)
+### [Jack Clark, AI Revolution, Youtube](https://youtu.be/wWhfyx9yxPc?si=61W6oYVjBCDIHyRL) - [The Anthropic Institute](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf)
 
 ### [Introducción](https://notebooklm.link.google/Oi1BcmE24DJp)
 
