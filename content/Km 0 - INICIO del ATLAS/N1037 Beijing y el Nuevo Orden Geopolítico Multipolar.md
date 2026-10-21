@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T11:17:56.749Z
-modified: 2026-10-12T17:25:03.352Z
+modified: 2026-10-21T22:29:02.661Z
 ---
 
 #Orden #Geopolítica #Notebook #China
@@ -12,7 +12,7 @@ modified: 2026-10-12T17:25:03.352Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/14ababed-a333-4b48-b7db-7adf9895ec02?authuser=6)
 
-![[N1037 Cómo_China_rediseña_el_poder_mundial.m4a]]
+![[Biblioteca/N1037 Cómo_China_rediseña_el_poder_mundial.mp3]]
 
 ![[Biblioteca/N1037 El_Ascenso_de_la_Multipolaridad.png]]
 
