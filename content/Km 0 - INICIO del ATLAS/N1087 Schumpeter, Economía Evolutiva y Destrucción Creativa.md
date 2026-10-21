@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-14T11:19:34.737Z
-modified: 2026-10-18T07:21:30.505Z
+modified: 2026-10-21T21:36:59.278Z
 ---
 
 º#Capitalismo #Schumpeter #Notebook
@@ -14,7 +14,7 @@ modified: 2026-10-18T07:21:30.505Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/2307afae-6b6a-4c90-a07c-52d0673804a6)
 
-![[N1087 La_destrucción_creativa_de_Schumpeter.m4a]]
+![[Biblioteca/N1087 La_destrucción_creativa_de_Schumpeter.mp3]]
 ![[Biblioteca/N1087 Schumpeter y la destrucción creativa.png]]
 ![[Biblioteca/N1087 Cómo la destrucción creativa renueva la economía.mp4]]
 ![[Biblioteca/N1087 The_Economics_of_Creative_Destruction.pdf]]

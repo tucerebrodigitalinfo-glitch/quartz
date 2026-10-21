@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-16T11:24:41.305Z
-modified: 2026-10-18T17:52:15.502Z
+modified: 2026-10-21T21:33:49.355Z
 ---
 
 #IA #BM #WB #Banco #WDR #Notebook #Informes
@@ -14,7 +14,7 @@ modified: 2026-10-18T17:52:15.502Z
 
 ### [Géminis Notebook](https://notebooklm.link.google/muYFiKysnNfD)
 
-![[N1088 La_IA_pequeña_como_atajo_al_desarrollo.m4a]]
+![[Biblioteca/N1088 La_IA_pequeña_como_atajo_al_desarrollo.mp3]]
 ![[Biblioteca/N1088 La promesa de la IA.png]]
 
 ![[Biblioteca/N1088 El verdadero impacto de la IA en los países en desarrollo.mp4]]

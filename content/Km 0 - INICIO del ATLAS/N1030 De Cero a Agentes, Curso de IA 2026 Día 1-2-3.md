@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-03T20:12:18.976Z
-modified: 2026-10-13T18:56:13.890Z
+modified: 2026-10-21T21:44:44.802Z
 ---
 
 #IA #Formación #Agentes #Notebook
@@ -10,7 +10,7 @@ modified: 2026-10-13T18:56:13.890Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/80c59d24-2c60-4209-9071-fece5f5a65b0?authuser=2)
 
-![[N1030 Tu_IA_ya_no_es_un_becario.m4a]]
+![[Biblioteca/N1030 Tu_IA_ya_no_es_un_becario.mp3]]
 ![[Biblioteca/N1030 Dominio_Profesional_de_la_IA.png]]
 
 ![[Biblioteca/N1030__De_0_a_Agentes.mp4]]
