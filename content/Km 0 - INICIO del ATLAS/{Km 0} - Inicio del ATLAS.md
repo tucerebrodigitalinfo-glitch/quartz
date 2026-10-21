@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-20T19:37:13.102Z
+modified: 2026-10-20T23:15:45.921Z
 ---
 
 #Km0
@@ -631,7 +631,7 @@ modified: 2026-10-20T19:37:13.102Z
 [[Warren McCulloch (i)]]
 [[WEF - World Economic Forum (i)]]
 [[WEF (Foro Económico Mundial)]]
-[[WEF Informes]]
+[[WEF, World Economic Forum]]
 [[Wikipedia]]
 [[Wikipedia (I)]]
 [[Wired]]

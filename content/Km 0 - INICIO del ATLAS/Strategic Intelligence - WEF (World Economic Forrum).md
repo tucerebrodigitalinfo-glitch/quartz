@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-07-12T14:40:39.245Z
-modified: 2026-09-18T09:36:19.026Z
+modified: 2026-10-20T23:06:27.666Z
 ---
 
-#IA #WEF #Formación
+#IA #WEF #Formación #WeForum
 
-https://intelligence.weforum.org/topics/a1Gb0000000pTDREA2
+[Inteligencia Estratégica](https://intelligence.weforum.org/collection/6400f371-6eac-4f26-a740-14590451f574)
 
-<iframe src="https://www.weforum.org/event_player/a0PTG00000DJqI92AL?locale=es&lang=Spanish&theme=light" width="100%" height="950" frameborder="0" scrolling="no"></iframe>
+```
+<iframe src="[Strategic Intelligence](https://intelligence.weforum.org/collection/6400f371-6eac-4f26-a740-14590451f574)" width="100%" height="950" frameborder="0" scrolling="no"></iframe>
+```
