@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-29T14:54:37.034Z
-modified: 2026-10-09T13:38:16.599Z
+modified: 2026-10-21T21:26:49.314Z
 ---
 
 #IA #Redes #Neuronales #MundoCiencia
@@ -12,7 +12,7 @@ modified: 2026-10-09T13:38:16.599Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/f3941659-7b6f-443d-9763-0b2107fbd7aa)
 
-![[N1079 El_mito_biológico_de_las_redes_neuronales.m4a]]
+![[Biblioteca/N1079 El_mito_biológico_de_las_redes_neuronales.mp3]]
 ![[Biblioteca/N1079 Motor_Matemático_de_la_IA.png]]
 
 ![[Biblioteca/N1079 Cómo_Aprende_una_Red_Neuronal.mp4]]

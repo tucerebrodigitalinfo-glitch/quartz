@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-20T23:15:45.921Z
+modified: 2026-10-21T20:28:24.984Z
 ---
 
 #Km0
@@ -478,6 +478,7 @@ modified: 2026-10-20T23:15:45.921Z
 [[N1089 IA, Historia de la Inteligencia Artificial]]
 [[N1090 PC, La Revolución IA Agéntica (Nvidia)]]
 [[N1091 IA, Singularidad ya está aquí (Jack Clark)]]
+[[N1092 IA, Escenarios económicos de la inteligencia artificial transformadora]]
 [[NASA (i)]]
 [[Naturaleza (i)]]
 [[Nature (i)]]
@@ -629,8 +630,8 @@ modified: 2026-10-20T23:15:45.921Z
 [[Pitts, Walter (i)]]
 [[Wan, IA Video]]
 [[Warren McCulloch (i)]]
-[[WEF - World Economic Forum (i)]]
-[[WEF (Foro Económico Mundial)]]
+[[WEF, Foro Económico Mundial (i)]]
+[[WEF, Foro Económico Mundial]]
 [[WEF, World Economic Forum]]
 [[Wikipedia]]
 [[Wikipedia (I)]]

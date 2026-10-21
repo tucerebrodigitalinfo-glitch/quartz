@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-07T12:35:36.115Z
-modified: 2026-10-14T14:12:33.301Z
+modified: 2026-10-21T19:59:29.281Z
 ---
 
 #Favoritos #Km0
@@ -118,7 +118,7 @@ Festival official selection]]
 \[\[The Thinking Game \_ Full documentary \_ Tribeca Film
 [[TuCerebroDigital.Info]]
 [[UNESCO (i)]]
-[[WEF - World Economic Forum (i)]]
+[[WEF, Foro Económico Mundial (i)]]
 [[Wikipedia]]
 [[Wikiversidad]]
 [[Wired]]
