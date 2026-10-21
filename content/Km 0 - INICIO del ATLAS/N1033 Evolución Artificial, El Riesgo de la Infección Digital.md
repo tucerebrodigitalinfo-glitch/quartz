@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T09:10:39.294Z
-modified: 2026-10-12T19:10:32.507Z
+modified: 2026-10-21T22:04:22.317Z
 ---
 
 #IA #Evolución #Notebook #PNAS
@@ -12,7 +12,7 @@ modified: 2026-10-12T19:10:32.507Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/cd275fb6-fcfe-4f9f-bfb3-e94ee1470645?authuser=6)
 
-![[N1033 IA_que_evoluciona_mediante_selección_natural.m4a]]
+![[Biblioteca/N1033 IA_que_evoluciona_mediante_selección_natural.mp3]]
 ![[Biblioteca/N1033 Infografía_sobre_Algoritmos_Evolutivos.png]]
 
 ![[Biblioteca/N1033 Algoritmos_Evolutivos_y_la_IA.mp4]]
