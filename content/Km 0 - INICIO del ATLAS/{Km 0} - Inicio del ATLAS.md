@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-21T20:28:24.984Z
+modified: 2026-10-22T12:16:58.196Z
 ---
 
 #Km0
@@ -443,7 +443,7 @@ modified: 2026-10-21T20:28:24.984Z
 [[N1056 Política industrial para la era de la inteligencia humana]]
 [[N1057 Imperios de la IA (Karen Hao), El Lado Oscuro del Progreso]]
 [[N1058 Más allá del LLM, Métodos de Optimización, RAG y Agentes]]
-[[N1059 IA, Abundancia y el Futuro del Trabajo, Desafíos de Xavier Ferràs]]
+[[N1059 IA, Abundancia y el Futuro del Trabajo, Desafíos de Xavier Ferrás]]
 [[N1060 Claude Mythos Preview, Tarjeta de Sistema y Evaluación de Riesgos]]
 [[N1061 Máquinas de Benevolencia Amorosa y el Futuro de la IA]]
 [[N1062 La adolescencia de la tecnología, El rito de paso artificial]]

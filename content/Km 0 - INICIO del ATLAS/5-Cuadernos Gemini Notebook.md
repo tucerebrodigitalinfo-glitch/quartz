@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-25T15:18:01.636Z
-modified: 2026-10-22T06:56:25.288Z
+modified: 2026-10-22T12:16:57.906Z
 ---
 
 #Cuadernos #Gemini #Notebook
@@ -64,7 +64,7 @@ modified: 2026-10-22T06:56:25.288Z
 [[N1056 Política industrial para la era de la inteligencia humana]]
 [[N1057 Imperios de la IA (Karen Hao), El Lado Oscuro del Progreso]]ç
 [[N1058 Más allá del LLM, Métodos de Optimización, RAG y Agentes]]
-[[N1059 IA, Abundancia y el Futuro del Trabajo, Desafíos de Xavier Ferràs]]
+[[N1059 IA, Abundancia y el Futuro del Trabajo, Desafíos de Xavier Ferrás]]
 [[N1060 Claude Mythos Preview, Tarjeta de Sistema y Evaluación de Riesgos]]
 [[N1061 Máquinas de Benevolencia Amorosa y el Futuro de la IA]]
 [[N1062 La adolescencia de la tecnología, El rito de paso artificial]]

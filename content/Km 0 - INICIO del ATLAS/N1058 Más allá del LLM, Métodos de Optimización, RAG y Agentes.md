@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-05T18:43:50.884Z
-modified: 2026-10-09T11:20:00.179Z
+modified: 2026-10-22T12:11:30.657Z
 ---
 
 #IA #LLM #RAG #Agentes #Agéntica #Stanford #Universidad #CS230 #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:20:00.179Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/439e4ad4-fcec-4c7e-8f0b-56bdf8b583fd?authuser=2)
 
-![[N1058 De_simples_chatbots_a_agentes_autónomos.m4a]]
+![[Biblioteca/N1058 De_simples_chatbots_a_agentes_autónomos.mp3]]
 ![[Biblioteca/N1058 Guía_para_potenciar_aplicaciones_IA.png]]
 
 ![[Biblioteca/N1058 Sobrealimentando_tu_LLM.mp4]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-05T15:01:00.199Z
-modified: 2026-10-09T11:17:46.471Z
+modified: 2026-10-22T12:00:53.322Z
 ---
 
 #IA #Industria #Futuro #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:17:46.471Z
 
 ### [Gemini Notebook](https://notebooklm.link.google/P1Cqk6K0r31T)
 
-![[N1056 La_IA_ya_es_industria_pesada.m4a]]
+![[Biblioteca/N1056 La_IA_ya_es_industria_pesada.mp3]]
 
 ![[Biblioteca/N1056 Política_Industrial__Priorizando_a_Personas.png]]
 
