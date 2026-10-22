@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-09-09T11:04:48.947Z
-modified: 2026-10-09T11:37:00.879Z
+modified: 2026-10-22T17:09:25.253Z
 ---
 
 #IA #China #Geopolítica #Entrala #WAICO #Notebook
 
-### [gustavo Entrala, Youtube](https://youtu.be/PHeOe18bPuY?si=IcsW8HBSqEXvzFJb)
+### [Gustavo Entrala, Youtube](https://youtu.be/PHeOe18bPuY?si=IcsW8HBSqEXvzFJb)
 
 ### [[IA, WAICO, World Artificial Intelligence Cooperation Organization (i)]]
 
@@ -14,7 +14,7 @@ modified: 2026-10-09T11:37:00.879Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/a3e68960-8b79-4c3a-887d-6b671e2f65fb)
 
-![[N1076 Por_qué_China_regala_su_mejor_IA.m4a]]
+![[Biblioteca/N1076 Por_qué_China_regala_su_mejor_IA.mp3]]
 ![[Biblioteca/N1076 Estrategia_de_la_IA_china.png]]
 
 ![[Biblioteca/N1076 La_trampa_de_la_inteligencia_artificial_gratuita.mp4]]

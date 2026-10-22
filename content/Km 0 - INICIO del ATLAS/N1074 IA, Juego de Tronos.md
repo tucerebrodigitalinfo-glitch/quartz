@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-06T19:07:56.099Z
-modified: 2026-10-09T11:32:31.647Z
+modified: 2026-10-22T17:03:44.594Z
 ---
 
 #IA #Entrala #LLM #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:32:31.647Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/9af6adec-118e-4ada-8936-04b6d665a3a0)
 
-![[N1074 La_guerra_física_por_la_inteligencia_artificial.m4a]]
+![[Biblioteca/N1074 La_guerra_física_por_la_inteligencia_artificial.mp3]]
 ![[Biblioteca/N1074 IA Juego de Tronos.png]]
 
 ![[Biblioteca/N1074 AI Juego de Tronos.mp4]]

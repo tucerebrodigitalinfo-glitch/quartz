@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-31T08:09:22.407Z
-modified: 2026-10-06T17:54:38.363Z
+modified: 2026-10-22T17:00:28.661Z
 ---
 
 #Notebook #Log #Telemetría #Dynatrace #Informes
@@ -12,7 +12,7 @@ modified: 2026-10-06T17:54:38.363Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/d4fdd443-fc0a-4024-930f-0be742b1f841)
 
-![[N1073 El_rastro_perdido_de_la_IA_agéntica.m4a]]
+![[Biblioteca/N1073 El_rastro_perdido_de_la_IA_agéntica.mp3]]
 
 ![[Biblioteca/N1073 Gestión_de_Logs_en_2026.png]]
 
