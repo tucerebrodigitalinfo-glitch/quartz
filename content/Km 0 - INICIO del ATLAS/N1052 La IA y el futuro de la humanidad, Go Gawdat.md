@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T13:49:00.830Z
-modified: 2026-10-10T14:12:54.031Z
+modified: 2026-10-22T11:34:27.654Z
 ---
 
 #IA #Futuro #Humanidad #Notebook #Gawdat
@@ -12,7 +12,7 @@ modified: 2026-10-10T14:12:54.031Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/85053383-1d7a-4335-9c75-8378567b0bcf?authuser=2)
 
-![[N1052 Educar_a_la_IA_como_un_hijo.m4a]]
+![[Biblioteca/N1052 Educar_a_la_IA_como_un_hijo.mp3]]
 ![[Biblioteca/N1052 Evolución_de_la_Inteligencia_Artificial.png]]
 
 ![[Biblioteca/N1052 La_Pandemia_de_la_IA.mp4]]

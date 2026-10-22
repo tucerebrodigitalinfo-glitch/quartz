@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-05T14:49:16.347Z
-modified: 2026-10-09T14:20:08.069Z
+modified: 2026-10-22T11:55:40.658Z
 ---
 
 #Fotónica #Tecnología #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T14:20:08.069Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/1b6845fb-d6cd-4815-b135-e36797af68c3?authuser=2)
 
-![[N1054 La_luz_jubila_al_cobre.m4a]]
+![[Biblioteca/N1054 La_luz_jubila_al_cobre.mp3]]
 
 ![[Biblioteca/N1054 Fotónica_e_Inteligencia_Artificial.png]]
 

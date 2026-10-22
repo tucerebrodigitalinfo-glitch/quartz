@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T13:52:40.165Z
-modified: 2026-10-10T13:00:38.538Z
+modified: 2026-10-22T11:42:50.291Z
 ---
 
 #Matemáticas #Perelman #Ciencia #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-10T13:00:38.538Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/9c13598f-3ce0-49ae-84cb-e03c28ab5f9c?authuser=2)
 
-![[N1053 Grigori_Perelman_y_la_Conjetura_de_Poincaré.m4a]]
+![[Biblioteca/N1053 Grigori_Perelman_y_la_Conjetura_de_Poincaré.mp3]]
 ![[Biblioteca/N1053 Logros_de_Grigori_Perelman.png]]
 
 ![[Biblioteca/N1053 El_enigma_de_Perelman.mp4]]
