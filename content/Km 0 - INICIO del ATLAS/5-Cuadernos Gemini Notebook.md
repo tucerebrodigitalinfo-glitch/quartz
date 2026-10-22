@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-25T15:18:01.636Z
-modified: 2026-10-18T17:26:37.029Z
+modified: 2026-10-22T06:56:25.288Z
 ---
 
 #Cuadernos #Gemini #Notebook
@@ -96,3 +96,5 @@ modified: 2026-10-18T17:26:37.029Z
 [[N1088 WDR26 La Promesa de la IA, Banco Mundial]]
 [[N1089 IA, Historia de la Inteligencia Artificial]]
 [[N1090 PC, La Revolución IA Agéntica (Nvidia)]]
+[[N1091 IA, Singularidad ya está aquí (Jack Clark)]]
+[[N1092 IA, Escenarios económicos de la inteligencia artificial transformadora]]

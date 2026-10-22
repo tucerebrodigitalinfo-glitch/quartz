@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-11T16:55:29.332Z
-modified: 2026-09-18T15:53:22.514Z
+modified: 2026-10-22T06:54:55.939Z
 ---
 
 #TCD  #Explorer #Explorar #Formación #Índices #Aprender #Km0
@@ -10,7 +10,7 @@ TCD Explorer es una puerta de entrada al conocimiento.
 
 Aquí encontrarás una selección de temas, personas, ideas y tecnologías conectadas entre sí para ayudarte a comprender mejor el mundo que nos rodea.
 
-## \[Bienvenido a TCD Explorer.]
+## Bienvenido a TCD Explorer.
 
 - Gestión del TCD Explorer [[2-Manual del Explorador]]
 
