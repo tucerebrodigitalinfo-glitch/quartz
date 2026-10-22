@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T13:04:33.843Z
-modified: 2026-10-10T18:06:47.198Z
+modified: 2026-10-22T10:50:19.472Z
 ---
 
 #Democracia #Applebaum #DOAC #Notebook
@@ -14,7 +14,7 @@ modified: 2026-10-10T18:06:47.198Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/31e60bbe-cc9d-4bb0-be53-5b80027c0eac?authuser=2)
 
-![[N1046 El_desmantelamiento_de_la_democracia_estadounidense.m4a]]
+![[Biblioteca/N1046-El_desmantelamiento_de_la_democracia_estadounidense.mp3]]
 ![[Biblioteca/N1046 Tácticas_de_la_autocracia_moderna.png]]
 
 ![[Biblioteca/N1046 El_declive_democrático.mp4]]

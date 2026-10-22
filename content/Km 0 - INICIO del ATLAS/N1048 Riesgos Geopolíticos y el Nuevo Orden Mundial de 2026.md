@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T13:16:17.690Z
-modified: 2026-10-10T18:07:42.217Z
+modified: 2026-10-22T11:04:00.408Z
 ---
 
 #Geopolítica #Orden #Bremmer #DOAC #Notebook
@@ -14,7 +14,7 @@ modified: 2026-10-10T18:07:42.217Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/3d6602de-dd23-4d1e-84c8-200ade64735d?authuser=2)
 
-![[N1048 El_peligroso_vacío_del_mundo_G-Cero.m4a]]
+![[Biblioteca/N1048-El_peligroso_vacío_del_mundo_G-Cero.mp3]]
 ![[Biblioteca/N1048 Geopolítica_2026__Riesgos_Globales.png]]
 
 ![[Biblioteca/N1048 Riesgos_Globales_2026.mp4]]

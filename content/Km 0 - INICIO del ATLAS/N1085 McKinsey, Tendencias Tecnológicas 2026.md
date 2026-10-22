@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-11T09:45:24.981Z
-modified: 2026-10-11T19:28:15.558Z
+modified: 2026-10-22T10:42:37.598Z
 ---
 
 ==🟠==#IA #Informes #Tecnología #McKinsey #Notebook
+
 ![[Biblioteca/Pasted image 20261011212814.png]]
 
 ### [McKinsey, Technology Trends Outlook 2026](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202026/mckinsey%20technology%20trends%20outlook%202026_vf)
@@ -13,7 +14,7 @@ modified: 2026-10-11T19:28:15.558Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/0179fd4f-46da-47e7-9304-b9bd01a65e72?authuser=2)
 
-![[N1085 El_salto_de_la_IA_al_mundo_físico.m4a]]
+![[Biblioteca/N1085-El_salto_de_la_IA_al_mundo_físico.mp3]]
 ![[Biblioteca/N1085 Tendencias_tecnológicas_para_2026.png]]
 
 ![[Biblioteca/N1085 El_impacto_oculto_de_la_inteligencia_artificial_autónoma_en_202.mp4]]
