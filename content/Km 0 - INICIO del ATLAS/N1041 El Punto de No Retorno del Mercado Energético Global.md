@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T11:35:54.575Z
-modified: 2026-10-12T11:53:14.752Z
+modified: 2026-10-22T10:28:45.379Z
 ---
 
 #Energía #Crisis #Ormuz #Notebook
@@ -14,7 +14,7 @@ modified: 2026-10-12T11:53:14.752Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/ec270b3e-b687-49c5-99de-c83c90817316?authuser=2)
 
-![[N1041 Mil_millones_de_barriles_desaparecen_en_Ormuz.m4a]]
+![[Biblioteca/N1041-Mil_millones_de_barriles_desaparecen_en_Ormuz.mp3]]
 ![[Biblioteca/N1041 La Crisis Energética Global.png]]
 ![[Biblioteca/N1041 Crisis_Global_Invisible.mp4]]
 ![[Biblioteca/N1041 Energy Point Zero.pdf]]
