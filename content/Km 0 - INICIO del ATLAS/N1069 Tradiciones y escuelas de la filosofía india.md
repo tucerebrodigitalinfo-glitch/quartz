@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-15T14:52:23.195Z
-modified: 2026-10-09T11:27:59.937Z
+modified: 2026-10-22T16:33:56.336Z
 ---
 
 #Filosofía #India #Notebook
@@ -10,7 +10,7 @@ modified: 2026-10-09T11:27:59.937Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/cc0eda28-7559-49b8-b617-c0036bc6527a?authuser=3)
 
-![[N1069 El_yo_como_alucinación_en_la_India.m4a]]
+![[Biblioteca/N1069 El_yo_como_alucinación_en_la_India.mp3]]
 ![[Biblioteca/N1069 Introducción_a_la_Filosofía_India.png]]
 
 ![[Biblioteca/N1069 Debate__Filosofía_India.mp4]]

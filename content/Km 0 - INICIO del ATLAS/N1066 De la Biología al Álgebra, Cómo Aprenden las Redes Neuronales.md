@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:35:10.509Z
-modified: 2026-10-09T11:26:37.443Z
+modified: 2026-10-22T16:27:59.075Z
 ---
 
 #IA #Redes #Neuronales #Aprendizaje #Notebook
@@ -14,7 +14,7 @@ modified: 2026-10-09T11:26:37.443Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/7f64f581-94ca-4736-882f-e24d94dda4c9?authuser=3)
 
-![[N1066 La_falsa_metáfora_del_cerebro_digital.m4a]]
+![[Biblioteca/N1066 La_falsa_metáfora_del_cerebro_digital.mp3]]
 ![[Biblioteca/N1066 Matemáticas_de_redes_neuronales.png]]
 
 ![[Biblioteca/N1066 Redes_Neuronales.mp4]]

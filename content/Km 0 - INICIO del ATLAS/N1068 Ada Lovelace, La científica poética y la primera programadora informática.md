@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T14:19:39.774Z
-modified: 2026-10-09T11:27:32.740Z
+modified: 2026-10-22T16:30:41.178Z
 ---
 
 #Cientifica #Innovadores #Programación #Matemáticas #Computación #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:27:32.740Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/67610e52-551e-45cd-a736-5109bf648873?authuser=3\&pageId=none)
 
-![[N1068 Ada_Lovelace_y_el_primer_programa_informático.m4a]]
+![[Biblioteca/N1068 Ada_Lovelace_y_el_primer_programa_informático.mp3]]
 
 ![[Biblioteca/N1068 Ada_Lovelace__Visionaria_de_Computación.png]]
 
