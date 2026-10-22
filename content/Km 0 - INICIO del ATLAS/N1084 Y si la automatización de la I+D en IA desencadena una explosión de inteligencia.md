@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-06T05:20:07.973Z
-modified: 2026-10-09T14:07:14.570Z
+modified: 2026-10-22T18:05:20.727Z
 ---
 
 #IA #Cambridge #Paper #Futuro #Notebook #CASP #PDF #Hinton
@@ -12,7 +12,7 @@ modified: 2026-10-09T14:07:14.570Z
 
 ### [Gemini Notebook](https://notebooklm.link.google/fRQk0EPeJEAq)
 
-![[N1084 Riesgos_de_la_explosión_de_inteligencia.m4a]]
+![[Biblioteca/N1084 Riesgos_de_la_explosión_de_inteligencia.mp3]]
 
 ![[Biblioteca/N1084 El futuro de la IA.png]]
 

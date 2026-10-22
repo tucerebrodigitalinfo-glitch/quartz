@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T12:53:15.811Z
-modified: 2026-10-18T09:37:13.069Z
+modified: 2026-10-22T18:20:37.943Z
 ---
 
 #IA #Historia #Cronología
@@ -12,6 +12,7 @@ modified: 2026-10-18T09:37:13.069Z
 
 ### [Gemini Notebook](https://notebooklm.link.google/Tz8SPwYBYKBY)
 
+![[Biblioteca/N1089 Del_boceto_a_la_IA_agéntica.mp3]]
 ![[Biblioteca/N1089 Historia de la inteligencia artificial.png]]
 
 ![[Biblioteca/N1089 Cómo la inteligencia artificial aprendió a pensar.mp4]]

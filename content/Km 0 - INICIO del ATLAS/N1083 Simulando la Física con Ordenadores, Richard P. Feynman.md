@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-05T17:48:15.920Z
-modified: 2026-10-09T14:01:23.992Z
+modified: 2026-10-22T18:01:47.346Z
 ---
 
 #Cuántica #Fisica #Notebook #Ciencia  #Cuantica #Quantum #PDF
@@ -14,7 +14,7 @@ modified: 2026-10-09T14:01:23.992Z
 
 ### [Gemini Notebook](https://notebooklm.link.google/R99I6z28TpeA)
 
-![[N1083 Feynman_y_el_nacimiento_del_ordenador_cuántico.m4a]]
+![[Biblioteca/N1083 Feynman_y_el_nacimiento_del_ordenador_cuántico.mp3]]
 ![[Biblioteca/N1083 Camino_hacia_la_Computación_Cuántica.png]]
 
 ![[Biblioteca/N1083 Simulando_la_Física.mp4]]

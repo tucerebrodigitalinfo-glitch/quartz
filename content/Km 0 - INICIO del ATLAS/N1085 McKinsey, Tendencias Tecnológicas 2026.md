@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-11T09:45:24.981Z
-modified: 2026-10-22T10:42:37.598Z
+modified: 2026-10-22T18:06:21.677Z
 ---
 
 ==🟠==#IA #Informes #Tecnología #McKinsey #Notebook
