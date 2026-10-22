@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-29T21:43:41.273Z
-modified: 2026-10-09T11:29:34.291Z
+modified: 2026-10-22T16:47:30.594Z
 ---
 
 #Índices #IA #SRE #Ingeniería #SLO #SLI #IDP #Dynatrace #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:29:34.291Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/a49153e5-3eed-4542-974e-710a296650ae)
 
-![[N1072 IA_vigilando_a_la_propia_IA.m4a]]
+![[Biblioteca/N1072 IA_vigilando_a_la_propia_IA.mp3]]
 
 ![[Biblioteca/N1072 Estado_de_SRE_e_IA_2026.png]]
 

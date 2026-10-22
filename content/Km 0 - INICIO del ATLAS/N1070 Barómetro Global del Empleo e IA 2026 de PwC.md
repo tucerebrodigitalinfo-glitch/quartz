@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-21T18:50:07.657Z
-modified: 2026-10-09T11:28:21.656Z
+modified: 2026-10-22T16:40:01.412Z
 ---
 
 #PWC #Informes #IA #Trabajo #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:28:21.656Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/d8b2c7cc-2589-43de-b578-ccb4138bb2a6)
 
-![[N1070 Serás_el_jefe_de_tus_propios_algoritmos.m4a]]
+![[Biblioteca/N1070 Dos_futuros_para_el_empleo.mp3]]
 
 ![[Biblioteca/N1070 Mercado_Laboral_y_la_IA.png]]
 

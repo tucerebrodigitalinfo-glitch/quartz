@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-27T18:25:52.425Z
-modified: 2026-10-09T11:28:53.429Z
+modified: 2026-10-22T16:45:19.152Z
 ---
 
 #IA #Agentes #Informes #Dynatrace #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:28:53.429Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/d6764b06-b3e0-42fa-bed3-5894ea287ecc?authuser=7)
 
-![[N1071 Control_humano_de_la_IA_agéntica.m4a]]
+![[Biblioteca/N1071 Control_humano_de_la_IA_agéntica.mp3]]
 ![[Biblioteca/N1071 Pulso_de_la_IA_2026.png]]
 ![[Biblioteca/N1071 El_pulso_de_la_IA_agentiva.mp4]]
 ![[Biblioteca/N1071 Agentic_AI_Control_Plane.pdf]]
