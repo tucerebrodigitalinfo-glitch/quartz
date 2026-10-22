@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-03T11:29:27.539Z
-modified: 2026-10-22T12:06:56.794Z
+modified: 2026-10-22T14:21:33.327Z
 ---
 
 #IA #Notebook #Futuro #HAO #DOAC
@@ -12,8 +12,9 @@ modified: 2026-10-22T12:06:56.794Z
 
 ### [Introducción](https://notebooklm.link.google/0Mrnq5y8aSZn)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/fe087df9-42f8-477b-818a-f17d9fbc19ad?authuser=2)![[Biblioteca/N1057 La_explotación_tras_los_imperios_de_IA.mp3]]
+## [Gemini Notebook](https://notebook.google.com/notebook/fe087df9-42f8-477b-818a-f17d9fbc19ad?authuser=2)
 
+![[Biblioteca/N1057 La_explotación_tras_los_imperios_de_IA.mp3]]
 ![[Biblioteca/N1057 Imperios_de_la_IA__Costo_Oculto.png]]
 
 ![[Biblioteca/N1057 Dentro_de_los_Imperios_de_IA.mp4]]

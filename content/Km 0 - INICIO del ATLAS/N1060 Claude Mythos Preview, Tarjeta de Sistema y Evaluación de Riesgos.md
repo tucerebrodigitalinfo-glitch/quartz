@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-05T18:51:26.201Z
-modified: 2026-10-09T11:22:31.603Z
+modified: 2026-10-22T13:56:01.635Z
 ---
 
 #IA #Claude #Mythos #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:22:31.603Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/b0a9830b-e071-4913-acc3-7b230ee0a152?authuser=2)
 
-![[N1060 Por_qué_han_prohibido_Claude_Mythos.m4a]]
+![[Biblioteca/N1060 Por_qué_han_prohibido_Claude_Mythos.mp3]]
 ![[Biblioteca/N1060 IA_Autónoma_y_Desarrollo_Defensivo.png]]
 
 ![[Biblioteca/N1060 Claude_Mythos__La_IA_Oculta.mp4]]

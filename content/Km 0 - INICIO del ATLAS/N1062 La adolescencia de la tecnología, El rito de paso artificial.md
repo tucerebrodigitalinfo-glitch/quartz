@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-09T16:50:55.472Z
-modified: 2026-10-09T11:24:10.142Z
+modified: 2026-10-22T14:09:33.418Z
 ---
 
 #Tecnología #Amodei #Notebook
