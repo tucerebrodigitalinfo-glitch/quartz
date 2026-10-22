@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-26T13:23:21.197Z
-modified: 2026-10-09T13:36:26.903Z
+modified: 2026-10-22T17:32:18.347Z
 ---
 
 #Cuantica #Ciencia #Notebook #Estarellas
@@ -12,7 +12,7 @@ modified: 2026-10-09T13:36:26.903Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/e544aab2-a4ac-4a48-bbae-a9daf98d5e11)
 
-![[N1078 La_carrera_por_dominar_la_computación_cuántica.m4a]]
+![[Biblioteca/N1078 La_carrera_por_dominar_la_computación_cuántica.mp3]]
 ![[Biblioteca/N1078 La_frontera_tecnológica_cuántica.png]]
 ![[Biblioteca/N1078 Por_qué_los_ordenadores_cuánticos_son_neveras_gigantes.mp4]]
 ![[Biblioteca/N1078 El_Impacto_Real_de_la_Computación_Cuántica.pdf]]

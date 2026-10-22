@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-31T09:45:23.684Z
-modified: 2026-10-09T13:51:49.857Z
+modified: 2026-10-22T17:57:14.887Z
 ---
 
 #IA #Agentes #Kanban #Notebook
@@ -14,7 +14,7 @@ modified: 2026-10-09T13:51:49.857Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/f3a64d7e-c35b-4bfe-8233-169fffd4e788)
 
-![[N1082 Agentes_atómicos_con_el_método_Toyota.m4a]]
+![[Biblioteca/N1082 Agentes_atómicos_con_el_método_Toyota.mp3]]
 ![[Biblioteca/N1082 Agentes_IA_Atómicos_y_Kanban.png]]
 ![[Biblioteca/N1082 Cómo_los_agentes_atómicos_no_colapsan.mp4]]
 ![[Biblioteca/toyota vs agentes atomicos.png]]

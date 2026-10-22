@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-01T12:51:49.735Z
-modified: 2026-10-09T13:48:08.111Z
+modified: 2026-10-22T17:43:08.960Z
 ---
 
 #IA #BI #Tableau #Analistas #Agéntica #Salesforce  #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T13:48:08.111Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/4d35aa26-b87d-46ca-b576-69ed4d25ca89)
 
-![[N1081 La_analítica_agéntica_que_actúa_por_ti.m4a]]
+![[Biblioteca/N1081 La_analítica_agéntica_que_actúa_por_ti.mp3]]
 ![[Biblioteca/N1081 Evolución_hacia_la_Analítica_Agéntica.png]]
 ![[Biblioteca/N1081 Analítica_Agéntica.pdf]]
 
