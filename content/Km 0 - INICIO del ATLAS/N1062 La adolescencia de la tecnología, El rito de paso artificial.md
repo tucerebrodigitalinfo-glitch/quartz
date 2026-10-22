@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-09T16:50:55.472Z
-modified: 2026-10-22T14:09:33.418Z
+modified: 2026-10-22T16:06:28.551Z
 ---
 
 #Tecnología #Amodei #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-22T14:09:33.418Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/f274c1a8-9a9b-4ce3-8c46-55bf1c2041d0?authuser=2)
 
-![[N1062 Supervivencia_ante_cincuenta_millones_de_genios_digitales.m4a]]
+![[Biblioteca/N1062 Supervivencia_ante_cincuenta_millones_de_genios_digitales.mp3]]
 ![[Biblioteca/N1062 La_Adolescencia_de_la_IA.png]]
 
 ![[Biblioteca/N1062 La_adolescencia_tecnológica.mp4]]

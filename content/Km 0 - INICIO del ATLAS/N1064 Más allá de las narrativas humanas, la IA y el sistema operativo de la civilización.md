@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-30T06:47:56.764Z
-modified: 2026-10-09T11:25:35.579Z
+modified: 2026-10-22T16:17:28.622Z
 ---
 
 #IA #Harari #Futuro #Civilizaciones #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-09T11:25:35.579Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/83e23626-fea4-4670-bb5a-6166375c4ee4?authuser=3)
 
-![[N1064 ¿Dejaremos_de_ser_autores_de_nuestra_historia_.m4a]]
+![[Biblioteca/N1064 ¿Dejaremos_de_ser_autores_de_nuestra_historia.mp3]]
 ![[Biblioteca/N1064 IA_y_civilización_humana.png]]
 
 ![[Biblioteca/N1064 IA,_Humanidad_y_Poder.mp4]]
