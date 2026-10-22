@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T13:30:03.999Z
-modified: 2026-10-22T11:11:34.126Z
+modified: 2026-10-22T11:26:39.593Z
 ---
 
 #IA  #Futuro #Galloway #DOAC #Notebook
@@ -14,7 +14,7 @@ modified: 2026-10-22T11:11:34.126Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/d0a020e2-91ae-4939-9f1f-37e87067fc5d?authuser=2)
 
-![[Biblioteca/N1049 Silicon_Valley_y_el_negocio_del_miedo (online-audio-converter.com).mp3]]
+![[Biblioteca/N1049 Silicon_Valley_y_el_negocio_del_miedo.mp3]]
 ![[Biblioteca/N1049 IA__Marketing_contra_Realidad_Humana.png]]
 
 ![[Biblioteca/N1049 IA__Mito_vs_Realidad.mp4]]

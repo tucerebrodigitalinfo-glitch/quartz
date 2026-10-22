@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T13:33:53.687Z
-modified: 2026-10-10T18:08:36.104Z
+modified: 2026-10-22T11:25:12.884Z
 ---
 
 #IA #Deepseek #IA_Revolution #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-10T18:08:36.104Z
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/7f10076f-c573-4ad0-b5c1-5385f513c480?authuser=2)
 
-![[N1026 Reinventarse_o_ser_irrelevante_en_2050.m4a]]
+![[Biblioteca/N1050 DeepSeek_V4_inteligencia_premium.mp3]]
 ![[Biblioteca/N1050 Revolución_de_IA_código_abierto.png]]
 ![[Biblioteca/N1050 DeepSeek_V4__Valor_disruptor.mp4]]
 ![[Biblioteca/N1050 DeepSeek_V4_Intelligence_Report.pdf]]

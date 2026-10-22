@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T13:37:45.164Z
-modified: 2026-10-10T14:45:33.828Z
+modified: 2026-10-22T11:30:29.235Z
 ---
 
 #IA #Formación #Notebook #Master
@@ -10,7 +10,7 @@ modified: 2026-10-10T14:45:33.828Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/dbe5f017-a839-4ea9-9df3-46942b9f7489?authuser=2)
 
-![[N1051 La_IA_dispara_tu_sueldo_un_56_.m4a]]
+![[Biblioteca/N1051 La_IA_dispara_tu_sueldo_un_56.mp3]]
 ![[Biblioteca/N1051 IA_y_Transformación_Profesional_Integral.png]]
 
 ![[Biblioteca/N1051 La_Brecha_de_Habilidades_en_IA.mp4]]
