@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-06T05:19:17.120Z
-modified: 2026-09-18T09:36:35.191Z
+modified: 2026-10-23T10:50:06.058Z
 ---
 
 #Índices #Medicina #Salud
 
-![[cirujanos.avif]]
+![Cirujanos](../Biblioteca/cirujanos.avif)
 
 Cirujanos y cirugía (i)
 
