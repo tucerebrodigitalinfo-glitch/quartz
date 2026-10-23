@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T08:52:33.918Z
-modified: 2026-10-15T14:46:45.984Z
+modified: 2026-10-23T09:40:39.061Z
 ---
 
 #IA #Historia #Notebook
@@ -12,9 +12,7 @@ modified: 2026-10-15T14:46:45.984Z
 
 ### [Introducción](https://notebooklm.link.google/vnZK2QwdITSJ)
 
-```
-## [Gemini Notebook](https://notebook.google.com/notebook/77d726eb-2d47-4da9-b61d-c2ff0f80cbaf?authuser=6)![[De_ELIZA_a_los_agentes_autónomos.mp3]]
-```
+### [Gemini Notebook](https://notebook.google.com/notebook/77d726eb-2d47-4da9-b61d-c2ff0f80cbaf?authuser=6)![[Biblioteca/De_ELIZA_a_los_agentes_autónomos.mp3]]
 
 ![[Biblioteca/Historia_de_la_inteligencia_artificial.png]]
 
