@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-06T05:19:17.120Z
-modified: 2026-10-23T10:50:06.058Z
+modified: 2026-10-23T11:11:00.613Z
 ---
 
 #Índices #Medicina #Salud
@@ -12,7 +12,7 @@ Cirujanos y cirugía (i)
 
 ✅ Enlaces comprobados y operativos el 21 de julio de 2026. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-## [WIKIPEDIA: Cirujanos](https://es.wikipedia.org/wiki/Cirujano?wprov=sfla1)
+## [Wikipedia](https://es.wikipedia.org/wiki/Cirujano?wprov=sfla1)
 
 ## WEB
 

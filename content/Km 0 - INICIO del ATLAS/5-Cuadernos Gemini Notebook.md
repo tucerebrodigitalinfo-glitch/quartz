@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-25T15:18:01.636Z
-modified: 2026-10-22T12:16:57.906Z
+modified: 2026-10-23T13:59:16.260Z
 ---
 
 #Cuadernos #Gemini #Notebook
@@ -89,7 +89,7 @@ modified: 2026-10-22T12:16:57.906Z
 [[N1081 Guía de la Analítica Agéntica (BI)]]
 [[N1082 IA, Agentes Atómicos]]
 [[N1083 Simulando la Física con Ordenadores, Richard P. Feynman]]
-[[N1084 Y si la automatización de la I+D en IA desencadena una explosión de inteligencia]]
+[[N1084 La automatización de la ImasD en IA]]
 [[N1085 McKinsey, Tendencias Tecnológicas 2026]]
 [[N1086 Explosión de Inteligencia, Irving John Good]]
 [[N1087 Schumpeter, Economía Evolutiva y Destrucción Creativa]]
