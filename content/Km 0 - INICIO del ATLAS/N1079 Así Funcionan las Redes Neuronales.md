@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-29T14:54:37.034Z
-modified: 2026-10-21T21:26:49.314Z
+modified: 2026-10-23T10:25:09.858Z
 ---
 
 #IA #Redes #Neuronales #MundoCiencia
