@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-07T12:35:36.115Z
-modified: 2026-10-21T19:59:29.281Z
+modified: 2026-10-23T17:32:04.679Z
 ---
 
 #Favoritos #Km0
@@ -52,9 +52,6 @@ Festival official selection]]
 [[Derechos Humanos (i)]]
 [[Descolonización (i)]]
 [[Digital Collections, Cornell University Library]]
-[[IA, Director IA Por Voz]]
-[[IA, Historia y Evolución.canvas]]
-[[IA, Revista Inteligencia Artificial]]
 [[Eclipse (i)]]
 [[Einstein, Albert (I)]]
 [[Esclavitud (i)]]
@@ -64,11 +61,15 @@ Festival official selection]]
 [[Galeano, Eduardo (i)]]
 [[Gemini (Google)]]
 [[Google]]
+[[Google Arte y Cultura]]
 [[Google News]]
 [[HARARI, Yuval Noah (i)]]
 [[Hassabis, Demis]]
 [[Hinton, Geoffrey (i)]]
 [[Historia Universal (i)]]
+[[IA, Director IA Por Voz]]
+[[IA, Historia y Evolución.canvas]]
+[[IA, Revista Inteligencia Artificial]]
 [[KPMG (i)]]
 [[Licklider, J.C.R. (i)]]
 [[LO QUE NO SABEMOS (Youtube)]]
@@ -84,7 +85,7 @@ Festival official selection]]
 [[N1081 Guía de la Analítica Agéntica (BI)]]
 [[N1082 IA, Agentes Atómicos]]
 [[N1083 Simulando la Física con Ordenadores, Richard P. Feynman]]
-[[N1084 Y si la automatización de la I+D en IA desencadena una explosión de inteligencia]]
+[[N1084 La automatización de la ImasD en IA]]
 [[N1085 McKinsey, Tendencias Tecnológicas 2026]]
 [[N1086 Explosión de Inteligencia, Irving John Good]]
 [[N1087 Schumpeter, Economía Evolutiva y Destrucción Creativa]]
