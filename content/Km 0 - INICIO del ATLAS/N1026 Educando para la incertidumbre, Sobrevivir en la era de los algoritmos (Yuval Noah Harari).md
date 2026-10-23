@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-03T10:47:42.257Z
-modified: 2026-10-03T17:02:14.865Z
+modified: 2026-10-23T09:14:18.777Z
 ---
 
 #IA #Formación
@@ -10,7 +10,7 @@ modified: 2026-10-03T17:02:14.865Z
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/a4d8ce8a-2f49-441c-aa55-f6ec08a4964c?authuser=2)
 
-![[N1026 Reinventarse_o_ser_irrelevante_en_2050.m4a]]
+![[Biblioteca/N1026 Reinventarse_o_ser_irrelevante_en_2050.mp3]]
 ![[Biblioteca/N1026 Educación__De_Piedra_a_Líquido.png]]
 
 ![[Biblioteca/N1026 Educar_para_un_mundo_que_ya_no_existe.mp4]]
