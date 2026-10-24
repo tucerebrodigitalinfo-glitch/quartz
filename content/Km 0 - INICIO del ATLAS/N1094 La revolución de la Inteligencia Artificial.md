@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-10-24T09:55:45.067Z
-modified: 2026-10-24T10:39:49.081Z
+modified: 2026-10-24T14:20:43.882Z
 ---
 
-#IA #Latorre #Futuro #Análisis #Lean #Notebook
+#IA #Latorre #Futuro #Análisis #Lean #Notebook #Cuántica
 
 ![[Biblioteca/Pasted image 20261024123611.png]]
 
 ### [Latorre, Arpa, Youtube](https://notebook.google.com/notebook/8b284a4f-d6a2-4976-bec1-22d84f2f1542)
 
-### [Introducción]()
+### [Introducción](https://notebooklm.link.google/Zg4BhpvwxmU5)
 
 ### [Gemini Notebook](https://notebook.google.com/notebook/8b284a4f-d6a2-4976-bec1-22d84f2f1542)
 

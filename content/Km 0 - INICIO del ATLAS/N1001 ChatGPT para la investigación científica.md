@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-12T14:38:22.445Z
-modified: 2026-09-18T09:36:20.234Z
+modified: 2026-10-24T14:22:07.159Z
 ---
 
-#IA #ChatGPT #Investigación #Científica #PDF #Prompt
+#IA #ChatGPT #Investigación #Científica #PDF #Prompt #Notebook
 
 ![[Los_cinco_pilares_del_prompt_científico.m4a]]
 
