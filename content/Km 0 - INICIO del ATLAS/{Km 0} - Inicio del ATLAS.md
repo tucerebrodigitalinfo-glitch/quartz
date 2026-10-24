@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-23T19:52:27.938Z
+modified: 2026-10-24T11:15:27.237Z
 ---
 
 #Km0
@@ -482,6 +482,7 @@ modified: 2026-10-23T19:52:27.938Z
 [[N1091 IA, Singularidad ya está aquí (Jack Clark)]]
 [[N1092 IA, Escenarios económicos de la inteligencia artificial transformadora]]
 [[N1093 Gemini 4 Argon, Seguridad]]
+[[N1094 La revolución de la Inteligencia Artificial]]
 [[NASA (i)]]
 [[Naturaleza (i)]]
 [[Nature (i)]]
