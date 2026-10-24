@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-23T19:33:24.513Z
+modified: 2026-10-23T19:52:27.938Z
 ---
 
 #Km0
@@ -330,6 +330,7 @@ modified: 2026-10-23T19:33:24.513Z
 [[Libros, Innovadores]]
 [[Licklider, J.C.R. (i)]]
 [[Limnología (i)]]
+[[Línea de Tiempo]]
 [[LLM, Abacus AI]]
 [[LLM, ChatLLM (Abacus AI)]]
 [[LLM, Elegir]]

@@ -6,7 +6,7 @@ modified: 2026-10-22T17:40:16.876Z
 
 #IA #Formación #Educación #Futuro #Notebook #LoQueNoSabemos
 
-![[Pasted image 20261022193756.png]]
+![[Biblioteca/Pasted image 20261022193756.png]]
 
 ### [Lo Que No Sabemos, Youtube](https://youtu.be/SdC2SmfVjlU?is=w97HgyKnl-2sJeik)
 
