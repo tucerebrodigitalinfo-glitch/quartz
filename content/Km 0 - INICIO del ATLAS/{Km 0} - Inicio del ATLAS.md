@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-24T11:15:27.237Z
+modified: 2026-10-24T14:44:54.623Z
 ---
 
 #Km0
@@ -397,7 +397,7 @@ modified: 2026-10-24T11:15:27.237Z
 [[N1008 El Mecanismo Invisible (LLM)]]
 [[N1009 El Horizonte Cuántico]]
 [[N1010 Visión y Estrategia de Microsoft en la Inteligencia Artificial]]
-[[N1011 Guía de Estudio Completa El Arte y la Ciencia de la Ingeniería de Prompts (VirtualMind.App)]]
+[[Guía de Estudio Completa El Arte y la Ciencia de la Ingeniería de Prompts (VirtualMind.App)]]
 [[N1012 Claude 5 (Arquitectura de Seguridad y Capacidad de Frontera)]]
 [[N1013 El Plan Estratégico de la ASI]]
 [[N1014 El Sistema Operativo Humano]]

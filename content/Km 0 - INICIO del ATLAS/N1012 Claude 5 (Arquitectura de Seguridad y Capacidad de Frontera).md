@@ -1,19 +1,21 @@
 ---
 publish: true
 created: 2026-07-12T14:38:51.820Z
-modified: 2026-09-18T09:36:19.871Z
+modified: 2026-10-24T14:52:43.085Z
 ---
 
-#IA #LLM #Claude #Anthropic #Seguridad #Notebook
+#IA #LLM #Claude #Anthropic #Seguridad #Notebook #Mythos #Fable
 
 ### [Gemini Notebook](https://notebooklm.google.com/notebook/bba6ab8d-13f8-473e-b1a7-ead6814f56b6?utm_source=nlmm_share)
 
-![[N1012c La_doble_identidad_del_nuevo_Claude_5.m4a]]
+![[Biblioteca/N1012c La_doble_identidad_del_nuevo_Claude_5.mp3]]
 
 ![[Biblioteca/N1012d IA__Potencia_y_Seguridad_Crítica.png]]
 
 ![[Biblioteca/N1012b System_Card_Claude_5.mp4]]
 ![[Biblioteca/N1012a Claude_5_Safety_Architecture.pdf]]
+
+El **sistema de inteligencia artificial** de Anthropic, compuesto por **Claude Mythos 5** y su variante accesible **Claude Fable 5**, representa el modelo más avanzado de la compañía hasta la fecha. La organización implementa **controles rigurosos** y filtros especializados para mitigar riesgos críticos en áreas sensibles como ciberseguridad, biología y química. Las **evaluaciones exhaustivas** demuestran que el modelo supera récords anteriores en diversas capacidades cognitivas y de programación, aunque todavía no logra automatizar por completo la investigación científica de alto nivel. Para garantizar un uso seguro, las versiones generales desvían consultas peligrosas hacia modelos anteriores, mientras que la versión completa se restringe a **socios de confianza** en infraestructura tecnológica.
 
 ![[Biblioteca/N1012e Claude 5 (Arquitectura de Seguridad y Capacidad de Frontera).png]]
 

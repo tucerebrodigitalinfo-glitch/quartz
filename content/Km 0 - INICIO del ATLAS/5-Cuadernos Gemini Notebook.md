@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-25T15:18:01.636Z
-modified: 2026-10-23T13:59:16.260Z
+modified: 2026-10-24T14:44:54.944Z
 ---
 
 #Cuadernos #Gemini #Notebook
@@ -15,7 +15,7 @@ modified: 2026-10-23T13:59:16.260Z
 [[N1008 El Mecanismo Invisible (LLM)]]
 [[N1009 El Horizonte Cuántico]]
 [[N1010 Visión y Estrategia de Microsoft en la Inteligencia Artificial]]
-[[N1011 Guía de Estudio Completa El Arte y la Ciencia de la Ingeniería de Prompts (VirtualMind.App)]]
+[[Guía de Estudio Completa El Arte y la Ciencia de la Ingeniería de Prompts (VirtualMind.App)]]
 [[N1012 Claude 5 (Arquitectura de Seguridad y Capacidad de Frontera)]]
 [[N1013 El Plan Estratégico de la ASI]]
 [[N1014 El Sistema Operativo Humano]]
