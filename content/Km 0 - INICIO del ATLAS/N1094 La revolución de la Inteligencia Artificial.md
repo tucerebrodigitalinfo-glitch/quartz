@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-10-24T09:55:45.067Z
-modified: 2026-10-24T10:38:30.081Z
+modified: 2026-10-24T10:39:49.081Z
 ---
 
-#IA #Latorre #Futuro #Análisis #Lean
+#IA #Latorre #Futuro #Análisis #Lean #Notebook
 
 ![[Biblioteca/Pasted image 20261024123611.png]]
 

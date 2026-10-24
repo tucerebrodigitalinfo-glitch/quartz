@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-07T12:35:36.115Z
-modified: 2026-10-23T17:32:04.679Z
+modified: 2026-10-24T11:14:16.148Z
 ---
 
 #Favoritos #Km0
@@ -89,6 +89,13 @@ Festival official selection]]
 [[N1085 McKinsey, Tendencias Tecnológicas 2026]]
 [[N1086 Explosión de Inteligencia, Irving John Good]]
 [[N1087 Schumpeter, Economía Evolutiva y Destrucción Creativa]]
+[[N1088 WDR26 La Promesa de la IA, Banco Mundial]]
+[[N1089 IA, Historia de la Inteligencia Artificial]]
+[[N1090 PC, La Revolución IA Agéntica (Nvidia)]]
+[[N1091 IA, Singularidad ya está aquí (Jack Clark)]]
+[[N1092 IA, Escenarios económicos de la inteligencia artificial transformadora]]
+[[N1093 Gemini 4 Argon, Seguridad]]
+[[N1094 La revolución de la Inteligencia Artificial]]
 [[NoteBook (Google Gemini)]]
 [[Noticias, Trendy AI News]]
 [[Noticias, Flipboard]]
