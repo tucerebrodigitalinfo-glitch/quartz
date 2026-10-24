@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:39:09.088Z
-modified: 2026-10-24T16:23:49.826Z
+modified: 2026-10-24T19:05:41.464Z
 ---
 
 #Geopolítica #Notebook
@@ -9,6 +9,8 @@ modified: 2026-10-24T16:23:49.826Z
 ### [Weforum: Nuevo Orden Mundial](https://www.weforum.org/search/?query=orden+mundial)
 
 ### [Orden liberal internacional @ Wikipedia](https://es.wikipedia.org/wiki/Orden_liberal_internacional)
+
+### [Introducción](https://notebooklm.link.google/5CBZO0lqRw46)
 
 ### [Gemini Notebook](https://notebooklm.google.com/notebook/232338d9-fe8f-44d9-8c5b-e745909c4feb?utm_source=nlmm_shareutm_source=nlmm_share)
 

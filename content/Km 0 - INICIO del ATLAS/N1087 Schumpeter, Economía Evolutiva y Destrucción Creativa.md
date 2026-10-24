@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-10-14T11:19:34.737Z
-modified: 2026-10-21T21:36:59.278Z
+modified: 2026-10-24T18:31:15.638Z
 ---
 
-º#Capitalismo #Schumpeter #Notebook
+#Capitalismo #Schumpeter #Notebook
 
 ![[Biblioteca/Pasted image 20261014132458.png]]
 

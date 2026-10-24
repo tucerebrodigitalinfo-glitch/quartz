@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T18:32:37.276Z
-modified: 2026-10-24T17:56:27.600Z
+modified: 2026-10-24T18:15:57.009Z
 ---
 
 #IA #Trabajo #Empleo #Futuro
 
 ### [Introducción](https://notebooklm.link.google/SuviH6TfqZn4)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/5cc12a71-7177-4f7f-9c63-533f083c5b37?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/5cc12a71-7177-4f7f-9c63-533f083c5b37?authuser=2)
 
 ![[Biblioteca/N1019 La_explosión_de_inteligencia_artificial_en_2026.mp3]]
 ![[Biblioteca/N1019 Evolución_de_la_IA_autónoma.png]]
