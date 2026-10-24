@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-25T15:18:01.636Z
-modified: 2026-10-24T14:44:54.944Z
+modified: 2026-10-24T15:08:28.942Z
 ---
 
 #Cuadernos #Gemini #Notebook
@@ -18,7 +18,7 @@ modified: 2026-10-24T14:44:54.944Z
 [[Guía de Estudio Completa El Arte y la Ciencia de la Ingeniería de Prompts (VirtualMind.App)]]
 [[N1012 Claude 5 (Arquitectura de Seguridad y Capacidad de Frontera)]]
 [[N1013 El Plan Estratégico de la ASI]]
-[[N1014 El Sistema Operativo Humano]]
+[[N1014 El Sistema Operativo Humano, Todas las corrientes filosóficas explicadas]]
 [[N1015 Arquitectura Agéntica]]
 [[N1016 KIMI]]
 [[N1017 Inteligencia Artificial Evolutiva - Más Allá del Descenso de Gradiente]]

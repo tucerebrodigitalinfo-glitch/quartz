@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:35:59.174Z
-modified: 2026-09-19T17:02:59.584Z
+modified: 2026-10-24T15:08:27.968Z
 ---
 
 #Filosofía #Pensamiento
@@ -20,4 +20,4 @@ INDICES: [[Filosofía (i)]]
 
 # [Gemini Notebook, Tradiciones y escuelas de la filosofía india](https://notebooklm.google.com/notebook/cc0eda28-7559-49b8-b617-c0036bc6527a?authuser=7)
 
-# El sistema operativo humano, [[N1014 El Sistema Operativo Humano]]
+# El sistema operativo humano, [[N1014 El Sistema Operativo Humano, Todas las corrientes filosóficas explicadas]]

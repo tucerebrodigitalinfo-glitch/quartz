@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-24T14:44:54.623Z
+modified: 2026-10-24T15:08:28.389Z
 ---
 
 #Km0
@@ -400,7 +400,7 @@ modified: 2026-10-24T14:44:54.623Z
 [[Guía de Estudio Completa El Arte y la Ciencia de la Ingeniería de Prompts (VirtualMind.App)]]
 [[N1012 Claude 5 (Arquitectura de Seguridad y Capacidad de Frontera)]]
 [[N1013 El Plan Estratégico de la ASI]]
-[[N1014 El Sistema Operativo Humano]]
+[[N1014 El Sistema Operativo Humano, Todas las corrientes filosóficas explicadas]]
 [[N1015 Arquitectura Agéntica]]
 [[N1016 KIMI]]
 [[N1017 Inteligencia Artificial Evolutiva - Más Allá del Descenso de Gradiente]]

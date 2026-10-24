@@ -1,15 +1,20 @@
 ---
 publish: true
 created: 2026-07-12T14:39:02.809Z
-modified: 2026-09-18T09:36:19.895Z
+modified: 2026-10-24T15:26:54.294Z
 ---
 
-#IA #KIMI #Agentes #Emjambre
+#IA #KIMI #Agentes #Emjambre #Notebook
+
+### [Todo IA, Youtube](https://www.youtube.com/@TodoIAOfficial)
+
+### [Introducción](https://notebooklm.link.google/ndU04Mq7iqyA)
 
 # [Gemini Notebook](https://notebooklm.google.com/notebook/fea2a806-cf82-4ecf-9c28-8a84c59343c5)
 
-![[Biblioteca/N1016b kIMI K2.6 INFO.png]]
 ![[Biblioteca/N1016e Kimi_K2.mp3]]
+
+![[Biblioteca/N1016b kIMI K2.6 INFO.png]]
 
 ![[Biblioteca/N1016c La_Gran_Delegación_de_la_IA.mp4]]
 

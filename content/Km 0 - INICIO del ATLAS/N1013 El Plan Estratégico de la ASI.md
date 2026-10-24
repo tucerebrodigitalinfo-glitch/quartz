@@ -1,16 +1,18 @@
 ---
 publish: true
 created: 2026-07-12T14:38:54.958Z
-modified: 2026-09-18T09:36:19.803Z
+modified: 2026-10-24T15:05:29.675Z
 ---
 
 #IA #AGI #ASI #Evolución #Superinteligencia  #Notebook
 
 **_De AGI a ASI: El Continuo de la Inteligencia_**
 
+### [Introducción](https://notebooklm.link.google/493TBTM9KZLQ)
+
 ### [Gemini Notebook](https://notebooklm.google.com/notebook/036f7905-ca88-4f23-8260-288ea3823fac?authuser=2)
 
-![[N1013e De_la_AGI_a_la_superinteligencia.m4a]]
+![[Biblioteca/N1013 El_salto_de_DeepMind_a_la_superinteligencia.mp3]]
 ![[Biblioteca/N1013c El_Camino_hacia_la_Superinteligencia.png]]
 
 ![[Biblioteca/N1013 De_la_AGI_a_la_ASI.mp4]]
