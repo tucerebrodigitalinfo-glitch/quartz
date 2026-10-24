@@ -1,25 +1,24 @@
 ---
 publish: true
 created: 2026-07-12T14:39:09.088Z
-modified: 2026-10-05T21:35:09.818Z
+modified: 2026-10-24T16:23:49.826Z
 ---
 
 #Geopolítica #Notebook
 
-## [Weforum: Nuevo Orden Mundial](https://www.weforum.org/search/?query=orden+mundial)
+### [Weforum: Nuevo Orden Mundial](https://www.weforum.org/search/?query=orden+mundial)
 
-## [Orden liberal internacional @ Wikipedia](https://es.wikipedia.org/wiki/Orden_liberal_internacional)
+### [Orden liberal internacional @ Wikipedia](https://es.wikipedia.org/wiki/Orden_liberal_internacional)
 
-## [Gemini Notebook](https://notebooklm.google.com/notebook/232338d9-fe8f-44d9-8c5b-e745909c4feb?utm_source=nlmm_shareutm_source=nlmm_share)
+### [Gemini Notebook](https://notebooklm.google.com/notebook/232338d9-fe8f-44d9-8c5b-e745909c4feb?utm_source=nlmm_shareutm_source=nlmm_share)
 
-![[N1018f China_domina_el_hardware_del_futuro.m4a]]
+![[Biblioteca/N1018f China_domina_el_hardware_del_futuro.mp3]]
 
 ![[Biblioteca/N1018d Pugna_por_la_Hegemonía_Global.png]]
 ![[Biblioteca/N1018g El_fin_de_la_hegemonía.mp4]]![[Biblioteca/N1018c Anatomy_of_the_New_Global_Order.pdf]]
+Estas fuentes analizan la **pérdida de la hegemonía de Estados Unidos** y el surgimiento de un **nuevo orden mundial** impulsado por la competencia tecnológica con China. Los textos destacan que el dominio de la **inteligencia artificial** y el control de **materias primas estratégicas**, como las tierras raras, han sustituido a los antiguos conflictos ideológicos de la Guerra Fría. En este contexto, **Occidente atraviesa una crisis democrática** donde algunos líderes cuestionan si el autoritarismo es más eficiente para competir económicamente, lo que fomenta el auge de **figuras populistas y proyectos nacionalistas**. Mientras tanto, **Europa se encuentra en una encrucijada** entre la integración o la fragmentación, enfrentando el desafío de mantener su estado de bienestar ante un sistema global cada vez más inestable y sensible. Finalmente, los autores sugieren que estamos en una **fase de transición y ajuste**, donde la historia vuelve a ser la herramienta principal para comprender un futuro incierto y marcado por la fragilidad de las instituciones tradicionales.
 
 ![[Biblioteca/N1018e NotebookLM Mind Map (1).png]]
-
-Estas fuentes analizan la **pérdida de la hegemonía de Estados Unidos** y el surgimiento de un **nuevo orden mundial** impulsado por la competencia tecnológica con China. Los textos destacan que el dominio de la **inteligencia artificial** y el control de **materias primas estratégicas**, como las tierras raras, han sustituido a los antiguos conflictos ideológicos de la Guerra Fría. En este contexto, **Occidente atraviesa una crisis democrática** donde algunos líderes cuestionan si el autoritarismo es más eficiente para competir económicamente, lo que fomenta el auge de **figuras populistas y proyectos nacionalistas**. Mientras tanto, **Europa se encuentra en una encrucijada** entre la integración o la fragmentación, enfrentando el desafío de mantener su estado de bienestar ante un sistema global cada vez más inestable y sensible. Finalmente, los autores sugieren que estamos en una **fase de transición y ajuste**, donde la historia vuelve a ser la herramienta principal para comprender un futuro incierto y marcado por la fragilidad de las instituciones tradicionales.
 
 📋 _Metadatos_\
 • Fuente: WhatsApp\
