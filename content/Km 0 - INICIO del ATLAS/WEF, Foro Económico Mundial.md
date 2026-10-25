@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-28T21:59:13.944Z
-modified: 2026-10-21T19:59:29.724Z
+modified: 2026-10-25T18:11:14.893Z
 ---
 
 #WEF #Radio #DAVOS #WeForum #Mapas #Intelligence
 
-[[WEF, Foro Económico Mundial (i)]]
+### [[WEF, Foro Económico Mundial (i)]]
 
-[WEFORUM](https://www.weforum.org/)
+### [WEFORUM](https://www.weforum.org/)
 
 ![[Biblioteca/WEFORUM.jpg]]
 

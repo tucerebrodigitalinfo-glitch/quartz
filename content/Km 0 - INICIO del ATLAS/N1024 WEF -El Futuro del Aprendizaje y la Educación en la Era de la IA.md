@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2026-07-12T14:39:23.211Z
-modified: 2026-10-25T13:23:33.881Z
+modified: 2026-10-25T18:12:27.760Z
 ---
 
 #IA #Formación #WEF #Notebook #Aprendizaje #Educación
+
+### [[WEF, Foro Económico Mundial]]
 
 ### [Introducción](https://notebooklm.link.google/43sRdcgEeEZf)
 
