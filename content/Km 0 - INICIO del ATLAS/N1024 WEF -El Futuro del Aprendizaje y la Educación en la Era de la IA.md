@@ -1,17 +1,22 @@
 ---
 publish: true
 created: 2026-07-12T14:39:23.211Z
-modified: 2026-09-18T09:36:19.447Z
+modified: 2026-10-25T13:23:33.881Z
 ---
 
-#IA #Formación #WEF #Notebook
+#IA #Formación #WEF #Notebook #Aprendizaje #Educación
 
-[[Gemini Notebook]]
-https://notebooklm.google.com/notebook/1671367a-db5f-486e-bf81-7653f4061c97?authuser=6
+### [Introducción](https://notebooklm.link.google/43sRdcgEeEZf)
 
-![[N1024 WEF - La_IA_y_la_atrofia_del_pensamiento.m4a]]
+### [Gemini Notebook](https://notebooklm.google.com/notebook/1671367a-db5f-486e-bf81-7653f4061c97?authuser=6)
 
+![[Biblioteca/N1024 WEF - La_IA_y_la_atrofia_del_pensamiento.mp3]]
 ![[Biblioteca/N1024 WEF - Educación_y_Marco_de_Acción_IA.png]]
+
+![[Biblioteca/N1024 Futuro_del_aprendizaje_e_IA.mp4]]
+![[Biblioteca/N1024 WEF - El Futuro del Aprendizaje y la Educación en la Era de la IA.pdf]]
+
+Las fuentes analizan la transformación de la educación ante la **inteligencia artificial** y presentan el **Marco de Preparación para la IA**, diseñado por el Foro Económico Mundial para lograr una integración responsable. Explican que los estudiantes y docentes adoptan estas tecnologías de forma masiva e informal, lo que genera **desalineación sistémica**, riesgos como la **atrofia cognitiva**, la erosión del pensamiento crítico y problemas de **integridad académica**. Asimismo, destacan la urgencia de redefinir las **evaluaciones pedagógicas**, capacitar a los maestros mediante iniciativas como la nueva academia estadounidense y fomentar la **alfabetización en decisiones** para preservar la conexión humana y el razonamiento genuino.
 
 ![[Biblioteca/N1024 WEF -El Futuro del Aprendizaje y la Educación en la Era de la IA.png]]
 
