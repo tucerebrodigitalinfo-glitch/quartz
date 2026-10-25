@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-07T12:35:36.115Z
-modified: 2026-10-25T13:59:19.198Z
+modified: 2026-10-25T19:09:21.956Z
 ---
 
 #Favoritos #Km0
@@ -96,6 +96,7 @@ Festival official selection]]
 [[N1092 IA, Escenarios económicos de la inteligencia artificial transformadora]]
 [[N1093 Gemini 4 Argon, Seguridad]]
 [[N1094 La revolución de la Inteligencia Artificial]]
+[[N1095 Fundamentos de los Grandes Modelos de Lenguaje]]
 [[NoteBook (Google Gemini)]]
 [[Noticias, Trendy AI News]]
 [[Noticias, Flipboard]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-25T13:59:20.024Z
+modified: 2026-10-25T19:09:54.117Z
 ---
 
 #Km0
@@ -483,6 +483,7 @@ modified: 2026-10-25T13:59:20.024Z
 [[N1092 IA, Escenarios económicos de la inteligencia artificial transformadora]]
 [[N1093 Gemini 4 Argon, Seguridad]]
 [[N1094 La revolución de la Inteligencia Artificial]]
+[[N1095 Fundamentos de los Grandes Modelos de Lenguaje]]
 [[NASA (i)]]
 [[Naturaleza (i)]]
 [[Nature (i)]]
