@@ -1,10 +1,16 @@
 ---
 publish: true
 created: 2026-08-03T19:59:29.527Z
-modified: 2026-09-18T09:36:23.157Z
+modified: 2026-10-25T16:46:35.248Z
 ---
 
 #Cuántica #Latorre #IA
+
+![[Biblioteca/Pasted image 20261025174630.png]]
+
+### [ConPdePodcast, Prof. Latorre, Youtube](https://youtu.be/gLQD48Hk97c?si=wuSUT_VIAt0GHdV_)
+
+### [Introducción](https://notebooklm.link.google/BSLevCKkVLRB)
 
 ## [Gemini Notebook](https://notebook.google.com/notebook/708e2ce1-010d-4a48-8189-09ed14665b49?authuser=2)
 
