@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-07-31T13:49:59.794Z
-modified: 2026-09-18T09:36:22.911Z
+modified: 2026-10-25T18:16:22.050Z
 ---
 
 #Agenda #WEF #WeForum
 
 Dubái
 
-# Reunión Anual de Futuros Líderes Mundiales
+### [[WEF, Foro Económico Mundial (i)]]
+
+### [Reunión Anual de Futuros Líderes Mundiales](https://events.weforum.org/en/events/annual-meeting-of-global-future-leaders-2026/home)
 
 13-15 de octubre de 2026
 
