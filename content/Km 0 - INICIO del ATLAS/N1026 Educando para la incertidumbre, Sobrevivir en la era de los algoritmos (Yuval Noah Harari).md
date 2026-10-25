@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-03T10:47:42.257Z
-modified: 2026-10-23T09:14:18.777Z
+modified: 2026-10-25T13:59:57.245Z
 ---
 
-#IA #Formación
+#IA #Formación #Futuro #Educación #Aprendizaje #Harari
 
-# [[HARARI, Yuval Noah (i)]]
+### [[Harari, Yuval Noah (i)]]
 
-## [Gemini Notebook](https://notebook.google.com/notebook/a4d8ce8a-2f49-441c-aa55-f6ec08a4964c?authuser=2)
+### [Introducción](https://notebooklm.link.google/CIXJw2BtRf0B)
+
+### [Gemini Notebook](https://notebook.google.com/notebook/a4d8ce8a-2f49-441c-aa55-f6ec08a4964c?authuser=2)
 
 ![[Biblioteca/N1026 Reinventarse_o_ser_irrelevante_en_2050.mp3]]
 ![[Biblioteca/N1026 Educación__De_Piedra_a_Líquido.png]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-24T15:08:28.389Z
+modified: 2026-10-25T13:59:20.024Z
 ---
 
 #Km0
@@ -244,7 +244,7 @@ modified: 2026-10-24T15:08:28.389Z
 [[Guía de Prompts para Actividades de Aprendizaje con ChatGPT - ADN]]
 [[Guicaipuro (i)]]
 [[Haití, Revolución (i)]]
-[[HARARI, Yuval Noah (i)]]
+[[Harari, Yuval Noah (i)]]
 [[Hassabis, Demis]]
 [[Hawking, Stephen]]
 [[Herbert Von Karajan]]

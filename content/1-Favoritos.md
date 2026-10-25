@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-07T12:35:36.115Z
-modified: 2026-10-24T11:14:16.148Z
+modified: 2026-10-25T13:59:19.198Z
 ---
 
 #Favoritos #Km0
@@ -63,7 +63,7 @@ Festival official selection]]
 [[Google]]
 [[Google Arte y Cultura]]
 [[Google News]]
-[[HARARI, Yuval Noah (i)]]
+[[Harari, Yuval Noah (i)]]
 [[Hassabis, Demis]]
 [[Hinton, Geoffrey (i)]]
 [[Historia Universal (i)]]
