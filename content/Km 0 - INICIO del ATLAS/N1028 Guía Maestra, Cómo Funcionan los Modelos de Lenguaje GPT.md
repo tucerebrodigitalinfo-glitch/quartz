@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-03T18:37:03.611Z
-modified: 2026-10-25T16:37:55.815Z
+modified: 2026-10-25T17:11:50.661Z
 ---
 
 #IA #Karpathy #LLM #Formación #Notebook
