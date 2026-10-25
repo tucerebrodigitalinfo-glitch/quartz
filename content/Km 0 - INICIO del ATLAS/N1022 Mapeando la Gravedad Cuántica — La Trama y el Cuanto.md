@@ -1,10 +1,14 @@
 ---
 publish: true
 created: 2026-07-12T14:39:17.275Z
-modified: 2026-09-18T09:36:19.489Z
+modified: 2026-10-25T11:42:35.130Z
 ---
 
 #Cuántica #Notebook #Latorre #Gravedad
+
+### [Vidas Ajenas, Dr. Roberto Emparan, Youtube](https://youtu.be/b2KMtLmItwo?si=r9d6kog7cPm3BBr0)
+
+### [Introducción](https://notebooklm.link.google/E7efI7wqroV1)
 
 ### [Gemini Notebook](https://notebooklm.google.com/notebook/6c4904b4-4d02-42f9-a233-dca0e282344c?utm_source=nlmm_share)
 
