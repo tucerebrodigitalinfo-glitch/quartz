@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-03T10:17:50.747Z
-modified: 2026-10-25T15:50:18.860Z
+modified: 2026-10-25T17:48:13.852Z
 ---
 
 #IA #Formación #Notebook #Educación #Aprendizaje
 
-![[Biblioteca/Pasted image 20261025160938.png]]
+![[Biblioteca/Mapa conceptual de inteligencia artificial.png]]
 
 ### [Introducción](https://notebooklm.link.google/xxLRHb0etBvD)
 
