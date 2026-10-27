@@ -1,0 +1,246 @@
+/* Opt-in note panels; the marker is absent from Portal, home, Bases and private layouts. */
+body:has(.tcd-panels-enabled) .left.sidebar>.page-title{display:none}
+body:has(.tcd-panels-enabled) .left.sidebar{gap:.65rem;padding-top:1.1rem;padding-bottom:1rem}
+body:has(.tcd-panels-enabled) .tcd-brand-logo{max-width:220px}
+body:has(.tcd-panels-enabled) .left.sidebar .explorer{flex:1 1 0;min-height:0;display:flex;flex-direction:column}
+body:has(.tcd-panels-enabled) .left.sidebar .explorer-content{min-height:0;flex:1 1 auto;overflow:auto}
+body:has(.tcd-panels-enabled) .left.sidebar .explorer-ul{max-height:none;overflow:visible}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar{gap:1rem;padding-top:1.1rem;padding-bottom:1rem;min-height:0;overflow:visible}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar>.graph{flex:0 0 auto;min-width:0}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar>.toc{display:flex;flex-direction:column;flex:1 1 0;min-height:0;overflow:hidden}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar>.backlinks{flex:0 0 auto;max-height:120px;overflow:auto}
+body:has(.tcd-panels-enabled) .toc>.toc-content{flex:1 1 auto;min-height:0;max-height:none;overflow-y:auto;overscroll-behavior:contain}
+body:has(.tcd-panels-enabled) .graph>.graph-outer{height:250px}
+body:has(.tcd-panels-enabled) .graph[data-tcd-minimized="true"]>.graph-outer{height:0;margin:0;border:0;visibility:hidden}
+.tcd-graph-controls{display:flex;align-items:center;justify-content:space-between;gap:6px;margin:.35rem 0 .5rem;flex-wrap:wrap}
+.tcd-graph-controls button,.tcd-panel-tools button{font:inherit;font-size:.8rem;padding:7px 9px;border:1px solid var(--lightgray);background:var(--light);color:var(--secondary);border-radius:6px;cursor:pointer;min-height:36px}
+.tcd-graph-controls .global-graph-icon{position:static!important;width:auto!important;height:auto!important;opacity:1!important}
+.tcd-panel-tools{display:none}
+@media(min-width:1200px){body:has(.tcd-panels-enabled) #quartz-body{grid-template-columns:344px minmax(0,1fr) 280px;column-gap:16px}body:has(.tcd-panels-enabled) .sidebar{height:calc(100vh - 96px);top:16px}}
+@media(min-width:801px) and (max-width:1199px){body:has(.tcd-panels-enabled) .left.sidebar{height:calc(100vh - 32px);top:16px}body:has(.tcd-panels-enabled) #quartz-body .right.sidebar{display:flex;position:relative;height:640px;grid-column:2;grid-row:auto;padding:16px 0}.tcd-panel-tools{display:flex;gap:8px;margin:.5rem 0}body:has(.tcd-panels-enabled) #quartz-body .right.sidebar .toc{display:flex}}
+@media(max-width:800px){body:has(.tcd-panels-enabled) .left.sidebar{position:relative;display:flex;flex-wrap:wrap;align-items:center;gap:10px;padding:12px 0;height:auto;overflow:visible}body:has(.tcd-panels-enabled) .left.sidebar>.tcd-brand{width:130px;flex:0 0 130px}body:has(.tcd-panels-enabled) .left.sidebar>.flex-component{flex:1 1 120px;min-width:0}body:has(.tcd-panels-enabled) .left.sidebar>.mobile-only{display:none}body:has(.tcd-panels-enabled) .left.sidebar>.explorer{width:100%;flex:1 0 100%;display:flex;position:relative}body:has(.tcd-panels-enabled) .explorer .mobile-explorer{display:none}body:has(.tcd-panels-enabled) .explorer .desktop-explorer{display:flex}body:has(.tcd-panels-enabled) .explorer .explorer-content{position:static!important;max-height:36vh;min-height:0;visibility:visible!important;display:block!important;background:var(--light);padding:0;box-shadow:none;border:0}body:has(.tcd-panels-enabled) #quartz-body .right.sidebar{display:flex;position:relative;height:620px;padding:16px 0;grid-column:1;grid-row:auto;max-width:100%}body:has(.tcd-panels-enabled) #quartz-body .right.sidebar .toc{display:flex}body:has(.tcd-panels-enabled) .graph>.graph-outer{height:200px}.tcd-panel-tools{display:flex;gap:8px;margin:8px 0}body:has(.tcd-panels-enabled) .search-button>p{display:none}}
+@media(max-width:1199px){body:has(.tcd-panels-enabled) #quartz-body .right.sidebar{flex-direction:column}body:has(.tcd-panels-enabled) #quartz-body .right.sidebar>*{max-height:none}body:has(.tcd-panels-enabled) #quartz-body .right.sidebar>.graph{flex:0 0 auto}}
+@media(max-width:800px){body:has(.tcd-panels-enabled) .left.sidebar>.tcd-brand{order:0}body:has(.tcd-panels-enabled) .left.sidebar>.flex-component{order:1;flex:1 1 190px;width:190px;min-width:0}body:has(.tcd-panels-enabled) .left.sidebar>.explorer{order:2;flex:0 0 100%;height:auto}body:has(.tcd-panels-enabled) .explorer-content{flex:0 1 auto!important;height:auto!important;max-height:32vh!important}body:has(.tcd-panels-enabled) .left.sidebar>.flex-component>div:first-child{min-width:0}body:has(.tcd-panels-enabled) .search,body:has(.tcd-panels-enabled) .search-button{min-width:0;width:100%}body:has(.tcd-panels-enabled) .center{min-width:0!important;width:100%}body:has(.tcd-panels-enabled) .breadcrumb-container{flex-wrap:wrap}body:has(.tcd-panels-enabled) .breadcrumb-element{white-space:normal;min-width:0}body:has(.tcd-panels-enabled) .explorer .explorer-ul{height:auto}}
+@media(max-width:800px){body:has(.tcd-panels-enabled) #quartz-body{grid-template-columns:minmax(0,1fr)}body:has(.tcd-panels-enabled) .left.sidebar,body:has(.tcd-panels-enabled) #quartz-body .right.sidebar{min-width:0;max-width:100%}}
+@media(max-width:800px){body:has(.tcd-panels-enabled) .graph>.graph-outer{height:250px}}
+body:has(.tcd-panels-enabled) .graph>.graph-outer>.graph-container{min-height:0;height:100%}
+body:has(.tcd-panels-enabled) .graph canvas{display:block;max-height:100%;max-width:100%}
+@media(max-width:800px){body:has(.tcd-panels-enabled) .explorer .explorer-content{width:100%!important;max-width:100%;box-sizing:border-box}}
+
+/* No prototype toolbar in the real layout: recover its 64px as well. */
+@media(min-width:1200px){body:has(.tcd-panels-enabled) .sidebar{height:calc(100dvh - 32px)}}
+@media(max-width:800px){body:has(.tcd-panels-enabled) .explorer.collapsed .explorer-content{display:none!important}}
+
+
+/* Next approved isolated layer. */
+/* Experimental geometry only. No renderer, router or state changes. */
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar {
+  --tcd-toc-min: 180px;
+  box-sizing: border-box;
+  height: calc(100dvh - 32px);
+  min-height: 0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  gap: 12px;
+  align-self: start;
+  overflow: visible;
+}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .graph {
+  flex: 0 0 auto;
+}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .graph:not([data-tcd-minimized="true"]) > .graph-outer {
+  height: clamp(100px, 26dvh, 250px);
+}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .toc {
+  flex: 1 1 0;
+  min-height: var(--tcd-toc-min);
+  overflow: hidden;
+}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .toc > :not(.toc-content) {
+  flex: 0 0 auto;
+}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .toc > .toc-content {
+  flex: 1 1 auto;
+  min-height: 0;
+  max-height: none;
+  overflow-y: auto;
+}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .backlinks {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+  min-height: 0;
+  max-height: 120px;
+  overflow: hidden;
+}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .backlinks > h3 {
+  flex: 0 0 auto;
+}
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .backlinks > ul {
+  flex: 0 1 auto;
+  min-height: 0;
+  max-height: 80px;
+  overflow-y: auto;
+}
+@media (min-width: 1200px) {
+  body:has(.tcd-panels-enabled) #quartz-body .right.sidebar {
+    position: sticky;
+    top: 16px;
+  }
+}
+@media (max-width: 1199px) {
+  body:has(.tcd-panels-enabled) #quartz-body .right.sidebar {
+    position: relative;
+    top: auto;
+  }
+}
+/* Low-height fallback: preserve a usable TOC; allow the panel to be traversed. */
+@media (max-height: 600px) {
+  body:has(.tcd-panels-enabled) #quartz-body .right.sidebar {
+    overflow-y: auto;
+    overscroll-behavior-y: auto;
+  }
+  body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .toc {
+    flex: 1 0 var(--tcd-toc-min);
+  }
+  body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .toc > .toc-content,
+  body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .backlinks > ul {
+    overscroll-behavior-y: auto;
+  }
+}
+
+
+/* Next approved isolated layer. */
+/* Restore the existing intended inline mobile Explorer layout.
+   The native Explorer :has(.explorer) selector otherwise wins the cascade. */
+@media (max-width: 800px) {
+  body:has(.tcd-panels-enabled) #quartz-body .left.sidebar:has(.explorer) {
+    position: relative;
+    top: auto;
+  }
+}
+
+
+/* Next approved isolated layer. */
+/* PG-01B: contain the native lists; do not intercept wheel events. */
+body:has(.tcd-panels-enabled) #quartz-body .left.sidebar .explorer-content,
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .toc > .toc-content {
+  overscroll-behavior-y: contain;
+}
+/* Native TOC folding must release its list space. */
+body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .toc:has(> .toc-content.collapsed) {
+  flex: 0 0 auto;
+  min-height: 0;
+}
+@media (max-height: 600px) {
+  body:has(.tcd-panels-enabled) #quartz-body .left.sidebar,
+  body:has(.tcd-panels-enabled) #quartz-body .right.sidebar {
+    height: calc(100dvh - 32px);
+    max-height: calc(100dvh - 32px);
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+    scrollbar-gutter: stable;
+  }
+  body:has(.tcd-panels-enabled) #quartz-body .left.sidebar > .explorer {
+    flex: 0 0 auto;
+  }
+  body:has(.tcd-panels-enabled) #quartz-body .left.sidebar > .explorer:not(.collapsed) {
+    min-height: 180px;
+  }
+  body:has(.tcd-panels-enabled) #quartz-body .left.sidebar .explorer:not(.collapsed) .explorer-content {
+    /* Override the previous mobile !important sizing only in this fallback. */
+    flex: 0 0 140px !important;
+    height: 140px !important;
+    min-height: 140px;
+    max-height: 140px !important;
+  }
+  body:has(.tcd-panels-enabled) #quartz-body .sidebar[data-pg01b-scroll-region]:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: -2px;
+  }
+}
+
+
+/* Next approved isolated layer. */
+/* Width correction only, opt-in for pages with TCD Panels. */
+html:has(.tcd-panels-enabled) {
+  width: 100%;
+}
+
+
+/* Next approved isolated layer. */
+/* Isolated final-panel experiment. Native renderers, media and graph guard unchanged. */
+body:has(.tcd-panels-enabled) .page>#quartz-body :is(.left.sidebar,.right.sidebar) {
+ box-sizing:border-box; position:fixed; top:16px; bottom:16px; height:calc(100dvh - 32px); max-height:none;
+ padding:8px 32px; gap:8px; overflow:hidden; overscroll-behavior:contain; min-height:0; margin:0;
+}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar {left:var(--pd-left,0px);width:344px;display:flex;flex-direction:column;align-items:stretch;flex-wrap:nowrap;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar .tcd-brand {flex:0 0 auto;width:auto;order:0;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar .tcd-brand-logo {width:220px;max-width:100%;height:auto;margin:0;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar>.flex-component {flex:0 0 auto;order:1;width:auto;min-width:0;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar>.explorer {order:2;flex:1 1 0;min-height:0;width:100%;height:auto;position:relative;display:flex;flex-direction:column;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar .explorer-content {position:static!important;flex:1 1 0!important;height:auto!important;min-height:0;max-height:none!important;overflow:auto;overscroll-behavior:contain;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar .explorer.collapsed .explorer-content {display:none!important;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar {left:var(--pd-right,1145px);width:280px;display:flex;flex-direction:column;padding:8px 12px;gap:6px;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph {flex:0 0 auto;min-height:0;max-height:none;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph>h3 {margin:0;font-size:14px;line-height:20px;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .tcd-graph-controls {margin:4px 0;gap:6px;flex-wrap:nowrap;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .tcd-graph-controls button {padding:6px;font-size:12px;min-height:36px;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph:not([data-tcd-minimized="true"])>.graph-outer {height:clamp(100px,26dvh,250px);margin:0;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.toc {flex:1 1 0;min-height:0;overflow:hidden;display:flex;flex-direction:column;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.toc>.toc-content {flex:1 1 0;min-height:0;height:auto;max-height:none;margin:4px 0 0;overflow:auto;overscroll-behavior:contain;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.toc:has(>.toc-content.collapsed) {flex:0 0 auto;min-height:0;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.backlinks {display:flex;flex-direction:column;flex:0 0 auto;max-height:none;overflow:hidden;min-height:0;}
+.pd-back-head {display:flex;align-items:center;justify-content:space-between;gap:8px;flex:0 0 auto;min-height:36px;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .pd-back-head>h3 {margin:0;font-size:12px;line-height:16px;min-width:0;}
+.pd-back-head>button,.pd-toolbar>button {font:inherit;font-size:12px;min-height:36px;border:1px solid var(--lightgray);border-radius:6px;padding:6px;background:var(--light);color:var(--secondary);cursor:pointer;flex-shrink:0;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.backlinks>ul {flex:0 1 auto;max-height:120px;height:auto;min-height:0;overflow:auto;overscroll-behavior:contain;margin:4px 0 0;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.backlinks[data-pd-minimized="true"]>ul {display:none;}
+.pd-toolbar,.pd-backdrop {display:none;}
+body:has(.tcd-panels-enabled) .tcd-panel-tools {display:none;}
+body:has(.tcd-panels-enabled) :is(button,a,[tabindex]):focus-visible {outline:2px solid var(--secondary);outline-offset:-2px;}
+@media(min-width:1200px) and (max-height:600px){
+ body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar {display:grid;grid-template-columns:220px minmax(0,1fr);grid-template-rows:220px minmax(0,1fr);grid-template-areas:'brand tools' 'explorer explorer';gap:8px;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar>.tcd-brand {grid-area:brand;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar>.flex-component {grid-area:tools;flex-direction:column;align-items:stretch;justify-content:center;gap:8px;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar>.flex-component>div {flex:0 0 auto!important;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar .search-button>p {display:none;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar>.explorer {grid-area:explorer;}
+}
+@media(max-height:600px){
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph:not([data-tcd-minimized="true"])>.graph-outer {height:64px;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.backlinks>ul {max-height:32px;}
+}
+@media(max-width:1199px){
+ body:has(.tcd-panels-enabled) .page>#quartz-body {grid-template-columns:minmax(0,1fr);grid-template-areas:'grid-header' 'grid-center' 'grid-footer';}
+ body:has(.tcd-panels-enabled) .page>#quartz-body>.center {grid-column:1;min-width:0;width:100%;padding-top:52px;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body :is(.left.sidebar,.right.sidebar) {display:none!important;top:56px;bottom:8px;height:calc(100dvh - 64px);padding:8px 12px;z-index:42;max-width:calc(100% - 16px);background:var(--light);box-shadow:0 4px 18px #0004;border:1px solid var(--lightgray);border-radius:8px;}
+ body:has(.tcd-panels-enabled)[data-pd-open="left"] .page>#quartz-body .left.sidebar {display:flex!important;left:8px;width:344px;}
+ body:has(.tcd-panels-enabled)[data-pd-open="right"] .page>#quartz-body .right.sidebar {display:flex!important;left:auto;right:8px;width:344px;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar .tcd-brand-logo {width:130px;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar>.tcd-brand {width:auto;flex:0 0 auto;}
+ .pd-toolbar {position:fixed;top:0;left:0;right:0;height:48px;box-sizing:border-box;padding:6px 8px;display:flex;justify-content:space-between;gap:8px;background:var(--light);border-bottom:1px solid var(--lightgray);z-index:44;}
+ body[data-pd-open] .pd-backdrop {display:block;position:fixed;inset:48px 0 0;background:#0003;z-index:40;}
+ html:has(body[data-pd-open]) {overflow-y:hidden;}
+}
+/* Explicit column reservation: fixed grid items do not occupy an auto-placement slot. */
+@media(min-width:1200px){body:has(.tcd-panels-enabled) .page>#quartz-body>.center {grid-column:2;grid-row:1 / -1;min-width:0;}}
+@media(max-width:1199px){body:has(.tcd-panels-enabled) .page>#quartz-body>.center {grid-column:1;grid-row:1 / -1;}}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar,
+body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar {overflow:hidden;max-height:none;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar .explorer:not(.collapsed) .explorer-content {flex:1 1 0!important;height:auto!important;max-height:none!important;min-height:0;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .toc>button {min-height:28px;white-space:normal;}
+body:has(.tcd-panels-enabled) .page>#quartz-body .toc>button h3 {font-size:13px;line-height:17px;white-space:normal;text-align:left;}
+/* Release PG-01B's inherited 180px minimum only in this isolated layout. */
+body:has(.tcd-panels-enabled) .page>#quartz-body .left.sidebar>.explorer:not(.collapsed) {min-height:0;}
+
+/* Short mobile drawer: keep graph title and both controls on one accessible row. */
+@media(max-width:1199px) and (max-height:600px){
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph {display:grid;grid-template-columns:minmax(0,1fr) auto auto;grid-template-rows:36px auto;gap:4px 6px;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph>h3 {grid-column:1;grid-row:1;align-self:center;font-size:12px;line-height:16px;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph>.tcd-graph-controls {display:contents;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar .tcd-toggle-graph {grid-column:2;grid-row:1;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar .tcd-graph-controls>.global-graph-icon {grid-column:3;grid-row:1;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph>.graph-outer {grid-column:1 / -1;grid-row:2;}
+ body:has(.tcd-panels-enabled) .page>#quartz-body .right.sidebar>.graph[data-tcd-minimized="true"] {row-gap:0;}
+}

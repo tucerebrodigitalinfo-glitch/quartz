@@ -276,6 +276,11 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: "./plugins/tcd-panels"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 90
 layout:
   groups:
     toolbar:
