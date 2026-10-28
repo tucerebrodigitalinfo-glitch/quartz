@@ -1,0 +1,68 @@
+@media(min-width:1200px){
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .page-title { display: none; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar { gap: 0.65rem; padding-top: 1.1rem; padding-bottom: 1rem; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar .explorer { flex: 1 1 0px; min-height: 0px; display: flex; flex-direction: column; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar .explorer-content { min-height: 0px; flex: 1 1 auto; overflow: auto; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar .explorer-ul { max-height: none; overflow: visible; }
+@media (min-width: 801px) and (max-width: 1199px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar { height: calc(-32px + 100vh); top: 16px; }
+}
+@media (max-width: 800px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar { position: relative; display: flex; flex-wrap: wrap; align-items: center; gap: 10px; padding: 12px 0px; height: auto; overflow: visible; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .tcd-brand { width: 130px; flex: 0 0 130px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .flex-component { flex: 1 1 120px; min-width: 0px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .mobile-only { display: none; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .explorer { width: 100%; flex: 1 0 100%; display: flex; position: relative; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .explorer .mobile-explorer { display: none; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .explorer .desktop-explorer { display: flex; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .explorer .explorer-content { max-height: 36vh; min-height: 0px; background: var(--light); padding: 0px; box-shadow: none; border: 0px; position: static !important; visibility: visible !important; display: block !important; }
+}
+@media (max-width: 800px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .tcd-brand { order: 0; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .flex-component { order: 1; flex: 1 1 190px; width: 190px; min-width: 0px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .explorer { order: 2; flex: 0 0 100%; height: auto; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .explorer-content { flex: 0 1 auto !important; height: auto !important; max-height: 32vh !important; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar > .flex-component > div:first-child { min-width: 0px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .explorer .explorer-ul { height: auto; }
+}
+@media (max-width: 800px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .left.sidebar, body:has(.tcd-panels-enabled) #quartz-body .right.sidebar { min-width: 0px; max-width: 100%; }
+}
+@media (max-width: 800px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .explorer .explorer-content { max-width: 100%; box-sizing: border-box; width: 100% !important; }
+}
+@media (max-width: 800px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .explorer.collapsed .explorer-content { display: none !important; }
+}
+@media (max-width: 800px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) #quartz-body .left.sidebar:has(.explorer) { position: relative; top: auto; }
+}
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) #quartz-body .left.sidebar .explorer-content, body:has(.tcd-panels-enabled) #quartz-body .right.sidebar > .toc > .toc-content { overscroll-behavior-y: contain; }
+@media (max-height: 600px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) #quartz-body .left.sidebar, body:has(.tcd-panels-enabled) #quartz-body .right.sidebar { height: calc(100dvh - 32px); max-height: calc(100dvh - 32px); overflow-y: auto; overscroll-behavior-y: contain; scrollbar-gutter: stable; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) #quartz-body .left.sidebar > .explorer { flex: 0 0 auto; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) #quartz-body .left.sidebar > .explorer:not(.collapsed) { min-height: 180px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) #quartz-body .left.sidebar .explorer:not(.collapsed) .explorer-content { min-height: 140px; flex: 0 0 140px !important; height: 140px !important; max-height: 140px !important; }
+}
+body:has(.tcd-panels-enabled) .page > #quartz-body :is(.left.sidebar, .right.sidebar), body[data-slug="mapa-tcd"] .page > #quartz-body .left.sidebar { box-sizing: border-box; position: fixed; top: 16px; bottom: 16px; height: calc(100dvh - 32px); max-height: none; padding: 8px 32px; gap: 8px; overflow: hidden; overscroll-behavior: contain; min-height: 0px; margin: 0px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar { left: var(--pd-left,0px); width: 344px; display: flex; flex-flow: column; align-items: stretch; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar .tcd-brand { flex: 0 0 auto; width: auto; order: 0; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar .tcd-brand-logo { width: 220px; max-width: 100%; height: auto; margin: 0px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar > .flex-component { flex: 0 0 auto; order: 1; width: auto; min-width: 0px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar > .explorer { order: 2; flex: 1 1 0px; min-height: 0px; width: 100%; height: auto; position: relative; display: flex; flex-direction: column; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar .explorer-content { min-height: 0px; overflow: auto; overscroll-behavior: contain; position: static !important; flex: 1 1 0px !important; height: auto !important; max-height: none !important; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar .explorer.collapsed .explorer-content { display: none !important; }
+@media (min-width: 1200px) and (max-height: 600px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar { display: grid; grid-template: "brand tools" 220px "explorer explorer" minmax(0px, 1fr) / 220px minmax(0px, 1fr); gap: 8px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar > .tcd-brand { grid-area: brand; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar > .flex-component { grid-area: tools; flex-direction: column; align-items: stretch; justify-content: center; gap: 8px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar > .flex-component > div { flex: 0 0 auto !important; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar .search-button > p { display: none; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar > .explorer { grid-area: explorer; }
+}
+@media (max-width: 1199px){body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar .tcd-brand-logo { width: 130px; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar > .tcd-brand { width: auto; flex: 0 0 auto; }
+}
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar, body:has(.tcd-panels-enabled) .page > #quartz-body .right.sidebar { overflow: hidden; max-height: none; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar .explorer:not(.collapsed) .explorer-content { min-height: 0px; flex: 1 1 0px !important; height: auto !important; max-height: none !important; }
+body:is(:has(.tcd-panels-enabled), [data-slug="mapa-tcd"]) .page > #quartz-body .left.sidebar > .explorer:not(.collapsed) { min-height: 0px; }
+body[data-slug="mapa-tcd"] .page > #quartz-body > .center { grid-column: 2; }
+body[data-slug="mapa-tcd"] .page > #quartz-body .left.sidebar { pointer-events: none; }
+body[data-slug="mapa-tcd"] .page > #quartz-body .left.sidebar > * { pointer-events: auto; }
+
+body[data-slug="mapa-tcd"] .page>#quartz-body .left.sidebar{left:max(0px,calc((100% - 1500px)/2));}
+body[data-slug="mapa-tcd"] .search>.search-button{box-sizing:border-box;border-width:2px;}
+body[data-slug="mapa-tcd"] .search>.search-button>p{font-size:0;font-weight:600;}
+body[data-slug="mapa-tcd"] .search>.search-button>p::after{content:"Buscar en TCD";font-size:1rem;}
+}

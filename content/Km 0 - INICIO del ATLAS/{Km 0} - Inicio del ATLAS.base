@@ -1,5 +1,10 @@
 views:
   - type: list
-    name: Tabla
-  - type: list
     name: Vista
+properties:
+  file.name:
+    displayName: Título
+  formula.tcd_etiquetas_enlazadas:
+    displayName: Etiquetas
+formulas:
+  tcd_etiquetas_enlazadas: file.tags.filter(value.trim() != "").map(link("tags/" + value, value))

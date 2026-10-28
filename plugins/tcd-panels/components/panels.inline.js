@@ -151,10 +151,21 @@
  let backlinksExpanded=false,opener=null;const priorInert=new Map();
  const scope=()=>!!document.querySelector('.tcd-panels-enabled');
  const narrow=()=>innerWidth<1200;
- function align(){const grid=document.querySelector('#quartz-body');if(!grid||!scope())return;const r=grid.getBoundingClientRect();document.body.style.setProperty('--pd-left',r.left+'px');document.body.style.setProperty('--pd-right',(r.right-280)+'px');if(!narrow())close(false);}
+ const leftPresentationTitles=new WeakMap();
+ function alignLeftPresentation(){
+  const body=document.body,portal=!!document.querySelector('.tcd-left-layout');
+  const title=document.querySelector('.left.sidebar .desktop-explorer h2');
+  if(!portal||innerWidth<1200){delete body.dataset.tcdLeftLayout;if(title&&leftPresentationTitles.has(title)){title.textContent=leftPresentationTitles.get(title);leftPresentationTitles.delete(title);}return;}
+  const grid=document.querySelector('#quartz-body');if(!grid)return;
+  body.style.setProperty('--pd-left',grid.getBoundingClientRect().left+'px');body.dataset.tcdLeftLayout='desktop';
+  if(title){if(!leftPresentationTitles.has(title))leftPresentationTitles.set(title,title.textContent);title.textContent='EXPLORADOR';}
+ }
+
+ function align(){alignLeftPresentation();const grid=document.querySelector('#quartz-body');if(!grid||!scope())return;const r=grid.getBoundingClientRect();document.body.style.setProperty('--pd-left',r.left+'px');document.body.style.setProperty('--pd-right',(r.right-280)+'px');if(!narrow())close(false);}
  function close(returnFocus=true){delete document.body.dataset.pdOpen;for(const [e,value]of priorInert)e.inert=value;priorInert.clear();for(const b of document.querySelectorAll('.pd-toolbar button[data-panel]'))b.setAttribute('aria-expanded','false');if(returnFocus&&opener?.isConnected)opener.focus({preventScroll:true});}
  function open(side,button){if(document.body.dataset.pdOpen===side){close();return;}close(false);opener=button;document.body.dataset.pdOpen=side;button.setAttribute('aria-expanded','true');const panel=document.querySelector('.'+side+'.sidebar');for(const e of document.querySelectorAll('.center, footer, .left.sidebar, .right.sidebar')){priorInert.set(e,e.inert);e.inert=e!==panel;}panel?.focus({preventScroll:true});}
  function setup(){
+  alignLeftPresentation();
   if(!scope()){document.querySelector('.pd-toolbar')?.remove();document.querySelector('.pd-backdrop')?.remove();close(false);return;}
   const left=document.querySelector('.left.sidebar'),right=document.querySelector('.right.sidebar');if(!left||!right)return; const graphTitle=right.querySelector('.graph>h3');if(graphTitle)graphTitle.textContent='VISTA GRAFO';const tocTitle=right.querySelector('.toc>button h3');if(tocTitle)tocTitle.textContent='TABLA DE CONTENIDOS'; const explorerTitle=left.querySelector('.desktop-explorer h2');if(explorerTitle)explorerTitle.textContent='EXPLORADOR';
   left.id='pd-explorer-panel';right.id='pd-right-panel';for(const [e,name]of [[left,'Explorer'],[right,'Grafo, índice y enlaces a esta página']]){e.tabIndex=0;e.setAttribute('role','region');e.setAttribute('aria-label',name);}

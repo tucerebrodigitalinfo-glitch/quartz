@@ -1,0 +1,19 @@
+/* Only the native Search modal and its narrow-screen entry point. */
+.tcd-search-host { --search-z-index: 10000; }
+.tcd-search-host > .search-container { width:100%; height:100dvh; max-width:100%; }
+.tcd-search-host .search-space { padding-bottom:1rem; }
+.tcd-search-host .tcd-search-status { box-sizing:border-box; padding:.75rem 1rem; color:var(--dark); }
+.tcd-search-host .tcd-search-status[hidden] { display:none; }
+.pd-toolbar > .tcd-search-launcher { width:36px; padding:6px; display:flex; align-items:center; justify-content:center; }
+.tcd-search-launcher svg { width:18px; height:18px; fill:none; stroke:var(--darkgray); }
+@media(min-width:1200px) { .tcd-search-launcher { display:none!important; } }
+
+/* Keep the native 2rem control dimensions, strengthen only its visual identification. */
+.search > .search-button { border-color:var(--secondary); background:var(--highlight); color:var(--dark); }
+body:has(.tcd-panels-enabled) .search > .search-button { box-sizing:border-box; border-width:2px; }
+.search > .search-button > p { color:var(--dark); }
+body:has(.tcd-panels-enabled) .search > .search-button > p { font-weight:600; }
+.search > .search-button svg .search-path { stroke:var(--secondary); stroke-width:2; }
+.search > .search-button:focus-visible,.tcd-search-launcher:focus-visible { outline:2px solid var(--secondary); outline-offset:2px; }
+.tcd-search-host .search-bar { border:2px solid var(--secondary)!important; }
+.tcd-search-host .search-bar:focus { outline:2px solid var(--secondary)!important; outline-offset:2px; }

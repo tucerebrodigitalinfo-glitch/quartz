@@ -1,0 +1,10 @@
+/* Presentation only, limited to the accepted KM0 Base; no functional panels marker. */
+body[data-slug="km-0---inicio-del-atlas/{km-0}---inicio-del-atlas.base"] .search > .search-button{box-sizing:border-box;border:2px solid var(--secondary);background:var(--highlight);color:var(--dark);}
+body[data-slug="km-0---inicio-del-atlas/{km-0}---inicio-del-atlas.base"] .search > .search-button > p{color:var(--dark);font-weight:600;}
+/* Same compact magnifier pattern as the approved mobile search; full accessible name is retained. */
+@media(max-width:800px){
+body[data-slug="km-0---inicio-del-atlas/{km-0}---inicio-del-atlas.base"] .search{min-width:0;max-width:36px;}
+body[data-slug="km-0---inicio-del-atlas/{km-0}---inicio-del-atlas.base"] .search > .search-button{width:36px;min-width:36px;padding:0;justify-content:center;}
+body[data-slug="km-0---inicio-del-atlas/{km-0}---inicio-del-atlas.base"] .search > .search-button > p{display:none;}
+body[data-slug="km-0---inicio-del-atlas/{km-0}---inicio-del-atlas.base"] .search > .search-button svg{margin:0;}
+}
