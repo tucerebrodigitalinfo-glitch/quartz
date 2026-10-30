@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T09:55:20.200Z
-modified: 2026-10-29T21:54:48.443Z
+modified: 2026-10-30T20:31:02.181Z
 ---
 
 #IA #Alphafold #Hassabis #Deepmind #Nobel #Notebook
