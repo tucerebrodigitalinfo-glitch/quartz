@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-31T14:57:19.569Z
-modified: 2026-10-24T14:41:00.808Z
+modified: 2026-10-29T21:59:23.821Z
 ---
 
 #IA #Microsoft #Notebook #Futuro #Proyectos
 
-## [Gemini Notebook](https://notebook.google.com/notebook/b06a92bc-dad2-44a5-b036-03210a08ff93?authuser=7)
+### [Gemini Notebook](https://notebook.google.com/notebook/b06a92bc-dad2-44a5-b036-03210a08ff93?authuser=7)
 
 ![[Biblioteca/N1010 Microsoft_y_su_propia_inteligencia_artificial.mp3]]
 ![[Biblioteca/N1010 Estrategia_para_el_futuro_de_IA.png]]

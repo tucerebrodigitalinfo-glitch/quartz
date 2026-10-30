@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T09:55:20.200Z
-modified: 2026-10-21T22:09:45.809Z
+modified: 2026-10-29T21:54:48.443Z
 ---
 
 #IA #Alphafold #Hassabis #Deepmind #Nobel #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-21T22:09:45.809Z
 
 ### [Introducción](https://notebooklm.link.google/958wkRwkFdHF)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/155da66b-296c-49a9-8918-d8bd3ae3aa06?authuser=6)
+### [Gemini Notebook](https://notebook.google.com/notebook/155da66b-296c-49a9-8918-d8bd3ae3aa06?authuser=6)
 
 ![[Biblioteca/N1035 AlphaFold_3_y_el_diseño_de_fármacos.mp3]]
 ![[Biblioteca/N1035 Revolución_del_Diseño_de_Fármacos.png]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-03T19:59:29.527Z
-modified: 2026-10-25T16:46:35.248Z
+modified: 2026-10-29T21:56:00.223Z
 ---
 
 #Cuántica #Latorre #IA
@@ -12,7 +12,7 @@ modified: 2026-10-25T16:46:35.248Z
 
 ### [Introducción](https://notebooklm.link.google/BSLevCKkVLRB)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/708e2ce1-010d-4a48-8189-09ed14665b49?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/708e2ce1-010d-4a48-8189-09ed14665b49?authuser=2)
 
 ![[Biblioteca/N1029 IA_inmortal_y_la_muerte_del_tiempo.mp3]]
 ![[Biblioteca/N1029 Límites_del_Conocimiento.mp4]]

@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-12T14:39:14.300Z
-modified: 2026-10-25T11:33:21.294Z
+modified: 2026-10-29T21:58:32.415Z
 ---
 
 #IA #Empleo #Trabajo #WEF #WeForum #Notebook
 
-## [Gemini Notebook](https://notebooklm.google.com/notebook/83b3cf6d-621d-4fc9-b0b5-766495be45e6?authuser=4)
+### [Gemini Notebook](https://notebooklm.google.com/notebook/83b3cf6d-621d-4fc9-b0b5-766495be45e6?authuser=4)
 
 ![[Biblioteca/N1021a Trabajo_2030_Rotación_Masiva,_el_Churn_del_22_y_el_Impacto.mp3]]
 ![[Biblioteca/N1021b El_Futuro_de_tu_Empleo.mp4]]

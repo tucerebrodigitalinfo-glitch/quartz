@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T12:58:00.166Z
-modified: 2026-10-22T10:45:19.660Z
+modified: 2026-10-29T21:52:01.055Z
 ---
 
 #IA #Robot #Agentes  #Futuro #Notebook #Vidal #McKinsey
@@ -12,7 +12,7 @@ modified: 2026-10-22T10:45:19.660Z
 
 ### [Introducción](https://notebooklm.link.google/Pm8QyJGgALRy)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/815f4e61-1c05-4e9b-a7fa-b963105656eb?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/815f4e61-1c05-4e9b-a7fa-b963105656eb?authuser=2)
 
 ![[Biblioteca/N1045-El_fin_del_trabajo_humano_en_España.mp3]]
 ![[Biblioteca/N1045 Ciudadano_Desplazado.mp4]]

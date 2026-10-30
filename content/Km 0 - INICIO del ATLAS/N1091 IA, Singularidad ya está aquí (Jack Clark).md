@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-19T13:56:17.678Z
-modified: 2026-10-21T11:34:02.206Z
+modified: 2026-10-29T21:46:42.241Z
 ---
 
 #IA #Anthropic #Singularidad #Notebook

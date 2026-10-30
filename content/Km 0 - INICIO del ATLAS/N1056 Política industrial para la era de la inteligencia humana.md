@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-05T15:01:00.199Z
-modified: 2026-10-22T12:00:53.322Z
+modified: 2026-10-29T21:50:07.946Z
 ---
 
 #IA #Industria #Futuro #Notebook

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T11:17:56.749Z
-modified: 2026-10-21T22:29:02.661Z
+modified: 2026-10-29T21:54:06.085Z
 ---
 
 #Orden #Geopolítica #Notebook #China
@@ -10,10 +10,9 @@ modified: 2026-10-21T22:29:02.661Z
 
 ### [Introducción](https://notebooklm.link.google/z0pMxVfTpklO)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/14ababed-a333-4b48-b7db-7adf9895ec02?authuser=6)
+### [Gemini Notebook](https://notebook.google.com/notebook/14ababed-a333-4b48-b7db-7adf9895ec02?authuser=6)
 
 ![[Biblioteca/N1037 Cómo_China_rediseña_el_poder_mundial.mp3]]
-
 ![[Biblioteca/N1037 El_Ascenso_de_la_Multipolaridad.png]]
 
 ![[Biblioteca/N1037 Nuevo_Orden_Multipolar.mp4]]

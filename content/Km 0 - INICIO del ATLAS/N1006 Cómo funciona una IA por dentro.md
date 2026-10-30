@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:38:37.155Z
-modified: 2026-09-18T09:36:19.967Z
+modified: 2026-10-29T21:59:41.292Z
 ---
 
 #IA #LLM #Funcionamiento #Notebook  #Ingeniería

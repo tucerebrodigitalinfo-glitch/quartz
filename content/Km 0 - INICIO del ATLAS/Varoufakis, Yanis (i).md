@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-19T18:25:47.250Z
-modified: 2026-09-18T09:36:49.359Z
+modified: 2026-10-26T07:42:04.165Z
 ---
 
-#Política #Grecia #Índices #Socialismo
+#Política #Grecia #Índices #Socialismo #Varoufakis #Tecnofeudalismo #Capitalismo
 
 ![[Biblioteca/Pasted image 20260819200959.png]]
 

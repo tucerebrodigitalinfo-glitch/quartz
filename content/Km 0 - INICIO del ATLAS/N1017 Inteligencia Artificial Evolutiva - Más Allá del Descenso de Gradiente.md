@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-12T14:39:05.885Z
-modified: 2026-10-24T15:40:00.144Z
+modified: 2026-10-29T21:58:51.434Z
 ---
 
 #IA #Futuro  #Notebook #Evolutivab
 
 ### [Introducción](https://notebooklm.link.google/SMpHJKquNsYY)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/5b57a197-8786-4097-8ee9-8d2f46e87328?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/5b57a197-8786-4097-8ee9-8d2f46e87328?authuser=2)
 
 ![[Biblioteca/N1017a IA_que_muta_y_evoluciona_sola.mp3]]
 ![[Biblioteca/N1017c IA_Evolutiva_y_Optimización_Global.png]]

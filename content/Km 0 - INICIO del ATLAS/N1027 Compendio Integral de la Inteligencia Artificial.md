@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-03T10:17:50.747Z
-modified: 2026-10-25T17:48:13.852Z
+modified: 2026-10-29T21:57:53.991Z
 ---
 
 #IA #Formación #Notebook #Educación #Aprendizaje
@@ -10,7 +10,7 @@ modified: 2026-10-25T17:48:13.852Z
 
 ### [Introducción](https://notebooklm.link.google/xxLRHb0etBvD)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/c60d2c6b-ec6a-42f7-ba76-0ae9420d52e7?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/c60d2c6b-ec6a-42f7-ba76-0ae9420d52e7?authuser=2)
 
 ![[Biblioteca/N1027 Anatomía_de_la_inteligencia_artificial.mp3]]
 ![[Biblioteca/N1027 Pilares_de_la_IA_Moderna.png]]

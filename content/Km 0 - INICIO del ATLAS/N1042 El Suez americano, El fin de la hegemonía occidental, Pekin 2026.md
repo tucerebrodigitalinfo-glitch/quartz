@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T11:42:05.370Z
-modified: 2026-10-22T10:31:29.903Z
+modified: 2026-10-29T21:52:48.579Z
 ---
 
 #Geopolítica #Vidal #China #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-22T10:31:29.903Z
 
 ### [Introducción](https://notebooklm.link.google/9JYZF0bMMsVi)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/641bca25-bb4f-4941-a98e-229943b5d96f?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/641bca25-bb4f-4941-a98e-229943b5d96f?authuser=2)
 
 ![[Biblioteca/N1042-La_capitulación_de_Trump_en_Pekín-_1_.mp3]]
 ![[Biblioteca/Geopolítica__El_Fin_de_Era.png]]

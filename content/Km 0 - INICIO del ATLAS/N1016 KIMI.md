@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:39:02.809Z
-modified: 2026-10-24T15:26:54.294Z
+modified: 2026-10-29T21:59:01.093Z
 ---
 
 #IA #KIMI #Agentes #Emjambre #Notebook
@@ -10,7 +10,7 @@ modified: 2026-10-24T15:26:54.294Z
 
 ### [Introducción](https://notebooklm.link.google/ndU04Mq7iqyA)
 
-# [Gemini Notebook](https://notebooklm.google.com/notebook/fea2a806-cf82-4ecf-9c28-8a84c59343c5)
+### [Gemini Notebook](https://notebooklm.google.com/notebook/fea2a806-cf82-4ecf-9c28-8a84c59343c5)
 
 ![[Biblioteca/N1016e Kimi_K2.mp3]]
 

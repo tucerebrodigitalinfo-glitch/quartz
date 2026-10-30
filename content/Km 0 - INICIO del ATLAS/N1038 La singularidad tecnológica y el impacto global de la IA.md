@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T11:15:03.552Z
-modified: 2026-10-22T10:19:52.927Z
+modified: 2026-10-29T21:53:28.734Z
 ---
 
 #IA #Singularidad #Orús #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-22T10:19:52.927Z
 
 ### [Introducción](https://notebooklm.link.google/tc03mPVcjEyY)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/6f770853-2482-4785-bb89-aaa72ddf053b?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/6f770853-2482-4785-bb89-aaa72ddf053b?authuser=2)
 
 ![[Biblioteca/N1038-El_colapso_de_la_IA_centralizada.mp3]]
 ![[Biblioteca/N1038 El_Dilema_de_la_IA.png]]

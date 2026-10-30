@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T11:50:08.799Z
-modified: 2026-10-22T10:35:10.603Z
+modified: 2026-10-29T21:52:21.180Z
 ---
 
 #Geopolítica #Historia #Notebook #DOAC #Dalio
@@ -12,7 +12,7 @@ modified: 2026-10-22T10:35:10.603Z
 
 ### [Introducción](https://notebooklm.link.google/ylm4RHHBvA7H)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/16cf86c2-a0e5-4572-b67e-a2edc8227571?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/16cf86c2-a0e5-4572-b67e-a2edc8227571?authuser=2)
 
 ![[Biblioteca/N1044-El_orden_mundial_tiene_fecha_de_caducidad.mp3]]
 ![[Biblioteca/N1044 El_gran_ciclo_de_imperios.png]]

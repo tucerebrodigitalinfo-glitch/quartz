@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-03T18:37:03.611Z
-modified: 2026-10-25T17:11:50.661Z
+modified: 2026-10-29T21:57:33.550Z
 ---
 
 #IA #Karpathy #LLM #Formación #Notebook
@@ -14,7 +14,7 @@ modified: 2026-10-25T17:11:50.661Z
 
 ### [Introducción](https://notebooklm.link.google/uhEcyOWxsKEi)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/7e1133ec-b03b-4507-b8a5-945db4857208?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/7e1133ec-b03b-4507-b8a5-945db4857208?authuser=2)
 
 ![[Biblioteca/N1028 Cómo_funcionan_de_verdad_los_LLM.mp3]]
 ![[Biblioteca/N1028 Anatomía_de_un_Modelo_LLM.png]]

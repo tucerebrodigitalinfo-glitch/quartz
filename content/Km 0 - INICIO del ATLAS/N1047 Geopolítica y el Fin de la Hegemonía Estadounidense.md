@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-12T16:33:18.777Z
-modified: 2026-10-22T10:59:15.893Z
+modified: 2026-10-29T21:51:39.219Z
 ---
 
 #Geopolítica #Democracia @Xueqin #DOAC #Notebook
@@ -12,10 +12,9 @@ modified: 2026-10-22T10:59:15.893Z
 
 ### [Introducción](https://notebook.google.com/notebook/d4318240-3fa0-4a37-99a0-028944c28f8b/artifact/1232cb83-2021-495e-ba89-92c4c0ccfb2c?utm_source=nlm_web_share\&utm_medium=google_oo\&utm_campaign=art_share_1\&utm_content=\&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/d4318240-3fa0-4a37-99a0-028944c28f8b?authuser=2)
+### [Gemini Notebook](https://notebook.google.com/notebook/d4318240-3fa0-4a37-99a0-028944c28f8b?authuser=2)
 
 ![[Biblioteca/N1047-La_Tercera_Guerra_Mundial_por_el_petrodólar.mp3]]
-
 ![[Biblioteca/N1047 Geopolítica_de_la_Fortaleza_América.png]]
 ![[N1047 La_Tercera_Guerra_Mundial_por_el_petrodólar.m4a]]
 

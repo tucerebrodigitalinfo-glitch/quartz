@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T09:55:19.851Z
-modified: 2026-10-21T22:07:32.655Z
+modified: 2026-10-29T21:55:09.339Z
 ---
 
 #CES #IA #Robot #Eventos #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-21T22:07:32.655Z
 
 ### [Introducción]()
 
-## [Gemini Notebook](https://notebook.google.com/notebook/eae4179d-1662-4090-8990-916d3f9f17b0?authuser=6)
+### [Gemini Notebook](https://notebook.google.com/notebook/eae4179d-1662-4090-8990-916d3f9f17b0?authuser=6)
 
 ![[Biblioteca/N1034 La_inteligencia_artificial_ya_tiene_cuerpo.mp3]]
 ![[Biblioteca/N1034 IA_Física__Feria_Tecnológica_2026.png]]

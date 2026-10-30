@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-04T09:55:20.976Z
-modified: 2026-10-13T19:03:14.389Z
+modified: 2026-10-29T21:54:24.531Z
 ---
 
 #IA #Empleo #Notebook
@@ -12,7 +12,7 @@ modified: 2026-10-13T19:03:14.389Z
 
 ### [Introducción](https://notebooklm.link.google/6zzFL37D0kSf)
 
-## [Gemini Notebook](https://notebook.google.com/notebook/2ac034f6-b1e2-4f20-a324-0c185c53dbc0?authuser=6)
+### [Gemini Notebook](https://notebook.google.com/notebook/2ac034f6-b1e2-4f20-a324-0c185c53dbc0?authuser=6)
 
 ![[N1036 Tu_inteligencia_vale_cada_vez_menos.m4a]]
 
