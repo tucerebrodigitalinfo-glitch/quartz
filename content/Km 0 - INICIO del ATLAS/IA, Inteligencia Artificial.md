@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12T14:37:00.711Z
-modified: 2026-10-02T10:53:51.468Z
+modified: 2026-10-30T22:33:36.591Z
 ---
 
 La Inteligencia Artificial es una de las transformaciones intelectuales y tecnológicas más importantes de la historia humana. Este MOC reúne las personas, conceptos, eventos, herramientas y preguntas que permiten comprender su evolución y su posible futuro.
@@ -79,7 +79,7 @@ https://intelligence.weforum.org/topics/a1Gb0000000pTDREA2
 [[Microsoft]]
 [[Meta]]
 [[xAI]]
-[[Nvidia]]
+[[IA, NVIDIA]]
 
 ## 🛠 [[Herramientas]]
 
