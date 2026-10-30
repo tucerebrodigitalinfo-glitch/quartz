@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-05T08:19:56.712Z
-modified: 2026-09-18T09:36:55.268Z
+modified: 2026-10-30T23:17:35.136Z
 ---
 
 #IA #Nvidia
 
-![[Biblioteca/Pasted image 20260905105301.png]]
+![[Biblioteca/Pasted image 20261030233245.png]]
+
+#### [[N1098 NVIDIA Plataforma Omniverse y sus aplicaciones tecnológicas]]
 
 ## NVIDIA
 
