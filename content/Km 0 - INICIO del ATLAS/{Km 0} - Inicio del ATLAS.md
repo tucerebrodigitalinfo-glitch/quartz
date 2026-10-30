@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-25T19:09:54.117Z
+modified: 2026-10-30T11:19:38.109Z
 ---
 
 #Km0
@@ -215,7 +215,7 @@ modified: 2026-10-25T19:09:54.117Z
 [[Francia, Revolución (i)]]
 [[IA, Funcionamiento]]
 [[Funcionamiento IA]]
-[[Funcionamiento IA por dentro]]
+[[IA, Funcionamiento IA por dentro]]
 [[Fundamentos]]
 [[Gafas (i)]]
 [[Galeano, Eduardo (i)]]

@@ -1,27 +1,30 @@
 ---
 publish: true
 created: 2026-07-12T14:38:37.155Z
-modified: 2026-10-29T21:59:41.292Z
+modified: 2026-10-30T11:30:50.830Z
 ---
 
 #IA #LLM #Funcionamiento #Notebook  #Ingeniería
 
-Lo que ocurre dentro de una IA cuando le preguntas algo - (YouTube)
-
-![[Biblioteca/N1006b Funcionamiento_interno_de_la_IA.png]]
-
 ### [[Bing, Funcionamiento IA]]
 
-[[Funcionamiento IA por dentro]]
+[[IA, Funcionamiento IA por dentro]]
+[[N1008 El Mecanismo Invisible (LLM)]]
 
 ### [Youtube](https://youtu.be/RQP_DF2FbjQ?is=YwayDgqh1R8XxAyq)
 
 ### [Gemini Notebook](https://notebooklm.google.com/notebook/abb72b92-d902-49e3-bec3-40dc30299b64?authuser=6)
 
+![[Biblioteca/N1006 La_IA_no_piensa_solo_calcula.mp3]]
+
+![[Biblioteca/N1006b Funcionamiento_interno_de_la_IA.png]]
+![[Biblioteca/N1006 La_Realidad_de_la_IA.mp4]]
+
+![[Biblioteca/N1008 The_Invisible_Mechanism.pdf]]
+
+![[Biblioteca/N1006 The_Mathematical_Mirror.pdf]]
 ![[Biblioteca/N1006a FUNCIONAMIENTO INTERNO DE LA IA.png]]
 ————————
-[[N1008 El Mecanismo Invisible (LLM)]]
-![[Biblioteca/N1008 The_Invisible_Mechanism.pdf]]
 
 Fuente: Vídeo de YouTube
 Formato: 🎥 Vídeo
