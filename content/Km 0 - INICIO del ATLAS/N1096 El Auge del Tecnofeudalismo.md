@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-10-26T06:44:25.907Z
-modified: 2026-10-26T10:24:57.430Z
+modified: 2026-10-31T14:05:17.649Z
 ---
 
-#Tecnofeudalismo #Capitalismo #Byung-Chul #Varoufakis
+#Tecnofeudalismo #Capitalismo #Byung-Chul #Varoufakis #Sociedad
 
 ![[Biblioteca/Pasted image 20261026074723.png]]
 
