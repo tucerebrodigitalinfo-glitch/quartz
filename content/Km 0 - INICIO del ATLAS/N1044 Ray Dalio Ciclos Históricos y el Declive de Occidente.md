@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T11:50:08.799Z
-modified: 2026-10-29T21:52:21.180Z
+modified: 2026-10-31T14:33:13.835Z
 ---
 
-#Geopolítica #Historia #Notebook #DOAC #Dalio
+#Geopolítica #Historia #Notebook #DOAC #Dalio #Sociedad
 
 ![[Biblioteca/Pasted image 20261011162401.png]]
 

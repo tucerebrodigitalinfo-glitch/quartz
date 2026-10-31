@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T09:10:39.294Z
-modified: 2026-10-29T21:55:23.717Z
+modified: 2026-10-31T14:38:53.377Z
 ---
 
-#IA #Evolución #Notebook #PNAS
+#IA #Evolución #Notebook #PNAS #Ciencia
 
 ### [PNAS, AI Revolution, Youtube](https://youtu.be/hot2nobS2Ys?si=XWXOn6TX6qplxOT0)
 

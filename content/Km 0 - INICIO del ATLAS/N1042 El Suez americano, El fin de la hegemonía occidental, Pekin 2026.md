@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T11:42:05.370Z
-modified: 2026-10-29T21:52:48.579Z
+modified: 2026-10-31T14:34:26.711Z
 ---
 
-#Geopolítica #Vidal #China #Notebook
+#Geopolítica #Vidal #China #Notebook #Sociedad
 
 ![[Biblioteca/Pasted image 20261011211516.png]]
 

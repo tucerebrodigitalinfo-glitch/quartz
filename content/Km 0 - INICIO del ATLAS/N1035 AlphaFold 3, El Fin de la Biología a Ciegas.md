@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T09:55:20.200Z
-modified: 2026-10-30T20:31:02.181Z
+modified: 2026-10-31T14:37:25.674Z
 ---
 
-#IA #Alphafold #Hassabis #Deepmind #Nobel #Notebook
+#IA #Alphafold #Hassabis #Deepmind #Nobel #Notebook #Ciencia
 
 ![[Biblioteca/Pasted image 20261012201507.png]]
 

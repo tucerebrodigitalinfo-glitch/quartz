@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-10T17:06:34.441Z
-modified: 2026-10-29T21:48:46.768Z
+modified: 2026-10-31T14:43:23.601Z
 ---
 
-#Libros #IA #Romero #Notebook #PDF
+#Libros #IA #Romero #Notebook #PDF #Sociedad
 
 ### \[\[IA- El Hostión que viene.pdf], J.M.Romero]]
 

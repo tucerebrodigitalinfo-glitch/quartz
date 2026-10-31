@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T11:15:03.552Z
-modified: 2026-10-29T21:53:28.734Z
+modified: 2026-10-31T14:36:07.606Z
 ---
 
-#IA #Singularidad #Orús #Notebook
+#IA #Singularidad #Orús #Notebook #Sociedad
 
 ![[Biblioteca/Pasted image 20261012173509.png]]
 

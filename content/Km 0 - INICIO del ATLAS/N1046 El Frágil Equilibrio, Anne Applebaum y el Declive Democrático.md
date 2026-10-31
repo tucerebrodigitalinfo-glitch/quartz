@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T13:04:33.843Z
-modified: 2026-10-22T10:50:19.472Z
+modified: 2026-10-31T14:32:24.475Z
 ---
 
-#Democracia #Applebaum #DOAC #Notebook
+#Democracia #Applebaum #DOAC #Notebook #Sociedad
 
 ![[Biblioteca/Pasted image 20261010195303.png]]
 

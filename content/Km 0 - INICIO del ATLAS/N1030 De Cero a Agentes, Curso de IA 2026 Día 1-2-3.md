@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-03T20:12:18.976Z
-modified: 2026-10-29T21:55:45.666Z
+modified: 2026-10-31T14:40:20.440Z
 ---
 
-#IA #Formación #Agentes #Notebook
+#IA #Formación #Agentes #Notebook #Evolución #Historia
 
 ### [Introducción](https://notebooklm.link.google/QchrNB2vD99u)
 

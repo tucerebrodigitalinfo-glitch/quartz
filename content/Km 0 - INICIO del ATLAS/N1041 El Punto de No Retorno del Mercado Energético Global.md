@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T11:35:54.575Z
-modified: 2026-10-22T10:28:45.379Z
+modified: 2026-10-31T14:34:54.954Z
 ---
 
-#Energía #Crisis #Ormuz #Notebook
+#Energía #Crisis #Ormuz #Notebook #Sociedad
 
 ![[Biblioteca/Pasted image 20261012131319.png]]
 

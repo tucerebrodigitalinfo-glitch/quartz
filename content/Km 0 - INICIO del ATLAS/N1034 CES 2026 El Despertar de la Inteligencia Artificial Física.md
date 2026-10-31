@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T09:55:19.851Z
-modified: 2026-10-29T21:55:09.339Z
+modified: 2026-10-31T14:37:55.527Z
 ---
 
-#CES #IA #Robot #Eventos #Notebook
+#CES #IA #Robot #Eventos #Notebook #Ciencia #Sociedad
 
 ![[Biblioteca/Pasted image 20261012203018.png]]
 

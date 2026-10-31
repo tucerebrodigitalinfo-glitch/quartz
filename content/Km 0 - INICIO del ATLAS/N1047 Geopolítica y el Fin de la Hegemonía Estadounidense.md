@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-12T16:33:18.777Z
-modified: 2026-10-29T21:51:39.219Z
+modified: 2026-10-31T14:31:52.444Z
 ---
 
-#Geopolítica #Democracia @Xueqin #DOAC #Notebook
+#Geopolítica #Democracia @Xueqin #DOAC #Notebook #Sociedad
 
 ![[Biblioteca/Pasted image 20261010174546.png]]
 

@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-29T14:54:37.034Z
-modified: 2026-10-29T21:48:21.329Z
+modified: 2026-10-31T14:44:07.640Z
 ---
 
-#IA #Redes #Neuronales #MundoCiencia
+#IA #Redes #Neuronales #MundoCiencia #Ciencia
 
 ### [Mundo Çiencia, Youtube](https://www.youtube.com/watch?v=eA9avINfu0s)
 

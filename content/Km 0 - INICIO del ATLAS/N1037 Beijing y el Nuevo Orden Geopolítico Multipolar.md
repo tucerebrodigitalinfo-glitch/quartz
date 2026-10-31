@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T11:17:56.749Z
-modified: 2026-10-29T21:54:06.085Z
+modified: 2026-10-31T14:36:35.899Z
 ---
 
-#Orden #Geopolítica #Notebook #China
+#Orden #Geopolítica #Notebook #China #Sociedad
 
 ### [Prof. Marandi, Youtube](https://youtu.be/SzpdVAVHDUQ?si=Chqf4PV1yAU5ob4l)
 

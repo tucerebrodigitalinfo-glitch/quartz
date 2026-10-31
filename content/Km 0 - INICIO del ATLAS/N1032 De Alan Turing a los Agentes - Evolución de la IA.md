@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T08:52:33.918Z
-modified: 2026-10-23T09:58:27.288Z
+modified: 2026-10-31T14:39:18.254Z
 ---
 
-#IA #Historia #Notebook
+#IA #Historia #Notebook #Ciencia #Evolución
 
 ![[Biblioteca/Pasted image 20261013210503.png]]
 

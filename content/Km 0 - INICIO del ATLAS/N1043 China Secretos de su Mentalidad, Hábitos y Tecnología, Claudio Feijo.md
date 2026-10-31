@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T11:46:00.549Z
-modified: 2026-10-29T21:52:33.487Z
+modified: 2026-10-31T14:33:57.561Z
 ---
 
-#China #Tecnología #Hábitos #Mentalidad #Notebook #Feijo
+#China #Tecnología #Hábitos #Mentalidad #Notebook #Feijo #Sociedad
 
 ![[Biblioteca/Pasted image 20261011203628.png]]
 

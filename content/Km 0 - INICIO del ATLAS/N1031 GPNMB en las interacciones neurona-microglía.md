@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-03T20:16:39.026Z
-modified: 2026-10-20T16:33:29.603Z
+modified: 2026-10-31T14:39:40.222Z
 ---
 
-#Salud #Parkinson #Notebook
+#Salud #Parkinson #Notebook #Ciencia
 ![[Biblioteca/Pasted image 20261013211248.png]]
 
 ### [Descubren una estrategia que podría frenar el Parkinson incluso antes de que aparezcan los primeros síntomas.](https://comunidad-biologica.com/estrategia-que-podria-frenar-el-parkinson/)

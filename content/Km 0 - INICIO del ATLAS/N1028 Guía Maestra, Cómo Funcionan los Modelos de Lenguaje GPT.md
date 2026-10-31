@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-03T18:37:03.611Z
-modified: 2026-10-29T21:57:33.550Z
+modified: 2026-10-31T14:41:46.853Z
 ---
 
-#IA #Karpathy #LLM #Formación #Notebook
+#IA #Karpathy #LLM #Formación #Notebook #Ciencia
 
 ### [[Karpathy, Andrej]]
 

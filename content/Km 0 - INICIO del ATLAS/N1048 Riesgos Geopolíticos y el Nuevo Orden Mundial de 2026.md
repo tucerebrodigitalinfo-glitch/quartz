@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T13:16:17.690Z
-modified: 2026-10-29T21:50:54.595Z
+modified: 2026-10-31T14:32:11.388Z
 ---
 
-#Geopolítica #Orden #Bremmer #DOAC #Notebook
+#Geopolítica #Orden #Bremmer #DOAC #Notebook #Sociedad
 
 ![[Biblioteca/Pasted image 20261010172229.png]]
 

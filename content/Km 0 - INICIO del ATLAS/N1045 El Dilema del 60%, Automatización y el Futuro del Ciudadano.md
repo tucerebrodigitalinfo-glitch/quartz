@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T12:58:00.166Z
-modified: 2026-10-29T21:52:01.055Z
+modified: 2026-10-31T14:32:38.130Z
 ---
 
-#IA #Robot #Agentes  #Futuro #Notebook #Vidal #McKinsey
+#IA #Robot #Agentes  #Futuro #Notebook #Vidal #McKinsey #Sociedad
 
 ![[Biblioteca/Pasted image 20261010201526.png]]
 

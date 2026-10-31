@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-04T11:19:54.274Z
-modified: 2026-10-20T16:46:06.866Z
+modified: 2026-10-31T14:35:16.393Z
 ---
 
-#IA #Futuro #Trabajo #Notebook
+#IA #Futuro #Trabajo #Notebook #Sociedad
 
 ![[Biblioteca/Pasted image 20261012160629.png]]
 

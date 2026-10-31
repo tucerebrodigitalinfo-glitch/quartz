@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-03T19:59:29.527Z
-modified: 2026-10-29T21:56:00.223Z
+modified: 2026-10-31T14:40:37.577Z
 ---
 
-#Cuántica #Latorre #IA
+#Cuántica #Latorre #IA #Sociedad
 
 ![[Biblioteca/Pasted image 20261025174630.png]]
 
