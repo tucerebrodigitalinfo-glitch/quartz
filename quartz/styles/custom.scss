@@ -19,3 +19,84 @@ iframe.pdf {
     flex-wrap: wrap;
   }
 }
+
+/* Solo las dos listas acreditadas. No modifica notas, índices ni Bases. */
+body:is([data-slug="km-0---inicio-del-atlas/5-gemini-notebook"], [data-slug="favoritos"])
+  article:not(.tcd-search-host article) .markdown-preview-view > p:has(> a.internal:nth-of-type(2)):not(:has(> .tag-link)) > a.internal {
+  display: block;
+  box-sizing: border-box;
+  width: fit-content;
+  max-width: 100%;
+  min-height: 44px;
+  margin-block: 0.25rem;
+  padding-block: 0.5rem;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 800px) {
+  body:is([data-slug="km-0---inicio-del-atlas/5-gemini-notebook"], [data-slug="favoritos"]) .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  body:is([data-slug="km-0---inicio-del-atlas/5-gemini-notebook"], [data-slug="favoritos"]) .page > #quartz-body .sidebar.left {
+    flex-wrap: wrap;
+    row-gap: 0.5rem;
+  }
+}
+
+/* Solo las previews nativas de las seis notas identificadas; sin cambiar el renderer. */
+.tcd-search-host .search-layout:has(> .results-container > .result-card.focus:is(
+  [id="favoritos"],
+  [id="1-favoritos"],
+  [id="km-0---inicio-del-atlas/4-favoritos"],
+  [id="gemini-notebook,-cuadernos"],
+  [id="km-0---inicio-del-atlas/5-cuadernos-gemini-notebook"],
+  [id="km-0---inicio-del-atlas/5-gemini-notebook"]
+)) > .preview-container .preview-inner article .markdown-preview-view p:has(> a.internal:nth-of-type(2)):not(:has(> .tag-link)) > a.internal {
+  display: block;
+  box-sizing: border-box;
+  width: fit-content;
+  max-width: 100%;
+  min-height: 44px;
+  margin-block: 0.25rem;
+  padding-block: 0.5rem;
+  overflow-wrap: anywhere;
+}
+
+/* En móvil no existe preview: omitir solo el extracto denso de estas tarjetas. */
+@media (max-width: 800px) {
+  .tcd-search-host .results-container > .result-card:is(
+    [id="favoritos"],
+    [id="1-favoritos"],
+    [id="km-0---inicio-del-atlas/4-favoritos"],
+    [id="gemini-notebook,-cuadernos"],
+    [id="km-0---inicio-del-atlas/5-cuadernos-gemini-notebook"],
+    [id="km-0---inicio-del-atlas/5-gemini-notebook"]
+  ) > .card-description {
+    display: none;
+  }
+}
+
+/* Extensión aislada: solo las dos páginas hermanas. */
+body:is([data-slug="km-0---inicio-del-atlas/5-cuadernos-gemini-notebook"], [data-slug="1-favoritos"])
+  article:not(.tcd-search-host article) .markdown-preview-view > p:has(> a.internal:nth-of-type(2)):not(:has(> .tag-link)) > a.internal {
+  display: block;
+  box-sizing: border-box;
+  width: fit-content;
+  max-width: 100%;
+  min-height: 44px;
+  margin-block: 0.25rem;
+  padding-block: 0.5rem;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 800px) {
+  body:is([data-slug="km-0---inicio-del-atlas/5-cuadernos-gemini-notebook"], [data-slug="1-favoritos"]) .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  body:is([data-slug="km-0---inicio-del-atlas/5-cuadernos-gemini-notebook"], [data-slug="1-favoritos"]) .page > #quartz-body .sidebar.left {
+    flex-wrap: wrap;
+    row-gap: 0.5rem;
+  }
+}
