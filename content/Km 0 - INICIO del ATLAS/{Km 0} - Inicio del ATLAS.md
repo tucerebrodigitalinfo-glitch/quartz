@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-10-30T11:19:38.109Z
+modified: 2026-11-02T20:53:49.721Z
 ---
 
 #Km0
@@ -84,7 +84,7 @@ modified: 2026-10-30T11:19:38.109Z
 [[Bing]]
 [[Bing, Funcionamiento IA]]
 [[Biología (i)]]
-[[Bloombeeg (i)]]
+[[Bloomberg (i)]]
 [[Bolívar, Simón (i)]]
 [[Bolsas (i)]]
 [[Botánica (i)]]
