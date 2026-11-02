@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-25T15:18:01.636Z
-modified: 2026-10-24T15:08:28.942Z
+modified: 2026-11-02T21:21:03.606Z
 ---
 
-#Cuadernos #Gemini #Notebook
+[[N1095 Fundamentos de los Grandes Modelos de Lenguaje]]#Cuadernos #Gemini #Notebook
 
 [[N1001 ChatGPT para la investigación científica]]
 [[N1002 Guía de Prompts para Actividades de Aprendizaje con ChatGPT]]
@@ -98,3 +98,9 @@ modified: 2026-10-24T15:08:28.942Z
 [[N1090 PC, La Revolución IA Agéntica (Nvidia)]]
 [[N1091 IA, Singularidad ya está aquí (Jack Clark)]]
 [[N1092 IA, Escenarios económicos de la inteligencia artificial transformadora]]
+[[N1093 Gemini 4 Argon, Seguridad]]
+[[N1094 La revolución de la Inteligencia Artificial]]
+[[N1095 Fundamentos de los Grandes Modelos de Lenguaje]]
+[[N1096 El Auge del Tecnofeudalismo]]
+[[N1097 Orquestación de Procesos y Agentes de IA]]
+[[N1098 NVIDIA Plataforma Omniverse y sus aplicaciones tecnológicas]]
