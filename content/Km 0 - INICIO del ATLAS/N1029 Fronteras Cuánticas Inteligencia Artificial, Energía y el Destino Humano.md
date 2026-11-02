@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-03T19:59:29.527Z
-modified: 2026-11-01T15:35:50.440Z
+modified: 2026-11-02T20:31:07.786Z
 ---
 
 #Cuántica #Latorre #IA #Sociedad #Energía
@@ -15,7 +15,7 @@ modified: 2026-11-01T15:35:50.440Z
 ### [Gemini Notebook](https://notebook.google.com/notebook/708e2ce1-010d-4a48-8189-09ed14665b49?authuser=2)
 
 ![[Biblioteca/N1029 IA_inmortal_y_la_muerte_del_tiempo.mp3]]
-![[N1029 El Futuro de la Humanidad.png]]
+![[N1029 El_Futuro_de_la_Humanidad.png]]
 ![[Biblioteca/N1029 Límites_del_Conocimiento.mp4]]
 
 ![[Biblioteca/N1029 The_Quantum_Blueprint.pdf]]
