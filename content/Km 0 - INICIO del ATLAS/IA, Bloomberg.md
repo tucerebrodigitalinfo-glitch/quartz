@@ -3,8 +3,12 @@ publish: true
 title: AI
 description: Understanding how AI impacts business. The latest news on advancements in artificial intelligence, how to use AI, and how to invest in AI.
 created: 2026-11-02
-modified: 2026-11-02T18:42:15.442Z
+modified: 2026-11-02T21:38:29.946Z
 ---
+
+#Noticias #Bloomberg
+
+### [[Bloomberg (i)]]
 
 ![Conferencia para desarrolladores Code With Claude de Anthropic PBC](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJL5s85bxcQM/v0/600x400.webp)
 

@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2026-08-21T04:35:22.305Z
-modified: 2026-09-18T09:36:50.621Z
+modified: 2026-11-02T21:36:37.768Z
 ---
 
-#Índices #Media #Prensa #TV
+#Índices #Media #Prensa #TV #Noticias #Bloomberg
+
+### [[IA, Bloomberg]]
 
 # [Wikipedia](https://es.wikipedia.org/wiki/Bloomberg_L.P.?wprov=sfla1)
 
