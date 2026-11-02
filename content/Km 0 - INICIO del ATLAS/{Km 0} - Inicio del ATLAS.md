@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-04T21:59:47.611Z
-modified: 2026-11-02T20:53:49.721Z
+modified: 2026-11-02T21:24:27.802Z
 ---
 
 #Km0
@@ -13,7 +13,7 @@ modified: 2026-11-02T20:53:49.721Z
 [[1-Qué es TCD Explorer]]
 [[2-Manual del Explorador]]
 [[4-Favoritos]]
-[[5-Gemini Notebook]]
+[[5-Cuadernos Gemini Notebook]]
 [[Abreu, José Antonio (i)]]
 [[Accionistas (i)]]
 [[Aerolíneas (i)]]
