@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-25T15:18:01.636Z
-modified: 2026-11-02T21:21:03.606Z
+modified: 2026-11-02T21:45:56.874Z
 ---
 
-[[N1095 Fundamentos de los Grandes Modelos de Lenguaje]]#Cuadernos #Gemini #Notebook
+#Gemini #Notebook
 
 [[N1001 ChatGPT para la investigación científica]]
 [[N1002 Guía de Prompts para Actividades de Aprendizaje con ChatGPT]]
