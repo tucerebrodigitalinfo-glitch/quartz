@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-10-04T10:27:56.855Z
-modified: 2026-10-04T10:36:18.691Z
+created: 2026-11-03T13:44:26.998Z
+modified: 2026-11-03T17:22:24.767Z
 ---
 
 #Arquitectura #Computador
@@ -11,6 +11,8 @@ modified: 2026-10-04T10:36:18.691Z
 ![[Biblioteca/Pasted image 20261004123250.png]]
 ![[Biblioteca/Pasted image 20261004123345.png]]
 ✅ Enlaces verificados y operativos en la fecha de elaboración del informe. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
+
+### [Youtube](https://youtu.be/7OKjUP6xsdA?is=bCyzu6Q2S3b4Zc53)
 
 ## [Wikipedia](https://es.wikipedia.org/wiki/Arquitectura_de_Von_Neumann)
 
