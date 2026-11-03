@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-11-03T13:44:24.446Z
-modified: 2026-11-03T11:29:43.926Z
+modified: 2026-11-03T16:01:05.525Z
 ---
 
 #Gemini #Notebook
@@ -45,7 +45,7 @@ modified: 2026-11-03T11:29:43.926Z
 [[N1038 La singularidad tecnológica y el impacto global de la IA]]
 [[N1039 La Guerra por la IA y el Futuro de la Humanidad]]
 \[\[N1040 MASH El Sistema Multiagente de Microsoft que Lidera la Ciberseg
-[[N1041 El Punto de No Retorno del Mercado Energético Global]]uridad]]
+[[N1041 El Punto de No Retorno del Mercado Energético Global]]
 [[N1042 El Suez americano, El fin de la hegemonía occidental, Pekin 2026]]
 [[N1043 China Secretos de su Mentalidad, Hábitos y Tecnología, Claudio Feijo]]
 [[N1044 Ray Dalio Ciclos Históricos y el Declive de Occidente]]
