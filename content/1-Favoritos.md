@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-07T12:35:36.115Z
-modified: 2026-10-25T19:09:21.956Z
+created: 2026-11-03T13:25:25.931Z
+modified: 2026-11-03T16:07:08.284Z
 ---
 
 #Favoritos #Km0
@@ -97,6 +97,10 @@ Festival official selection]]
 [[N1093 Gemini 4 Argon, Seguridad]]
 [[N1094 La revolución de la Inteligencia Artificial]]
 [[N1095 Fundamentos de los Grandes Modelos de Lenguaje]]
+[[N1096 El Auge del Tecnofeudalismo]]
+[[N1097 Orquestación de Procesos y Agentes de IA]]
+[[N1098 NVIDIA Plataforma Omniverse y sus aplicaciones tecnológicas]]
+[[N1099 Camunda, Orquestación Agéntica]]
 [[NoteBook (Google Gemini)]]
 [[Noticias, Trendy AI News]]
 [[Noticias, Flipboard]]
