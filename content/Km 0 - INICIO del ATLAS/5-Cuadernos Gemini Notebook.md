@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-25T15:18:01.636Z
-modified: 2026-11-02T21:45:56.874Z
+created: 2026-11-03T13:44:24.446Z
+modified: 2026-11-03T11:29:43.926Z
 ---
 
 #Gemini #Notebook
@@ -62,7 +62,7 @@ modified: 2026-11-02T21:45:56.874Z
 [[N1054 Fotónica, La Revolución de la Luz en la Computación]]
 [[N1055 OpenClaw, La Era de los Agentes de Inteligencia Artificial]]
 [[N1056 Política industrial para la era de la inteligencia humana]]
-[[N1057 Imperios de la IA (Karen Hao), El Lado Oscuro del Progreso]]ç
+[[N1057 Imperios de la IA (Karen Hao), El Lado Oscuro del Progreso]]
 [[N1058 Más allá del LLM, Métodos de Optimización, RAG y Agentes]]
 [[N1059 IA, Abundancia y el Futuro del Trabajo, Desafíos de Xavier Ferrás]]
 [[N1060 Claude Mythos Preview, Tarjeta de Sistema y Evaluación de Riesgos]]
@@ -82,7 +82,7 @@ modified: 2026-11-02T21:45:56.874Z
 [[N1074 IA, Juego de Tronos]]
 [[N1075 La Máquina más grande del mundo, La arquitectura global de la IA]]
 [[N1076 Por qué CHINA regala su IA al mundo]]
-[[N1077 IA, El Hostión Que Viene (J.M. Romero)]]#
+[[N1077 IA, El Hostión Que Viene (J.M. Romero)]]
 [[N1078 Marta Estarellas, La carrera global por la ventaja cuántica]]
 [[N1079 Así Funcionan las Redes Neuronales]]
 [[N1080 IA, La Inteligencia Artificial Está Acelerando (Y No Hay Marcha Atrás)]]
