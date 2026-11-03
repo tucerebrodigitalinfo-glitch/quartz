@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-11-03T13:25:25.931Z
-modified: 2026-11-03T16:07:08.284Z
+modified: 2026-11-03T17:50:53.757Z
 ---
 
 #Favoritos #Km0
@@ -19,8 +19,7 @@ modified: 2026-11-03T16:07:08.284Z
 [[Datos Mundial]]
 [[Documental IA, RTVE Play]]
 [[Documental IA, Aleph Alpha, Jonas Andrulis @ DW]]
-\[\[Documental IA, Demis Hassabis, The Thinking Game \_ Full documentary \_ Tribeca Film
-Festival official selection]]
+[[Documental IA, Demis Hassabis, The Thinking Game _ Full documentary _ Tribeca Film Festival official selection]]
 [[Engelbart, Douglas (La Inteligencia Aumentada) (i)]]
 [[Inteligencia Artificial, IA]]
 [[IA, Agentes IA (i)]]
