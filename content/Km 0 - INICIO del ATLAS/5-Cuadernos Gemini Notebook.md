@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-11-03T13:44:24.446Z
-modified: 2026-11-03T16:01:05.525Z
+modified: 2026-11-03T20:11:29.453Z
 ---
 
 #Gemini #Notebook
@@ -104,3 +104,5 @@ modified: 2026-11-03T16:01:05.525Z
 [[N1096 El Auge del Tecnofeudalismo]]
 [[N1097 Orquestación de Procesos y Agentes de IA]]
 [[N1098 NVIDIA Plataforma Omniverse y sus aplicaciones tecnológicas]]
+[[N1099 Camunda, Orquestación Agéntica]]
+[[N1100 La Geopolítica de la Inteligencia Artificial, Lorenzo Ramírez]]
