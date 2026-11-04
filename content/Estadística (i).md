@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-08-06T05:19:33.957Z
-modified: 2026-10-04T17:49:34.276Z
+created: 2026-11-03T13:25:25.727Z
+modified: 2026-11-04T12:14:32.051Z
 ---
 
 #Índices #ciencia #Estadísticas #Sociedad
@@ -12,7 +12,7 @@ modified: 2026-10-04T17:49:34.276Z
 
 ✅ Enlaces comprobados y operativos el 16 de julio de 2026. Algunos recursos pueden requerir registro, suscripción o acceso institucional.
 
-## [[Statista (i)]]
+## [[Statista (i)]] - [[Tematicas.org]]
 
 ## [Banco Mundial, World Bank Open Data](https://datos.bancomundial.org/)
 
